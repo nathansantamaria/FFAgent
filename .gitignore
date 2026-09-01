@@ -1,0 +1,12 @@
+# Regenerable build artefacts
+__pycache__/
+*.pyc
+data/cache/
+dashboard.html
+
+# Local state. These accumulate per-machine, and the current contents are test
+# data injected to verify plumbing rather than real season history.
+data/*.db
+
+# Scratch
+*.png

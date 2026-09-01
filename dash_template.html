@@ -1,0 +1,881 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Public Randoms 2026 · agent</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#171310; --panel:#221B16; --raise:#2C241D; --line:#392E26;
+  --coral:#D97757; --coral-d:#AE5B3F; --coral-l:#E5A583;
+  --cream:#F2EDE6; --mute:#8C8078; --up:#8A9A6B; --down:#B5654A;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--cream);
+  font:400 15px/1.5 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3,.tabs,.num,.big{font-family:Archivo,system-ui,sans-serif}
+
+header.top{position:sticky;top:0;z-index:30;background:rgba(23,19,16,.95);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+.brand{display:flex;align-items:baseline;gap:14px;padding:16px 0 10px;flex-wrap:wrap}
+.brand h1{margin:0;font-size:25px;font-weight:800;letter-spacing:-.02em}
+.brand p{margin:0;color:var(--mute);font-size:13px}
+.tabs{display:flex;gap:24px;font-weight:700;font-size:13px;letter-spacing:.04em}
+.tabs button{background:none;border:0;color:var(--mute);padding:0 0 11px;cursor:pointer;
+  border-bottom:2px solid transparent;font:inherit}
+.tabs button[aria-selected=true]{color:var(--cream);border-bottom-color:var(--coral)}
+.tabs button:focus-visible{outline:2px solid var(--coral);outline-offset:3px}
+.strip{background:var(--panel);border-bottom:1px solid var(--line)}
+/* The inner wrapper carried an inline display:flex, which no media query could
+   override. At 390px its four cells held their 195px minimum and forced the
+   whole document to 780px wide — every tab reported 390px of horizontal
+   overflow, and the fixed-position drawer then sized itself to the widened
+   viewport instead of the screen. One inline style, three symptoms. */
+.stripinner{display:flex;padding:0}
+.stripinner > div{flex:1 1 0;min-width:0;padding:12px 18px;
+  border-right:1px solid var(--line)}
+.stripinner > div:last-child{border-right:0}
+.strip span{display:block;overflow:hidden;text-overflow:ellipsis}
+.strip b{display:block;font-family:Archivo;font-size:20px;font-weight:800}
+.strip span{color:var(--mute);font-size:11.5px}
+
+main{padding:18px 0 70px}
+.settings{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+  padding:14px 16px;margin-bottom:20px}
+.settings summary{list-style:none;cursor:default;display:flex;align-items:center;
+  justify-content:space-between}
+.settings summary::-webkit-details-marker{display:none}
+.settings h2{margin:0 0 10px;font-size:12px;letter-spacing:.06em;color:var(--coral)}
+.chev{display:none;color:var(--mute);font-size:13px}
+.settings dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:9px 18px;margin:0}
+.settings dt{color:var(--mute);font-size:11px;letter-spacing:.03em}
+.settings dd{margin:1px 0 0;font-size:13.5px;font-weight:500}
+[role=tabpanel][hidden]{display:none}
+.note{color:var(--mute);font-size:13px;margin:0 0 16px;max-width:70ch}
+
+/* draft */
+.secttl{font-size:16px;margin:26px 0 6px}
+.plan{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+  overflow:hidden}
+.prow{display:flex;align-items:center;gap:9px;padding:9px 13px;
+  border-bottom:1px solid var(--line);font-size:13.5px;cursor:pointer}
+.prow:last-child{border-bottom:0}
+.prow:hover{background:var(--raise)}
+.prow b{font-family:Archivo;width:30px;color:var(--mute);font-size:12px}
+.prow .pk{width:38px;color:var(--mute);font-size:12px}
+.prow .nm{flex:1;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;
+  white-space:nowrap}
+.prow .rsn{color:var(--mute);font-size:11.5px;flex:1.4;min-width:0;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.prow.empty2{color:var(--mute);cursor:default}
+@media (max-width:760px){.prow .rsn{display:none}}
+.turns{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.turn{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+.turn h3{margin:0 0 2px;font-size:15px}
+.turn .rd{color:var(--mute);font-size:12px;margin-bottom:10px}
+.turn ul{list-style:none;margin:0;padding:0;font-size:13px}
+.turn li{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer}
+.turn li:hover .nm{color:var(--coral-l)}
+.pbar{flex:none;width:38px;height:5px;background:var(--raise);border-radius:3px;overflow:hidden}
+.pbar i{display:block;height:100%;background:var(--coral)}
+.pct{flex:none;width:32px;text-align:right;color:var(--mute);font-size:11.5px;
+  font-variant-numeric:tabular-nums}
+.nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* rankings */
+.tier{margin-bottom:22px}
+.tierhead{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.tierhead b{font-family:Archivo;font-size:13px;letter-spacing:.05em;color:var(--coral)}
+.posbar{display:flex;gap:6px;margin-bottom:18px;flex-wrap:wrap}
+.posbtn{background:var(--panel);border:1px solid var(--line);color:var(--mute);
+  font:600 12px Inter;padding:6px 13px;border-radius:6px;cursor:pointer}
+.posbtn.on{background:var(--coral);border-color:var(--coral);color:#171310}
+.posbtn:focus-visible{outline:2px solid var(--coral);outline-offset:2px}
+.tierhead hr{flex:1;border:0;border-top:1px solid var(--line);margin:0}
+.plist{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:8px}
+.pcard{display:flex;align-items:center;gap:10px;background:var(--panel);
+  border:1px solid var(--line);border-radius:8px;padding:8px 10px;cursor:pointer;
+  text-align:left;color:inherit;font:inherit;width:100%}
+.pcard:hover{border-color:var(--coral-d)}
+.pcard:focus-visible{outline:2px solid var(--coral);outline-offset:2px}
+.ava{position:relative;width:34px;height:34px;border-radius:50%;flex:none;
+  background:var(--raise);display:inline-block;overflow:hidden}
+.ava::before{content:attr(data-i);position:absolute;inset:0;display:flex;
+  align-items:center;justify-content:center;font:700 12px Archivo;color:var(--mute)}
+.ava img{position:relative;width:100%;height:100%;object-fit:cover;border-radius:50%}
+.ava.big{width:66px;height:66px}
+.ava.big::before{font-size:22px}
+.pcard .rk{color:var(--mute);font-size:11.5px;width:22px;flex:none;
+  font-variant-numeric:tabular-nums}
+.pcard .who{flex:1;min-width:0}
+.pcard .who b{display:block;font-weight:600;font-size:14px;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.pcard .who span{color:var(--mute);font-size:11.5px}
+.pcard .v{font-family:Archivo;font-weight:800;font-size:14px;color:var(--coral)}
+.mv{font:800 10px Archivo;padding:2px 4px;border-radius:3px;flex:none}
+.mv.up{color:var(--up)} .mv.dn{color:var(--down)}
+.movers{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+  padding:14px;margin-bottom:18px}
+.movers h2{margin:0 0 10px;font-size:12px;letter-spacing:.06em;color:var(--coral)}
+.mvlist{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:7px}
+/* Each mover needs its own surface. Four bare columns in a grid read as one
+   run-on line — the eye cannot tell where one player ends and the next begins. */
+.mvrow{display:flex;align-items:center;gap:8px;background:var(--raise);
+  border:1px solid var(--line);border-radius:7px;color:inherit;
+  font:inherit;cursor:pointer;padding:8px 10px;text-align:left;width:100%}
+.mvrow .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  font-weight:500}
+.mvrow .rsn{color:var(--mute);font-size:11.5px;flex:none}
+.teamgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.tcol h4{margin:0 0 5px;font:700 11px Archivo;letter-spacing:.05em;color:var(--mute);
+  border-bottom:1px solid var(--line);padding-bottom:4px}
+.ucard{display:flex;align-items:center;gap:7px;background:none;border:0;color:inherit;
+  font:inherit;cursor:pointer;padding:4px 0;width:100%;text-align:left;font-size:12.5px}
+.ucard:hover .un{color:var(--coral-l)}
+.ucard:focus-visible{outline:2px solid var(--coral);outline-offset:2px;border-radius:4px}
+.ava.sm{width:22px;height:22px}
+.ava.sm::before{font-size:8px}
+.un{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dc{font:700 9px Archivo;background:var(--raise);color:var(--mute);padding:1px 4px;
+  border-radius:3px}
+.inj{font:700 8.5px Archivo;color:var(--down)}
+@media (max-width:760px){.teamgrid{grid-template-columns:1fr 1fr}}
+.mvrow:hover .nm{color:var(--coral-l)}
+.pill{background:var(--c);color:#171310;font:800 9.5px Archivo;padding:2px 5px;border-radius:3px}
+
+/* detail drawer */
+.scrim{position:fixed;inset:0;background:rgba(10,8,6,.6);z-index:40}
+.scrim[hidden]{display:none}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(460px,100%);z-index:50;
+  background:var(--panel);border-left:1px solid var(--line);overflow-y:auto;padding:22px}
+.drawer[hidden]{display:none}
+.dclose{position:absolute;top:14px;right:16px;background:none;border:0;color:var(--mute);
+  font-size:22px;cursor:pointer;line-height:1}
+.dhead{display:flex;gap:14px;align-items:center;margin-bottom:16px}
+
+.dhead h2{margin:0;font-size:22px}
+.dhead p{margin:3px 0 0;color:var(--mute);font-size:13px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:18px}
+.stat{background:var(--raise);border-radius:7px;padding:9px 11px}
+.stat b{display:block;font-family:Archivo;font-size:17px;font-weight:800}
+.stat span{color:var(--mute);font-size:11px}
+.drawer h3{font-size:12.5px;letter-spacing:.05em;color:var(--coral);margin:18px 0 8px}
+.drawer ul.why{list-style:none;padding:0;margin:0}
+.drawer ul.why li{border-left:2px solid var(--line);padding:0 0 12px 12px;
+  font-size:13.5px;color:#DCD4CA}
+.log{display:flex;align-items:flex-end;gap:3px;height:62px;margin-bottom:10px}
+.lw{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px}
+.lw i{display:block;width:100%;background:var(--coral);border-radius:2px 2px 0 0}
+.lw.miss i{background:var(--line);height:3px!important}
+.lw em{font-style:normal;font-size:8.5px;color:var(--mute)}
+ul.ctx{list-style:none;padding:0;margin:0 0 6px}
+ul.ctx li{font-size:12.5px;color:var(--mute);padding:3px 0;border-bottom:1px solid var(--line)}
+ul.ctx b{color:var(--cream);font-weight:600}
+.story{margin:0 0 9px;font-size:12.5px;color:var(--coral-l);font-style:italic}
+.plink{background:none;border:0;padding:0;font:inherit;color:var(--coral-l);
+  cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.plink:hover{color:var(--coral)}
+.plink:focus-visible{outline:2px solid var(--coral);outline-offset:2px;border-radius:2px}
+.lw{cursor:default}
+.lw:focus-visible{outline:2px solid var(--coral);outline-offset:2px}
+table.career{width:100%;border-collapse:collapse;font-size:12.5px;margin-bottom:6px}
+table.career th{text-align:right;color:var(--mute);font:600 10.5px Inter;
+  padding:0 6px 5px;border-bottom:1px solid var(--line)}
+table.career th:first-child,table.career td:first-child{text-align:left}
+table.career td{padding:5px 6px;text-align:right;border-bottom:1px solid var(--line)}
+table.career .num{font-variant-numeric:tabular-nums}
+.bio{color:var(--mute);font-size:12.5px}
+.empty{color:var(--mute);text-align:center;padding:40px}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px;
+  margin-bottom:18px}
+.pstat{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:12px}
+.ph{display:flex;align-items:center;gap:8px}
+.ph b{font-family:Archivo;font-size:17px}
+.pl{color:var(--mute);font-size:11px}
+.pbarwide{height:5px;background:var(--raise);border-radius:3px;margin:8px 0;overflow:hidden}
+.pbarwide i{display:block;height:100%;background:var(--coral)}
+.pstat p{margin:0;font-size:12px;color:var(--mute)}
+.art{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+  padding:14px;margin-bottom:10px}
+.art.blocks{border-color:var(--coral-d)}
+.ahead{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.art h3{margin:0;font-size:15.5px;line-height:1.35}
+.asum{margin:8px 0 8px;font-size:13.5px;color:#DCD4CA}
+.ameta{font-size:11.5px;color:var(--mute)}
+.ameta a{color:var(--coral)}
+.star{color:var(--coral)}
+.aimpact{margin:9px 0 0;padding-top:9px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--coral-l)}
+.cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.star{color:var(--coral)}
+.subttl{font-size:12px;letter-spacing:.06em;color:var(--coral);margin:16px 0 8px}
+.tk{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--coral);
+  border-radius:0 9px 9px 0;padding:12px 14px;margin-bottom:9px}
+.tk.inferred{border-left-color:var(--coral-d)}
+.tk.speculative{border-left-color:var(--line)}
+.tk h4{margin:0 0 5px;font-size:14.5px}
+.tk p{margin:0;font-size:13px;color:#DCD4CA}
+.tkmeta{margin-top:7px;font-size:11px;color:var(--mute)}
+.move{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+  padding:15px;margin-bottom:12px}
+.move.auto{border-color:var(--coral-d)}
+.mhead{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.mhead h3{margin:0;font-size:17px}
+.badge{font:800 9.5px Archivo;letter-spacing:.06em;padding:4px 8px;border-radius:4px;
+  flex:none;white-space:nowrap}
+.badge.go{background:var(--coral);color:#171310}
+.badge.hold{background:var(--raise);color:var(--mute)}
+.mthesis{margin:9px 0 13px;font-size:13.5px;color:#DCD4CA}
+.thresh{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;
+  border-top:1px solid var(--line);padding-top:12px}
+.thresh dt{color:var(--mute);font-size:10.5px;letter-spacing:.04em;margin-bottom:3px}
+.thresh dd{margin:0;font-size:12.5px}
+.confbar{display:flex;align-items:center;gap:10px;margin:4px 0 10px}
+.cnum{font:800 20px Archivo;color:var(--coral);min-width:34px}
+.ctrack{position:relative;flex:1;height:6px;background:var(--raise);border-radius:3px;
+  margin-top:14px}
+.ctrack i{display:block;height:100%;background:var(--coral);border-radius:3px}
+.ctrack b{position:absolute;top:-5px;width:2px;height:16px;background:var(--cream);
+  opacity:.6}
+/* Threshold label sits directly above its own marker, so the number and the
+   line it refers to are in the same place rather than at opposite ends. */
+.ctrack u{position:absolute;bottom:12px;transform:translateX(-50%);
+  font:700 10.5px Archivo;color:var(--mute);text-decoration:none;white-space:nowrap}
+.cmax{font-size:11px;color:var(--mute);white-space:nowrap}
+.charged{margin:0 0 8px;font-size:12px;color:var(--mute)}
+.mu{margin:0 0 8px;font-size:12px;color:var(--coral-l)}
+.conds{border-top:1px solid var(--line);padding-top:10px}
+.conds h4{margin:0 0 6px;font:700 10.5px Archivo;letter-spacing:.05em;color:var(--mute)}
+.conds ul{list-style:none;margin:0;padding:0}
+.conds li{font-size:12.5px;padding:4px 0;display:flex;gap:9px}
+.conds li span{color:var(--coral-l);font-size:11px;min-width:78px;flex:none;
+  padding-top:1px}
+footer.stamp{color:var(--mute);font-size:12px;padding:24px 0;border-top:1px solid var(--line)}
+/* Mobile. The drawer becomes a bottom sheet rather than a side panel -- a
+   460px side drawer on a 380px screen covers the page and reads as a bug. */
+@media (max-width:760px){
+  .wrap{padding:0 14px}
+  .brand h1{font-size:21px}
+  .tabs{gap:18px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .tabs button{white-space:nowrap}
+  .stripinner{flex-wrap:wrap}
+  .stripinner > div{flex:1 1 50%;min-width:0;border-bottom:1px solid var(--line);
+    padding:10px 14px}
+  .stripinner > div:nth-child(2n){border-right:0}
+  .strip b{font-size:17px}
+  /* On a 390px screen the full setup block filled the entire first viewport
+     and pushed the actual content below the fold. Collapsed by default here,
+     always open on desktop where there is room for it. */
+  .settings summary{cursor:pointer}
+  .settings h2{margin:0}
+  .chev{display:inline}
+  .settings[open] .chev{transform:rotate(180deg)}
+  .settings dl{grid-template-columns:1fr 1fr;margin-top:12px}
+  .turns{grid-template-columns:1fr}
+  .plist{grid-template-columns:1fr}
+  .drawer{top:auto;left:0;width:100%;max-height:86vh;border-left:0;
+    border-top:1px solid var(--line);border-radius:14px 14px 0 0;padding:18px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .pcard{padding:10px}
+  .pcard img{width:38px;height:38px}
+  .thresh{grid-template-columns:1fr}
+}
+@media (max-width:420px){
+  .settings dl{grid-template-columns:1fr}
+  .stats{grid-template-columns:1fr 1fr}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><h1>Public Randoms 2026</h1></div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" aria-selected="true" aria-controls="p1">Draft</button>
+      <button role="tab" aria-selected="false" aria-controls="p2">Rankings</button>
+      <button role="tab" aria-selected="false" aria-controls="p3">Pending</button>
+      <button role="tab" aria-selected="false" aria-controls="p4">Team</button>
+      <button role="tab" aria-selected="false" aria-controls="p5">League</button>
+      <button role="tab" aria-selected="false" aria-controls="p6">News</button>
+    </nav>
+  </div>
+  <div class="strip"><div class="wrap stripinner">
+    <div><b>9</b><span>draft slot</span></div>
+    <div><b id="nplayers">—</b><span>ranked</span></div>
+    <div><b>70</b><span>flex-eligible starting spots</span></div>
+    <div><b>Tue 8 Sep</b><span>draft, 16:30 ET</span></div>
+  </div></div>
+</header>
+
+<main class="wrap">
+  <details class="settings" id="setup" open>
+    <summary><h2>League setup</h2><span class="chev">▾</span></summary>
+    <dl>
+      <div><dt>Format</dt><dd>10-team PPR, snake</dd></div>
+      <div><dt>Starters</dt><dd>QB · RB RB · WR WR · TE · FLEX FLEX · K · DEF</dd></div>
+      <div><dt>Bench / IR</dt><dd>5 bench, 2 IR</dd></div>
+      <div><dt>Waivers</dt><dd>Reverse standings, clear Wed 3am, 2-day hold</dd></div>
+      <div><dt>Playoffs</dt><dd>6 of 10, from week 15</dd></div>
+      <div><dt>Trade deadline</dt><dd>Week 11</dd></div>
+      <div><dt>My slot</dt><dd>9 of 10</dd></div>
+      <div><dt>Draft</dt><dd>Tue 8 Sep, 16:30 ET · 120s clock</dd></div>
+    </dl>
+  </details>
+  <section id="p1" role="tabpanel">
+    <p class="note">Slot 9 picks in pairs — three picks between each turn, then a 17-pick
+    drought. Percentages are the chance a player is still on the board, from 20,000
+    simulated drafts. Nobody in the 26-ADP band survives 12 to 29, so there is no
+    coming back for anyone. Click a name for the full reasoning.</p>
+    <div class="turns" id="turns"></div>
+    <h2 class="secttl">Full 15-round plan</h2>
+    <p class="note">Every pick, chosen by value × the chance he is gone by my next turn,
+    discounted by how many I already hold at that position. Positions have a round by
+    which they must be filled — that is what stops a draft ending without a kicker
+    because every round had a more exciting option. <span id="legal"></span></p>
+    <div class="plan" id="plan"></div>
+  </section>
+
+  <section id="p2" role="tabpanel" hidden>
+    <div id="movers"></div>
+    <p class="note">My board, not a copy of anyone's. Ensemble of three views that fail
+    in different directions: my 2025-production model, ESPN's 2026 projection, and
+    market-implied value from ADP — then discounted by measured durability. Grouped by
+    tier: inside a tier take the cheaper player, across a break is when reaching is right.</p>
+    <div id="ranks"></div>
+  </section>
+
+  <section id="p3" role="tabpanel" hidden>
+    <p class="note">Confidence is 0–100 with the cost of the move already deducted —
+    a roster spot for a claim, a claimed player for a drop, a comparable player for a
+    trade, one week of points for a start/sit. Above its bar, the move executes.
+    Each one lists what has to happen for it to have been right.</p>
+    <div id="pending"></div>
+  </section>
+
+  <section id="p4" role="tabpanel" hidden>
+    <div id="team"></div>
+  </section>
+
+  <section id="p5" role="tabpanel" hidden>
+    <div id="league"></div>
+  </section>
+
+  <section id="p6" role="tabpanel" hidden>
+    <div id="takeaways"></div>
+    <h2 class="secttl">Feed</h2>
+    <p class="note">Starred items touch my roster, my opponent, or a team I face this
+    week. Every item carries a takeaway — if there is nothing to do about a story it is
+    not in the feed. Roster moves and injury news are classified automatically. Anything that
+    blocks availability removes the player from the board entirely rather than discounting
+    him. ADP is a trailing average, so news from the last few days is not priced in — that
+    window is the edge.</p>
+    <div id="news"></div>
+  </section>
+
+  <footer class="stamp">Updated __UPDATED__ · rankings snapshot every refresh · Shadow mode — nothing executed. Rebuild with <code>python build_dash.py</code></footer>
+</main>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dname" hidden>
+  <button class="dclose" id="dclose" aria-label="Close">&times;</button>
+  <div id="dbody"></div>
+</aside>
+
+<script>
+const BOARD = __DATA__;
+const PICKS = __PICKS__;
+const SURV  = __SURV__;
+const PEND  = __PENDING__;
+const PLAN  = __PLAN__;
+const CHECK = __CHECK__;
+const NEWS  = __NEWS__;
+const MOVERS= __MOVERS__;
+const TAKE  = __TAKE__;
+
+const ROSTER= __ROSTER__;
+const LEAGUE= __LEAGUE__;
+const POSSTR= __POSSTR__;
+const POSC = {QB:'#C4736B',RB:'#8A9A6B',WR:'#6B8CA8',TE:'#D99A57',K:'#8C8078',DEF:'#7A6E92'};
+const byName = Object.fromEntries(BOARD.map(p=>[p.name,p]));
+
+/* The full NFL player universe is fetched live rather than embedded.
+   Three reasons: 53-man rosters churn weekly and a snapshot goes stale; the
+   browser caches it so the cost is paid once; and it means every player gets
+   a headshot, which is what was actually wrong with the missing images — they
+   were never a CDN failure, those players simply were not in my lookup table.
+   Non-blocking, so the ranked board renders immediately either way. */
+let UNIVERSE = null, uniState = 'loading';
+// DEF was missing from this set, so drilling into defences showed only the
+// ranked ones and nothing else. Sleeper carries team defences as entries whose
+// player_id is the team abbreviation.
+const FANTASY_POS = new Set(['QB','RB','WR','TE','K','DEF']);
+fetch('https://api.sleeper.app/v1/players/nfl')
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(all => {
+    UNIVERSE = [];
+    for (const [id, p] of Object.entries(all)) {
+      if (!FANTASY_POS.has(p.position)) continue;
+      // Team defences have no `team` field of their own — the id IS the team.
+      const team = p.team || (p.position === 'DEF' ? id : null);
+      if (!team) continue;
+      if (p.status && /Retired/i.test(p.status)) continue;
+      UNIVERSE.push({name: p.full_name || (p.position === 'DEF' ? `${id} Defense` : ''),
+        sid: id, pos: p.position, team: team,
+        num: p.number ?? '', age: p.age ?? '', exp: p.years_exp ?? '',
+        ht: p.height ?? '', wt: p.weight ?? '', col: p.college ?? '',
+        dc: p.depth_chart_order ?? null, inj: p.injury_status || ''});
+    }
+    UNIVERSE.sort((a,b) => (a.dc ?? 99) - (b.dc ?? 99) || a.name.localeCompare(b.name));
+    uniState = 'ready';
+    // Backfill sids onto the ranked board so every card gets a photo.
+    const uByKey = {};
+    UNIVERSE.forEach(u => { uByKey[u.name.toLowerCase() + '|' + u.pos] = u; });
+    BOARD.forEach(p => {
+      if (p.sid) return;
+      const u = uByKey[p.name.toLowerCase() + '|' + p.pos];
+      if (u) { p.sid = u.sid; p.num = p.num || u.num; p.age = p.age || u.age;
+               p.ht = p.ht || u.ht; p.wt = p.wt || u.wt; p.col = p.col || u.col; }
+    });
+    renderRanks();
+    const n = document.getElementById('unicount');
+    if (n) n.textContent = UNIVERSE.length;
+  })
+  .catch(() => { uniState = 'failed'; if (activePos !== 'ALL') renderRanks(); });
+document.getElementById('nplayers').textContent = BOARD.length;
+
+/* Not every player has a Sleeper headshot -- rookies and defenses mostly.
+   Hiding the broken image left a hole in the layout; an initials chip keeps
+   the row aligned and looks deliberate. */
+const initials = n => n.split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase();
+const imgSrc = p => p.pos === 'DEF'
+  ? `https://sleepercdn.com/images/team_logos/nfl/${String(p.team||p.sid||'').toLowerCase()}.png`
+  : (p.sid ? `https://sleepercdn.com/content/nfl/players/thumb/${p.sid}.jpg` : '');
+const img = (p, cls='') => {
+  const src = imgSrc(p);
+  return `<span class="ava ${cls}" data-i="${initials(p.name)}">${
+    src ? `<img src="${src}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span>`;
+};
+
+/* ---- draft tab ---- */
+const turns = document.getElementById('turns');
+PICKS.slice(0,8).forEach((pk,i)=>{
+  const s = SURV[String(pk)] || {};
+  const live = Object.entries(s)
+    .filter(([n,v]) => v>=0.12 && v<=0.97 && byName[n])
+    .sort((a,b)=> byName[a[0]].adp - byName[b[0]].adp).slice(0,8);
+  const el = document.createElement('div');
+  el.className='turn';
+  el.innerHTML = `<h3>Pick #${pk}</h3><div class="rd">Round ${i+1}</div><ul>` +
+    (live.length ? live.map(([n,v])=>{
+      const p = byName[n];
+      return `<li data-p="${n}"><span class="pbar"><i style="width:${Math.round(v*100)}%"></i></span>
+        <span class="pct">${Math.round(v*100)}%</span>
+        <span class="nm">${n}</span>
+        <span class="pill" style="--c:${POSC[p.pos]||'#8C8078'}">${p.pos}</span></li>`;
+    }).join('') : '<li style="color:var(--mute);cursor:default">board too thin to model</li>') +
+    `</ul>`;
+  turns.appendChild(el);
+});
+
+/* ---- full draft plan ---- */
+const planEl=document.getElementById('plan');
+planEl.innerHTML = PLAN.map(r=>{
+  if(!r.take) return `<div class="prow empty2"><b>R${r.round}</b><span>#${r.pick}</span>
+    <span class="nm">${r.reason}</span></div>`;
+  const p = byName[r.take] || {};
+  return `<div class="prow" data-p="${r.take}">
+    <b>R${r.round}</b><span class="pk">#${r.pick}</span>
+    <span class="pill" style="--c:${POSC[r.pos]||'#8C8078'}">${r.pos}</span>
+    <span class="nm">${r.take}</span>
+    <span class="pct">${Math.round((r.surv||0)*100)}%</span>
+    <span class="rsn">${r.reason}</span></div>`;}).join('');
+document.getElementById('legal').innerHTML = CHECK.legal
+  ? `<b style="color:var(--up)">Roster is legal:</b> ` +
+    Object.entries(CHECK.counts).map(([k,v])=>`${v} ${k}`).join(', ') + '.'
+  : `<b style="color:var(--down)">Incomplete:</b> missing ` +
+    Object.entries(CHECK.missing).map(([k,v])=>`${v} ${k}`).join(', ') + '.';
+
+/* ---- rankings tab, grouped by tier ---- */
+/* Tiers are computed WITHIN a position, so a global "Tier 1" heading is
+   meaningless -- it put Bijan, Jaxon Smith-Njigba, Trey McBride and the
+   Seattle defense in one bucket. Group by position first, tier second. */
+const ranks = document.getElementById('ranks');
+const POS_ORDER = ['RB','WR','TE','QB','DEF','K'];
+let activePos = 'ALL';
+
+const mvEl=document.getElementById('movers');
+mvEl.innerHTML = MOVERS.length ? `<div class="movers">
+  <h2>Biggest moves since last refresh</h2>
+  <div class="mvlist">${MOVERS.map(m=>`<button class="mvrow" data-p="${m.name}">
+    <span class="mv ${m.d>0?'up':'dn'}">${m.d>0?'▲':'▼'}${Math.abs(m.d)}</span>
+    <span class="nm">${m.name}</span>
+    <span class="pill" style="--c:${POSC[m.pos]}">${m.pos}</span>
+    <span class="rsn">${m.from} → ${m.to}</span></button>`).join('')}</div></div>` : '';
+
+function renderRanks(){
+  ranks.innerHTML = '';
+  const bar = document.createElement('div');
+  bar.className = 'posbar';
+  bar.innerHTML = ['ALL',...POS_ORDER].map(x=>
+    `<button class="posbtn${x===activePos?' on':''}" data-pos="${x}">${x}</button>`).join('');
+  ranks.appendChild(bar);
+
+  if (activePos !== 'ALL') {
+    const hint = document.createElement('p');
+    hint.className = 'note';
+    hint.innerHTML = uniState === 'ready'
+      ? `Ranked players first, in tiers. Below them, every other ${activePos} on an NFL
+         roster — <span id="unicount">${UNIVERSE.length}</span> fantasy-relevant players
+         across all 32 teams, ordered by depth-chart position. Unranked does not mean
+         irrelevant: this is where a waiver claim comes from.`
+      : uniState === 'loading'
+        ? 'Loading the full NFL player universe from Sleeper…'
+        : 'Could not reach Sleeper for the full roster list. Ranked players only.';
+    ranks.appendChild(hint);
+  }
+
+  POS_ORDER.filter(pos => activePos==='ALL' || pos===activePos).forEach(pos=>{
+    const inPos = BOARD.filter(p=>p.pos===pos);
+    if(!inPos.length) return;
+    const tiers = {};
+    inPos.forEach(p=>{ (tiers[p.tier]=tiers[p.tier]||[]).push(p); });
+    Object.keys(tiers).sort((a,b)=>a-b).forEach(t=>{
+      const sec=document.createElement('div'); sec.className='tier';
+      sec.innerHTML = `<div class="tierhead">
+        <span class="pill" style="--c:${POSC[pos]}">${pos}</span>
+        <b>TIER ${t}</b><hr>
+        <span style="color:var(--mute);font-size:12px">${tiers[t].length}</span></div>
+        <div class="plist">` + tiers[t].map(p=>`
+      <button class="pcard" data-p="${p.name}">
+        ${img(p)}<span class="rk">${p.rank}</span>
+        <span class="who"><b>${p.name}</b>
+          <span>${p.pos} · ${p.team} · adp ${p.adp.toFixed(1)}</span></span>
+        <span class="v">${p.vor>0?'+':''}${p.vor.toFixed(1)}</span>
+        ${p.mv ? `<span class="mv ${p.mv>0?'up':'dn'}">${p.mv>0?'▲':'▼'}${Math.abs(p.mv)}</span>` : ''}
+      </button>`).join('') + `</div>`;
+      ranks.appendChild(sec);
+    });
+
+    /* Everyone else at this position who is on a 53-man roster. */
+    if (activePos !== 'ALL' && uniState === 'ready') {
+      const ranked = new Set(inPos.map(p => p.name.toLowerCase()));
+      const rest = UNIVERSE.filter(u => u.pos === pos && !ranked.has(u.name.toLowerCase()));
+      if (rest.length) {
+        const byTeam = {};
+        rest.forEach(u => { (byTeam[u.team] = byTeam[u.team] || []).push(u); });
+        const sec = document.createElement('div');
+        sec.className = 'tier';
+        sec.innerHTML = `<div class="tierhead"><b>UNRANKED</b><hr>
+          <span style="color:var(--mute);font-size:12px">${rest.length} on rosters</span></div>
+          <div class="teamgrid">${Object.keys(byTeam).sort().map(t=>`
+            <div class="tcol"><h4>${t}</h4>${byTeam[t].map(u=>`
+              <button class="ucard" data-u="${u.sid}">
+                <span class="ava sm" data-i="${initials(u.name)}">
+                  <img src="${u.pos === 'DEF'
+                    ? `https://sleepercdn.com/images/team_logos/nfl/${u.sid.toLowerCase()}.png`
+                    : `https://sleepercdn.com/content/nfl/players/thumb/${u.sid}.jpg`}"
+                    alt="" loading="lazy" onerror="this.remove()"></span>
+                <span class="un">${u.name}</span>
+                ${u.dc ? `<span class="dc">${u.dc}</span>` : ''}
+                ${u.inj ? `<span class="inj">${u.inj.slice(0,4)}</span>` : ''}
+              </button>`).join('')}</div>`).join('')}</div>`;
+        ranks.appendChild(sec);
+      }
+    }
+  });
+  bar.querySelectorAll('.posbtn').forEach(b=>b.onclick=()=>{
+    activePos=b.dataset.pos; renderRanks();
+  });
+}
+renderRanks();
+
+/* ---- pending ---- */
+/* Confidence runs 0-100 with the cost of the move already deducted, so there
+   is no separate "cost if wrong" column to reconcile. What replaces it is a
+   list of falsifiable conditions: things that must happen for the decision to
+   have been right, each with a week it resolves. "Confidence >= 65" was a
+   restatement of the confidence; "he needs 12+ targets in week 3" is a
+   prediction, and only predictions can be scored later. */
+const pe = document.getElementById('pending');
+function renderPending(){
+  if(!PEND.length){
+    pe.innerHTML = `<div class="empty"><h3>Nothing pending</h3>
+      <p>This tab goes live once the draft is done and rosters exist.
+      The draft is Tue 8 Sep — until then there are no roster moves to weigh.</p></div>`;
+    return;
+  }
+  pe.innerHTML = PEND.map(d=>{
+    const conf = d.confidence ?? 0, thr = d.threshold ?? 100;
+    const auto = d.auto ?? (conf >= thr);
+    // The bar is an absolute 0-100 scale. It used to be scaled to the
+    // threshold, so 73 against a bar of 60 filled the whole track and every
+    // approved move looked identical -- and a 95 trade looked no different
+    // from a 61 start/sit. The threshold is a marker ON that scale, not the
+    // end of it.
+    const pct = Math.max(0, Math.min(100, conf));
+    return `<div class="move ${auto?'auto':''}">
+      <div class="mhead">
+        <div><h3>${d.player}</h3><div class="rd">${d.action}</div></div>
+        <span class="badge ${auto?'go':'hold'}">${auto?'EXECUTES':'HOLDING'}</span>
+      </div>
+      <p class="mthesis">${d.thesis}</p>
+      <div class="confbar">
+        <span class="cnum">${conf}</span>
+        <span class="ctrack">
+          <i style="width:${pct}%"></i>
+          <b style="left:${thr}%"></b>
+          <u style="left:${thr}%">${thr}</u>
+        </span>
+        <span class="cmax">100</span>
+      </div>
+      ${d.cost_charged ? `<p class="charged">cost already deducted: ${d.cost_charged}</p>` : ''}
+      ${d.matchup ? `<p class="mu">${d.matchup}</p>` : ''}
+      ${(d.conditions||[]).length ? `<div class="conds">
+        <h4>what has to happen</h4>
+        <ul>${d.conditions.map(c=>`<li><span>${c.resolves}</span>${c.text}</li>`).join('')}</ul>
+      </div>` : ''}
+    </div>`;
+  }).join('');
+}
+renderPending();
+
+/* ---- team tab ---- */
+const teamEl=document.getElementById('team');
+function posBlock(p){
+  const s=POSSTR[p]||{};
+  return `<div class="pstat">
+    <div class="ph"><span class="pill" style="--c:${POSC[p]}">${p}</span>
+      <b>${s.have||0}/${s.need||0}</b><span class="pl">rostered / needed</span></div>
+    <div class="pbarwide"><i style="width:${Math.min(100,(s.pct||0))}%"></i></div>
+    <p>${s.note||''}</p></div>`;
+}
+teamEl.innerHTML = ROSTER.length ? `
+  <p class="note">Current roster with per-position depth against what the lineup demands.</p>
+  <div class="pgrid">${['QB','RB','WR','TE','K','DEF'].map(posBlock).join('')}</div>
+  <div class="plan">${ROSTER.map(r=>`<div class="prow" data-p="${r.name}">
+     <span class="pill" style="--c:${POSC[r.pos]}">${r.pos}</span>
+     <span class="nm">${r.name}</span><span class="pct">${r.proj}</span>
+     <span class="rsn">${r.slot||'bench'}</span></div>`).join('')}</div>`
+ : `<div class="empty"><h3>No roster yet</h3>
+     <p>The draft is Tue 8 Sep. Sleeper returns an empty roster until it completes,
+     so this tab has nothing real to show. Until then the Draft tab holds the plan —
+     it already guarantees a legal lineup: ${Object.entries(CHECK.counts||{}).map(([k,v])=>v+' '+k).join(', ')}.</p></div>`;
+
+/* ---- league tab ---- */
+const lgEl=document.getElementById('league');
+lgEl.innerHTML = LEAGUE.matchups && LEAGUE.matchups.length ? '' : `
+  <div class="empty"><h3>Schedule not generated</h3>
+    <p>Sleeper builds the weekly matchup schedule when the draft completes, so weeks 1–17
+    are empty right now. Verified by querying weeks 1, 2, 3 and 15 — all returned nothing.</p></div>
+  <h2 class="secttl">League</h2>
+  <p class="note">Draft order and managers. Positional strength comparisons need rosters,
+  so they fill in after Tue 8 Sep.</p>
+  <div class="plan">${(LEAGUE.managers||[]).map(m=>`<div class="prow">
+    <b>${m.slot}</b><span class="nm">${m.name}</span>
+    <span class="rsn">${m.slot===9?'me':''}</span></div>`).join('')}</div>`;
+
+/* ---- weekly takeaways ---- */
+const tkEl=document.getElementById('takeaways');
+const results=TAKE.filter(t=>t.kind==='result'), watch=TAKE.filter(t=>t.kind==='watch');
+tkEl.innerHTML = `
+  <h2 class="secttl">Week 1</h2>
+  ${results.length?`<h3 class="subttl">What happened</h3>
+    ${results.map(t=>tkCard(t)).join('')}`:''}
+  <h3 class="subttl">What to watch</h3>
+  ${watch.map(t=>tkCard(t)).join('')}`;
+function tkCard(t){
+  return `<div class="tk ${t.confidence}">
+    <h4>${t.headline}</h4><p>${t.detail}</p>
+    <div class="tkmeta">${t.source?`source: ${t.source}`:''}
+      ${t.confidence!=='stated'?` · ${t.confidence}`:''}</div></div>`;
+}
+
+/* ---- news tab ---- */
+// Two feed implementations existed in this template at once — one from an
+// earlier build and one I added on top after copying dashboard.html back over
+// dash_template.html. Both declared CATLABEL, which is a syntax error, and a
+// syntax error in a single script block kills EVERY handler on the page: the
+// tabs stopped switching and the header counter went blank. Worth remembering
+// that copying a built artefact back over its own template is how a file ends
+// up containing two of everything.
+const newsEl=document.getElementById('news');
+const CATLABEL={injury:'INJURY',trade:'ROSTER MOVE',projection:'PROJECTION',
+  matchup:'MATCHUP',calendar:'CALENDAR',preseason:'PRESEASON'};
+let newsCat='ALL';
+function renderNews(){
+  const cats=['ALL',...Object.keys(CATLABEL).filter(c=>NEWS.some(n=>n.category===c))];
+  const shown=NEWS.filter(n=>newsCat==='ALL'||n.category===newsCat);
+  newsEl.innerHTML=`<div class="posbar">${cats.map(c=>
+      `<button class="posbtn${c===newsCat?' on':''}" data-cat="${c}">${
+        c==='ALL'?'ALL':CATLABEL[c]}</button>`).join('')}</div>` +
+    (shown.length ? shown.map(a=>`
+      <article class="art ${a.starred?'blocks':''}">
+        <div class="ahead">
+          <h3>${a.starred?'<span class="star">&#9733;</span> ':''}${a.headline}</h3>
+          <span class="badge ${a.starred?'go':'hold'}">${CATLABEL[a.category]||a.category}</span>
+        </div>
+        <p class="asum">${a.detail||''}</p>
+        ${a.takeaway?`<p class="aimpact">${a.takeaway}</p>`:''}
+        <div class="ameta">${a.date||''}${a.source?' · '+a.source:''}
+          ${(a.players||[]).length?' · '+a.players.join(', '):''}
+          ${a.url?` · <a href="${a.url}" target="_blank" rel="noopener">read original</a>`:''}</div>
+      </article>`).join('')
+     : `<div class="empty"><p>Nothing in this category.</p></div>`);
+  newsEl.querySelectorAll('.posbtn').forEach(b=>b.onclick=()=>{newsCat=b.dataset.cat;renderNews();});
+}
+renderNews();
+
+/* ---- detail drawer ---- */
+const drawer=document.getElementById('drawer'), scrim=document.getElementById('scrim'),
+      dbody=document.getElementById('dbody');
+let lastFocus=null;
+
+function openUniverse(sid){
+  const u = (UNIVERSE || []).find(x => x.sid === sid); if (!u) return;
+  if (byName[u.name]) return open(u.name);
+  lastFocus = document.activeElement;
+  const ht = u.ht ? `${Math.floor(u.ht/12)}'${u.ht%12}"` : '—';
+  dbody.innerHTML = `
+    <div class="dhead">${img({name: u.name, sid: u.sid, pos: u.pos, team: u.team}, 'big')}
+      <div><h2 id="dname">${u.name}</h2>
+        <p>${u.pos} · ${u.team}${u.num!==''?' · #'+u.num:''}${u.inj?' · '+u.inj:''}</p></div></div>
+    <div class="stats">
+      <div class="stat"><b>${u.dc ?? '—'}</b><span>depth chart</span></div>
+      <div class="stat"><b>—</b><span>my rank</span></div>
+      <div class="stat"><b>—</b><span>market adp</span></div>
+    </div>
+    <h3>NOT RANKED</h3>
+    <ul class="why"><li>Outside the top ${BOARD.length} on my board, which is built from
+      players with a measurable ADP. That means the market is not drafting him — it does
+      not mean he cannot matter. Role changes make unranked players startable within a
+      week, and this list is where a waiver claim comes from.</li>
+      ${u.dc === 1 ? '<li>Listed first on his team depth chart. Worth watching — depth chart rank is a weak signal on its own, but a starter with no ADP is exactly the gap the usage watchlist is built to catch.</li>' : ''}</ul>
+    <h3>PLAYER</h3>
+    <p class="bio">${u.age?u.age+' years old · ':''}${u.exp!==''?u.exp+' seasons · ':''}
+      ${ht}${u.wt?', '+u.wt+' lb':''}${u.col?' · '+u.col:''}</p>`;
+  drawer.hidden=false; scrim.hidden=false;
+  document.getElementById('dclose').focus();
+}
+
+/* Open any player by name, from wherever he lives. Ranked players come from
+   BOARD; everyone else from the live universe. Without this, a name mentioned
+   in a game-log note could only be clicked if he happened to be ranked, which
+   is backwards -- the interesting mentions are usually the unranked ones. */
+function openByName(name){
+  if (byName[name]) return open(name);
+  const u = (UNIVERSE || []).find(x => x.name.toLowerCase() === name.toLowerCase());
+  if (u) return openUniverse(u.sid);
+  return false;
+}
+
+/* Wrap referenced names in the note text so they can be clicked. Names come
+   from the `refs` field rather than being pattern-matched out of the sentence:
+   free text cannot reliably tell "Mike Evans" from "Evans", and a linkifier
+   that guesses will eventually link the wrong player. */
+function linkify(text, refs){
+  if (!text) return '';
+  let out = text.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+  (refs || []).slice().sort((a,b)=>b.length-a.length).forEach(n=>{
+    const esc = n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+    out = out.replace(new RegExp(esc,'g'),
+      `<button class="plink" data-name="${n.replace(/"/g,'&quot;')}">${n}</button>`);
+  });
+  return out;
+}
+
+function open(name){
+  const p = byName[name]; if(!p) return;
+  // Fill missing metadata from the live universe. The build-time CSV only ever
+  // covered 59 players, so anyone past roughly ADP 60 had no photo, number or
+  // bio — while UNRANKED players had all of it, because they came from this
+  // same fetch. Ranked players were the ones missing data, which is backwards.
+  if (UNIVERSE && (!p.sid || !p.num)) {
+    const u = UNIVERSE.find(x => x.name.toLowerCase() === name.toLowerCase()
+                                 && x.pos === p.pos);
+    if (u) { p.sid = p.sid || u.sid; p.num = p.num || u.num; p.age = p.age || u.age;
+             p.exp = p.exp !== '' ? p.exp : u.exp; p.ht = p.ht || u.ht;
+             p.wt = p.wt || u.wt; p.col = p.col || u.col; }
+  }
+  lastFocus = document.activeElement;
+  const ht = p.ht ? `${Math.floor(p.ht/12)}'${p.ht%12}"` : '—';
+  dbody.innerHTML = `
+    <div class="dhead">${img(p,'big')}
+      <div><h2 id="dname">${p.name}</h2>
+        <p>${p.pos} · ${p.team}${p.num!==''?' · #'+p.num:''} · bye ${p.bye||'—'}</p></div></div>
+    <div class="stats">
+      <div class="stat"><b>#${p.rank}</b><span>my rank</span></div>
+      <div class="stat"><b>${p.adp.toFixed(1)}</b><span>market adp</span></div>
+      <div class="stat"><b>T${p.tier}</b><span>tier</span></div>
+      <div class="stat"><b>${p.proj.toFixed(1)}</b><span>proj pts/gm</span></div>
+      <div class="stat"><b>${Math.round(p.avail*100)}%</b><span>durability</span></div>
+      <div class="stat"><b>${p.vor>0?'+':''}${p.vor.toFixed(1)}</b><span>over replacement</span></div>
+    </div>
+    <h3>WHY THIS RANKING</h3>
+    <ul class="why">${p.why.map(w=>`<li>${w}</li>`).join('')}</ul>
+    ${p.logs && p.logs.length ? p.logs.slice().reverse().map(sl=>`
+      <h3>${sl.season} — ${sl.summary}</h3>
+      ${sl.story ? `<p class="story">${sl.story}</p>` : ''}
+      <div class="log">${sl.weeks.map(w=>{
+        const max = Math.max(...sl.weeks.map(x=>x.p||0), 1);
+        const h = w.p===null ? 0 : Math.max(3, Math.round(w.p/max*46));
+        const cls = w.p===null ? 'miss' : '';
+        // Exact points to two decimals on hover. A bar chart tells you the
+        // shape; the number is what you actually want when comparing two
+        // similar weeks.
+        const tip = w.p===null
+          ? `Week ${w.w} — ${(w.n||'did not play').replace(/"/g,'')}`
+          : `Week ${w.w} — ${w.p.toFixed(2)} pts${w.n ? ' · ' + w.n.replace(/"/g,'') : ''}`;
+        return `<span class="lw ${cls}" title="${tip}" tabindex="0">
+          <i style="height:${h}px"></i><em>${w.w}</em></span>`;}).join('')}</div>
+      ${sl.weeks.filter(w=>w.n).length ? `<ul class="ctx">` +
+        sl.weeks.filter(w=>w.n).map(w=>
+          `<li><b>Wk ${w.w}</b> ${w.p===null?'—':w.p.toFixed(2)} · ${linkify(w.n, w.refs)}</li>`).join('') +
+        `</ul>` : ''}`).join('') : ''}
+    ${p.career && p.career.length ? `
+      <h3>CAREER</h3>
+      <table class="career"><thead><tr><th>season</th><th>tm</th><th>gm</th>
+        <th>fpts</th><th>ppg</th></tr></thead><tbody>
+        ${p.career.map(c=>`<tr><td>${c.season}</td><td>${c.team}</td>
+          <td class="num">${c.games}</td><td class="num">${c.fpts.toFixed(2)}</td>
+          <td class="num">${c.ppg.toFixed(2)}</td></tr>`).join('')}
+      </tbody></table>` : ''}
+    <h3>PLAYER</h3>
+    <p class="bio">${p.age?p.age+' years old · ':''}${p.exp!==''?p.exp+' seasons · ':''}
+      ${ht}${p.wt?', '+p.wt+' lb':''}${p.col?' · '+p.col:''}</p>`;
+  drawer.hidden=false; scrim.hidden=false;
+  document.getElementById('dclose').focus();
+}
+function close(){ drawer.hidden=true; scrim.hidden=true; if(lastFocus) lastFocus.focus(); }
+document.getElementById('dclose').onclick=close;
+scrim.onclick=close;
+document.addEventListener('keydown',e=>{ if(e.key==='Escape'&&!drawer.hidden) close(); });
+document.addEventListener('click',e=>{
+  // A name inside the drawer takes priority: clicking it should navigate to
+  // that player rather than re-trigger the card underneath it.
+  const l=e.target.closest('.plink');
+  if(l){ e.stopPropagation(); return openByName(l.dataset.name); }
+  const t=e.target.closest('[data-p]'); if(t) return open(t.dataset.p);
+  const u=e.target.closest('[data-u]'); if(u) openUniverse(u.dataset.u);
+});
+
+/* Collapse the setup block on first load on narrow screens only. */
+if (window.matchMedia('(max-width:760px)').matches) {
+  document.getElementById('setup').open = false;
+}
+
+/* ---- tabs ---- */
+const tabs=[...document.querySelectorAll('[role=tab]')];
+tabs.forEach((t,i)=>{
+  t.addEventListener('click',()=>sel(i));
+  t.addEventListener('keydown',e=>{
+    const d=e.key==='ArrowRight'?1:e.key==='ArrowLeft'?-1:0;
+    if(d){e.preventDefault();const n=(i+d+tabs.length)%tabs.length;sel(n);tabs[n].focus();}
+  });
+});
+function sel(i){tabs.forEach((t,j)=>{t.setAttribute('aria-selected',j===i);
+  document.getElementById(t.getAttribute('aria-controls')).hidden=(j!==i);});}
+</script>
+</body></html>

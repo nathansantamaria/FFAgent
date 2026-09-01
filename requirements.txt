@@ -1,0 +1,9 @@
+# Core
+pandas>=2.0
+pyarrow>=14.0        # nflverse parquet
+requests>=2.31
+numpy>=1.24
+scipy>=1.11          # Hungarian assignment for lineup optimisation
+
+# Write layer (browser automation). Only needed to execute moves, not to plan.
+playwright>=1.40
