@@ -1,0 +1,17 @@
+{
+ "as_of": "2026-09-16",
+ "week": 2,
+ "my_team": "Artificial Domination",
+ "my_roster_id": 1,
+ "waiver_type": "reverse standings",
+ "my_waiver_position": 1,
+ "week1_result": "LOST 117.56 to 132.10 vs Run@TellThat — lowest score in the league",
+ "standings_after_week1": [
+  "I cook brown rice 1-0 PF191.8", "BobbiWasabi 1-0 PF169.7", "jaybeezy2ezy 1-0 PF163.1",
+  "zay4209 1-0 PF153.6", "JMann60 0-1 PF141.4", "Run@TellThat 1-0 PF132.1",
+  "BmoreKidd 0-1 PF130.8", "BitcoinBucs 0-1 PF124.5", "Scorpiondemon90 0-1 PF123.8",
+  "Artificial Domination 0-1 PF117.6"
+ ],
+ "week1_team_pass_attempts": {"NO":56,"PIT":41,"GB":42,"MIN":24,"WAS":34,"DAL":34,
+  "DEN":28,"MIA":27,"PHI":25,"SEA":24,"CLE":22,"JAX":23,"HOU":38,"ATL":22,"CHI":29,"BUF":29}
+}

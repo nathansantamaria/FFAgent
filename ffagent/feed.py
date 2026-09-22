@@ -69,6 +69,11 @@ TEAM_HINTS = {
 }
 
 
+# The feed shows only the most recent items. Everything older is still in the
+# override list and still affects rankings -- it just stops taking up screen.
+FEED_LIMIT = 10
+
+
 @dataclass
 class Item:
     category: str
@@ -170,7 +175,12 @@ def relevance(item: Item, my_players: set, my_teams: set,
 
 
 def build(news_items=None, matchup_table=None, my_players=None, my_teams=None,
-          opponents=None, today: str = "2026-08-31") -> list[dict]:
+          opponents=None, today: str | None = None) -> list[dict]:
+    # Default to the actual date. A hardcoded default meant the feed still said
+    # "season opens in 9 days" the day after it opened.
+    if today is None:
+        from datetime import date as _d
+        today = _d.today().isoformat()
     my_players = my_players or set()
     my_teams = my_teams or set()
     opponents = opponents or set()
@@ -191,10 +201,10 @@ def build(news_items=None, matchup_table=None, my_players=None, my_teams=None,
             take = f"Watch {n.beneficiary} — this is where the opportunity moves."
         elif "trade" in (n.detail or "").lower() or "unretired" in (n.detail or "").lower():
             take = "Changes the depth chart; re-check the affected players' role."
-        if not take:
-            # An item with nothing to do about it is noise, and noise is what
-            # buries the one story that matters.
-            continue
+        # No takeaway is fine -- the item stays, unstarred. Cutting them means
+        # the feed holds only what I already decided was actionable, which is how
+        # you stop noticing what you did not think to look for. Four of week 1's
+        # five box-score items were being dropped by this filter.
         # The beneficiary counts for relevance too. The Jacobs exempt-list item
         # went unstarred for a manager holding MarShawn Lloyd — and Lloyd is the
         # entire reason that story matters to him.
@@ -208,7 +218,21 @@ def build(news_items=None, matchup_table=None, my_players=None, my_teams=None,
     items += calendar_items(today)
 
     items = [relevance(i, my_players, my_teams, opponents) for i in items]
-    order = {"injury": 0, "trade": 1, "projection": 2, "matchup": 3,
-             "calendar": 4, "preseason": 5}
-    items.sort(key=lambda i: (not i.starred, order.get(i.category, 9)))
-    return [i.as_dict() for i in items]
+
+    # The cap applies to NEWS only -- things that happened. Calendar entries are
+    # dated in the FUTURE, so a plain recency sort put "fantasy playoffs, 106
+    # days away" above an injury that happened this morning and pushed four of
+    # today's five box-score items off the feed entirely. Context is not an
+    # update and should not compete for the ten slots.
+    NEWS_CATS = {"injury", "trade", "projection", "preseason"}
+    news = [i for i in items if i.category in NEWS_CATS]
+    context = [i for i in items if i.category not in NEWS_CATS]
+
+    news.sort(key=lambda i: (i.date or "0000-00-00"), reverse=True)
+    news = news[:FEED_LIMIT]
+
+    order = {"injury": 0, "trade": 1, "projection": 2, "preseason": 3}
+    news.sort(key=lambda i: (not i.starred, order.get(i.category, 9),
+                             "" if not i.date else i.date), reverse=False)
+    context.sort(key=lambda i: (i.date or "9999"))
+    return [i.as_dict() for i in news + context[:4]]

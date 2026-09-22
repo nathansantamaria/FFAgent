@@ -210,6 +210,8 @@ table.career .num{font-variant-numeric:tabular-nums}
 .aimpact{margin:9px 0 0;padding-top:9px;border-top:1px solid var(--line);
   font-size:12.5px;color:var(--coral-l)}
 .cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.fresh{color:var(--up);font-size:12px}
+.stale{color:var(--down);font-size:12px}
 .star{color:var(--coral)}
 .subttl{font-size:12px;letter-spacing:.06em;color:var(--coral);margin:16px 0 8px}
 .tk{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--coral);
@@ -407,6 +409,87 @@ const byName = Object.fromEntries(BOARD.map(p=>[p.name,p]));
    a headshot, which is what was actually wrong with the missing images — they
    were never a CDN failure, those players simply were not in my lookup table.
    Non-blocking, so the ranked board renders immediately either way. */
+/* ---- LIVE DATA ----
+   The dashboard runs in the user's browser, which CAN reach api.sleeper.app.
+   The build sandbox cannot (403, host_not_allowed), so anything baked in at
+   build time is a snapshot that starts going stale immediately. Roster,
+   matchups and scores are therefore fetched HERE, on load, and the build-time
+   values are only a fallback for when the page is opened offline.
+
+   Every panel that uses live data states when it was fetched. This project has
+   been bitten three times by a snapshot that went quietly wrong; a page that
+   silently showed last week's roster would be the fourth. */
+const LEAGUE_ID = '1400160155982639104';
+const SLEEPER = 'https://api.sleeper.app/v1';
+let LIVE = {state:null, rosters:null, matchups:null, scores:null,
+            at:null, ok:false, err:null, source:'none'};
+
+/* Baked at build time so the page WORKS when opened as a local file.
+   A file:// page has origin "null" and browsers block null-origin fetches to
+   https, so the live call fails silently there -- which is how Team and League
+   ended up blank. The fallback is not as good as live, and the page says so
+   rather than pretending. */
+const SNAPSHOT = __SNAPSHOT__;
+
+function useSnapshot(){
+  if (!SNAPSHOT || !SNAPSHOT.rosters) return false;
+  LIVE.rosters = SNAPSHOT.rosters;
+  LIVE.matchups = SNAPSHOT.matchups || [];
+  LIVE.week = SNAPSHOT.week;
+  LIVE.at = SNAPSHOT.fetched_at ? new Date(SNAPSHOT.fetched_at) : null;
+  LIVE.ok = true; LIVE.source = 'snapshot';
+  return true;
+}
+
+async function loadLive(){
+  try {
+    const [state, users, rosters] = await Promise.all([
+      fetch(`${SLEEPER}/state/nfl`).then(r=>r.json()),
+      fetch(`${SLEEPER}/league/${LEAGUE_ID}/users`).then(r=>r.json()),
+      fetch(`${SLEEPER}/league/${LEAGUE_ID}/rosters`).then(r=>r.json())]);
+    const wk = state.week || 1;
+    const mus = await fetch(`${SLEEPER}/league/${LEAGUE_ID}/matchups/${wk}`)
+                        .then(r=>r.json()).catch(()=>[]);
+    const tname = {};
+    users.forEach(u => tname[u.user_id] = (u.metadata && u.metadata.team_name) || u.display_name);
+    LIVE.state = state; LIVE.week = wk;
+    LIVE.rosters = rosters.map(r => ({
+      id: r.roster_id, team: tname[r.owner_id] || `roster ${r.roster_id}`,
+      players: r.players || [], starters: r.starters || [],
+      wins: (r.settings||{}).wins, losses: (r.settings||{}).losses,
+      pf: (r.settings||{}).fpts}));
+    const byId = {}; LIVE.rosters.forEach(r => byId[r.id] = r.team);
+    const pairs = {};
+    (mus||[]).forEach(m => {
+      (pairs[m.matchup_id] = pairs[m.matchup_id] || []).push({
+        team: byId[m.roster_id], points: m.points,
+        pp: m.players_points || {}, starters: m.starters || []});
+    });
+    LIVE.matchups = Object.values(pairs);
+    LIVE.at = new Date(); LIVE.ok = true; LIVE.source = 'live';
+  } catch (e) {
+    LIVE.err = String(e).slice(0,120);
+    // Fall back rather than showing nothing. Blank panels look like a broken
+    // page; stale panels that say they are stale are useful.
+    useSnapshot();
+  }
+  renderLive();
+}
+
+function liveStamp(){
+  if (LIVE.source === 'live')
+    return `<span class="fresh">● live · week ${LIVE.week} · fetched ${LIVE.at.toLocaleTimeString()}</span>`;
+  if (LIVE.source === 'snapshot') {
+    const when = LIVE.at ? LIVE.at.toLocaleString() : 'unknown time';
+    return `<span class="stale">● snapshot from ${when} — live fetch blocked.
+      Opening this file directly gives it a null origin, which browsers refuse to
+      let call an API. Serve it over http (GitHub Pages, or
+      <code>python -m http.server</code>) for live data.</span>`;
+  }
+  if (!LIVE.ok) return `<span class="stale">loading…</span>`;
+  return '';
+}
+
 let UNIVERSE = null, uniState = 'loading';
 // DEF was missing from this set, so drilling into defences showed only the
 // ranked ones and nothing else. Sleeper carries team defences as entries whose
@@ -642,7 +725,72 @@ function renderPending(){
 }
 renderPending();
 
-/* ---- team tab ---- */
+/* ---- live renderers ---- */
+function renderLive(){
+  renderTeam(); renderLeague();
+}
+
+function renderTeam(){
+  const el = document.getElementById('team');
+  const mine = (LIVE.rosters||[]).find(r => /Artificial/i.test(r.team));
+  if (!LIVE.ok || !mine) {
+    el.innerHTML = `<p class="note">${liveStamp()}</p>` + (ROSTER.length ? '' :
+      `<div class="empty"><h3>No roster yet</h3><p>Open this page with a connection
+       to Sleeper to load your team.</p></div>`);
+    return;
+  }
+  // Live rosters hold Sleeper ids; the snapshot holds names already.
+  const nm = id => (UNIVERSE||[]).find(u=>u.sid===id)
+                || (typeof id === 'string' && !/^\d+$/.test(id) ? {name:id, pos:'', team:''} : null)
+                || {name:id, pos:'?', team:''};
+  const mu = (LIVE.matchups||[]).find(p => p.some(t => t.team === mine.team));
+  const me = mu && mu.find(t => t.team === mine.team);
+  const opp = mu && mu.find(t => t.team !== mine.team);
+  const pts = id => (me && me.pp && me.pp[id] != null) ? me.pp[id].toFixed(2) : '—';
+
+  el.innerHTML = `<p class="note">${liveStamp()}</p>
+    ${mu ? `<div class="settings"><h2>Week ${LIVE.week}</h2><dl>
+      <div><dt>${me.team}</dt><dd>${(me.points ?? 0).toFixed(2)}</dd></div>
+      <div><dt>${opp ? opp.team : 'opponent'}</dt><dd>${opp ? (opp.points ?? 0).toFixed(2) : '—'}</dd></div>
+    </dl></div>` : ''}
+    <h2 class="secttl">Starters</h2>
+    <div class="plan">${mine.starters.map(id=>{
+      const u = nm(id);
+      return `<div class="prow" data-p="${u.name}">
+        <span class="pill" style="--c:${POSC[u.pos]||'#8C8078'}">${u.pos}</span>
+        <span class="nm">${u.name}</span><span class="pct">${pts(id)}</span>
+        <span class="rsn">${u.team||''}</span></div>`;}).join('')}</div>
+    <h2 class="secttl">Bench</h2>
+    <div class="plan">${mine.players.filter(p=>!mine.starters.includes(p)).map(id=>{
+      const u = nm(id);
+      return `<div class="prow" data-p="${u.name}">
+        <span class="pill" style="--c:${POSC[u.pos]||'#8C8078'}">${u.pos}</span>
+        <span class="nm">${u.name}</span><span class="pct">${pts(id)}</span>
+        <span class="rsn">${u.team||''}</span></div>`;}).join('')}</div>`;
+}
+
+function renderLeague(){
+  const el = document.getElementById('league');
+  if (!LIVE.ok) { el.innerHTML = `<p class="note">${liveStamp()}</p>`; return; }
+  const rows = (LIVE.matchups||[]).map(p=>{
+    const [a,b] = p;
+    const mine = p.some(t=>/Artificial/i.test(t.team||''));
+    return `<div class="prow ${mine?'auto':''}">
+      <span class="nm">${a?a.team:'—'}</span>
+      <span class="pct">${a&&a.points!=null?a.points.toFixed(2):'—'}</span>
+      <span class="rsn" style="flex:0 0 24px;text-align:center">v</span>
+      <span class="nm">${b?b.team:'—'}</span>
+      <span class="pct">${b&&b.points!=null?b.points.toFixed(2):'—'}</span></div>`;}).join('');
+  const stand = (LIVE.rosters||[]).slice().sort((x,y)=>(y.pf||0)-(x.pf||0)).map((r,i)=>
+    `<div class="prow"><b>${i+1}</b><span class="nm">${r.team}</span>
+     <span class="pct">${r.wins||0}-${r.losses||0}</span>
+     <span class="rsn">${(r.pf||0).toFixed(0)} PF</span></div>`).join('');
+  el.innerHTML = `<p class="note">${liveStamp()}</p>
+    <h2 class="secttl">Week ${LIVE.week} matchups</h2><div class="plan">${rows}</div>
+    <h2 class="secttl">Standings by points for</h2><div class="plan">${stand}</div>`;
+}
+
+/* superseded by renderTeam()/renderLeague() above, which use live data */
 const teamEl=document.getElementById('team');
 function posBlock(p){
   const s=POSSTR[p]||{};
@@ -652,46 +800,12 @@ function posBlock(p){
     <div class="pbarwide"><i style="width:${Math.min(100,(s.pct||0))}%"></i></div>
     <p>${s.note||''}</p></div>`;
 }
-teamEl.innerHTML = ROSTER.length ? `
-  <p class="note">Current roster with per-position depth against what the lineup demands.</p>
-  <div class="pgrid">${['QB','RB','WR','TE','K','DEF'].map(posBlock).join('')}</div>
-  <div class="plan">${ROSTER.map(r=>`<div class="prow" data-p="${r.name}">
-     <span class="pill" style="--c:${POSC[r.pos]}">${r.pos}</span>
-     <span class="nm">${r.name}</span><span class="pct">${r.proj}</span>
-     <span class="rsn">${r.slot||'bench'}</span></div>`).join('')}</div>`
- : `<div class="empty"><h3>No roster yet</h3>
-     <p>The draft is Tue 8 Sep. Sleeper returns an empty roster until it completes,
-     so this tab has nothing real to show. Until then the Draft tab holds the plan —
-     it already guarantees a legal lineup: ${Object.entries(CHECK.counts||{}).map(([k,v])=>v+' '+k).join(', ')}.</p></div>`;
-
-/* ---- league tab ---- */
-const lgEl=document.getElementById('league');
-lgEl.innerHTML = LEAGUE.matchups && LEAGUE.matchups.length ? '' : `
-  <div class="empty"><h3>Schedule not generated</h3>
-    <p>Sleeper builds the weekly matchup schedule when the draft completes, so weeks 1–17
-    are empty right now. Verified by querying weeks 1, 2, 3 and 15 — all returned nothing.</p></div>
-  <h2 class="secttl">League</h2>
-  <p class="note">Draft order and managers. Positional strength comparisons need rosters,
-  so they fill in after Tue 8 Sep.</p>
-  <div class="plan">${(LEAGUE.managers||[]).map(m=>`<div class="prow">
-    <b>${m.slot}</b><span class="nm">${m.name}</span>
-    <span class="rsn">${m.slot===9?'me':''}</span></div>`).join('')}</div>`;
-
-/* ---- weekly takeaways ---- */
-const tkEl=document.getElementById('takeaways');
-const results=TAKE.filter(t=>t.kind==='result'), watch=TAKE.filter(t=>t.kind==='watch');
-tkEl.innerHTML = `
-  <h2 class="secttl">Week 1</h2>
-  ${results.length?`<h3 class="subttl">What happened</h3>
-    ${results.map(t=>tkCard(t)).join('')}`:''}
-  <h3 class="subttl">What to watch</h3>
-  ${watch.map(t=>tkCard(t)).join('')}`;
-function tkCard(t){
-  return `<div class="tk ${t.confidence}">
-    <h4>${t.headline}</h4><p>${t.detail}</p>
-    <div class="tkmeta">${t.source?`source: ${t.source}`:''}
-      ${t.confidence!=='stated'?` · ${t.confidence}`:''}</div></div>`;
-}
+/* The static Team/League renderers that used to live here ran AFTER
+   renderLive() and overwrote it -- the live fetch worked and its output was
+   thrown away a moment later. Both tabs are now rendered only by
+   renderTeam()/renderLeague(), which fall back to a clear message when the
+   fetch fails rather than to silently stale data. */
+loadLive();
 
 /* ---- news tab ---- */
 // Two feed implementations existed in this template at once — one from an

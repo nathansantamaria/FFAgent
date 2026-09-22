@@ -1,0 +1,36 @@
+{
+ "as_of": "2026-09-22",
+ "week": 3,
+ "my_team": "Artificial Domination",
+ "roster_id": 1,
+ "record": "1-1",
+ "points_for": 276.90,
+ "week1": {
+  "result": "LOST 117.56 - 132.10 vs Run@TellThat (lowest score in league)",
+  "starters": {"Jayden Daniels": 17.66, "De'Von Achane": 10.6, "Jadarian Price": 7.8,
+   "Jaxon Smith-Njigba": 26.2, "George Pickens": 5.8, "Harold Fannin": 4.1,
+   "Chris Olave": 28.2, "Jaylen Waddle": 1.2, "Brandon Aubrey": 1.0, "Jaguars DEF": 15.0},
+  "bench": {"Blake Corum": 5.4, "Jacory Croskey-Merritt": 12.6, "Tony Pollard": 4.4,
+   "De'Zhaun Stribling": 0, "Jordan Addison": 0}
+ },
+ "week2": {
+  "result": "WON, 159.34",
+  "starters": {"Jayden Daniels": 14.74, "De'Von Achane": 12.3, "Jadarian Price": 5.0,
+   "Jaxon Smith-Njigba": 42.5, "George Pickens": 10.0, "Harold Fannin": 10.4,
+   "Chris Olave": 22.6, "Jaylen Waddle": 21.8, "Brandon Aubrey": 17.0, "Jaguars DEF": 3.0},
+  "bench": {"Devaughn Vele": 11.4, "Jacory Croskey-Merritt": 5.8, "Tony Pollard": 7.5,
+   "Pat Freiermuth": 7.4, "Jordan Addison": 4.1}
+ },
+ "week1_pass_attempts": {"NO":56,"GB":42,"PIT":41,"HOU":38,"WAS":34,"DAL":34,"CHI":29,
+  "BUF":29,"DEN":28,"MIA":27,"PHI":25,"MIN":24,"SEA":24,"JAX":23,"ATL":22,"CLE":22},
+ "week2_pass_attempts": {"HOU":56,"KC":47,"NYJ":41,"PIT":40,"DET":38,"PHI":37,"CAR":36,
+  "WAS":35,"CHI":35,"NO":34,"TB":34,"ATL":32,"NYG":32,"CIN":31,"BAL":31,"LAR":31,"DAL":31,
+  "IND":31,"BUF":31,"DEN":31,"CLE":30,"GB":29,"LV":29,"JAX":29,"ARI":28,"LAC":27,"SEA":26,
+  "MIA":23,"SF":22,"NE":22,"TEN":20,"MIN":20},
+ "standings_after_week2": [
+  "zay4209 2-0 322.9", "I cook brown rice 1-1 310.6", "jaybeezy2ezy 2-0 308.2",
+  "Artificial Domination 1-1 276.9", "BobbiWasabi 1-1 270.2", "BitcoinBucs 0-2 268.7",
+  "JMann60 1-1 261.2", "Scorpiondemon90 1-1 254.4", "BmoreKidd 0-2 229.1",
+  "Run@TellThat 1-1 217.3"
+ ]
+}

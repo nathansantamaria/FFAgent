@@ -56,6 +56,37 @@ class NewsItem:
 # Hand-maintained until an automated feed is wired. Kept explicit and dated so
 # a stale entry is obvious rather than silently wrong.
 OVERRIDES: list[NewsItem] = [
+    # --- WEEK 1 RESULTS, 10 Sep 2026. SEA 13 NE 10 is the only game played. ---
+    NewsItem(
+        "Jaxon Smith-Njigba", "note", "2026-09-10", "ESPN box score",
+        "8 catches on 11 targets, 122 yards, 1 TD. 30.2 PPR. The target share was "
+        "overwhelming -- Cooper Kupp was next at 3 -- and it came with Drew Lock "
+        "throwing, not Darnold. A role that survives a backup QB is a real role.",
+        returns="active"),
+    NewsItem(
+        "Rhamondre Stevenson", "note", "2026-09-10", "ESPN box score",
+        "18 carries for 51 yards plus 5 catches for 44 on 6 targets. 23 touches. "
+        "TreVeyon Henderson never appeared in the box score, so the ankle kept him "
+        "out and Stevenson took the full workload.",
+        beneficiary="Rhamondre Stevenson", returns="active"),
+    NewsItem(
+        "TreVeyon Henderson", "questionable", "2026-09-10", "ESPN box score",
+        "Did not record a snap in week 1. The ankle that kept him out of Monday "
+        "practice kept him out of the game entirely.",
+        beneficiary="Rhamondre Stevenson", returns="unknown"),
+    NewsItem(
+        "Jadarian Price", "note", "2026-09-10", "ESPN box score",
+        "10 carries, 52 yards, 5.2 per carry, zero targets. Led the Seattle "
+        "backfield over George Holani (8 carries) but in a committee and with no "
+        "receiving work, which is a floor problem in PPR.",
+        returns="active"),
+    NewsItem(
+        "A.J. Brown", "note", "2026-09-10", "ESPN box score",
+        "3 catches for 26 yards on 4 targets. Drake Maye threw 3 interceptions on "
+        "33 attempts. One game, but the New England passing offence did not look "
+        "like the one his projection assumed.",
+        returns="active"),
+
     NewsItem(
         "Josh Jacobs", "exempt", "2026-08-30", "NFL / ESPN / NFL.com",
         "Placed on Commissioner's Exempt List. Cannot practise or attend games. "

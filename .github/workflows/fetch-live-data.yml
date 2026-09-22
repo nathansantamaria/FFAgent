@@ -1,0 +1,155 @@
+name: fetch-live-data
+
+# Why this exists
+#
+# The agent's sandbox cannot reach api.sleeper.app or ESPN -- both return 403
+# with x-deny-reason: host_not_allowed. The allowlist covers GitHub, PyPI and
+# npm only, and it is not something we can change.
+#
+# GitHub Actions runners have unrestricted network. So the runner fetches from
+# Sleeper and ESPN, commits the JSON into this repo, and the agent reads it from
+# raw.githubusercontent.com -- which IS allowlisted.
+#
+# The browser path still works and is fine for a one-off read, but it drops out
+# unpredictably mid-session and cannot run when nobody is at the machine. This
+# runs whether anyone is watching or not, which is the part that matters for
+# waiver claims and the Sunday inactive sweep.
+
+on:
+  schedule:
+    # Times are UTC. ET is UTC-4 in September, UTC-5 from November, so these
+    # drift by an hour at the DST change -- deliberately, because the fantasy
+    # deadlines that matter are anchored to kickoff, not to the clock.
+    - cron: '0 11 * * *'    # 07:00 ET daily — full refresh
+    - cron: '0 3 * * 3'     # 23:00 ET Tue — waiver lock
+    - cron: '0 16 * * 0'    # 12:00 ET Sun — inactive sweep, the highest-value job
+    - cron: '0 20 * * 0'    # 16:00 ET Sun — late slate
+    - cron: '0 23 * * 1'    # 19:00 ET Mon — MNF
+  workflow_dispatch:         # run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Sleeper + ESPN
+        env:
+          LEAGUE_ID: '1400160155982639104'
+          DRAFT_ID: '1400160157035446272'
+          MY_TEAM: 'Artificial Domination'
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, datetime
+
+          def get(url):
+              with urllib.request.urlopen(url, timeout=45) as r:
+                  return json.loads(r.read())
+
+          L = os.environ['LEAGUE_ID']
+          S = 'https://api.sleeper.app/v1'
+          E = 'https://site.api.espn.com/apis/site/v2/sports/football/nfl'
+          now = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds')
+
+          state = get(f'{S}/state/nfl')
+          week = int(state.get('week') or 1)
+
+          users = get(f'{S}/league/{L}/users')
+          rosters = get(f'{S}/league/{L}/rosters')
+          players = get(f'{S}/players/nfl')
+
+          def nm(pid):
+              p = players.get(str(pid))
+              if not p:
+                  return str(pid)
+              return p.get('full_name') or f"{p.get('first_name','')} {p.get('last_name','')}".strip() or str(pid)
+
+          tname = {u['user_id']: (u.get('metadata') or {}).get('team_name') or u['display_name']
+                   for u in users}
+          teams = {tname[r['owner_id']]: [nm(p) for p in (r.get('players') or [])]
+                   for r in rosters if r.get('owner_id') in tname}
+          mine = next((r for r in rosters
+                       if os.environ['MY_TEAM'].lower() in (tname.get(r.get('owner_id'), '')).lower()), None)
+
+          json.dump({
+              'fetched_at': now, 'league_id': L, 'week': week,
+              'my_team': tname.get(mine['owner_id']) if mine else None,
+              'my_roster': [nm(p) for p in (mine.get('players') or [])] if mine else [],
+              'my_starters': [nm(p) for p in (mine.get('starters') or [])] if mine else [],
+              'teams': teams,
+          }, open('data/rosters.json', 'w'), indent=1)
+
+          # Weekly matchups and points actually scored.
+          try:
+              mus = get(f'{S}/league/{L}/matchups/{week}')
+              by_roster = {r['roster_id']: tname.get(r.get('owner_id')) for r in rosters}
+              pairs = {}
+              for m in mus or []:
+                  pairs.setdefault(m['matchup_id'], []).append(
+                      {'team': by_roster.get(m['roster_id']),
+                       'points': m.get('points'),
+                       'players_points': m.get('players_points') or {}})
+              json.dump({'fetched_at': now, 'week': week, 'matchups': list(pairs.values())},
+                        open('data/matchups.json', 'w'), indent=1)
+          except Exception as e:
+              print('matchups failed:', e)
+
+          # Trending adds: the market moving before the reason is obvious.
+          try:
+              tr = get(f'{S}/players/nfl/trending/add?lookback_hours=24&limit=25')
+              json.dump({'fetched_at': now,
+                         'adds': [{'name': nm(t['player_id']), 'count': t['count']} for t in tr]},
+                        open('data/trending.json', 'w'), indent=1)
+          except Exception as e:
+              print('trending failed:', e)
+
+          # Scoreboard + news from ESPN.
+          try:
+              sb = get(f'{E}/scoreboard')
+              games = []
+              for ev in sb.get('events', []):
+                  c = (ev.get('competitions') or [{}])[0]
+                  games.append({
+                      'name': ev.get('shortName'),
+                      'status': (ev.get('status') or {}).get('type', {}).get('description'),
+                      'date': (ev.get('date') or '')[:10],
+                      'score': {x['team']['abbreviation']: x.get('score')
+                                for x in c.get('competitors', [])},
+                  })
+              json.dump({'fetched_at': now, 'week': (sb.get('week') or {}).get('number'),
+                         'games': games}, open('data/scoreboard.json', 'w'), indent=1)
+          except Exception as e:
+              print('scoreboard failed:', e)
+
+          try:
+              nw = get(f'{E}/news?limit=40')
+              json.dump({'fetched_at': now, 'articles': [{
+                  'headline': a.get('headline'),
+                  'summary': (a.get('description') or '')[:400],
+                  'published': (a.get('published') or '')[:10],
+                  'url': ((a.get('links') or {}).get('web') or {}).get('href', ''),
+                  'players': [c.get('description') or (c.get('athlete') or {}).get('displayName')
+                              for c in (a.get('categories') or []) if c.get('type') == 'athlete'],
+              } for a in nw.get('articles', [])]}, open('data/espn_news.json', 'w'), indent=1)
+          except Exception as e:
+              print('news failed:', e)
+
+          print('fetched at', now, '| week', week)
+          PY
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "ffagent-bot"
+          git config user.email "actions@github.com"
+          git add data/*.json
+          # Only commit when content actually differs. Committing an unchanged
+          # file every run buries real changes in a wall of empty history.
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "data: live refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

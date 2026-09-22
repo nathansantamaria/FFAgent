@@ -376,6 +376,33 @@ The same Lloyd claim scores **78** dropping a bench body and **63** dropping Tut
 [rest of season] Derrick Henry outproduces Jaylen Waddle by more than 4.2 a week
 ```
 
+### Waiver evaluation — three corrections from week 2
+
+**Snap share is the role; team pass attempts are what the role is worth.** I ranked
+Malik Washington a strong buy on a 98% snap share, the highest available at any
+position. Miami threw **27 attempts** and no passing touchdowns. New Orleans threw
+**56**. Ninety-eight percent of 27 is worth less than ninety-one percent of 56, and I
+had been ranking on snap share alone.
+
+Week 1 attempts, for reference: NO 56, PIT 41, WAS 34, DAL 34, DEN 28, MIA 27, PHI 25,
+SEA 24, MIN 24, CLE 22.
+
+**A handcuff to someone else's starter is worth nothing.** Blake Corum backs up Kyren
+Williams — who is on another roster. When Kyren goes down, Corum becomes valuable to
+*Kyren's owner*, and I would be bidding against him for a player I already hold.
+Contingent value requires holding the starter. Same for Jordan Addison behind Jefferson.
+
+**Stacking two starters from one offence is a phase decision.** Olave and Vele share 52
+New Orleans targets. They rise and fall together: higher ceiling, lower floor. That is
+right in the playoffs, where an average week loses anyway, and wrong while qualifying,
+where the job is banking wins. Penalised 0.9 points per extra stacked starter during
+the qualifying phase, zero in the playoffs.
+
+**And usage-above-points still beats points-above-usage.** Harold Fannin played 82% of
+Cleveland's snaps for 4.1 points; Mike Gesicki scored 18.8 on 33%. I nearly dropped
+Fannin to chase Gesicki — which is the fade profile the backtest says regresses at
+−1.02 PPG, against a buy profile worth +0.37.
+
 ### Waivers
 
 **Reverse standings** (this league): priority is your inverse record and **cannot be
@@ -391,7 +418,49 @@ starting requirement, bye-cover bonus for the next man.
 **Each drop can only be spent once.** Two claims naming the same drop look fine
 individually and break if both clear.
 
-### Trades — seven gates, all must pass
+### Trades must pass TWO tests, not one
+
+**Correction, week 2.** The seven gates below decide whether a trade helps *me*.
+They say nothing about whether anyone will **accept** it, and I conflated those.
+
+My numbers said Waddle-for-Derrick-Henry gained 5.74 points a week, so I proposed it.
+In week 1 Henry scored **35.3** and Waddle scored **1.2**. No manager trades the 35 for
+the 1 in September. That offer is declined in seconds and costs standing for the next
+one.
+
+**Perceived value is modelled separately** (`perception.py`), on what managers actually
+look at:
+
+| input | weight, week 2 | why |
+|---|---|---|
+| **Recent performance** | **60%** | Early on it is nearly all anyone has seen |
+| Projection + draft capital | 40% | ADP anchors, especially for a player they drafted |
+| Situation | ±2 pts | QB quality, offence, injuries read as narrative |
+
+Recency weight decays — 60% through week 2, 50% to week 4, 38% to week 8, 28% after.
+By week 8 a manager has enough games that one outlier stops defining a player.
+
+**The gap between perceived and projected IS the edge.** Week 2 read:
+
+| player | wk1 | my proj | perceived | gap | |
+|---|---|---|---|---|---|
+| Kenneth Walker | 34.1 | 11.19 | 26.70 | **+15.5** | SELL |
+| Derrick Henry | 35.3 | 15.89 | 28.54 | **+12.7** | SELL |
+| Chris Olave | 28.2 | 12.22 | 22.90 | **+10.7** | SELL |
+| Javonte Williams | 24.2 | 11.29 | 20.42 | +9.1 | SELL |
+| Jordan Addison | 0.0 | 8.95 | 3.58 | **−5.4** | BUY |
+| Jaylen Waddle | 1.2 | 10.15 | 6.18 | **−4.0** | BUY |
+| George Pickens | 5.8 | 14.15 | 10.19 | −4.0 | BUY |
+
+This is the fade asymmetry from Part 3 expressed as a negotiating position. A manager
+overvaluing a 35-point week is the same phenomenon as points outrunning usage
+regressing at −1.02 PPG. **Sell the spike, buy the slump.**
+
+**A trade is only sent if it passes both:** my lineup gain ≥ 1.5 points AND perceived
+value within 1.5 points of even in their favour. Slightly against me is fine — managers
+accept small losses for positional need. Two points against *them* reads as predatory.
+
+### The seven gates — do they help me
 
 | gate | threshold | why |
 |---|---|---|

@@ -16,7 +16,12 @@ L = M.LEAGUE
 import csv as _csv
 from ffagent import simulate as _sim
 
-_rank = M.annotate(M.build())
+_wk = {}
+_wkp = Path("data") / "week1.json"
+if _wkp.exists():
+    _w = json.loads(_wkp.read_text())
+    _wk = {k: (v[0], v[1]) for k, v in _w.get("results", {}).items()}
+_rank = M.annotate(M.build(in_season=_wk))
 _meta = {r["name"]: r for r in _csv.DictReader(open(Path("data") / "sleeper_meta.csv"))}
 _picks = [x.overall for x in _sim.pick_numbers(M.MY_SLOT, L.teams, 15)]
 _adp = _sim.load_adp()
@@ -103,18 +108,68 @@ try:
     _mtbl = _mu.allowed_by_position(2025)
 except Exception:
     _mtbl = {}
-_feeditems = _feed.build(news_items=items, matchup_table=_mtbl,
-                         my_players=set(), my_teams=set(), opponents=set())
-html = html.replace("__NEWS__", json.dumps(_feeditems))
+# NOTE: the feed is built ONCE, below, after the roster is loaded. An earlier
+# build call here passed empty player/team sets and its output was the one
+# injected into the page -- so relevance starring silently did nothing while a
+# second, correct call further down was discarded.
 _unused_arts = arts
 blockers = {i.player.lower(): i for i in items if i.blocks}
+# The roster is FETCHED, never written here. A hardcoded list from a draft-day
+# screenshot went stale the moment a waiver cleared, and nothing errored -- the
+# build just quietly starred the wrong players. Third time a written-once
+# snapshot has done this, so it is now a hard rule: data/rosters.json comes from
+# the Sleeper API and the build refuses to guess.
+from ffagent import roster as _ros, livedata as _ld
+_players, _pay = _ld.roster()          # remote first, local fallback, age reported
+print("  " + _pay.note())
+if _pay.stale and _pay.source != "missing":
+    print("  WARNING: roster data is stale. Run the fetch-live-data Action.")
+_rc = _ros.load_cache()
+_MY_PLAYERS = set(_players) or set(_ros.my_roster(_rc))
+if not _MY_PLAYERS:
+    print("WARNING: data/rosters.json missing or empty — relevance starring is OFF.")
+    print("         Re-fetch with roster.FETCH_JS in a browser tab.")
+else:
+    print(f"roster: {len(_MY_PLAYERS)} players, fetched {_rc.get('fetched_at','?')}")
+
+# Teams derived from the roster rather than typed out.
+_bd_board = M.build()
+_pteam = {x.name: x.team for x in _bd_board}
+_MY_TEAMS = {_pteam[n] for n in _MY_PLAYERS if n in _pteam and _pteam[n]}
 from ffagent import feed as _feed, matchups as _mu2
 try:
     _mtbl = _mu2.allowed_by_position(2025)
 except Exception:
     _mtbl = {}
 categorised = _feed.build(news_items=items, matchup_table=_mtbl,
-                          my_players=set(), my_teams=set(), opponents=set())
+                          my_players=set(_MY_PLAYERS), my_teams=set(_MY_TEAMS),
+                          opponents=set(), today=datetime.now().date().isoformat())
+html = html.replace("__NEWS__", json.dumps(categorised))
+
+# Build-time snapshot so Team and League work when the page is opened as a
+# local file, where the live fetch cannot run.
+_snap = {}
+try:
+    _rj = json.loads((Path("data") / "rosters.json").read_text())
+    _lj = json.loads((Path("data") / "league_state.json").read_text()) \
+        if (Path("data") / "league_state.json").exists() else {}
+    _teams = _rj.get("teams") or {}
+    _snap = {
+        "fetched_at": _rj.get("fetched_at"),
+        "week": _lj.get("week") or 1,
+        "rosters": [{"id": i + 1, "team": t,
+                     "players": p,
+                     "starters": (_rj.get("my_starters", []) if t == _rj.get("my_team") else [])}
+                    for i, (t, p) in enumerate(_teams.items())]
+                   or [{"id": 1, "team": _rj.get("my_team"),
+                        "players": _rj.get("my_roster", []),
+                        "starters": _rj.get("my_starters", [])}],
+        "matchups": [[{"team": a}, {"team": b}] for a, b in
+                     (m.split(" vs ") for m in _lj.get("matchups_week1", []) if " vs " in m)],
+    }
+except Exception as _e:
+    print("  snapshot unavailable:", _e)
+html = html.replace("__SNAPSHOT__", json.dumps(_snap))
 
 
 # The categorised feed IS the news feed. There is no second raw-article list —
@@ -135,8 +190,14 @@ for p, n in need.items():
                  "note": "fills after the draft" if not roster else ""}
 html = html.replace("__ROSTER__", json.dumps(roster))
 html = html.replace("__POSSTR__", json.dumps(posstr))
+_ls = {}
+_lsp = Path("data") / "league_state.json"
+if _lsp.exists():
+    _ls = json.loads(_lsp.read_text())
 html = html.replace("__LEAGUE__", json.dumps({
-    "matchups": [],
+    "matchups": _ls.get("matchups_week1", []),
+    "week": _ls.get("week"),
+    "scoreboard": _ls.get("scoreboard", {}),
     "managers": [{"slot": s, "name": n} for s, n in [
         (1,"jaybeezy2ezy"),(2,"TestTickles"),(3,"zay4209"),(4,"Aidious"),
         (5,"Scorpiondemon90"),(6,"Ysa084"),(7,"BmoreKidd"),(8,"BobbiWasabi"),

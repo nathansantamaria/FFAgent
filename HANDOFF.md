@@ -1,145 +1,181 @@
-# HANDOFF — everything another session needs
+# HANDOFF — read this first, then LOGIC.md
 
-Last updated **1 September 2026**. Read this first; `STATUS.md` for what works,
-`README.md` for why each decision was made.
+**22 September 2026, week 3. Artificial Domination is 1-1, 276.90 points for.**
+
+This file is the state and the traps. `LOGIC.md` is every decision rule and why.
+`STATUS.md` is what works and what does not.
 
 ---
 
-## Identifiers
+## 1. The constraint that wastes the most time
 
-| Thing | Value |
+**The sandbox cannot reach api.sleeper.app or ESPN.** Verified repeatedly:
+
+```
+403  api.sleeper.app        x-deny-reason: host_not_allowed
+403  site.api.espn.com      x-deny-reason: host_not_allowed
+200  raw.githubusercontent.com
+200  github.com/nflverse
+```
+
+Allowlist is GitHub, PyPI, npm. Not changeable from either side.
+
+**Three routes, in order:**
+
+1. **Chrome browser tool** — navigate to any sleeper.com page, then `javascript_tool`
+   to `fetch()` the API. Works, but drops out mid-session. A 4-minute timeout means a
+   hung MCP server, not a slow request. **Two attempts maximum, then switch.**
+2. **GitHub Action** — `.github/workflows/fetch-live-data.yml` fetches on a schedule
+   and commits JSON to `data/`. Read with `ffagent/livedata.py`.
+   **Status: probably never enabled. Check the Actions tab first thing.**
+3. **Screenshots from Nathan** — never once failed.
+
+### Endpoints that work (via browser)
+
+```
+/v1/state/nfl                               current week
+/v1/league/<id>/users                       team names
+/v1/league/<id>/rosters                     rosters, records, points
+/v1/league/<id>/matchups/<week>             per-player points, starters
+/v1/league/<id>/transactions/<week>         waivers and trades
+/v1/players/nfl                             every player: team, position, depth chart, injury
+/v1/stats/nfl/regular/2026/<week>           REAL stats: pts_ppr, rec_tgt, rush_att, off_snp, tm_off_snp
+/v1/players/nfl/trending/add                what the market is claiming
+```
+
+**`/v1/stats/...` is the important one.** Snap share and targets live there. The
+matchups endpoint only covers rostered players.
+
+**Sleeper's news feed has NO public endpoint** — `/news/nfl` and `/v1/news/nfl` both
+404. Screenshot it.
+
+---
+
+## 2. Identifiers
+
+| | |
 |---|---|
-| League | Public Randoms 2026 |
-| Sleeper league_id | `1400160155982639104` |
-| Sleeper draft_id | `1400160157035446272` |
-| My user | SantaSleeper, user_id `1271917344913907712` |
-| My draft slot | **9 of 10** |
-| Draft | **Tue 8 Sep 2026, 16:30 ET**, snake, 120s clock, 15 rounds |
-| Old league (reference) | Goon Squad, 8-team, `1396378344425009152` — **not this league** |
-
-## League settings (pulled from API, confirmed against the UI)
+| League | Public Randoms 2026, 10-team PPR |
+| league_id | `1400160155982639104` |
+| My team | **Artificial Domination**, roster_id **1** |
+| Sleeper user | SantaSleeper — **he is commissioner** |
+| Repo | github.com/nathansantamaria/FFAgent |
 
 ```
-10 teams, PPR (rec 1.0), snake
-Starters: QB RB RB WR WR TE FLEX FLEX K DEF
-Bench 5, IR 2, no taxi
-Waivers: REVERSE STANDINGS (waiver_type 1), clear Wed 3am, 2-day hold
-Playoffs: 6 of 10, from week 15
-Trade deadline: week 11
-Scoring: vanilla — 4pt pass TD, no bonuses, no TE premium
+Starters: QB RB RB WR WR TE FLEX FLEX K DEF   (both flex take RB/WR/TE)
+Bench 5, IR 2  |  Playoffs 6 of 10 from week 15  |  Trade deadline week 11
+Waivers: REVERSE STANDINGS — priority is NOT consumed by claiming, so claim freely
+Scoring: 1.0 PPR, 4pt pass TD, no bonuses
 ```
 
-**`waiver_type: 1` is Reverse Standings, not FAAB.** `waiver_budget` reads 100 even in
-non-FAAB leagues, so it is not a safe signal. Priority is your inverse record and cannot
-be spent, so claims are close to free — claim whenever a player clears the bar.
+---
 
-**My pick numbers:** 9, 12, 29, 32, 49, 52, 69, 72, 89, 92, 109, 112, 129, 132, 149.
-Gaps alternate 3 and 17 — you draft in pairs, then 17 players vanish.
-
-## The objective
-
-Not points. **Make and win the playoffs.** Six of ten qualify, so getting in is likely
-and weeks 15-17 are what the season is for. `objective.py` weights playoff weeks 2.6x,
-uses real week 15-17 schedules, and charges availability harder because three must-win
-weeks compound.
-
-## Derived numbers that everything depends on
+## 3. Current roster and the outstanding lineup change
 
 ```
-Replacement:      QB11, RB28, WR28, TE18
-Flex-eligible starting spots league-wide: 70
-Board size:       196 (incl. all 32 defences, 31 kickers)
+QB   Jayden Daniels
+RB   De'Von Achane, Jacory Croskey-Merritt, Jadarian Price, Tony Pollard
+WR   Jaxon Smith-Njigba, George Pickens, Chris Olave, Devaughn Vele,
+     Jaylen Waddle, Jordan Addison
+TE   Pat Freiermuth, Harold Fannin
+K    Brandon Aubrey
+DEF  Jacksonville
 ```
 
-**Both flex slots accept TE**, so RB/WR/TE compete for the same 70 spots and share ONE
-pooled VOR baseline. Scoring them per-position made replacement-level tight ends look
-scarce and put McBride at #1 overall. This is the single most important modelling
-decision in the project.
+**Jadarian Price is still starting at RB2 and has scored 7.8 and 5.0.**
+Croskey-Merritt is depth-chart 1 in Washington. That swap has been recommended twice
+and not made. Raise it once, then drop it — it is his call.
 
-## Signal weights — measured, not chosen
+---
 
-Backtested 2022-25, weeks 1-4 predicting weeks 5-17:
+## 4. What the first two weeks actually taught
 
-| Signal | Spearman |
-|---|---|
-| **route rate x TPRR** | **0.918** (2025, WR/TE, n=178) |
-| targets per route run | 0.839 |
-| early points | 0.784 |
-| blended usage | 0.774 |
-| target share | 0.787 / 0.697 |
-| air yards share | 0.299 |
-| carries | 0.264 |
+| player | wk1 | wk2 | read |
+|---|---|---|---|
+| Jaxon Smith-Njigba | 26.2 | **42.5** | league-winning, untouchable |
+| Chris Olave | 28.2 | 22.6 | role-supported both weeks, NOT a sell |
+| **Jaylen Waddle** | **1.2** | **21.8** | **vindicated the hold** |
+| George Pickens | 5.8 | 10.0 | still buy-low |
+| Harold Fannin | 4.1 | **10.4** | 82% snaps paid off |
+| Pat Freiermuth | 15.6 | 7.4 | **the waiver upgrade has not paid** |
+| Devaughn Vele | 19.9 | 11.4 | fine, benched, NO fell 56 to 34 attempts |
+| Jadarian Price | 7.8 | 5.0 | the hole |
 
-**The fade signal is 2.7x stronger than the buy signal.** Points outrunning usage
-regresses hard: -1.02 PPG against a points-only model, in 4 of 4 seasons. `usage.fadelist()`
-surfaces it. The original design hunted buys and had this backwards.
+**Two calls I got wrong and one I got right:**
 
-## Live news that must not go stale
+- **RIGHT: holding Waddle.** He scored 1.2 and I refused to sell at his perception
+  floor. He put up 21.8 the next week. Small-sample discipline works.
+- **WRONG: Freiermuth over Fannin.** I projected +4.31/week. Fannin outscored him
+  10.4 to 7.4. Cleveland's attempts rose 22 to 30 while Pittsburgh fell 41 to 40 —
+  the team-volume input was noisier week to week than I assumed.
+- **WATCH: Vele.** New Orleans threw 56 in week 1 and 34 in week 2. I flagged that
+  exact risk when recommending him. The volume adjustment amplifies single-week
+  outliers in both directions and needs a two-week average, not one game.
 
-- **Josh Jacobs — Commissioner's Exempt List, 30 Aug.** Cannot practise or play. First
-  court date 17 Nov (week 11). MarShawn Lloyd inherits; Kaleb Johnson traded in from
-  Pittsburgh same day, so treat as a committee.
-- **Rams defence.** Myles Garrett traded from Cleveland June 2026 (reigning DPOY, record
-  23 sacks); Aaron Donald unretired 30 Aug; Trent McDuffie in from KC. ADP ~108 predates
-  the Donald signing by one day. Largest personnel-vs-price gap on the board.
-- **Zero 2026 games played.** Season opens 9 Sep. Signal confidence 0.25 until then.
+---
 
-## Traps that have already bitten
+## 5. How Nathan thinks — seven corrections, each fixed a real bug
 
-1. **FFC's `teams=` parameter is ignored** — `teams=10` and `teams=12` return
-   byte-identical payloads. ADP is blended-format with a crude correction applied.
-2. **nflverse codes the Rams as `LA`, not `LAR`.** A lookup keyed on LAR silently misses.
-3. **Sleeper name-matching needs a position guard.** "Josh Allen" matches an offensive
-   guard before the Bills QB.
-4. **`offense_pct` is a fraction (0.86), not a percentage.**
-5. **Injury reports miss IR.** A player on IR stops appearing, so a season-ending injury
-   registers as *fewer* Out designations than a month of tweaks. Durability is built on
-   games played, not the report.
-6. **Any file written once and read forever goes stale silently.** A pre-baked
-   `dashboard.json` re-rendered an 88-player board for hours while appearing to update.
-   Build fresh from functions.
-7. **Never copy `dashboard.html` back over `dash_template.html`** — that is how the
-   template ended up with two of everything and a syntax error killed every handler.
-8. **A patch anchor that matches twice lands in the wrong place.** Removing a block by
-   plain string search deleted the legitimate copy and left the broken one.
+1. **Perceived value, not projections, decides trades.** A manager values what he has
+   SEEN. `perception.py` models this — recent performance at 60% weight in week 2,
+   decaying to 28% by week 9.
+2. **A big perceived-vs-projected gap is NOT automatically a sell.** Check whether the
+   ROLE supports the points first. Olave's 28.2 on 13 targets at 86% snaps meant my
+   projection was wrong, not that he was inflated. `role_supported()` gates this.
+3. **Draft capital matters.** He killed Olave (ADP 20) + Waddle (44) for Metcalf (64).
+4. **One week is not a sample.** Do not sell or drop on one bad game. Do act on
+   structural holes that predate the season.
+5. **Snap share is the role; team pass attempts are what the role is worth.**
+6. **A handcuff to another manager's starter is worthless.**
+7. **Verify rosters against the API.** He caught a hardcoded roster going stale.
 
-## Running it
+---
+
+## 6. Rules I broke — do not repeat
+
+**NEVER suggest a trade without running it first.** Broken three times: Waddle/Henry,
+Waddle/Cook, Olave+Waddle/Metcalf. All three were declined-on-arrival or bad value.
+Run `perception.acceptable()` AND the lineup delta BEFORE naming a player.
+
+**NEVER copy `dashboard.html` over `dash_template.html`.** It duplicates the whole
+template; a duplicate `const` kills every handler on the page.
+
+**Any file written once and read forever goes stale silently.** Three times:
+`dashboard.json`, `sleeper_meta.csv`, a hardcoded roster. Always fetch.
+
+**A patch anchor matching in two places lands in the wrong one.** Remove by index
+within the target function, not by string search.
+
+---
+
+## 7. Open items
+
+- **Lineup**: Price still starting over Croskey-Merritt.
+- **GitHub Action**: likely never enabled. One click in the Actions tab.
+- **Dashboard from a local file** has origin `null` — live fetch blocked, falls back to
+  a build snapshot. Also breaks player photos and the unranked drill-down. Serve over
+  http or GitHub Pages.
+- **`docs/index.html` never pushed** — `nathansantamaria.github.io/FFAgent/` returns 403.
+- **`write.py` has never executed a click.**
+- **10+ commits unpushed** as of this writing — Nathan pushes manually.
+
+---
+
+## 8. Run it
 
 ```bash
-pip install -r requirements.txt
-
-python build_dash.py                                  # rebuild dashboard.html
-python draft_live.py --draft-id 1400160157035446272   # on the clock, live
-python draft_live.py --picks "Gibbs,Bijan,..."        # manual/testing
-python run.py --agenda                                # what fires next
-python run.py --crontab | crontab -                   # NOT YET INSTALLED
-python test_e2e.py                                    # offline end-to-end
-python -m ffagent.gamelog                             # regenerate weekly logs (slow)
+pip install -r requirements.txt --break-system-packages
+python build_dash.py          # rebuild dashboard.html
+python -m ffagent.gamelog     # weekly logs, slow, needs nflverse
 ```
 
-## Before the draft — do these
+Key modules: `myboard` (the board), `perception` (what others think), `roster`
+(verification), `livedata` (repo-committed Sleeper data), `objective` (playoff
+weighting), `matchups`, `units`, `participation`, `feed`, `news`, `gamelog`.
 
-1. **Re-pull ADP the morning of 8 Sep.** Current snapshot is 31 Aug. Preseason ADP moves
-   fast and the whole faller-detection edge depends on it being current.
-   `fantasyfootballcalculator.com/api/v1/adp/ppr?teams=10&year=2026&position=all`
-2. **Probe write.py selectors** once a roster exists:
-   `python -m ffagent.write --league-id 1400160155982639104 --probe --live`
-3. **Install cron** on an always-on machine. The Sunday 11:30 inactive sweep is the
-   highest-value job and it has never run.
+---
 
-## Open gaps
+## 9. Long-term goal
 
-- `write.py` has never executed a click. Addressing scheme solved (row index, not label);
-  interaction unproven because the roster is empty.
-- No read on the nine managers. Largest available edge; no data buys it.
-- QB scoring diverges from nflverse on 44% of rows, mean +0.45. Bounded, unexplained.
-- Game logs cover 53/59 players, career table 39/59 — name matching, needs an ID join.
-- 2026 in-season schedule unpublished, so `matchups.schedule()` returns empty.
-- `ffagent/dashboard.py` is now a shim. The original generator was deleted 1 Sep and is
-  not recoverable; nothing it did is missing from `build_dash.py`.
-
-## Long-term goal
-
-Turn this into a social platform: share with friends, make your own rankings, view
-others', create and share short-form content (highlights, reposted fantasy videos),
-across different sports leagues. Build the agent logic first, then port it.
+A social platform: share rankings with friends, view others', create short-form content
+across sports leagues. Agent logic first, then the app.

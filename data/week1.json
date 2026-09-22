@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-09-10",
+  "week": 1,
+  "games_final": 1,
+  "results": {
+    "Jaxon Smith-Njigba": [30.2, 1],
+    "Rhamondre Stevenson": [16.5, 1],
+    "Jadarian Price": [5.2, 1],
+    "A.J. Brown": [5.6, 1],
+    "Drake Maye": [12.4, 1],
+    "Cooper Kupp": [5.5, 1],
+    "Hunter Henry": [5.6, 1],
+    "Mack Hollins": [9.1, 1]
+  },
+  "note": "Only SEA 13 NE 10 has been played. One game is 20% weight under games/(games+4)."
+}
