@@ -441,6 +441,38 @@ function useSnapshot(){
   return true;
 }
 
+// Data source, in order of freshness:
+//   1. Sleeper directly -- live to the second, but blocked when the page is
+//      opened as a local file (origin "null").
+//   2. The repo, via raw.githubusercontent.com -- refreshed by the scheduled
+//      Action and served with access-control-allow-origin: *, so it WORKS from
+//      a null origin. At most a few hours old.
+//   3. The build-time snapshot baked into this file. Last resort.
+//
+// Tier 2 is why opening this file directly is now useful rather than stale:
+// it gets real data without a web server.
+const REPO_DATA = 'https://raw.githubusercontent.com/nathansantamaria/FFAgent/main/data';
+
+async function loadFromRepo(){
+  // Cache-buster: raw.githubusercontent caches for 5 minutes and a fantasy
+  // deadline is exactly when you do not want a cached roster.
+  const bust = '?t=' + Date.now();
+  const [ros, mus] = await Promise.all([
+    fetch(`${REPO_DATA}/rosters.json${bust}`).then(r => r.json()),
+    fetch(`${REPO_DATA}/matchups.json${bust}`).then(r => r.json()).catch(() => null)]);
+  if (!ros || !ros.teams) throw new Error('no repo data');
+
+  const names = Object.keys(ros.teams);
+  LIVE.rosters = names.map((t, i) => ({
+    id: i + 1, team: t, players: ros.teams[t],
+    starters: t === ros.my_team ? (ros.my_starters || []) : []}));
+  LIVE.matchups = (mus && mus.matchups) ? mus.matchups.map(p =>
+    p.map(x => ({team: x.team, points: x.points, pp: x.players_points || {}}))) : [];
+  LIVE.week = ros.week;
+  LIVE.at = ros.fetched_at ? new Date(ros.fetched_at) : null;
+  LIVE.ok = true; LIVE.source = 'repo';
+}
+
 async function loadLive(){
   try {
     const [state, users, rosters] = await Promise.all([
@@ -469,16 +501,35 @@ async function loadLive(){
     LIVE.at = new Date(); LIVE.ok = true; LIVE.source = 'live';
   } catch (e) {
     LIVE.err = String(e).slice(0,120);
-    // Fall back rather than showing nothing. Blank panels look like a broken
-    // page; stale panels that say they are stale are useful.
-    useSnapshot();
+    // Sleeper is unreachable (almost always the null-origin block). Try the
+    // repo, which the Action keeps current and which allows any origin.
+    try {
+      await loadFromRepo();
+    } catch (e2) {
+      // Fall back rather than showing nothing. Blank panels look like a broken
+      // page; stale panels that say they are stale are useful.
+      useSnapshot();
+    }
   }
   renderLive();
+}
+
+function ageText(){
+  if (!LIVE.at) return 'unknown age';
+  const h = (Date.now() - LIVE.at.getTime()) / 36e5;
+  if (h < 1) return `${Math.round(h * 60)} min ago`;
+  if (h < 48) return `${h.toFixed(1)}h ago`;
+  return `${Math.round(h / 24)}d ago`;
 }
 
 function liveStamp(){
   if (LIVE.source === 'live')
     return `<span class="fresh">● live · week ${LIVE.week} · fetched ${LIVE.at.toLocaleTimeString()}</span>`;
+  if (LIVE.source === 'repo') {
+    const h = LIVE.at ? (Date.now() - LIVE.at.getTime()) / 36e5 : 99;
+    return `<span class="${h < 12 ? 'fresh' : 'stale'}">● week ${LIVE.week} · from the
+      repo, updated ${ageText()}${h >= 12 ? ' — the scheduled fetch may have stopped' : ''}</span>`;
+  }
   if (LIVE.source === 'snapshot') {
     const when = LIVE.at ? LIVE.at.toLocaleString() : 'unknown time';
     return `<span class="stale">● snapshot from ${when} — live fetch blocked.
