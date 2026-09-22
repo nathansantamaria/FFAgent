@@ -1,0 +1,150 @@
+{
+ "fetched_at": "2026-09-22T20:07:35+00:00",
+ "week": 2,
+ "games": [
+  {
+   "name": "DET @ BUF",
+   "status": "Final",
+   "date": "2026-09-18",
+   "score": {
+    "BUF": "41",
+    "DET": "31"
+   }
+  },
+  {
+   "name": "CAR @ ATL",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "ATL": "3",
+    "CAR": "34"
+   }
+  },
+  {
+   "name": "MIN @ CHI",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "CHI": "3",
+    "MIN": "9"
+   }
+  },
+  {
+   "name": "PHI @ TEN",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "TEN": "20",
+    "PHI": "24"
+   }
+  },
+  {
+   "name": "PIT @ NE",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "NE": "20",
+    "PIT": "3"
+   }
+  },
+  {
+   "name": "GB @ NYJ",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "NYJ": "17",
+    "GB": "20"
+   }
+  },
+  {
+   "name": "CLE @ TB",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "TB": "19",
+    "CLE": "23"
+   }
+  },
+  {
+   "name": "NO @ BAL",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "BAL": "17",
+    "NO": "24"
+   }
+  },
+  {
+   "name": "CIN @ HOU",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "HOU": "6",
+    "CIN": "20"
+   }
+  },
+  {
+   "name": "JAX @ DEN",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "DEN": "20",
+    "JAX": "13"
+   }
+  },
+  {
+   "name": "LV @ LAC",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "LAC": "14",
+    "LV": "26"
+   }
+  },
+  {
+   "name": "WSH @ DAL",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "DAL": "37",
+    "WSH": "20"
+   }
+  },
+  {
+   "name": "SEA @ ARI",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "ARI": "7",
+    "SEA": "31"
+   }
+  },
+  {
+   "name": "MIA @ SF",
+   "status": "Final",
+   "date": "2026-09-20",
+   "score": {
+    "SF": "35",
+    "MIA": "13"
+   }
+  },
+  {
+   "name": "IND @ KC",
+   "status": "Final",
+   "date": "2026-09-21",
+   "score": {
+    "KC": "33",
+    "IND": "30"
+   }
+  },
+  {
+   "name": "NYG @ LAR",
+   "status": "Final",
+   "date": "2026-09-22",
+   "score": {
+    "LAR": "28",
+    "NYG": "6"
+   }
+  }
+ ]
+}
