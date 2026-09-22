@@ -574,6 +574,12 @@ fetch('https://api.sleeper.app/v1/players/nfl')
                p.ht = p.ht || u.ht; p.wt = p.wt || u.wt; p.col = p.col || u.col; }
     });
     renderRanks();
+    // Re-render Team and League too. They resolve Sleeper player IDs to names
+    // through UNIVERSE, and the live roster fetch usually finishes first --
+    // players/nfl is several megabytes. Without this the roster renders as raw
+    // IDs (11566, 9226) and simply stays that way, because nothing ever asked
+    // it to draw again.
+    if (LIVE.ok) renderLive();
     const n = document.getElementById('unicount');
     if (n) n.textContent = UNIVERSE.length;
   })
