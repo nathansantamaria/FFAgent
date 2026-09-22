@@ -1,4 +1,10 @@
-"""Rebuild dashboard.html from live data. Run after every refresh."""
+"""Rebuild dashboard.html from live data. Run after every refresh.
+
+Every file read and write here passes encoding="utf-8" explicitly. Windows
+Python defaults to cp1252, which cannot decode the em-dashes and bullets in
+dash_template.html -- the build works on Linux and dies on Windows with a
+UnicodeDecodeError. Do not drop the encoding argument.
+"""
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,15 +25,57 @@ from ffagent import simulate as _sim
 _wk = {}
 _wkp = Path("data") / "week1.json"
 if _wkp.exists():
-    _w = json.loads(_wkp.read_text())
+    _w = json.loads(_wkp.read_text(encoding="utf-8"))
     _wk = {k: (v[0], v[1]) for k, v in _w.get("results", {}).items()}
 _rank = M.annotate(M.build(in_season=_wk))
-_meta = {r["name"]: r for r in _csv.DictReader(open(Path("data") / "sleeper_meta.csv"))}
+_meta = {r["name"]: r for r in _csv.DictReader(open(Path("data") / "sleeper_meta.csv", encoding="utf-8"))}
 _picks = [x.overall for x in _sim.pick_numbers(M.MY_SLOT, L.teams, 15)]
 _adp = _sim.load_adp()
-_draws = _sim.simulate(_adp, n=20000)
-_surv = {str(pk): {r[0]: round(r[3], 3) for r in _sim.survival(_adp, _draws, pk)}
-         for pk in _picks[:8]}
+
+# Survival simulation: 20,000 mock drafts, and by far the slowest thing in this
+# build -- two to three minutes.
+#
+# It answers exactly one question: who is still on the board at my next pick.
+# That question stops existing the moment the draft ends. Running it every week
+# of the season was pure waste, and it is why a rebuild took minutes instead of
+# seconds.
+#
+# So: skip it entirely once the draft is done, and cache it even before that,
+# because the answer only changes when ADP does.
+_SURV_CACHE = Path("data") / "survival.json"
+
+
+def _draft_done() -> bool:
+    """True once a roster exists. Pre-draft Sleeper returns empty rosters."""
+    for f in ("rosters.json", "league_state.json", "season_log.json"):
+        fp = Path("data") / f
+        if not fp.exists():
+            continue
+        try:
+            d = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if d.get("my_roster") or d.get("record") or (d.get("week") or 0) >= 1:
+            if d.get("my_roster") or d.get("record"):
+                return True
+    return False
+
+
+_surv = {}
+if _draft_done():
+    print("  draft complete — skipping the 20k survival simulation")
+    if _SURV_CACHE.exists():
+        # Keep it for the Draft tab's historical view; it is not recomputed.
+        _surv = json.loads(_SURV_CACHE.read_text(encoding="utf-8"))
+elif _SURV_CACHE.exists():
+    print("  using cached survival simulation (delete data/survival.json to redo)")
+    _surv = json.loads(_SURV_CACHE.read_text(encoding="utf-8"))
+else:
+    print("  running survival simulation, 20k drafts — this takes a few minutes")
+    _draws = _sim.simulate(_adp, n=20000)
+    _surv = {str(pk): {r[0]: round(r[3], 3) for r in _sim.survival(_adp, _draws, pk)}
+             for pk in _picks[:8]}
+    _SURV_CACHE.write_text(json.dumps(_surv), encoding="utf-8")
 
 board = []
 for _i, _x in enumerate(_rank, 1):
@@ -84,8 +132,8 @@ rkmap = {r.name: r for r in rk}
 movers = [{"name": r.name, "pos": r.pos, "from": r.prev_rank, "to": r.rank,
            "d": r.movement, "why": r.explain()[:2]} for r in _rk.biggest_moves(rk, 8)]
 
-logs = json.loads((Path("data")/"gamelogs.json").read_text()) if (Path("data")/"gamelogs.json").exists() else {}
-career = json.loads((Path("data")/"career.json").read_text()) if (Path("data")/"career.json").exists() else {}
+logs = json.loads((Path("data")/"gamelogs.json").read_text(encoding="utf-8")) if (Path("data")/"gamelogs.json").exists() else {}
+career = json.loads((Path("data")/"career.json").read_text(encoding="utf-8")) if (Path("data")/"career.json").exists() else {}
 rows_json = json.dumps([{**r, "why": why(r), "logs": logs.get(r["name"], []),
                           "career": career.get(r["name"], []),
                           "mv": mv.get(r["name"]),
@@ -96,7 +144,7 @@ plan = M.draft_plan(M.build())
 check = M.plan_check(plan)
 pend = decisions.pending()
 
-html = Path("dash_template.html").read_text()
+html = Path("dash_template.html").read_text(encoding="utf-8")
 html = html.replace("__DATA__", rows_json)
 html = html.replace("__PICKS__", json.dumps(picks))
 html = html.replace("__PLAN__", json.dumps(plan))
@@ -150,8 +198,8 @@ html = html.replace("__NEWS__", json.dumps(categorised))
 # local file, where the live fetch cannot run.
 _snap = {}
 try:
-    _rj = json.loads((Path("data") / "rosters.json").read_text())
-    _lj = json.loads((Path("data") / "league_state.json").read_text()) \
+    _rj = json.loads((Path("data") / "rosters.json").read_text(encoding="utf-8"))
+    _lj = json.loads((Path("data") / "league_state.json").read_text(encoding="utf-8")) \
         if (Path("data") / "league_state.json").exists() else {}
     _teams = _rj.get("teams") or {}
     _snap = {
@@ -193,7 +241,7 @@ html = html.replace("__POSSTR__", json.dumps(posstr))
 _ls = {}
 _lsp = Path("data") / "league_state.json"
 if _lsp.exists():
-    _ls = json.loads(_lsp.read_text())
+    _ls = json.loads(_lsp.read_text(encoding="utf-8"))
 html = html.replace("__LEAGUE__", json.dumps({
     "matchups": _ls.get("matchups_week1", []),
     "week": _ls.get("week"),
@@ -217,5 +265,5 @@ _samples = [
     _dec.build_trade("Jaylen Waddle", "Derrick Henry", "Ysa084", 4.2, 4.0),
 ]
 html = html.replace("__PENDING__", json.dumps([d.as_dict() for d in _samples]))
-Path("dashboard.html").write_text(html)
+Path("dashboard.html").write_text(html, encoding="utf-8")
 print("wrote dashboard.html")
