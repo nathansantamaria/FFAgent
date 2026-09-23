@@ -1,149 +1,149 @@
 {
- "fetched_at": "2026-09-22T20:07:35+00:00",
- "week": 2,
+ "fetched_at": "2026-09-23T08:05:52+00:00",
+ "week": 3,
  "games": [
   {
-   "name": "DET @ BUF",
-   "status": "Final",
-   "date": "2026-09-18",
+   "name": "ATL @ GB",
+   "status": "Scheduled",
+   "date": "2026-09-25",
    "score": {
-    "BUF": "41",
-    "DET": "31"
+    "GB": "0",
+    "ATL": "0"
    }
   },
   {
-   "name": "CAR @ ATL",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "LAC @ BUF",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "ATL": "3",
-    "CAR": "34"
+    "BUF": "0",
+    "LAC": "0"
    }
   },
   {
-   "name": "MIN @ CHI",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "CAR @ CLE",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "CHI": "3",
-    "MIN": "9"
+    "CLE": "0",
+    "CAR": "0"
    }
   },
   {
-   "name": "PHI @ TEN",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "NYJ @ DET",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "TEN": "20",
-    "PHI": "24"
+    "DET": "0",
+    "NYJ": "0"
    }
   },
   {
-   "name": "PIT @ NE",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "HOU @ IND",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "NE": "20",
-    "PIT": "3"
+    "IND": "0",
+    "HOU": "0"
    }
   },
   {
-   "name": "GB @ NYJ",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "KC @ MIA",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "NYJ": "17",
-    "GB": "20"
+    "MIA": "0",
+    "KC": "0"
    }
   },
   {
-   "name": "CLE @ TB",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "TEN @ NYG",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "TB": "19",
-    "CLE": "23"
+    "NYG": "0",
+    "TEN": "0"
    }
   },
   {
-   "name": "NO @ BAL",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "CIN @ PIT",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "BAL": "17",
-    "NO": "24"
+    "PIT": "0",
+    "CIN": "0"
    }
   },
   {
-   "name": "CIN @ HOU",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "SEA @ WSH",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "HOU": "6",
-    "CIN": "20"
+    "WSH": "0",
+    "SEA": "0"
    }
   },
   {
-   "name": "JAX @ DEN",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "NE @ JAX",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "DEN": "20",
-    "JAX": "13"
+    "JAX": "0",
+    "NE": "0"
    }
   },
   {
-   "name": "LV @ LAC",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "ARI @ SF",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "LAC": "14",
-    "LV": "26"
+    "SF": "0",
+    "ARI": "0"
    }
   },
   {
-   "name": "WSH @ DAL",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "MIN @ TB",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "DAL": "37",
-    "WSH": "20"
+    "TB": "0",
+    "MIN": "0"
    }
   },
   {
-   "name": "SEA @ ARI",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "BAL VS DAL",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "ARI": "7",
-    "SEA": "31"
+    "DAL": "0",
+    "BAL": "0"
    }
   },
   {
-   "name": "MIA @ SF",
-   "status": "Final",
-   "date": "2026-09-20",
+   "name": "LV @ NO",
+   "status": "Scheduled",
+   "date": "2026-09-27",
    "score": {
-    "SF": "35",
-    "MIA": "13"
+    "NO": "0",
+    "LV": "0"
    }
   },
   {
-   "name": "IND @ KC",
-   "status": "Final",
-   "date": "2026-09-21",
+   "name": "LAR @ DEN",
+   "status": "Scheduled",
+   "date": "2026-09-28",
    "score": {
-    "KC": "33",
-    "IND": "30"
+    "DEN": "0",
+    "LAR": "0"
    }
   },
   {
-   "name": "NYG @ LAR",
-   "status": "Final",
-   "date": "2026-09-22",
+   "name": "PHI @ CHI",
+   "status": "Scheduled",
+   "date": "2026-09-29",
    "score": {
-    "LAR": "28",
-    "NYG": "6"
+    "CHI": "0",
+    "PHI": "0"
    }
   }
  ]
