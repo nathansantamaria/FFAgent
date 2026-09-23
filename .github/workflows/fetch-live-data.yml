@@ -74,8 +74,26 @@ jobs:
           mine = next((r for r in rosters
                        if os.environ['MY_TEAM'].lower() in (tname.get(r.get('owner_id'), '')).lower()), None)
 
+          # Waiver position matters as much as who is available: under reverse
+          # standings it changes every week, and winning pushes you down the
+          # order. Claiming the most-added player in Sleeper from position 7 is
+          # a wasted claim.
+          standings = sorted(
+              [{'team': tname.get(r.get('owner_id')),
+                'wins': (r.get('settings') or {}).get('wins', 0),
+                'losses': (r.get('settings') or {}).get('losses', 0),
+                'pf': round((r.get('settings') or {}).get('fpts', 0)
+                            + ((r.get('settings') or {}).get('fpts_decimal', 0) or 0) / 100, 2),
+                'waiver_position': (r.get('settings') or {}).get('waiver_position')}
+               for r in rosters if r.get('owner_id') in tname],
+              key=lambda x: (x['waiver_position'] is None, x['waiver_position'] or 99))
+
           json.dump({
               'fetched_at': now, 'league_id': L, 'week': week,
+              'standings': standings,
+              'my_waiver_position': next(
+                  (s['waiver_position'] for s in standings
+                   if s['team'] == (tname.get(mine['owner_id']) if mine else None)), None),
               'my_team': tname.get(mine['owner_id']) if mine else None,
               'my_roster': [nm(p) for p in (mine.get('players') or [])] if mine else [],
               'my_starters': [nm(p) for p in (mine.get('starters') or [])] if mine else [],

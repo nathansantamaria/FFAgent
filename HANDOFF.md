@@ -114,7 +114,33 @@ and not made. Raise it once, then drop it — it is his call.
 
 ---
 
-## 5. How Nathan thinks — seven corrections, each fixed a real bug
+## 4b. Live situation as of 22 Sep, week 3
+
+**Jayden Daniels dislocated his arm.** Length unknown, possibly ~5 weeks. Nathan is
+keeping him for now — two IR slots are empty, so check whether Sleeper has marked him
+IR-eligible; if so he costs nothing to hold.
+
+**Waiver position is roughly 7 of 10**, not 1. Reverse standings recalculates weekly and
+winning week 2 pushed him down. The Action now records the real number — read
+`data/rosters.json` for `my_waiver_position` rather than inferring it.
+
+**Pending claim chain** (his technique — several claims, same drop, first that clears
+consumes it):
+
+```
+chain A, drop Jordan Addison:     Bryce Young QB CAR, Tyler Shough QB NO, Drew Lock QB SEA
+chain B, drop Pat Freiermuth:     Jonah Coleman RB DEN, Emanuel Wilson RB SEA
+```
+
+I argued Shough first on volume (NO 45 att/gm vs CAR 36) plus the Olave/Vele stack.
+Nathan rates Young's rushing. Unresolved, and the rushing point is a real gap in the
+model — see LOGIC.md.
+
+**Denzel Boston (WR, CLE)** — I read him as role-without-volume off week 1 alone.
+Nathan says he is the new Cleveland WR1 and has produced two straight weeks. My read
+was stale; verify week 2 before repeating it.
+
+## 5. How Nathan thinks — corrections, each fixed a real bug
 
 1. **Perceived value, not projections, decides trades.** A manager values what he has
    SEEN. `perception.py` models this — recent performance at 60% weight in week 2,

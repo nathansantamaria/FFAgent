@@ -403,6 +403,62 @@ Cleveland's snaps for 4.1 points; Mike Gesicki scored 18.8 on 33%. I nearly drop
 Fannin to chase Gesicki — which is the fade profile the backtest says regresses at
 −1.02 PPG, against a buy profile worth +0.37.
 
+### Quarterbacks are not receivers — rushing is missing from the model
+
+I ranked three streamers purely on team pass attempts: Shough (NO, 45/gm), Young (CAR,
+36), Lock (SEA, 25). Nathan pointed out that **Bryce Young runs a lot**, and rushing
+never enters that number.
+
+That is a real hole. A rushing quarterback carries floor no pass-volume figure captures
+— yards on scrambles and, more importantly, goal-line touchdowns that a pocket passer
+gives to a running back. Team pass attempts is the right lens for a receiver, because a
+receiver only eats from that pool. A quarterback eats from two.
+
+**Until this is measured, treat pass volume as necessary and not sufficient for QBs**,
+and check rushing attempts before ranking streamers. The fix is to score quarterbacks on
+projected passing points plus projected rushing points rather than on team attempts.
+
+### A drop candidate can be an injured starter
+
+When a starter is out multi-week, he is often the correct drop rather than the
+worst player on the roster — a QB you cannot start is worth less than a WR6 you can.
+
+Two caveats that decide it:
+
+- **Never drop him before the replacement clears.** At waiver position 7, dropping your
+  only quarterback and having both claims fail leaves the slot empty. Drop the fringe
+  player for the claim and cut the injured starter next week, once the replacement is
+  in hand.
+- **Check IR eligibility first.** Two IR slots sit empty. Once Sleeper marks him
+  IR-eligible he costs nothing to keep, and a five-week absence still leaves most of
+  the season plus the playoff run.
+
+**His trade value is also at its floor while he is out.** A returning starter is worth
+more to a desperate manager in week 6 than the streamer who replaced him.
+
+### Claim chaining when you do not hold priority
+
+**Nathan's technique, and my model had it backwards.** `waivers.py` treated two claims
+sharing a drop as a bug to be de-duplicated. It is a feature.
+
+When you are not first in the waiver order, rank the players you want and submit a claim
+for each — **all pointing at the same drop**. The platform processes them in your stated
+order. The first that clears consumes the drop; every later claim then has no valid drop
+and fails harmlessly.
+
+You get exactly one player: your highest-ranked one that survived to your turn. The
+alternative — a single claim on the name you want most — is a coin flip that returns
+nothing when six teams pick ahead of you.
+
+`claims(..., chain=True)` builds the ranked chain. The de-duplication path remains for
+the other case: several claims you genuinely want *all* of, where a shared drop really
+would break the second.
+
+**Waiver position changes every week under reverse standings, and winning pushes you
+down.** After week 1 Nathan was position 1 (last place); after winning week 2 he is
+around 7th. Always check the current order before picking a target — a claim on the
+most-added player in Sleeper is a lock from position 1 and a wasted slot from position 7.
+
 ### Waivers
 
 **Reverse standings** (this league): priority is your inverse record and **cannot be

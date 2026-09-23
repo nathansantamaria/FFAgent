@@ -158,10 +158,32 @@ def build_claims(
 
     claims.sort(key=lambda c: (-c.gain, -c.add.edge))
 
-    # Each drop can only be spent once. Two claims naming the same player look
-    # fine individually and break if both clear -- the second has no valid drop
-    # and the platform either rejects it or cuts someone you did not choose.
-    # Re-solve the lower-priority claims against the remaining roster.
+    # Two claims naming the same drop is a FEATURE, not a bug -- I had this
+    # backwards.
+    #
+    # When you do not hold waiver priority, the right play is a CHAIN: rank the
+    # players you want, submit a claim for each, and point every one of them at
+    # the SAME drop. The platform processes them in your stated order. The first
+    # that clears consumes the drop, and every later claim in the chain then has
+    # no valid drop and fails harmlessly. You get exactly one player -- your
+    # highest-ranked one that survived to your turn -- instead of gambling the
+    # whole claim on a name six teams ahead of you will take first.
+    #
+    # `chain=True` preserves that. The de-duplication below is for the other
+    # case: several claims you genuinely want ALL of, where a shared drop really
+    # would break the second one.
+    if chain:
+        # Ranked chain against one drop. Order is the preference order.
+        drop = claims[0].drop if claims and claims[0].drop else None
+        out = []
+        for i, c in enumerate(claims[:max_claims], 1):
+            out.append(Claim(c.add, drop, c.gain, c.bid, f"chain #{i}",
+                             (f"chain position {i}. Fires only if every claim above it "
+                              f"failed; they all release the same drop, so at most one "
+                              f"lands." + (" " + c.why if c.why else "")),
+                             c.confidence))
+        return out
+
     spent: set[str] = set()
     resolved: list[Claim] = []
     for c in claims:
