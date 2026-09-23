@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-09-22T20:07:35+00:00",
+ "fetched_at": "2026-09-23T08:05:52+00:00",
  "adds": [
   {
    "name": "Emanuel Wilson",
-   "count": 2258568
+   "count": 3380310
   },
   {
    "name": "Adonai Mitchell",
-   "count": 1374688
-  },
-  {
-   "name": "Bryce Young",
-   "count": 1079888
+   "count": 2626056
   },
   {
    "name": "Tyler Shough",
-   "count": 947072
+   "count": 1626968
+  },
+  {
+   "name": "Bryce Young",
+   "count": 1238676
   },
   {
    "name": "Tre Tucker",
-   "count": 909912
+   "count": 1107516
   },
   {
    "name": "Zach Ertz",
-   "count": 672597
-  },
-  {
-   "name": "Darren Waller",
-   "count": 559530
+   "count": 910611
   },
   {
    "name": "Keon Coleman",
-   "count": 445770
+   "count": 803997
   },
   {
-   "name": "Denzel Boston",
-   "count": 403510
-  },
-  {
-   "name": "Jonah Coleman",
-   "count": 390552
-  },
-  {
-   "name": "Tank Bigsby",
-   "count": 381472
+   "name": "Darren Waller",
+   "count": 732510
   },
   {
    "name": "Minnesota Vikings",
-   "count": 353240
+   "count": 625285
   },
   {
-   "name": "Kirk Cousins",
-   "count": 348904
+   "name": "Denzel Boston",
+   "count": 605744
   },
   {
-   "name": "Chase McLaughlin",
-   "count": 330128
+   "name": "Tank Bigsby",
+   "count": 562562
   },
   {
-   "name": "Terrance Ferguson",
-   "count": 297776
+   "name": "Jonah Coleman",
+   "count": 547980
   },
   {
    "name": "Marcus Mariota",
-   "count": 291760
+   "count": 508092
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 491552
+  },
+  {
+   "name": "Terrance Ferguson",
+   "count": 463208
   },
   {
    "name": "Kyler Murray",
-   "count": 272080
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 272052
-  },
-  {
-   "name": "Dontayvion Wicks",
-   "count": 256971
+   "count": 461616
   },
   {
    "name": "Oronde Gadsden",
-   "count": 247180
+   "count": 436645
   },
   {
-   "name": "Malachi Fields",
-   "count": 244090
+   "name": "Dontayvion Wicks",
+   "count": 406515
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 378072
   },
   {
    "name": "Tyson Bagent",
-   "count": 242100
+   "count": 337122
   },
   {
    "name": "Jared Goff",
-   "count": 220285
+   "count": 320055
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 299907
+  },
+  {
+   "name": "Alvin Kamara",
+   "count": 258704
   },
   {
    "name": "Tyquan Thornton",
-   "count": 152145
+   "count": 251580
   },
   {
-   "name": "Darnell Mooney",
-   "count": 146232
+   "name": "Xavier Worthy",
+   "count": 205965
   }
  ]
 }
