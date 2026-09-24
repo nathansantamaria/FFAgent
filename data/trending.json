@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-09-23T15:17:48+00:00",
+ "fetched_at": "2026-09-24T15:42:49+00:00",
  "adds": [
   {
    "name": "Emanuel Wilson",
-   "count": 3198042
+   "count": 623718
   },
   {
    "name": "Adonai Mitchell",
-   "count": 2620560
+   "count": 497616
   },
   {
    "name": "Tyler Shough",
-   "count": 1650352
-  },
-  {
-   "name": "Bryce Young",
-   "count": 1010256
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 1001904
-  },
-  {
-   "name": "Zach Ertz",
-   "count": 931527
-  },
-  {
-   "name": "Keon Coleman",
-   "count": 858942
-  },
-  {
-   "name": "Darren Waller",
-   "count": 741321
-  },
-  {
-   "name": "Minnesota Vikings",
-   "count": 659800
-  },
-  {
-   "name": "Tank Bigsby",
-   "count": 579586
+   "count": 345280
   },
   {
    "name": "Kyler Murray",
-   "count": 545560
+   "count": 297528
+  },
+  {
+   "name": "Zach Ertz",
+   "count": 279846
   },
   {
    "name": "Kirk Cousins",
-   "count": 542784
+   "count": 272488
   },
   {
-   "name": "Denzel Boston",
-   "count": 536980
+   "name": "Darren Waller",
+   "count": 269208
   },
   {
-   "name": "Terrance Ferguson",
-   "count": 498088
-  },
-  {
-   "name": "Jonah Coleman",
-   "count": 469392
-  },
-  {
-   "name": "Marcus Mariota",
-   "count": 462092
-  },
-  {
-   "name": "Oronde Gadsden",
-   "count": 449080
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 427520
-  },
-  {
-   "name": "Dontayvion Wicks",
-   "count": 390567
-  },
-  {
-   "name": "Emmett Johnson",
-   "count": 357264
-  },
-  {
-   "name": "Jared Goff",
-   "count": 317455
+   "name": "Keon Coleman",
+   "count": 261684
   },
   {
    "name": "Alvin Kamara",
-   "count": 300168
+   "count": 227584
   },
   {
-   "name": "Tyson Bagent",
-   "count": 298482
+   "name": "AJ Dillon",
+   "count": 209984
   },
   {
-   "name": "Tyquan Thornton",
-   "count": 265230
+   "name": "Tre Tucker",
+   "count": 207084
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 196792
+  },
+  {
+   "name": "Tank Bigsby",
+   "count": 184422
+  },
+  {
+   "name": "Terrance Ferguson",
+   "count": 153840
   },
   {
    "name": "C.J. Stroud",
-   "count": 240849
+   "count": 150017
+  },
+  {
+   "name": "Minnesota Vikings",
+   "count": 149710
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 135153
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 126306
+  },
+  {
+   "name": "Tyquan Thornton",
+   "count": 124600
+  },
+  {
+   "name": "Oronde Gadsden",
+   "count": 103060
+  },
+  {
+   "name": "Bryce Young",
+   "count": 99816
+  },
+  {
+   "name": "Malik Washington",
+   "count": 97744
+  },
+  {
+   "name": "New York Giants",
+   "count": 94132
+  },
+  {
+   "name": "Dontayvion Wicks",
+   "count": 94008
+  },
+  {
+   "name": "MarShawn Lloyd",
+   "count": 90909
   }
  ]
 }
