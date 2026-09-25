@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-09-24T15:42:49+00:00",
+ "fetched_at": "2026-09-25T15:44:03+00:00",
  "week": 3,
  "games": [
   {
    "name": "ATL @ GB",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-09-25",
    "score": {
-    "GB": "0",
-    "ATL": "0"
+    "GB": "14",
+    "ATL": "35"
    }
   },
   {
