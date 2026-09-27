@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-09-26T14:52:58+00:00",
+ "fetched_at": "2026-09-27T15:31:44+00:00",
  "adds": [
   {
    "name": "Terrance Ferguson",
-   "count": 286624
-  },
-  {
-   "name": "Darren Waller",
-   "count": 194589
-  },
-  {
-   "name": "Sam Darnold",
-   "count": 127218
-  },
-  {
-   "name": "AJ Dillon",
-   "count": 117416
-  },
-  {
-   "name": "Emanuel Wilson",
-   "count": 102681
+   "count": 519584
   },
   {
    "name": "Malik Washington",
-   "count": 97040
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 89624
-  },
-  {
-   "name": "Adonai Mitchell",
-   "count": 85416
+   "count": 226840
   },
   {
    "name": "Emmett Johnson",
-   "count": 81450
+   "count": 186453
   },
   {
    "name": "Xavier Hutchinson",
-   "count": 74774
+   "count": 177646
+  },
+  {
+   "name": "Tyreek Hill",
+   "count": 157152
+  },
+  {
+   "name": "Darren Waller",
+   "count": 137520
+  },
+  {
+   "name": "Sam Darnold",
+   "count": 115488
   },
   {
    "name": "Alvin Kamara",
-   "count": 66960
+   "count": 100304
   },
   {
-   "name": "Kyler Murray",
-   "count": 64664
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 58408
-  },
-  {
-   "name": "Keon Coleman",
-   "count": 55314
-  },
-  {
-   "name": "Deshaun Watson",
-   "count": 46800
-  },
-  {
-   "name": "Xavier Worthy",
-   "count": 45711
-  },
-  {
-   "name": "Tyquan Thornton",
-   "count": 44828
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 44628
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 43578
-  },
-  {
-   "name": "Oronde Gadsden",
-   "count": 39205
-  },
-  {
-   "name": "Isaiah Williams",
-   "count": 39012
-  },
-  {
-   "name": "Zach Ertz",
-   "count": 37944
-  },
-  {
-   "name": "Justice Hill",
-   "count": 36810
-  },
-  {
-   "name": "Tyler Shough",
-   "count": 35832
+   "name": "Kirk Cousins",
+   "count": 86128
   },
   {
    "name": "New York Giants",
-   "count": 33596
+   "count": 80648
+  },
+  {
+   "name": "AJ Dillon",
+   "count": 80032
+  },
+  {
+   "name": "Isaiah Williams",
+   "count": 78342
+  },
+  {
+   "name": "Tyson Bagent",
+   "count": 77856
+  },
+  {
+   "name": "Adonai Mitchell",
+   "count": 72368
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 69656
+  },
+  {
+   "name": "Kyler Murray",
+   "count": 64984
+  },
+  {
+   "name": "Travis Homer",
+   "count": 62440
+  },
+  {
+   "name": "Keon Coleman",
+   "count": 61956
+  },
+  {
+   "name": "Justice Hill",
+   "count": 59967
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 58473
+  },
+  {
+   "name": "Emanuel Wilson",
+   "count": 56592
+  },
+  {
+   "name": "Tyquan Thornton",
+   "count": 48013
+  },
+  {
+   "name": "Oronde Gadsden",
+   "count": 46515
+  },
+  {
+   "name": "Deshaun Watson",
+   "count": 46160
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 44910
   }
  ]
 }
