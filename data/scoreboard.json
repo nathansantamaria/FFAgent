@@ -1,86 +1,86 @@
 {
- "fetched_at": "2026-09-27T15:31:44+00:00",
+ "fetched_at": "2026-09-27T19:35:46+00:00",
  "week": 3,
  "games": [
   {
    "name": "LAC @ BUF",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "BUF": "0",
-    "LAC": "0"
+    "BUF": "10",
+    "LAC": "13"
    }
   },
   {
    "name": "CAR @ CLE",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "CLE": "0",
-    "CAR": "0"
+    "CLE": "10",
+    "CAR": "9"
    }
   },
   {
    "name": "NYJ @ DET",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "DET": "0",
-    "NYJ": "0"
+    "DET": "24",
+    "NYJ": "16"
    }
   },
   {
    "name": "HOU @ IND",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "IND": "0",
-    "HOU": "0"
+    "IND": "16",
+    "HOU": "10"
    }
   },
   {
    "name": "KC @ MIA",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "MIA": "0",
-    "KC": "0"
+    "MIA": "10",
+    "KC": "17"
    }
   },
   {
    "name": "TEN @ NYG",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "NYG": "0",
-    "TEN": "0"
+    "NYG": "12",
+    "TEN": "7"
    }
   },
   {
    "name": "CIN @ PIT",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "PIT": "0",
-    "CIN": "0"
+    "PIT": "24",
+    "CIN": "27"
    }
   },
   {
    "name": "SEA @ WSH",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "WSH": "0",
-    "SEA": "0"
+    "WSH": "24",
+    "SEA": "17"
    }
   },
   {
    "name": "NE @ JAX",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "JAX": "0",
-    "NE": "0"
+    "JAX": "28",
+    "NE": "6"
    }
   },
   {

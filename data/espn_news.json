@@ -1,12 +1,120 @@
 {
- "fetched_at": "2026-09-27T15:31:44+00:00",
+ "fetched_at": "2026-09-27T19:35:46+00:00",
  "articles": [
+  {
+   "headline": "Dolphins RB De'Von Achane suffers knee injury vs. Chiefs",
+   "summary": "Dolphins running back De'Von Achane suffered a knee injury against the Chiefs and was ruled out.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50044229/dolphins-rb-devon-achane-suffers-knee-injury-vs-chiefs",
+   "players": [
+    "De'Von Achane"
+   ]
+  },
+  {
+   "headline": "Ravens WR Zay Flowers to play after positive Rio workout",
+   "summary": "Ravens wide receiver Zay Flowers will play against the Cowboys in Rio de Janeiro after having an encouraging workout before the game.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50044202/ravens-flowers-play-having-positive-rio-workout-source-says",
+   "players": [
+    "Zay Flowers"
+   ]
+  },
+  {
+   "headline": "Fantasy football Week 3 inactives: Caleb Williams out, Puka Nacua uncertain, Zay Flowers a go",
+   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50021286/fantasy-football-injuries-nfl-week-3-inactive-active",
+   "players": [
+    "Jayden Daniels",
+    "Rico Dowdle",
+    "Dallas Goedert",
+    "Jaxson Dart",
+    "Caleb Douglas",
+    "David Njoku",
+    "Alec Pierce",
+    "Nico Collins",
+    "Cairo Santos",
+    "DeVonta Smith",
+    "Kyle Monangai",
+    "Saquon Barkley",
+    "Caleb Williams",
+    "Puka Nacua",
+    "JK Dobbins",
+    "Jonah Coleman",
+    "RJ Harvey",
+    "Mike Evans",
+    "Travis Etienne Jr",
+    "Aaron Jones Sr",
+    "Brock Bowers",
+    "Zay Flowers",
+    "Tyjae Spears",
+    "Sam Darnold",
+    "Jadarian Price",
+    "Michael Pittman Jr",
+    "Adonai Mitchell",
+    "Malik Nabers",
+    "Jalen Coker",
+    "Keon Coleman",
+    "DJ Moore"
+   ]
+  },
   {
    "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
    "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
    "published": "2026-09-27",
    "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
    "players": []
+  },
+  {
+   "headline": "Commanders LB Leo Chenal injured making tackle, carted off",
+   "summary": "Commanders linebacker Leo Chenal was carted off the field with a neck injury after making a tackle late in the second quarter against the Seahawks.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50044065/commanders-lb-leo-chenal-injured-making-tackle-carted-off",
+   "players": [
+    "Leo Chenal"
+   ]
+  },
+  {
+   "headline": "Bears QB Bagent clears protocol; Keenum likely to start vs. Eagles",
+   "summary": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at quarterback against the Eagles.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50044058/bears-qb-bagent-clears-protocol-keenum-likely-start-vs-eagles",
+   "players": [
+    "Tyson Bagent",
+    "Case Keenum"
+   ]
+  },
+  {
+   "headline": "NFL Week 3's best arrivals, led by Stefon Diggs",
+   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+   "players": [
+    "Jordan Love"
+   ]
+  },
+  {
+   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+   "summary": "Will Colin Simmons be the runaway top edge for 2027? How early could Jadan Baugh get picked in April? Here's NFL draft spin off Week 4 of the CFB season.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+   "players": []
+  },
+  {
+   "headline": "Where the Texans' offense needs to adjust",
+   "summary": "DJ Bien-Aime details the three things the Texans need to do to secure their first win of the season.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/video/clip/_/id/50042990/where-texans-offense-needs-adjust",
+   "players": []
+  },
+  {
+   "headline": "Jets without WR Adonai Mitchell (finger) vs. Lions",
+   "summary": "Jets wide receiver Adonai Mitchell is inactive Sunday because of a finger injury.",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/nfl/story/_/id/50042923/jets-wr-adonai-mitchell-finger-vs-lions",
+   "players": [
+    "Adonai Mitchell"
+   ]
   },
   {
    "headline": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
@@ -39,8 +147,8 @@
    ]
   },
   {
-   "headline": "Sources: Raiders TE Brock Bowers expected to play vs. Saints",
-   "summary": "Raiders tight end Brock Bowers is expected to play Sunday against the Saints, barring a surprise, a source told ESPN",
+   "headline": "Raiders TE Brock Bowers returning vs. Saints",
+   "summary": "Raiders tight end Brock Bowers is active for Sunday's game against the Saints.",
    "published": "2026-09-27",
    "url": "https://www.espn.com/nfl/story/_/id/50041546/sources-raiders-te-brock-bowers-expected-play-vs-saints",
    "players": [
@@ -77,6 +185,15 @@
    ]
   },
   {
+   "headline": "'Inside the Helmet': How Dak Prescott prepares for elite NFL defenses",
+   "summary": "'Inside the Helmet': How Dak Prescott prepares for elite NFL defenses",
+   "published": "2026-09-27",
+   "url": "https://www.espn.com/video/clip/_/id/50039990/how-dak-prescott-prepares-elite-nfl-defenses",
+   "players": [
+    "Dak Prescott"
+   ]
+  },
+  {
    "headline": "Broncos place RB Jonah Coleman (ankle) on IR",
    "summary": "Denver Broncos rookie running back Jonah Coleman was placed on injured reserve Saturday with an ankle injury he suffered in the team's Week 2 win over the Jacksonville Jaguars.",
    "published": "2026-09-26",
@@ -94,45 +211,6 @@
     "Gabe Jacas",
     "Caleb Lomu",
     "Drake Maye"
-   ]
-  },
-  {
-   "headline": "Fantasy football Week 3 inactives: Caleb Williams out, Puka Nacua uncertain, Sam Darnold a go",
-   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50021286/fantasy-football-injuries-nfl-week-3-inactive-active",
-   "players": [
-    "Jayden Daniels",
-    "Rico Dowdle",
-    "Dallas Goedert",
-    "Jaxson Dart",
-    "Caleb Douglas",
-    "David Njoku",
-    "Alec Pierce",
-    "Nico Collins",
-    "Cairo Santos",
-    "DeVonta Smith",
-    "Kyle Monangai",
-    "Saquon Barkley",
-    "Caleb Williams",
-    "Puka Nacua",
-    "JK Dobbins",
-    "Jonah Coleman",
-    "RJ Harvey",
-    "Mike Evans",
-    "Travis Etienne Jr",
-    "Aaron Jones Sr",
-    "Brock Bowers",
-    "Zay Flowers",
-    "Tyjae Spears",
-    "Sam Darnold",
-    "Jadarian Price",
-    "Michael Pittman Jr",
-    "Adonai Mitchell",
-    "Malik Nabers",
-    "Jalen Coker",
-    "Keon Coleman",
-    "DJ Moore"
    ]
   },
   {
@@ -196,7 +274,7 @@
   {
    "headline": "NFL Week 3 predictions: Upsets, fantasy sleepers, stat lines",
    "summary": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
-   "published": "2026-09-26",
+   "published": "2026-09-27",
    "url": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026",
    "players": []
   },
@@ -322,90 +400,6 @@
     "DeeJay Dallas",
     "Demond Claiborne",
     "Jordan Mason"
-   ]
-  },
-  {
-   "headline": "Todd Monken has 'huge belief' in Deshaun Watson",
-   "summary": "Todd Monken has 'huge belief' in Deshaun Watson",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/video/clip/_/id/50028668/todd-monken-huge-belief-deshaun-watson",
-   "players": [
-    "Deshaun Watson",
-    "Pat McAfee"
-   ]
-  },
-  {
-   "headline": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
-   "summary": "Bills wide receivers Keon Coleman and DJ Moore and defensive lineman Ed Oliver are questionable to play against the Chargers.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/nfl/story/_/id/50028662/bills-mark-keon-coleman-dj-moore-ed-oliver-questionable",
-   "players": [
-    "Keon Coleman",
-    "Ed Oliver",
-    "DJ Moore"
-   ]
-  },
-  {
-   "headline": "JSN: Jeremiah Smith has a chance to be the best",
-   "summary": "JSN: Jeremiah Smith has a chance to be the best",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/video/clip/_/id/50028579/jeremiah-smith-chance-best",
-   "players": [
-    "Jeremiah Smith",
-    "Jaxon Smith-Njigba"
-   ]
-  },
-  {
-   "headline": "Rams targeting Week 4 return for WR Puka Nacua",
-   "summary": "The Rams are targeting a Week 4 return for wide receiver Puka Nacua, who is doubtful to play against the Broncos.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
-   "players": [
-    "Puka Nacua"
-   ]
-  },
-  {
-   "headline": "NFL, NFLPA continue to monitor field conditions in Rio",
-   "summary": "Field experts for the NFL and the NFL Players Association have been in Brazil for days to monitor the playing surface at Maracan\u00e3 Stadium, NFLPA executive director JC Tretter said in a lengthy statement on Friday.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/nfl/story/_/id/50028554/nfl-nflpa-continue-monitor-field-conditions-rio",
-   "players": []
-  },
-  {
-   "headline": "Nick Bosa suffers a multi-week calf injury",
-   "summary": "Ian Rapoport provides an update on Nick Bosa's practice-related injury ahead of San Francisco's game vs. Arizona.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/video/clip/_/id/50028309/nick-bosa-suffers-multi-week-calf-injury",
-   "players": [
-    "Nick Bosa"
-   ]
-  },
-  {
-   "headline": "Nick Chubb retires with Browns ahead of game-day honor",
-   "summary": "Nick Chubb returned to Cleveland to officially retire as a member of the Browns, calling it \"better closure\" after his exit from the team following the 2024 season.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/nfl/story/_/id/50028226/nick-chubb-retires-browns-ahead-game-day-honor",
-   "players": [
-    "Nick Chubb"
-   ]
-  },
-  {
-   "headline": "Ian Rapoport details 'ridiculous problem' 49ers face with Nick Bosa",
-   "summary": "Ian Rapoport details 'ridiculous problem' 49ers face with Nick Bosa",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/video/clip/_/id/50028225/ian-rapoport-details-ridiculous-problem-49ers-face-nick-bosa",
-   "players": [
-    "Nick Bosa",
-    "Pat McAfee"
-   ]
-  },
-  {
-   "headline": "Sources: Giants' Jaxson Dart scheduled for left knee surgery Friday",
-   "summary": "Giants quarterback Jaxson Dart is scheduled to undergo surgery Friday on his left knee, sources told ESPN. The belief is it will be a meniscus and MCL repair.",
-   "published": "2026-09-25",
-   "url": "https://www.espn.com/nfl/story/_/id/50028187/sources-giants-jaxson-dart-scheduled-left-knee-surgery-friday",
-   "players": [
-    "Jaxson Dart"
    ]
   }
  ]

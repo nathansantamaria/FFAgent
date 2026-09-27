@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-27T15:31:44+00:00",
+ "fetched_at": "2026-09-27T19:35:46+00:00",
  "league_id": "1400160155982639104",
  "week": 3,
  "standings": [
@@ -53,28 +53,28 @@
    "waiver_position": 7
   },
   {
-   "team": "I cook brown rice",
-   "wins": 1,
-   "losses": 1,
-   "pf": 310.58,
-   "waiver_position": 8
-  },
-  {
    "team": "Artificial Domination",
    "wins": 1,
    "losses": 1,
    "pf": 276.9,
-   "waiver_position": 9
+   "waiver_position": 8
   },
   {
    "team": "JMann60",
    "wins": 1,
    "losses": 1,
    "pf": 261.24,
+   "waiver_position": 9
+  },
+  {
+   "team": "I cook brown rice",
+   "wins": 1,
+   "losses": 1,
+   "pf": 310.58,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 9,
+ "my_waiver_position": 8,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -129,7 +129,7 @@
    "Jalen Coker",
    "Cam Little",
    "Tyler Shough",
-   "Courtland Sutton",
+   "Deebo Samuel",
    "D'Andre Swift",
    "Juwan Johnson",
    "Travis Etienne",
