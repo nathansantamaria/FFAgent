@@ -1,55 +1,91 @@
 {
- "fetched_at": "2026-09-27T19:35:46+00:00",
+ "fetched_at": "2026-09-27T22:43:11+00:00",
  "week": 3,
  "games": [
   {
-   "name": "LAC @ BUF",
+   "name": "ARI @ SF",
    "status": "In Progress",
    "date": "2026-09-27",
    "score": {
-    "BUF": "10",
-    "LAC": "13"
+    "SF": "23",
+    "ARI": "20"
+   }
+  },
+  {
+   "name": "MIN @ TB",
+   "status": "In Progress",
+   "date": "2026-09-27",
+   "score": {
+    "TB": "13",
+    "MIN": "17"
+   }
+  },
+  {
+   "name": "BAL VS DAL",
+   "status": "In Progress",
+   "date": "2026-09-27",
+   "score": {
+    "DAL": "21",
+    "BAL": "24"
+   }
+  },
+  {
+   "name": "LV @ NO",
+   "status": "In Progress",
+   "date": "2026-09-27",
+   "score": {
+    "NO": "27",
+    "LV": "22"
+   }
+  },
+  {
+   "name": "LAC @ BUF",
+   "status": "Final",
+   "date": "2026-09-27",
+   "score": {
+    "BUF": "24",
+    "LAC": "16"
    }
   },
   {
    "name": "CAR @ CLE",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "CLE": "10",
-    "CAR": "9"
+    "CLE": "21",
+    "CAR": "18"
    }
   },
   {
    "name": "NYJ @ DET",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "DET": "24",
-    "NYJ": "16"
+    "DET": "31",
+    "NYJ": "24"
    }
   },
   {
    "name": "HOU @ IND",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "IND": "16",
-    "HOU": "10"
+    "IND": "19",
+    "HOU": "17"
    }
   },
   {
    "name": "KC @ MIA",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
     "MIA": "10",
-    "KC": "17"
+    "KC": "24"
    }
   },
   {
    "name": "TEN @ NYG",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
     "NYG": "12",
@@ -58,65 +94,29 @@
   },
   {
    "name": "CIN @ PIT",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "PIT": "24",
+    "PIT": "30",
     "CIN": "27"
    }
   },
   {
    "name": "SEA @ WSH",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "WSH": "24",
-    "SEA": "17"
+    "WSH": "33",
+    "SEA": "31"
    }
   },
   {
    "name": "NE @ JAX",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-09-27",
    "score": {
-    "JAX": "28",
+    "JAX": "35",
     "NE": "6"
-   }
-  },
-  {
-   "name": "ARI @ SF",
-   "status": "Scheduled",
-   "date": "2026-09-27",
-   "score": {
-    "SF": "0",
-    "ARI": "0"
-   }
-  },
-  {
-   "name": "MIN @ TB",
-   "status": "Scheduled",
-   "date": "2026-09-27",
-   "score": {
-    "TB": "0",
-    "MIN": "0"
-   }
-  },
-  {
-   "name": "BAL VS DAL",
-   "status": "Scheduled",
-   "date": "2026-09-27",
-   "score": {
-    "DAL": "0",
-    "BAL": "0"
-   }
-  },
-  {
-   "name": "LV @ NO",
-   "status": "Scheduled",
-   "date": "2026-09-27",
-   "score": {
-    "NO": "0",
-    "LV": "0"
    }
   },
   {
