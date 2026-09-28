@@ -1,41 +1,23 @@
 {
- "fetched_at": "2026-09-27T22:43:11+00:00",
+ "fetched_at": "2026-09-28T18:28:45+00:00",
  "week": 3,
  "games": [
   {
-   "name": "ARI @ SF",
-   "status": "In Progress",
-   "date": "2026-09-27",
+   "name": "PHI @ CHI",
+   "status": "Scheduled",
+   "date": "2026-09-29",
    "score": {
-    "SF": "23",
-    "ARI": "20"
+    "CHI": "0",
+    "PHI": "0"
    }
   },
   {
-   "name": "MIN @ TB",
-   "status": "In Progress",
-   "date": "2026-09-27",
+   "name": "ATL @ GB",
+   "status": "Final",
+   "date": "2026-09-25",
    "score": {
-    "TB": "13",
-    "MIN": "17"
-   }
-  },
-  {
-   "name": "BAL VS DAL",
-   "status": "In Progress",
-   "date": "2026-09-27",
-   "score": {
-    "DAL": "21",
-    "BAL": "24"
-   }
-  },
-  {
-   "name": "LV @ NO",
-   "status": "In Progress",
-   "date": "2026-09-27",
-   "score": {
-    "NO": "27",
-    "LV": "22"
+    "GB": "14",
+    "ATL": "35"
    }
   },
   {
@@ -120,30 +102,48 @@
    }
   },
   {
+   "name": "ARI @ SF",
+   "status": "Final",
+   "date": "2026-09-27",
+   "score": {
+    "SF": "36",
+    "ARI": "30"
+   }
+  },
+  {
+   "name": "MIN @ TB",
+   "status": "Final",
+   "date": "2026-09-27",
+   "score": {
+    "TB": "16",
+    "MIN": "23"
+   }
+  },
+  {
+   "name": "BAL VS DAL",
+   "status": "Final",
+   "date": "2026-09-27",
+   "score": {
+    "DAL": "31",
+    "BAL": "34"
+   }
+  },
+  {
+   "name": "LV @ NO",
+   "status": "Final",
+   "date": "2026-09-27",
+   "score": {
+    "NO": "27",
+    "LV": "35"
+   }
+  },
+  {
    "name": "LAR @ DEN",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-09-28",
    "score": {
-    "DEN": "0",
-    "LAR": "0"
-   }
-  },
-  {
-   "name": "ATL @ GB",
-   "status": "Final",
-   "date": "2026-09-25",
-   "score": {
-    "GB": "14",
-    "ATL": "35"
-   }
-  },
-  {
-   "name": "PHI @ CHI",
-   "status": "Scheduled",
-   "date": "2026-09-29",
-   "score": {
-    "CHI": "0",
-    "PHI": "0"
+    "DEN": "30",
+    "LAR": "26"
    }
   }
  ]

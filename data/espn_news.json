@@ -1,400 +1,408 @@
 {
- "fetched_at": "2026-09-27T22:43:11+00:00",
+ "fetched_at": "2026-09-28T18:28:45+00:00",
  "articles": [
   {
-   "headline": "Trevor Lawrence explains kneel at the 1-yard line -- and what it means for fantasy owners",
-   "summary": "The quarterback laughed off his clock-killing blunder, acknowledging the obvious fantasy implications after he knelt instead of walking into the end zone.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046652/jaguars-trevor-lawrence-kneel-eight-minutes-fantasy-implications",
+   "headline": "Bucs injury updates on Baker Mayfield and Jalen McMillan",
+   "summary": "Jenna Laine reports on the injuries the Tampa Bay Buccaneers sustained during their 23-16 loss to the Minnesota Vikings.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50053686/bucs-injury-updates-baker-mayfield-jalen-mcmillan",
    "players": [
-    "Trevor Lawrence",
-    "Bhayshul Tuten"
+    "Baker Mayfield",
+    "Jalen McMillan"
    ]
   },
   {
-   "headline": "Harbaugh says Winston is QB1 even if Giants add another QB",
-   "summary": "Jameis Winston will remain the Giants' starting quarterback even if a quarterback is added in the coming days, coach John Harbaugh said Sunday.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046930/harbaugh-says-winston-qb1-even-giants-add-another-qb",
+   "headline": "Matthew Stafford makes cameo in Taylor Swift's 'Patient Zero' music video",
+   "summary": "Why, yes, that was Matthew Stafford. Here's why all signs pointed to the reigning NFL MVP's music video cameo.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052555/matthew-stafford-taylor-swift-rams-aries-patient-zero-music-video-cameo",
    "players": [
-    "Jameis Winston"
+    "Matthew Stafford",
+    "Travis Kelce"
    ]
   },
   {
-   "headline": "Vikings rule out Justin Jefferson with ankle injury",
-   "summary": "Vikings star receiver Justin Jefferson was ruled out of Sunday's game against the Tampa Bay Buccaneers after a first-quarter injury to his left ankle.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046851/vikings-rule-justin-jefferson-ankle-injury",
-   "players": [
-    "Justin Jefferson"
-   ]
-  },
-  {
-   "headline": "Several Panthers starters banged up in loss to Browns",
-   "summary": "The Panthers lost to the Browns 21-18 on Sunday, and they might have lost a few starters, at least temporarily, to injury in the defeat.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046840/several-panthers-starters-banged-loss-browns",
-   "players": [
-    "Bryce Young",
-    "Jaycee Horn",
-    "Mike Jackson",
-    "Jalen Coker"
-   ]
-  },
-  {
-   "headline": "49ers rule veteran WR Mike Evans out after rib injury",
-   "summary": "The 49ers lost veteran WR Mike Evans in the first half of Sunday's game against the Cardinals due to a rib injury.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046696/49ers-rule-veteran-wr-mike-evans-rib-injury",
-   "players": [
-    "Mike Evans"
-   ]
-  },
-  {
-   "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Sunday of Week 3 features 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+   "headline": "NFL asks DHS to take down Brian Dawkins social media video",
+   "summary": "The NFL asked DHS to remove a social media post likening former Eagles star Brian Dawkins' greatest hits to immigration agents' treatment of migrants.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50053653/nfl-asks-dhs-take-brian-dawkins-social-media-video",
    "players": []
   },
   {
-   "headline": "Travis Hunter happy to help Jags with first NFL interception",
-   "summary": "Jaguars cornerback Travis Hunter finally grabbed his first career NFL interception Sunday.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046645/travis-hunter-happy-help-jags-first-nfl-interception",
+   "headline": "Cowboys' Jalen Thompson to be sidelined with hamstring injury",
+   "summary": "Cowboys safety Jalen Thompson could be sidelined four-plus weeks because of a hamstring injury he suffered in Sunday's loss to the Ravens, executive vice president Stephen Jones said Monday.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50053593/cowboys-jalen-thompson-sidelined-hamstring-injury",
+   "players": [
+    "Jalen Thompson"
+   ]
+  },
+  {
+   "headline": "McCarthy exits Vikings as one of franchise's biggest draft busts",
+   "summary": "J.J. McCarthy was the No. 10 pick in 2024 but played only 10 games before being traded to the Giants on Monday.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052903/nfl-minnesota-vikings-jj-mccarthy-trade-new-york-giants-kevin-occonnell",
+   "players": [
+    "JJ McCarthy"
+   ]
+  },
+  {
+   "headline": "NFL trade deadline grades: J.J. McCarthy to the Giants",
+   "summary": "Can J.J. McCarthy improve the Giants' QB situation? Did the Vikings get enough back? We're grading NFL trades ahead of November's deadline.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+   "players": [
+    "JJ McCarthy"
+   ]
+  },
+  {
+   "headline": "Fantasy football buzz: Giants trade for McCarthy, Bucs lose Mayfield for 3 weeks",
+   "summary": "How do QB moves in New York and Tampa Bay affect the Giants' and Bucaneers' receivers?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+   "players": [
+    "Omarion Hampton",
+    "Oronde Gadsden",
+    "KC Concepcion",
+    "Kenyon Sadiq",
+    "Amon-Ra St Brown",
+    "Jameson Williams",
+    "Josh Downs",
+    "Dalton Schultz",
+    "Rashee Rice",
+    "Cam Skattebo",
+    "Isaiah Likely",
+    "Jaylen Warren",
+    "Emanuel Wilson",
+    "Brian Thomas Jr",
+    "Rhamondre Stevenson",
+    "George Kittle",
+    "Jeremiyah Love",
+    "Bucky Irving",
+    "Javonte Williams",
+    "Alvin Kamara",
+    "Kyren Williams",
+    "Baker Mayfield",
+    "Jalon Daniels",
+    "JJ McCarthy"
+   ]
+  },
+  {
+   "headline": "Why Mike Clay is moving Rashee Rice up in his rankings for Week 4",
+   "summary": "Why Mike Clay is moving Rashee Rice up in his rankings for Week 4",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50053186/why-mike-clay-moving-rashee-rice-rankings-week-4",
+   "players": [
+    "Rashee Rice"
+   ]
+  },
+  {
+   "headline": "Tracking Jaguars CB/WR Travis Hunter through 2026 season",
+   "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
    "players": [
     "Travis Hunter"
    ]
   },
   {
-   "headline": "Drake Maye: Patriots offense, own play 'unacceptable'",
-   "summary": "Drake Maye, whose early-season struggles continued with two interceptions and a lost fumble in Sunday's 35-6 blowout loss to the Jaguars, called the offense's performance \"unacceptable\" as he looks within himself for answers.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046497/drake-maye-patriots-offense-own-play-unacceptable",
+   "headline": "Is Jaylen Warren a good fantasy play?",
+   "summary": "Is Jaylen Warren a good fantasy play?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50053175/is-jaylen-warren-good-fantasy-play",
    "players": [
-    "Drake Maye"
+    "Jaylen Warren"
    ]
   },
   {
-   "headline": "Commanders' jab at Seahawks after upset leads Week 3 trolls",
-   "summary": "The Washington Commanders followed up their upset victory over the Seattle Seahawks with a petty post.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
-   "players": []
-  },
-  {
-   "headline": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026",
-   "players": []
-  },
-  {
-   "headline": "Seattle Seahawks vs. Washington Commanders - Highlights | 2026 Regular Season",
-   "summary": "Seattle Seahawks vs. Washington Commanders - Highlights | 2026 Regular Season",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50046386/seattle-seahawks-vs-washington-commanders-highlights-2026-regular-season",
+   "headline": "What does Geno Smith's fantasy stock look like after big game vs. Lions?",
+   "summary": "What does Geno Smith's fantasy stock look like after big game vs. Lions?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50053057/what-does-geno-smith-fantasy-stock-look-big-game-vs-lions",
    "players": [
-    "Marcus Mariota",
+    "Geno Smith"
+   ]
+  },
+  {
+   "headline": "How Field Yates feels about Dalton Kincaid after Week 3",
+   "summary": "How Field Yates feels about Dalton Kincaid after Week 3",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50053002/how-field-yates-feels-dalton-kincaid-week-3",
+   "players": [
+    "Dalton Kincaid"
+   ]
+  },
+  {
+   "headline": "Rich Eisen reflects on JJ McCarthy's Vikings tenure after trade to Giants",
+   "summary": "Rich Eisen reflects on JJ McCarthy's Vikings tenure after trade to Giants",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052997/rich-eisen-reflects-jj-mccarthy-vikings-tenure-trade-giants",
+   "players": [
+    "JJ McCarthy"
+   ]
+  },
+  {
+   "headline": "Buccaneers' Mayfield (thumb) out at least three weeks, Bowles says",
+   "summary": "Buccaneers quarterback Baker Mayfield is expected to miss at least three weeks with the dislocated thumb on his throwing hand he suffered Sunday, coach Todd Bowles announced Monday.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052996/buccaneers-mayfield-thumb-least-three-weeks-bowles-says",
+   "players": [
+    "Baker Mayfield",
+    "Jalon Daniels"
+   ]
+  },
+  {
+   "headline": "Sources: Panthers CB Jaycee Horn out indefinitely with torn quad",
+   "summary": "Panthers cornerback Jaycee Horn will seek a second opinion on his torn quad, sources told NFL Network, but he is headed for injured reserve and could miss the rest of the 2026 season.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052968/sources-panthers-cb-jaycee-horn-indefinitely-torn-quad",
+   "players": [
+    "Jaycee Horn",
+    "Jalen Coker"
+   ]
+  },
+  {
+   "headline": "2026 NFL trade deadline updates: Latest in-season deals, news",
+   "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including J.J. McCarthy to the Giants.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+   "players": []
+  },
+  {
+   "headline": "Pat McAfee weighs in on J.J. McCarthy being traded to Giants",
+   "summary": "Pat McAfee weighs in on J.J. McCarthy being traded to Giants",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052909/pat-mcafee-weighs-jj-mccarthy-being-traded-giants",
+   "players": [
+    "JJ McCarthy",
+    "Pat McAfee"
+   ]
+  },
+  {
+   "headline": "Giants acquire QB J.J. McCarthy in trade with Vikings",
+   "summary": "The Giants are trading for Vikings quarterback J.J. McCarthy, sending a 2027 fifth-round draft pick to Minnesota for the 2024 first-round pick.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052864/sources-giants-acquire-qb-jj-mccarthy-trade-vikings",
+   "players": [
+    "JJ McCarthy",
+    "Jameis Winston",
+    "Jake Haener"
+   ]
+  },
+  {
+   "headline": "Marvin Harrison Jr. is 'getting his mojo back'",
+   "summary": "Joshua Weinfuss highlights Harrison Jr.'s involvement in Week 3 despite the Cardinals' loss against the 49ers.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052797/marvin-harrison-jr-getting-mojo-back",
+   "players": [
+    "Marvin Harrison Jr"
+   ]
+  },
+  {
+   "headline": "Fantasy football free agent pickups: Gordon leads options to replace Achane for Week 4 and beyond",
+   "summary": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50051326/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-4",
+   "players": [
     "Sam Darnold",
-    "Kain Medrano"
+    "Ollie Gordon II",
+    "Keenan Allen",
+    "Kenyon Sadiq",
+    "Jacoby Brissett",
+    "Geno Smith",
+    "Marcus Mariota",
+    "Michael Penix Jr",
+    "Kirk Cousins",
+    "Braelon Allen",
+    "Keaton Mitchell",
+    "Brian Robinson Jr",
+    "George Holani",
+    "Tre' Harris",
+    "Mack Hollins",
+    "Malik Washington",
+    "Ted Hurst III",
+    "Darren Waller",
+    "Mike Gesicki"
    ]
   },
   {
-   "headline": "New York Jets vs. Detroit Lions Game Highlights",
-   "summary": "New York Jets vs. Detroit Lions Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50046083/new-york-jets-vs-detroit-lions-game-highlights",
+   "headline": "Bucs injury updates on Baker Mayfield and Jalen McMillan",
+   "summary": "Jenna Laine reports on the injuries the Tampa Bay Buccaneers sustained during their 23-16 loss to the Minnesota Vikings.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052699/bucs-injury-updates-baker-mayfield-jalen-mcmillan",
    "players": [
-    "Jahmyr Gibbs",
-    "Jared Goff",
-    "Kenyon Sadiq"
-   ]
-  },
-  {
-   "headline": "Buccaneers WR Jalen McMillan suffers knee injury vs. Vikings",
-   "summary": "Buccaneers wide receiver Jalen McMillan suffered a knee injury in the first quarter against the Vikings and has been ruled out.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50045951/buccaneers-wr-jalen-mcmillan-suffers-knee-injury-vs-vikings",
-   "players": [
+    "Baker Mayfield",
     "Jalen McMillan"
    ]
   },
   {
-   "headline": "Commanders snap Seattle's 12-game winning streak, beat the Seahawks 33-31",
-   "summary": "\u2014 Marcus Mariota threw three touchdown passes, and Kain Medrano returned an interception 50 yards for a touchdown to help the Washington Commanders hand Seattle its first loss since November, 33-31 on Sunday.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872955",
-   "players": []
-  },
-  {
-   "headline": "Colts end 9-game skid with 19-17 victory over Texans as Shrader kicks winner with 16 seconds left",
-   "summary": "\u2014 The Indianapolis Colts kept talking about turning the page on their season-ending seven-game losing streak that cost them a playoff spot last year.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872951",
-   "players": []
-  },
-  {
-   "headline": "Carolina Panthers vs. Cleveland Browns: Game Highlights",
-   "summary": "Carolina Panthers vs. Cleveland Browns: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045662/game-highlights",
+   "headline": "What's driving the Browns' 2-1 start?",
+   "summary": "Daniel Oyefusi discusses the impact of Deshaun Watson and the Browns' offense as Cleveland leads the AFC North.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052667/driving-browns-2-1-start",
    "players": [
-    "Brycen Tremayne",
-    "Harold Fannin Jr",
-    "Deshaun Watson",
-    "John Metchie III"
+    "Deshaun Watson"
    ]
   },
   {
-   "headline": "Kansas City Chiefs vs. Miami Dolphins: Game Highlights",
-   "summary": "Kansas City Chiefs vs. Miami Dolphins: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045633/game-highlights",
+   "headline": "Source: Packers signing veteran O-lineman Mekhi Becton",
+   "summary": "Veteran offensive lineman Mekhi Becton is signing with the Packers, a source told ESPN's Jeremy Fowler on Monday.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052520/source-packers-signing-veteran-o-lineman-mekhi-becton",
    "players": [
-    "Kenneth Walker III",
-    "Patrick Mahomes",
-    "Travis Kelce",
-    "Ollie Gordon II"
+    "Mekhi Becton"
    ]
   },
   {
-   "headline": "Houston Texans vs. Indianapolis Colts: Game Highlights",
-   "summary": " Houston Texans vs. Indianapolis Colts: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045631/game-highlights",
+   "headline": "Rex Ryan sounds off on late pass interference penalty against Rams",
+   "summary": "Rex Ryan sounds off on late pass interference penalty against Rams",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052437/rex-ryan-sounds-late-pass-interference-penalty-rams",
    "players": [
-    "Ka'imi Fairbairn",
-    "Spencer Shrader",
-    "CJ Stroud",
-    "Daniel Jones"
+    "Pat Bryant",
+    "Josh Wallace"
    ]
   },
   {
-   "headline": "Deshaun Watson sparks a late Browns rally, sealing a 21-18 win over the Panthers",
-   "summary": "\u2014 Deshaun Watson threw two touchdown passes to Harold Fannin Jr., including a 14-yard strike with 1:48 remaining, and the Cleveland Browns rallied for a 21-18 victory over the Carolina Panthers on Sunday.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872949",
-   "players": []
-  },
-  {
-   "headline": "Cincinnati Bengals vs. Pittsburgh Steelers: Game Highlights",
-   "summary": "Cincinnati Bengals vs. Pittsburgh Steelers: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045555/game-highlights",
+   "headline": "Ravens' Rio trio: The players who helped Jackson to walk-off win",
+   "summary": "Here are the other three players who overcame adversity to help Jackson produce one of the wildest finishes in Ravens history.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50051888/baltimore-ravens-rio-trio-lamar-jackson-walk-win-tyler-loop-zay-flowers-olaivavega-ioane",
    "players": [
-    "Tee Higgins",
-    "Aaron Rodgers",
-    "DK Metcalf",
-    "Chris Boswell",
-    "Joe Burrow"
+    "Lamar Jackson",
+    "Zay Flowers",
+    "Tyler Loop",
+    "Olaivavega Ioane"
    ]
   },
   {
-   "headline": "New England Patriots vs. Jacksonville Jaguars: Game Highlights",
-   "summary": "New England Patriots vs. Jacksonville Jaguars: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045541/game-highlights",
-   "players": [
-    "Trevor Lawrence",
-    "Bhayshul Tuten"
-   ]
-  },
-  {
-   "headline": "Aaron Rodgers outduels Joe Burrow as the Steelers edge the Bengals 30-27 on a late Boswell kick",
-   "summary": "\u2014 Mike McCarthy and Aaron Rodgers have been around each other a long time.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872950",
-   "players": []
-  },
-  {
-   "headline": "Jahmyr Gibbs' 3rd touchdown with 2:25 left lifts Lions to 31-24 win over Jets",
-   "summary": "\u2014 Jahmyr Gibbs took a toss sweep to the right, reversed field and raced to the left side of the end zone for a 17-yard touchdown.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872954",
-   "players": []
-  },
-  {
-   "headline": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
-   "summary": "\u2014 Josh Allen scored two touchdowns rushing and the Buffalo Bills overcame a five-turnover outing to pull out a 24-16 victory over the winless Los Angeles Chargers on Sunday.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872953",
-   "players": []
-  },
-  {
-   "headline": "Los Angeles Chargers vs. Buffalo Bills: Game Highlights",
-   "summary": "Los Angeles Chargers vs. Buffalo Bills: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045219/game-highlights",
-   "players": [
-    "Josh Allen",
-    "Genesis Smith",
-    "Keaton Mitchell"
-   ]
-  },
-  {
-   "headline": "Tennessee Titans vs. New York Giants: Game Highlights",
-   "summary": "Tennessee Titans vs. New York Giants: Game Highlights",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50045150/game-highlights",
-   "players": [
-    "Zaire Barnes",
-    "Wan'Dale Robinson",
-    "Jevon Holland",
-    "Jeffery Simmons"
-   ]
-  },
-  {
-   "headline": "Kenneth Walker III has 2 TDs as Chiefs beat Dolphins 24-10 after De'Von Achane exits with injury",
-   "summary": "\u2014 Patrick Mahomes arrived in South Florida this weekend and noticed a fun coincidence. He was back in the same hotel room he stayed in when he won his first Super Bowl title.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872952",
-   "players": []
-  },
-  {
-   "headline": "Lawrence throws 3 TD passes as Jaguars rout Patriots and raise more questions about Maye",
-   "summary": "\u2014 Jacksonville Jaguars coach Liam Coen spent all week telling his players that what mattered most was how they responded.",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872957",
-   "players": []
-  },
-  {
-   "headline": "Giants hold on to beat the Titans 12-7 in their first game without quarterback Jaxson Dart",
-   "summary": "\u2014 Playing their first game without quarterback Jaxson Dart, the New York Giants got just enough from replacement Jameis Winston on offense and another big play from safety Jevon Holland...",
-   "published": "2026-09-27",
-   "url": "http://www.espn.com/nfl/recap?gameId=401872956",
-   "players": []
-  },
-  {
-   "headline": "NFL Week 3's best arrivals, led by Lamar Jackson in Rio",
-   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-   "players": [
-    "Jordan Love",
-    "Stefon Diggs"
-   ]
-  },
-  {
-   "headline": "Dolphins RB De'Von Achane suffers knee injury vs. Chiefs",
-   "summary": "Dolphins running back De'Von Achane suffered a knee injury against the Chiefs and was ruled out.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50044229/dolphins-rb-devon-achane-suffers-knee-injury-vs-chiefs",
+   "headline": "Orlvosky: De'Von Achane's injury is a loss for the NFL",
+   "summary": "Orlvosky: De'Von Achane's injury is a loss for the NFL ",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052222/devon-achane-injury-loss-nfl",
    "players": [
     "De'Von Achane"
    ]
   },
   {
-   "headline": "Ravens WR Zay Flowers to play after positive Rio workout",
-   "summary": "Ravens wide receiver Zay Flowers will play against the Cowboys in Rio de Janeiro after having an encouraging workout before the game.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50044202/ravens-flowers-play-having-positive-rio-workout-source-says",
+   "headline": "Stephen A.: Bengals defense is still a problem",
+   "summary": "Stephen A.: Bengals defense is still a problem",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052198/bengals-defense-problem",
+   "players": []
+  },
+  {
+   "headline": "NFL Week 4 betting: Odds, lines and totals for every game",
+   "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
+   "players": []
+  },
+  {
+   "headline": "How active NFL players continue to redefine all-time sack list",
+   "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
    "players": [
-    "Zay Flowers"
+    "Myles Garrett",
+    "TJ Watt",
+    "Aaron Donald",
+    "Von Miller",
+    "Cameron Jordan",
+    "Calais Campbell",
+    "Danielle Hunter",
+    "Khalil Mack"
    ]
   },
   {
-   "headline": "Fantasy football Week 3 inactives: Caleb Williams out, Puka Nacua uncertain, Zay Flowers a go",
-   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50021286/fantasy-football-injuries-nfl-week-3-inactive-active",
+   "headline": "Early bets for NFL Week 4: Four games that drew our attention once odds came out",
+   "summary": "Which Week 4 lines offered immediate value once odds came out? Here are four early bets we like.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50028021/nfl-week-4-betting-odds-props-early-picks-predictions-first-bet",
+   "players": []
+  },
+  {
+   "headline": "Stephen A. has a strong message for Puka Nacua after missing Broncos game",
+   "summary": "Stephen A. has a strong message for Puka Nacua after missing Broncos game",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052095/stephen-strong-message-puka-nacua-missing-broncos-game",
    "players": [
-    "Jayden Daniels",
-    "Rico Dowdle",
-    "Dallas Goedert",
-    "Jaxson Dart",
-    "Caleb Douglas",
-    "David Njoku",
-    "Alec Pierce",
-    "Nico Collins",
-    "Cairo Santos",
-    "DeVonta Smith",
-    "Kyle Monangai",
-    "Saquon Barkley",
-    "Caleb Williams",
-    "Puka Nacua",
-    "JK Dobbins",
-    "Jonah Coleman",
-    "RJ Harvey",
-    "Mike Evans",
-    "Travis Etienne Jr",
-    "Aaron Jones Sr",
-    "Brock Bowers",
-    "Zay Flowers",
-    "Tyjae Spears",
-    "Sam Darnold",
-    "Jadarian Price",
-    "Michael Pittman Jr",
-    "Adonai Mitchell",
-    "Malik Nabers",
-    "Jalen Coker",
-    "Keon Coleman",
-    "DJ Moore"
+    "Puka Nacua"
    ]
   },
   {
-   "headline": "Commanders LB Leo Chenal injured making tackle, carted off",
-   "summary": "Commanders linebacker Leo Chenal was carted off the field with a neck injury after making a tackle late in the second quarter against the Seahawks.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50044065/commanders-lb-leo-chenal-injured-making-tackle-carted-off",
+   "headline": "Sources: Dolphins RB De'Von Achane suffered torn ACL vs. Chiefs",
+   "summary": "Dolphins running back De'Von Achane suffered a torn ACL during Sunday's loss to the Chiefs and will be out for the rest of the 2026 season, sources told ESPN and NFL Network.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50052064/sources-dolphins-rb-devon-achane-suffered-torn-acl-vs-chiefs",
+   "players": [
+    "De'Von Achane"
+   ]
+  },
+  {
+   "headline": "Tyson Bagent is set to return from injury this week for Bears",
+   "summary": "Courtney Cronin reports on the Bears QB room getting an upgrade as Tyson Bagent is expected to return this week.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052063/tyson-bagent-set-return-injury-week-bears",
+   "players": []
+  },
+  {
+   "headline": "Stephen A. trolls Cowboys over late collapse to Ravens",
+   "summary": "Stephen A. trolls Cowboys over late collapse to Ravens",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50052025/stephen-trolls-cowboys-late-collapse-ravens",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football 2026 offensive depth charts",
+   "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+   "players": []
+  },
+  {
+   "headline": "How to bet Eagles-Bears on MNF: Analysis, tips and favorite plays",
+   "summary": "Odds and analysis to help you bet Eagles-Bears on \"Monday Night Football.\"",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50005767/nfl-week-3-odds-betting-tips-picks-philadelphia-eagles-chicago-bears",
+   "players": [
+    "Kalif Raymond"
+   ]
+  },
+  {
+   "headline": "How are Cowboys reacting to third straight 1-2 start?",
+   "summary": "Dallas finished 7-9-1 in 2025 and 7-10 in 2024 after winning one of its first three games. Will 2026 be any different?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50051416/nfl-dallas-cowboys-dak-prescott-baltimore-ravens-rio-de-janeiro-field-goal",
+   "players": [
+    "Dak Prescott"
+   ]
+  },
+  {
+   "headline": "Are the Patriots using Drake Maye the wrong way?",
+   "summary": "Are the Patriots using Drake Maye the wrong way? ",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50051609/are-patriots-using-drake-maye-wrong-way",
+   "players": [
+    "Drake Maye"
+   ]
+  },
+  {
+   "headline": "Sources: Leo Chenal to have season-ending neck surgery",
+   "summary": "Commanders linebacker Leo Chenal, who was carted off the field during the team's win over the Seahawks on Sunday, will undergo season-ending neck surgery, sources confirmed to NFL Network.",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/nfl/story/_/id/50051498/sources-leo-chenal-season-ending-neck-surgery",
    "players": [
     "Leo Chenal"
    ]
   },
   {
-   "headline": "Bears QB Bagent clears protocol; Keenum likely to start vs. Eagles",
-   "summary": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at quarterback against the Eagles.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50044058/bears-qb-bagent-clears-protocol-keenum-likely-start-vs-eagles",
+   "headline": "Are the 3-0 Raiders for real?",
+   "summary": "Are the 3-0 Raiders for real?",
+   "published": "2026-09-28",
+   "url": "https://www.espn.com/video/clip/_/id/50051463/are-3-0-raiders-real",
    "players": [
-    "Tyson Bagent",
-    "Case Keenum"
-   ]
-  },
-  {
-   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
-   "summary": "Will Colin Simmons be the runaway top edge for 2027? How early could Jadan Baugh get picked in April? Here's NFL draft spin off Week 4 of the CFB season.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-   "players": []
-  },
-  {
-   "headline": "Jets without WR Adonai Mitchell (finger) vs. Lions",
-   "summary": "Jets wide receiver Adonai Mitchell is inactive Sunday because of a finger injury.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50042923/jets-wr-adonai-mitchell-finger-vs-lions",
-   "players": [
-    "Adonai Mitchell"
-   ]
-  },
-  {
-   "headline": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-   "summary": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/video/clip/_/id/50042342/bears-expect-caleb-williams-miss-multiple-weeks",
-   "players": [
-    "Caleb Williams"
-   ]
-  },
-  {
-   "headline": "Giants set game plan with Jameis Winston, mull options to add QB",
-   "summary": "The Giants' pursuit of a veteran quarterback will depend on how well Jameis Winston performs against the Titans in Week 3.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50037942/giants-set-gameplan-jameis-winston-mull-options-add-qb",
-   "players": [
-    "Jaxson Dart",
-    "Jameis Winston"
-   ]
-  },
-  {
-   "headline": "Sources: Caleb Williams injury considered to have 3-4 week timeline",
-   "summary": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
-   "published": "2026-09-27",
-   "url": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line",
-   "players": [
-    "Caleb Williams",
-    "Tyson Bagent",
-    "Case Keenum"
+    "Kirk Cousins"
    ]
   }
  ]
