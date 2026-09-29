@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-09-28T18:28:45+00:00",
+ "fetched_at": "2026-09-29T02:28:11+00:00",
  "week": 3,
  "games": [
   {
    "name": "PHI @ CHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-09-29",
    "score": {
-    "CHI": "0",
-    "PHI": "0"
+    "CHI": "20",
+    "PHI": "7"
    }
   },
   {

@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-09-28T18:28:45+00:00",
+ "fetched_at": "2026-09-29T02:28:11+00:00",
  "adds": [
   {
    "name": "Ollie Gordon",
-   "count": 3824233
+   "count": 4117008
   },
   {
    "name": "Kenyon Sadiq",
-   "count": 802845
-  },
-  {
-   "name": "Tyreek Hill",
-   "count": 590992
+   "count": 869031
   },
   {
    "name": "Braelon Allen",
-   "count": 364888
+   "count": 592792
   },
   {
-   "name": "Jordan Addison",
-   "count": 210780
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 200176
-  },
-  {
-   "name": "Sam Darnold",
-   "count": 164115
-  },
-  {
-   "name": "Roman Wilson",
-   "count": 153792
-  },
-  {
-   "name": "Keaton Mitchell",
-   "count": 150921
-  },
-  {
-   "name": "Terrance Ferguson",
-   "count": 140040
+   "name": "Tyreek Hill",
+   "count": 389144
   },
   {
    "name": "Konata Mumpfield",
-   "count": 129528
+   "count": 214614
   },
   {
-   "name": "Las Vegas Raiders",
-   "count": 128862
+   "name": "Kirk Cousins",
+   "count": 206504
   },
   {
-   "name": "Malik Washington",
-   "count": 110288
-  },
-  {
-   "name": "Darren Waller",
-   "count": 106812
+   "name": "Keaton Mitchell",
+   "count": 205227
   },
   {
    "name": "Alvin Kamara",
-   "count": 98984
+   "count": 194960
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 184311
+  },
+  {
+   "name": "Las Vegas Raiders",
+   "count": 153228
+  },
+  {
+   "name": "Roman Wilson",
+   "count": 143721
   },
   {
    "name": "Keenan Allen",
-   "count": 98940
+   "count": 122956
   },
   {
-   "name": "Deshaun Watson",
-   "count": 93784
+   "name": "Sam Darnold",
+   "count": 117189
   },
   {
-   "name": "Tyler Shough",
-   "count": 74536
+   "name": "Darren Waller",
+   "count": 116235
   },
   {
-   "name": "Jakobi Meyers",
-   "count": 74394
+   "name": "Malik Washington",
+   "count": 94632
   },
   {
-   "name": "Chase McLaughlin",
-   "count": 70240
+   "name": "Jaylen Wright",
+   "count": 90012
   },
   {
-   "name": "Minnesota Vikings",
-   "count": 69535
-  },
-  {
-   "name": "Matthew Golden",
-   "count": 66584
-  },
-  {
-   "name": "Michael Wilson",
-   "count": 59490
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 56816
+   "name": "Austin Ekeler",
+   "count": 88104
   },
   {
    "name": "J.J. McCarthy",
-   "count": 56802
+   "count": 83838
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 82782
+  },
+  {
+   "name": "Deshaun Watson",
+   "count": 82600
+  },
+  {
+   "name": "Jakobi Meyers",
+   "count": 71976
+  },
+  {
+   "name": "Minnesota Vikings",
+   "count": 71625
+  },
+  {
+   "name": "Tyler Shough",
+   "count": 58832
+  },
+  {
+   "name": "Michael Wilson",
+   "count": 58824
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 57272
   }
  ]
 }
