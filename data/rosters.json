@@ -1,76 +1,76 @@
 {
- "fetched_at": "2026-09-29T02:28:11+00:00",
+ "fetched_at": "2026-09-29T16:47:51+00:00",
  "league_id": "1400160155982639104",
- "week": 3,
+ "week": 4,
  "standings": [
   {
    "team": "BmoreKidd",
    "wins": 0,
-   "losses": 2,
-   "pf": 229.14,
+   "losses": 3,
+   "pf": 355.2,
    "waiver_position": 1
-  },
-  {
-   "team": "BitcoinBucs",
-   "wins": 0,
-   "losses": 2,
-   "pf": 268.68,
-   "waiver_position": 2
   },
   {
    "team": "Run@TellThat",
    "wins": 1,
-   "losses": 1,
-   "pf": 217.3,
-   "waiver_position": 3
+   "losses": 2,
+   "pf": 328.18,
+   "waiver_position": 2
   },
   {
    "team": "BobbiWasabi",
    "wins": 1,
-   "losses": 1,
-   "pf": 270.2,
-   "waiver_position": 4
-  },
-  {
-   "team": "jaybeezy2ezy",
-   "wins": 2,
-   "losses": 0,
-   "pf": 308.24,
-   "waiver_position": 5
-  },
-  {
-   "team": "zay4209",
-   "wins": 2,
-   "losses": 0,
-   "pf": 322.88,
-   "waiver_position": 6
-  },
-  {
-   "team": "Scorpiondemon90",
-   "wins": 1,
-   "losses": 1,
-   "pf": 254.42,
-   "waiver_position": 7
-  },
-  {
-   "team": "Artificial Domination",
-   "wins": 1,
-   "losses": 1,
-   "pf": 276.9,
-   "waiver_position": 8
-  },
-  {
-   "team": "JMann60",
-   "wins": 1,
-   "losses": 1,
-   "pf": 261.24,
-   "waiver_position": 9
+   "losses": 2,
+   "pf": 387.88,
+   "waiver_position": 3
   },
   {
    "team": "I cook brown rice",
    "wins": 1,
+   "losses": 2,
+   "pf": 422.38,
+   "waiver_position": 4
+  },
+  {
+   "team": "BitcoinBucs",
+   "wins": 1,
+   "losses": 2,
+   "pf": 427.36,
+   "waiver_position": 5
+  },
+  {
+   "team": "Scorpiondemon90",
+   "wins": 2,
    "losses": 1,
-   "pf": 310.58,
+   "pf": 392.86,
+   "waiver_position": 6
+  },
+  {
+   "team": "JMann60",
+   "wins": 2,
+   "losses": 1,
+   "pf": 406.48,
+   "waiver_position": 7
+  },
+  {
+   "team": "Artificial Domination",
+   "wins": 2,
+   "losses": 1,
+   "pf": 434.6,
+   "waiver_position": 8
+  },
+  {
+   "team": "zay4209",
+   "wins": 2,
+   "losses": 1,
+   "pf": 465.24,
+   "waiver_position": 9
+  },
+  {
+   "team": "jaybeezy2ezy",
+   "wins": 3,
+   "losses": 0,
+   "pf": 465.62,
    "waiver_position": 10
   }
  ],
