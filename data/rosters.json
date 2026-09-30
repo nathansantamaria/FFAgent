@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-09-29T16:47:51+00:00",
+ "fetched_at": "2026-09-30T09:08:25+00:00",
  "league_id": "1400160155982639104",
  "week": 4,
  "standings": [
-  {
-   "team": "BmoreKidd",
-   "wins": 0,
-   "losses": 3,
-   "pf": 355.2,
-   "waiver_position": 1
-  },
   {
    "team": "Run@TellThat",
    "wins": 1,
    "losses": 2,
    "pf": 328.18,
-   "waiver_position": 2
+   "waiver_position": 1
   },
   {
    "team": "BobbiWasabi",
    "wins": 1,
    "losses": 2,
    "pf": 387.88,
-   "waiver_position": 3
-  },
-  {
-   "team": "I cook brown rice",
-   "wins": 1,
-   "losses": 2,
-   "pf": 422.38,
-   "waiver_position": 4
+   "waiver_position": 2
   },
   {
    "team": "BitcoinBucs",
    "wins": 1,
    "losses": 2,
    "pf": 427.36,
-   "waiver_position": 5
+   "waiver_position": 3
   },
   {
    "team": "Scorpiondemon90",
    "wins": 2,
    "losses": 1,
    "pf": 392.86,
-   "waiver_position": 6
-  },
-  {
-   "team": "JMann60",
-   "wins": 2,
-   "losses": 1,
-   "pf": 406.48,
-   "waiver_position": 7
-  },
-  {
-   "team": "Artificial Domination",
-   "wins": 2,
-   "losses": 1,
-   "pf": 434.6,
-   "waiver_position": 8
+   "waiver_position": 4
   },
   {
    "team": "zay4209",
    "wins": 2,
    "losses": 1,
    "pf": 465.24,
-   "waiver_position": 9
+   "waiver_position": 5
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 3,
    "losses": 0,
    "pf": 465.62,
+   "waiver_position": 6
+  },
+  {
+   "team": "BmoreKidd",
+   "wins": 0,
+   "losses": 3,
+   "pf": 355.2,
+   "waiver_position": 7
+  },
+  {
+   "team": "I cook brown rice",
+   "wins": 1,
+   "losses": 2,
+   "pf": 422.38,
+   "waiver_position": 8
+  },
+  {
+   "team": "JMann60",
+   "wins": 2,
+   "losses": 1,
+   "pf": 406.48,
+   "waiver_position": 9
+  },
+  {
+   "team": "Artificial Domination",
+   "wins": 2,
+   "losses": 1,
+   "pf": 434.6,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 8,
+ "my_waiver_position": 10,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -84,6 +84,7 @@
   "Jacory Croskey-Merritt",
   "Jadarian Price",
   "Jonah Coleman",
+  "Tyreek Hill",
   "Tony Pollard",
   "Jaylen Waddle",
   "George Pickens",
@@ -95,7 +96,7 @@
  ],
  "my_starters": [
   "Bryce Young",
-  "De'Von Achane",
+  "Jacory Croskey-Merritt",
   "Tony Pollard",
   "Jaxon Smith-Njigba",
   "George Pickens",
@@ -114,6 +115,7 @@
    "Jacory Croskey-Merritt",
    "Jadarian Price",
    "Jonah Coleman",
+   "Tyreek Hill",
    "Tony Pollard",
    "Jaylen Waddle",
    "George Pickens",
@@ -128,6 +130,7 @@
    "Malik Washington",
    "Jalen Coker",
    "Cam Little",
+   "Ollie Gordon",
    "Tyler Shough",
    "Deebo Samuel",
    "D'Andre Swift",
@@ -135,7 +138,6 @@
    "Travis Etienne",
    "Amon-Ra St. Brown",
    "Nico Collins",
-   "Khalil Shakir",
    "Tucker Kraft",
    "Bijan Robinson",
    "Los Angeles Rams"
@@ -159,11 +161,11 @@
   "JMann60": [
    "Rashee Rice",
    "Michael Wilson",
-   "Brian Thomas",
    "Quinshon Judkins",
    "Denzel Boston",
+   "Kalif Raymond",
    "Patrick Mahomes",
-   "Dalton Schultz",
+   "Sam Darnold",
    "A.J. Brown",
    "David Montgomery",
    "Evan McPherson",
@@ -173,7 +175,7 @@
    "Alec Pierce",
    "Zay Flowers",
    "Houston Texans",
-   "Kansas City Chiefs"
+   "Pittsburgh Steelers"
   ],
   "jaybeezy2ezy": [
    "Brock Bowers",
@@ -245,8 +247,8 @@
   ],
   "BmoreKidd": [
    "Drake Maye",
+   "Braelon Allen",
    "Blake Corum",
-   "Marvin Harrison",
    "Jason Myers",
    "Matthew Stafford",
    "Saquon Barkley",
