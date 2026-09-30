@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-09-30T09:08:25+00:00",
+ "fetched_at": "2026-09-30T16:39:54+00:00",
  "adds": [
   {
    "name": "Ollie Gordon",
-   "count": 6230287
-  },
-  {
-   "name": "Braelon Allen",
-   "count": 2738460
+   "count": 4434717
   },
   {
    "name": "Kenyon Sadiq",
-   "count": 2522169
+   "count": 2040012
+  },
+  {
+   "name": "Braelon Allen",
+   "count": 2022448
   },
   {
    "name": "Konata Mumpfield",
-   "count": 999009
+   "count": 1060992
   },
   {
    "name": "Tyler Higbee",
-   "count": 890469
+   "count": 855549
   },
   {
    "name": "Alvin Kamara",
-   "count": 835104
+   "count": 782336
   },
   {
    "name": "Kalif Raymond",
-   "count": 705922
+   "count": 694076
   },
   {
    "name": "Keaton Mitchell",
-   "count": 621171
-  },
-  {
-   "name": "Keenan Allen",
-   "count": 594832
-  },
-  {
-   "name": "Tyreek Hill",
-   "count": 559720
+   "count": 614943
   },
   {
    "name": "Darren Waller",
-   "count": 501804
+   "count": 558207
   },
   {
-   "name": "Isaiah Davis",
-   "count": 476010
+   "name": "Keenan Allen",
+   "count": 538528
   },
   {
-   "name": "Jordan Addison",
-   "count": 454320
-  },
-  {
-   "name": "Jaylen Wright",
-   "count": 418790
-  },
-  {
-   "name": "Baltimore Ravens",
-   "count": 391254
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 340472
-  },
-  {
-   "name": "Roman Wilson",
-   "count": 323523
+   "name": "Tyreek Hill",
+   "count": 503912
   },
   {
    "name": "Cleveland Browns",
-   "count": 316995
+   "count": 438095
   },
   {
-   "name": "Minnesota Vikings",
-   "count": 314265
+   "name": "Isaiah Davis",
+   "count": 413028
   },
   {
-   "name": "Las Vegas Raiders",
-   "count": 313368
+   "name": "Jaylen Wright",
+   "count": 402118
   },
   {
-   "name": "Pittsburgh Steelers",
-   "count": 295329
+   "name": "Jordan Addison",
+   "count": 348309
+  },
+  {
+   "name": "Baltimore Ravens",
+   "count": 329970
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 306608
   },
   {
    "name": "Kendre Miller",
-   "count": 292028
+   "count": 303578
   },
   {
    "name": "Chris Bell",
-   "count": 284683
+   "count": 297927
+  },
+  {
+   "name": "Las Vegas Raiders",
+   "count": 296430
+  },
+  {
+   "name": "Roman Wilson",
+   "count": 286434
+  },
+  {
+   "name": "Pittsburgh Steelers",
+   "count": 284994
   },
   {
    "name": "Jakobi Meyers",
-   "count": 243450
+   "count": 244560
+  },
+  {
+   "name": "Minnesota Vikings",
+   "count": 237505
   },
   {
    "name": "Malik Washington",
-   "count": 209848
+   "count": 206392
   }
  ]
 }
