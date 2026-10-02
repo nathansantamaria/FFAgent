@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-01T17:16:32+00:00",
+ "fetched_at": "2026-10-02T16:29:51+00:00",
  "adds": [
   {
    "name": "Tyreek Hill",
-   "count": 534672
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 443115
-  },
-  {
-   "name": "Ollie Gordon",
-   "count": 256214
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 253350
-  },
-  {
-   "name": "Alvin Kamara",
-   "count": 244864
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 243740
-  },
-  {
-   "name": "Kenyon Sadiq",
-   "count": 241119
-  },
-  {
-   "name": "Darren Waller",
-   "count": 230517
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 158240
-  },
-  {
-   "name": "Isaiah Davis",
-   "count": 156168
-  },
-  {
-   "name": "Kalif Raymond",
-   "count": 151518
-  },
-  {
-   "name": "Keaton Mitchell",
-   "count": 150039
-  },
-  {
-   "name": "Keenan Allen",
-   "count": 146844
-  },
-  {
-   "name": "Braelon Allen",
-   "count": 145936
-  },
-  {
-   "name": "Las Vegas Raiders",
-   "count": 119676
-  },
-  {
-   "name": "Skyy Moore",
-   "count": 106704
+   "count": 539704
   },
   {
    "name": "Roman Wilson",
-   "count": 105021
+   "count": 449766
   },
   {
-   "name": "Spencer Shrader",
-   "count": 97916
+   "name": "Isaiah Davis",
+   "count": 386865
   },
   {
-   "name": "C.J. Stroud",
-   "count": 93555
+   "name": "Alvin Kamara",
+   "count": 336872
   },
   {
-   "name": "Deshaun Watson",
-   "count": 91344
+   "name": "Konata Mumpfield",
+   "count": 287127
   },
   {
-   "name": "Malik Washington",
-   "count": 87696
+   "name": "Darren Waller",
+   "count": 203409
   },
   {
-   "name": "Raheim Sanders",
-   "count": 84112
+   "name": "Tyler Higbee",
+   "count": 186867
   },
   {
-   "name": "Brian Robinson",
-   "count": 79140
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 77148
+   "name": "Cleveland Browns",
+   "count": 150003
   },
   {
    "name": "Kendre Miller",
-   "count": 75070
+   "count": 125830
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 121992
+  },
+  {
+   "name": "Kenyon Sadiq",
+   "count": 116604
+  },
+  {
+   "name": "Jaylen Wright",
+   "count": 100424
+  },
+  {
+   "name": "Las Vegas Raiders",
+   "count": 93768
+  },
+  {
+   "name": "Deshaun Watson",
+   "count": 90456
+  },
+  {
+   "name": "KC Concepcion",
+   "count": 89604
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 85736
+  },
+  {
+   "name": "Zach Charbonnet",
+   "count": 85317
+  },
+  {
+   "name": "Keenan Allen",
+   "count": 82880
+  },
+  {
+   "name": "Dontayvion Wicks",
+   "count": 82641
+  },
+  {
+   "name": "Ollie Gordon",
+   "count": 81284
+  },
+  {
+   "name": "Kalif Raymond",
+   "count": 80398
+  },
+  {
+   "name": "Makai Lemon",
+   "count": 73440
+  },
+  {
+   "name": "Skyy Moore",
+   "count": 73048
+  },
+  {
+   "name": "Malik Washington",
+   "count": 72248
+  },
+  {
+   "name": "Arizona Cardinals",
+   "count": 72080
   }
  ]
 }
