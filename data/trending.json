@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-04T15:39:48+00:00",
+ "fetched_at": "2026-10-04T19:16:04+00:00",
  "adds": [
   {
    "name": "Emanuel Wilson",
-   "count": 1198638
+   "count": 1255356
   },
   {
    "name": "Jauan Jennings",
-   "count": 394268
+   "count": 485485
   },
   {
    "name": "Roman Wilson",
-   "count": 367614
+   "count": 402381
   },
   {
    "name": "Brycen Tremayne",
-   "count": 204669
-  },
-  {
-   "name": "Isaiah Davis",
-   "count": 199188
+   "count": 363960
   },
   {
    "name": "Darren Waller",
-   "count": 197361
+   "count": 246951
   },
   {
-   "name": "Austin Ekeler",
-   "count": 132668
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 123561
-  },
-  {
-   "name": "Tyson Bagent",
-   "count": 104268
+   "name": "Isaiah Davis",
+   "count": 214983
   },
   {
    "name": "Arizona Cardinals",
-   "count": 104216
+   "count": 147776
   },
   {
-   "name": "Makai Lemon",
-   "count": 91520
+   "name": "Tyler Higbee",
+   "count": 140967
   },
   {
-   "name": "Dontayvion Wicks",
-   "count": 82803
+   "name": "Austin Ekeler",
+   "count": 130268
+  },
+  {
+   "name": "Tyson Bagent",
+   "count": 110742
+  },
+  {
+   "name": "Darius Cooper",
+   "count": 106939
+  },
+  {
+   "name": "Tank Bigsby",
+   "count": 101948
   },
   {
    "name": "Malik Washington",
-   "count": 81944
+   "count": 97400
   },
   {
-   "name": "Jordan Addison",
-   "count": 73611
+   "name": "Makai Lemon",
+   "count": 92256
   },
   {
    "name": "C.J. Stroud",
-   "count": 71463
+   "count": 88445
   },
   {
-   "name": "Laquon Treadwell",
-   "count": 65335
+   "name": "Jordan Addison",
+   "count": 88182
   },
   {
-   "name": "Tyreek Hill",
-   "count": 64704
+   "name": "Dontayvion Wicks",
+   "count": 84867
   },
   {
    "name": "Kenyon Sadiq",
-   "count": 62109
+   "count": 73728
   },
   {
    "name": "Las Vegas Raiders",
-   "count": 59784
-  },
-  {
-   "name": "Zach Charbonnet",
-   "count": 55242
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 55206
-  },
-  {
-   "name": "Jakobi Meyers",
-   "count": 54948
-  },
-  {
-   "name": "Chris Bell",
-   "count": 53312
-  },
-  {
-   "name": "Alvin Kamara",
-   "count": 52392
+   "count": 69870
   },
   {
    "name": "Keaton Mitchell",
-   "count": 52353
+   "count": 68382
+  },
+  {
+   "name": "Laquon Treadwell",
+   "count": 64660
+  },
+  {
+   "name": "Joe Mixon",
+   "count": 64166
+  },
+  {
+   "name": "Tyreek Hill",
+   "count": 62976
+  },
+  {
+   "name": "Matt Gay",
+   "count": 60785
+  },
+  {
+   "name": "Zach Charbonnet",
+   "count": 59424
   }
  ]
 }

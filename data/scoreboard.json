@@ -1,86 +1,86 @@
 {
- "fetched_at": "2026-10-04T15:39:48+00:00",
+ "fetched_at": "2026-10-04T19:16:04+00:00",
  "week": 4,
  "games": [
   {
-   "name": "IND VS WSH",
+   "name": "NE @ BUF",
    "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "WSH": "13",
-    "IND": "17"
-   }
-  },
-  {
-   "name": "NE @ BUF",
-   "status": "Scheduled",
-   "date": "2026-10-04",
-   "score": {
-    "BUF": "0",
-    "NE": "0"
+    "BUF": "17",
+    "NE": "21"
    }
   },
   {
    "name": "NYJ @ CHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "CHI": "0",
-    "NYJ": "0"
+    "CHI": "20",
+    "NYJ": "6"
    }
   },
   {
    "name": "JAX @ CIN",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "CIN": "0",
-    "JAX": "0"
+    "CIN": "10",
+    "JAX": "16"
    }
   },
   {
    "name": "ARI @ NYG",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "NYG": "0",
-    "ARI": "0"
+    "NYG": "25",
+    "ARI": "24"
    }
   },
   {
    "name": "LAR @ PHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "PHI": "0",
-    "LAR": "0"
+    "PHI": "20",
+    "LAR": "10"
    }
   },
   {
    "name": "GB @ TB",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "TB": "0",
-    "GB": "0"
+    "TB": "14",
+    "GB": "17"
    }
   },
   {
    "name": "TEN @ BAL",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "BAL": "0",
-    "TEN": "0"
+    "BAL": "24",
+    "TEN": "10"
    }
   },
   {
    "name": "DAL @ HOU",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "HOU": "0",
-    "DAL": "0"
+    "HOU": "23",
+    "DAL": "20"
+   }
+  },
+  {
+   "name": "IND VS WSH",
+   "status": "Final",
+   "date": "2026-10-04",
+   "score": {
+    "WSH": "13",
+    "IND": "30"
    }
   },
   {
