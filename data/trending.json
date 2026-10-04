@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-03T15:04:02+00:00",
+ "fetched_at": "2026-10-04T15:39:48+00:00",
  "adds": [
   {
    "name": "Emanuel Wilson",
-   "count": 757341
-  },
-  {
-   "name": "Roman Wilson",
-   "count": 505395
+   "count": 1198638
   },
   {
    "name": "Jauan Jennings",
-   "count": 299075
+   "count": 394268
+  },
+  {
+   "name": "Roman Wilson",
+   "count": 367614
+  },
+  {
+   "name": "Brycen Tremayne",
+   "count": 204669
   },
   {
    "name": "Isaiah Davis",
-   "count": 286632
-  },
-  {
-   "name": "Tyreek Hill",
-   "count": 168896
+   "count": 199188
   },
   {
    "name": "Darren Waller",
-   "count": 160245
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 155133
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 102483
-  },
-  {
-   "name": "Tyson Bagent",
-   "count": 99138
-  },
-  {
-   "name": "Dontayvion Wicks",
-   "count": 91026
-  },
-  {
-   "name": "Makai Lemon",
-   "count": 90604
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 86211
-  },
-  {
-   "name": "Alvin Kamara",
-   "count": 81504
-  },
-  {
-   "name": "Malik Washington",
-   "count": 60936
-  },
-  {
-   "name": "Las Vegas Raiders",
-   "count": 59154
-  },
-  {
-   "name": "Kenyon Sadiq",
-   "count": 58698
+   "count": 197361
   },
   {
    "name": "Austin Ekeler",
-   "count": 57712
+   "count": 132668
   },
   {
-   "name": "Jacory Croskey-Merritt",
-   "count": 52965
+   "name": "Tyler Higbee",
+   "count": 123561
   },
   {
-   "name": "C.J. Stroud",
-   "count": 51492
-  },
-  {
-   "name": "Tre' Harris",
-   "count": 50056
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 49744
-  },
-  {
-   "name": "MarShawn Lloyd",
-   "count": 46584
+   "name": "Tyson Bagent",
+   "count": 104268
   },
   {
    "name": "Arizona Cardinals",
-   "count": 46080
+   "count": 104216
+  },
+  {
+   "name": "Makai Lemon",
+   "count": 91520
+  },
+  {
+   "name": "Dontayvion Wicks",
+   "count": 82803
+  },
+  {
+   "name": "Malik Washington",
+   "count": 81944
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 73611
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 71463
+  },
+  {
+   "name": "Laquon Treadwell",
+   "count": 65335
+  },
+  {
+   "name": "Tyreek Hill",
+   "count": 64704
+  },
+  {
+   "name": "Kenyon Sadiq",
+   "count": 62109
+  },
+  {
+   "name": "Las Vegas Raiders",
+   "count": 59784
+  },
+  {
+   "name": "Zach Charbonnet",
+   "count": 55242
+  },
+  {
+   "name": "Jacory Croskey-Merritt",
+   "count": 55206
+  },
+  {
+   "name": "Jakobi Meyers",
+   "count": 54948
   },
   {
    "name": "Chris Bell",
-   "count": 44737
+   "count": 53312
   },
   {
-   "name": "Jaylen Wright",
-   "count": 44434
+   "name": "Alvin Kamara",
+   "count": 52392
+  },
+  {
+   "name": "Keaton Mitchell",
+   "count": 52353
   }
  ]
 }

@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-10-03T15:04:02+00:00",
+ "fetched_at": "2026-10-04T15:39:48+00:00",
  "week": 4,
  "games": [
   {
-   "name": "PIT @ CLE",
-   "status": "Final",
-   "date": "2026-10-02",
-   "score": {
-    "CLE": "27",
-    "PIT": "24"
-   }
-  },
-  {
    "name": "IND VS WSH",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-04",
    "score": {
-    "WSH": "0",
-    "IND": "0"
+    "WSH": "13",
+    "IND": "17"
    }
   },
   {
@@ -135,6 +126,15 @@
    "score": {
     "CAR": "0",
     "DET": "0"
+   }
+  },
+  {
+   "name": "PIT @ CLE",
+   "status": "Final",
+   "date": "2026-10-02",
+   "score": {
+    "CLE": "27",
+    "PIT": "24"
    }
   },
   {
