@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-10-06T02:39:57+00:00",
+ "fetched_at": "2026-10-06T17:02:45+00:00",
  "week": 4,
  "games": [
-  {
-   "name": "ATL @ NO",
-   "status": "In Progress",
-   "date": "2026-10-06",
-   "score": {
-    "NO": "10",
-    "ATL": "31"
-   }
-  },
   {
    "name": "PIT @ CLE",
    "status": "Final",
@@ -144,6 +135,15 @@
    "score": {
     "CAR": "32",
     "DET": "26"
+   }
+  },
+  {
+   "name": "ATL @ NO",
+   "status": "Final",
+   "date": "2026-10-06",
+   "score": {
+    "NO": "24",
+    "ATL": "45"
    }
   }
  ]

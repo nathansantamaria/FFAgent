@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-10-06T02:39:57+00:00",
+ "fetched_at": "2026-10-06T17:02:45+00:00",
  "league_id": "1400160155982639104",
- "week": 4,
+ "week": 5,
  "standings": [
   {
    "team": "Run@TellThat",
    "wins": 1,
-   "losses": 2,
-   "pf": 328.18,
+   "losses": 3,
+   "pf": 437.96,
    "waiver_position": 1
   },
   {
    "team": "BobbiWasabi",
    "wins": 1,
-   "losses": 2,
-   "pf": 387.88,
+   "losses": 3,
+   "pf": 476.86,
    "waiver_position": 2
   },
   {
-   "team": "BitcoinBucs",
-   "wins": 1,
-   "losses": 2,
-   "pf": 427.36,
-   "waiver_position": 3
-  },
-  {
-   "team": "Scorpiondemon90",
-   "wins": 2,
-   "losses": 1,
-   "pf": 392.86,
-   "waiver_position": 4
-  },
-  {
-   "team": "zay4209",
-   "wins": 2,
-   "losses": 1,
-   "pf": 465.24,
-   "waiver_position": 5
-  },
-  {
-   "team": "jaybeezy2ezy",
-   "wins": 3,
-   "losses": 0,
-   "pf": 465.62,
-   "waiver_position": 6
-  },
-  {
    "team": "BmoreKidd",
-   "wins": 0,
-   "losses": 3,
-   "pf": 355.2,
-   "waiver_position": 7
-  },
-  {
-   "team": "I cook brown rice",
    "wins": 1,
-   "losses": 2,
-   "pf": 422.38,
-   "waiver_position": 8
+   "losses": 3,
+   "pf": 495.58,
+   "waiver_position": 3
   },
   {
    "team": "JMann60",
    "wins": 2,
-   "losses": 1,
-   "pf": 406.48,
-   "waiver_position": 9
+   "losses": 2,
+   "pf": 524.08,
+   "waiver_position": 4
   },
   {
    "team": "Artificial Domination",
    "wins": 2,
+   "losses": 2,
+   "pf": 561.96,
+   "waiver_position": 5
+  },
+  {
+   "team": "I cook brown rice",
+   "wins": 2,
+   "losses": 2,
+   "pf": 563.62,
+   "waiver_position": 6
+  },
+  {
+   "team": "BitcoinBucs",
+   "wins": 2,
+   "losses": 2,
+   "pf": 576.88,
+   "waiver_position": 7
+  },
+  {
+   "team": "zay4209",
+   "wins": 2,
+   "losses": 2,
+   "pf": 630.66,
+   "waiver_position": 8
+  },
+  {
+   "team": "Scorpiondemon90",
+   "wins": 3,
    "losses": 1,
-   "pf": 434.6,
+   "pf": 513.34,
+   "waiver_position": 9
+  },
+  {
+   "team": "jaybeezy2ezy",
+   "wins": 4,
+   "losses": 0,
+   "pf": 647.94,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 10,
+ "my_waiver_position": 5,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",

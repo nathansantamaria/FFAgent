@@ -1,57 +1,113 @@
 {
- "fetched_at": "2026-10-06T02:39:57+00:00",
+ "fetched_at": "2026-10-06T17:02:45+00:00",
  "articles": [
   {
-   "headline": "Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary",
-   "summary": "Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary",
+   "headline": "Bryce Young to McAfee: 'We rally around the city in the same way they rally around us'",
+   "summary": "Bryce Young to McAfee: 'We rally around the city in the same way they rally around us'",
    "published": "2026-10-06",
-   "url": "https://www.espn.com/video/clip/_/id/50114232/steve-gleason-former-teammates-lead-dat-chant-20-year-domecoming-anniversary",
+   "url": "https://www.espn.com/video/clip/_/id/50117645/rally-city-same-way-rally-us",
+   "players": [
+    "Bryce Young",
+    "Pat McAfee"
+   ]
+  },
+  {
+   "headline": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings",
+   "summary": "Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50117108/fantasy-football-2026-strength-schedule-rest-season",
    "players": []
   },
   {
-   "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-   "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds",
+   "headline": "Daniel Dopp: Michael Wilson is a fantasy football must-start in Week 5",
+   "summary": "Daniel Dopp: Michael Wilson is a fantasy football must-start in Week 5",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50117332/michael-wilson-fantasy-football-start-week-5",
    "players": [
-    "Jayden Daniels",
-    "Keondre Jackson",
-    "Baker Mayfield",
-    "Caleb Williams",
-    "Jaxson Dart",
-    "Saquon Barkley",
-    "Travis Etienne Jr",
-    "AJ Brown",
+    "Michael Wilson"
+   ]
+  },
+  {
+   "headline": "Daniel Dopp congratulates fantasy managers that have Bijan Robinson",
+   "summary": "Daniel Dopp congratulates fantasy managers that have Bijan Robinson",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50117248/daniel-dopp-congratulates-fantasy-managers-bijan-robinson",
+   "players": [
+    "Bijan Robinson"
+   ]
+  },
+  {
+   "headline": "Rest-of-season rankings: Tetairoa McMillan, George Kittle rise while Jalen Hurts slips",
+   "summary": "Need a quick free agent pickup -- or roster overhaul -- after Week 4? These rankings are designed to help.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+   "players": [
+    "Brock Bowers",
+    "George Kittle",
+    "CeeDee Lamb",
     "Ja'Marr Chase",
-    "Justin Jefferson",
+    "Nico Collins",
+    "Tetairoa McMillan",
     "DeVonta Smith",
-    "De'Von Achane",
-    "Case Keenum",
-    "Tyson Bagent"
+    "Rashee Rice",
+    "Ladd McConkey",
+    "Tyreek Hill",
+    "Emanuel Wilson",
+    "Travis Etienne Jr",
+    "Jadarian Price",
+    "Alvin Kamara",
+    "Omarion Hampton",
+    "Bhayshul Tuten",
+    "Chuba Hubbard",
+    "Kenneth Walker III",
+    "Bryce Young",
+    "Jalen Hurts",
+    "Kirk Cousins",
+    "Deshaun Watson",
+    "Justin Herbert",
+    "Lamar Jackson",
+    "Brock Purdy"
    ]
   },
   {
-   "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-   "summary": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
-   "players": [
-    "Travis Hunter",
-    "Joe Burrow",
-    "CeeDee Lamb"
-   ]
-  },
-  {
-   "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-   "summary": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
+   "headline": "Are Keon Coleman and Dohnte Meyers good options for fantasy managers?",
+   "summary": "Are Keon Coleman and Dohnte Meyers good options for fantasy managers?",
    "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field",
+   "url": "https://www.espn.com/video/clip/_/id/50117083/are-keon-coleman-dohnte-meyers-good-options-fantasy-managers",
+   "players": [
+    "Keon Coleman",
+    "Dohnte Meyers"
+   ]
+  },
+  {
+   "headline": "Fantasy football rankings Week 5: PPR and superflex",
+   "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
    "players": []
   },
   {
-   "headline": "Fantasy football buzz: Is Joe Mixon worth picking up after Seattle signing?",
-   "summary": "Veteran running back Joe Mixon is signing with the Seahawks, but is the 30-year-old worth adding in fantasy?",
-   "published": "2026-10-05",
+   "headline": "Is Tyreek Hill relevant in fantasy football?",
+   "summary": "Is Tyreek Hill relevant in fantasy football?  ",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50117073/is-tyreek-hill-relevant-fantasy-football",
+   "players": [
+    "Tyreek Hill"
+   ]
+  },
+  {
+   "headline": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes",
+   "summary": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes ",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50117068/stephen-puzzled-why-zac-taylor-not-more-scrutiny-bengals-woes",
+   "players": [
+    "Joe Burrow"
+   ]
+  },
+  {
+   "headline": "Fantasy football buzz: Michael Penix Jr. elevating Falcons' offense",
+   "summary": "Bijan Robinson and the rest of the Falcons offense has seen a big uptick in production with Penix under center.",
+   "published": "2026-10-06",
    "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
    "players": [
     "Sam LaPorta",
@@ -76,357 +132,249 @@
     "Rhamondre Stevenson",
     "James Cook III",
     "Rachaad White",
-    "Joe Mixon"
-   ]
-  },
-  {
-   "headline": "MCL sprain sidelines Mariota; Daniels preps for full practice",
-   "summary": "In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained MCL of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said on Monday.",
-   "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice",
-   "players": [
-    "Marcus Mariota",
-    "Jayden Daniels"
-   ]
-  },
-  {
-   "headline": "NFL Week 4's best arrivals, led by Saints DE Cam Jordan",
-   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
-   "players": []
-  },
-  {
-   "headline": "Cowboys' Tyler Smith hoping to be ready to face Bucs",
-   "summary": "Cowboys Pro Bowl guard Tyler Smith hopes to make his season debut Thursday against the Buccaneers after having surgery last month on his left thumb.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50112664/cowboys-tyler-smith-hoping-ready-face-bucs",
-   "players": [
-    "Tyler Smith"
-   ]
-  },
-  {
-   "headline": "Cardinals LT Paris Johnson out for season after tearing biceps",
-   "summary": "Cardinals starting left tackle Paris Johnson Jr. is out for the season after tearing his left biceps in a 36-24 loss to the New York Giants on Sunday.",
-   "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50112533/cardinals-lt-paris-johnson-season-tearing-biceps",
-   "players": [
-    "Paris Johnson Jr"
-   ]
-  },
-  {
-   "headline": "Sources: Seahawks plan to sign RB Joe Mixon to practice squad",
-   "summary": "The Seahawks plan to sign veteran running back Joe Mixon to their practice squad as long as he passes his physical, sources told ESPN.",
-   "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50112493/seahawks-signing-rb-joe-mixon-workout-source-says",
-   "players": [
     "Joe Mixon",
-    "Robert Henry Jr"
+    "Chris Olave",
+    "Tyler Shough",
+    "Juwan Johnson",
+    "Devaughn Vele",
+    "CJ Donaldson",
+    "Alvin Kamara",
+    "Michael Penix Jr",
+    "Bijan Robinson",
+    "Brian Robinson Jr",
+    "Drake London"
    ]
   },
   {
-   "headline": "Chargers OT Rashawn Slater dealing with high ankle sprain",
-   "summary": "Chargers offensive tackle Rashawn Slater suffered a high right ankle sprain in Sunday's loss to the Seahawks in Seattle, coach Jim Harbaugh said Monday.",
+   "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+   "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
    "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50112395/sources-chargers-ot-rashawn-slater-high-ankle-sprain",
+   "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+   "players": []
+  },
+  {
+   "headline": "Is Will Shipley a good fantasy option vs. Jaguars?",
+   "summary": "Is Will Shipley a good fantasy option vs. Jaguars?",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116953/is-shipley-good-fantasy-option-vs-jaguars",
    "players": [
-    "Rashawn Slater"
+    "Will Shipley"
    ]
   },
   {
-   "headline": "Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options",
-   "summary": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50108832/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-5",
+   "headline": "Mike Clay: Jacoby Brissett is a \u2018great streamer\u2019 in Week 5",
+   "summary": "Mike Clay: Jacoby Brissett is a \u2018great streamer\u2019 in Week 5",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116889/jacoby-brissett-great-streamer-week-5",
    "players": [
-    "Kirk Cousins",
-    "Emanuel Wilson",
-    "Keon Coleman",
-    "Tyler Higbee",
+    "Jacoby Brissett"
+   ]
+  },
+  {
+   "headline": "Stephen A. praises 'formidable' Falcons, Bijan after thumping Saints",
+   "summary": "Stephen A. praises 'formidable' Falcons, Bijan after thumping Saints",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116802/stephen-praises-formidable-falcons-bijan-thumping-saints",
+   "players": [
+    "Bijan Robinson"
+   ]
+  },
+  {
+   "headline": "2026 expected fantasy points against (xFPA) by position",
+   "summary": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: Wide receiver",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+   "players": []
+  },
+  {
+   "headline": "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
+   "players": []
+  },
+  {
+   "headline": "Expected fantasy points (xFP): 2026 leaderboard for WRs",
+   "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869659/fantasy-football-2026-expected-fantasy-points-xfp-wr",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: Tight end",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: Quarterback",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: Running back",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+   "players": []
+  },
+  {
+   "headline": "Expected fantasy points (xFP): 2026 leaderboard for RBs",
+   "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869631/2026-fantasy-football-expected-fantasy-points-xfp-rb",
+   "players": []
+  },
+  {
+   "headline": "Expected fantasy points (xFP): 2026 leaderboard for QBs",
+   "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869566/2026-fantasy-football-expected-fantasy-points-xfp-qb",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: D/ST",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+   "players": []
+  },
+  {
+   "headline": "NFL expected touchdown (xTD) leaderboard for 2026",
+   "summary": "Opportunity-adjusted TD leaders tell you not only who's scoring but who's getting the opportunities to score.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49869194/2026-fantasy-football-rankings-nfl-expected-td-opportunity-xtd",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: Kicker",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 5: IDP",
+   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football 2026 defensive depth charts",
+   "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football 2026 offensive depth charts",
+   "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+   "players": []
+  },
+  {
+   "headline": "Is your fantasy football team a disaster? This is for you",
+   "summary": "It might feel like your fantasy season is over if you are 0-4, but Adam Rank is here to tell you that it's not.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50116529/fantasy-football-motivational-pep-talk",
+   "players": []
+  },
+  {
+   "headline": "What do Ravens have to do if Lamar Jackson misses games?",
+   "summary": "What do Ravens have to do if Lamar Jackson misses games?",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116472/what-do-ravens-do-lamar-jackson-misses-games",
+   "players": [
+    "Lamar Jackson",
+    "Derrick Henry"
+   ]
+  },
+  {
+   "headline": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
+   "summary": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116450/bills-need-get-away-josh-allen-playing-hero-ball",
+   "players": [
+    "Steve Smith Sr",
+    "Josh Allen"
+   ]
+  },
+  {
+   "headline": "Sources: Ravens QB Lamar Jackson dealing with ankle sprain",
+   "summary": "Lamar Jackson is dealing with a sprained ankle that gives the Ravens QB only an outside chance to play Sunday against the Falcons, sources told NFL Network.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/nfl/story/_/id/50116449/sources-ravens-qb-lamar-jackson-dealing-ankle-sprain",
+   "players": [
+    "Lamar Jackson"
+   ]
+  },
+  {
+   "headline": "2026 NFL pass rush, run stop, blocking win rate rankings",
+   "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+   "players": []
+  },
+  {
+   "headline": "Is Baker Mayfield really the worst QB in the NFC South?",
+   "summary": "Is Baker Mayfield really the worst QB in the NFC South?",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/video/clip/_/id/50116287/is-baker-mayfield-really-worst-qb-nfc-south",
+   "players": [
+    "Baker Mayfield"
+   ]
+  },
+  {
+   "headline": "Fantasy football: Live Week 5 free agent pickups advice with ESPN expert",
+   "summary": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49998196/fantasy-football-waiver-wire-pickups-week",
+   "players": []
+  },
+  {
+   "headline": "Is Bijan Robinson the NFL's top RB? He is when he's in primetime",
+   "summary": "Bijan Robinson has the most scrimmage yards per game in primetime, and he'll get a chance to keep it rolling on 'Monday Night Football' this week.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/nfl/story/_/id/50101403/falcons-bijan-robinson-prime-mnf",
+   "players": [
+    "Bijan Robinson"
+   ]
+  },
+  {
+   "headline": "Seven tips to drafting a winning short-season Knockout league team",
+   "summary": "From navigating early bye weeks, injuries and a deeper talent pool, here's how to approach a 14-team Knockout league.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50112518/knockout-league-short-season-strategy",
+   "players": []
+  },
+  {
+   "headline": "Seven things Solak thinks entering NFL Week 5: Jaguars are the AFC's best, more",
+   "summary": "Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
+   "published": "2026-10-06",
+   "url": "https://www.espn.com/nfl/story/_/id/50110488/week-5-seven-things-solak-thinks-afc-nfc",
+   "players": [
     "CJ Stroud",
-    "Aaron Rodgers",
-    "Deshaun Watson",
-    "Jameis Winston",
-    "Tyson Bagent",
-    "Tyler Huntley",
-    "Tank Bigsby",
-    "Austin Ekeler",
-    "Tyler Allgeier",
-    "Roman Wilson",
-    "Tyreek Hill",
-    "Dohnte Meyers",
-    "Darius Cooper",
-    "Mike Gesicki",
-    "Brenton Strange"
+    "Joe Burrow"
    ]
   },
   {
-   "headline": "McVay: Rams coaches will 'learn' from incident with Eagles fans",
-   "summary": "Rams coach Sean McVay says his assistant coaches will learn from their viral interaction with Eagles fans during Sunday's win over Philadelphia.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50112291/mcvay-rams-coaches-learn-incident-eagles-fans",
-   "players": []
-  },
-  {
-   "headline": "Sources: Eagles RB Bigsby headed to IR, Barkley week-to-week",
-   "summary": "Eagles running back Tank Bigsby sustained a core muscle injury Sunday that requires surgery, sources told NFL Network's Ian Rapoport.",
+   "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
+   "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
    "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50111928/sources-eagles-rb-tank-bigsby-surgery-headed-ir",
-   "players": [
-    "Tank Bigsby",
-    "Saquon Barkley",
-    "Cam Jurgens"
-   ]
-  },
-  {
-   "headline": "Pat Surtain II out with an ankle injury: How will the Denver Broncos adjust?",
-   "summary": "While Surtain was able to avoid a long-term, season-ending injury, the loss of him and Riley Moss puts the Broncos in a short-term bind.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50110612/pat-surtain-ii-injury-denver-broncos-defense-effects",
-   "players": [
-    "Pat Surtain II",
-    "Riley Moss",
-    "Jahdae Barron",
-    "Kris Abrams-Draine"
-   ]
-  },
-  {
-   "headline": "Bills CB Maxwell Hairston sorry for skipping media, addresses struggles",
-   "summary": "A day after skipping out on the media, Bills cornerback Maxwell Hairston held an impromptu news conference to apologize and provide context for his early-season struggles.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111808/bills-cb-maxwell-hairston-sorry-skipping-media-addresses-struggles",
-   "players": [
-    "Maxwell Hairston"
-   ]
-  },
-  {
-   "headline": "Bengals WR Tee Higgins day-to-day with adductor injury, coach says",
-   "summary": "Bengals wide receiver Tee Higgins is considered day-to-day with an adductor issue he suffered toward the end of Sunday's 22-17 loss to the Jacksonville Jaguars.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111779/bengals-wr-tee-higgins-day-day-adductor-injury-coach-says",
-   "players": [
-    "Tee Higgins"
-   ]
-  },
-  {
-   "headline": "Sources: Chiefs WR Tyquan Thornton expected back in 12-16 weeks",
-   "summary": "Chiefs wide receiver Tyquan Thornton is expected back from a dislocated left ankle injury within 12 to 16 weeks, sources told NFL Network.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111568/sources-chiefs-wr-tyquan-thornton-expected-back-12-16-weeks",
-   "players": [
-    "Tyquan Thornton"
-   ]
-  },
-  {
-   "headline": "Schefter: Officials involved in Week 4 controversies receiving suspensions",
-   "summary": "Schefter: Officials involved in Week 4 controversies receiving suspensions",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50111484/officials-involved-week-4-controversies-receiving-suspensions",
+   "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap",
    "players": []
-  },
-  {
-   "headline": "Why a Tyreek Hill-Chiefs reunion makes so much sense",
-   "summary": "The Chiefs had been monitoring and receiving updates on Hill's rehab and training sessions even before the injuries to Tyquan Thornton and Rashee Rice.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help",
-   "players": [
-    "Tyreek Hill",
-    "Patrick Mahomes",
-    "Travis Kelce",
-    "Tyquan Thornton",
-    "Rashee Rice",
-    "Xavier Worthy",
-    "Cyrus Allen"
-   ]
-  },
-  {
-   "headline": "Buccaneers S Antoine Winfield Jr. out 2-4 weeks with rib fracture",
-   "summary": "Buccaneers All-Pro safety Antoine Winfield Jr. is expected to miss 2-4 weeks with a :slight rib fracture,\" coach Todd Bowles said Monday.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111470/buccaneers-s-antoine-winfield-jr-2-4-weeks-rib-fracture",
-   "players": [
-    "Antoine Winfield Jr",
-    "SirVocea Dennis"
-   ]
-  },
-  {
-   "headline": "Vikings LG Jackson likely out for season, LT Darrisaw has concussion",
-   "summary": "Vikings left guard Donovan Jackson is headed for what is likely season-ending surgery to repair a meniscus tear, and left tackle Christian Darrisaw is in the concussion protocol.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111468/vikings-lg-jackson-likely-season-lt-darrisaw-concussion",
-   "players": [
-    "Christian Darrisaw",
-    "Donovan Jackson"
-   ]
-  },
-  {
-   "headline": "NFL suspends officials Jeff Seeman, Adrian Hill for conduct toward players",
-   "summary": "The NFL has suspended line judge Jeff Seeman for two games for appearing to swear at Cardinals tight end Trey McBride. Referee Adrian Hill has been suspended one game for a separate incident in the Vikings' win over the Dolphins.",
-   "published": "2026-10-06",
-   "url": "https://www.espn.com/nfl/story/_/id/50111452/nfl-suspends-officials-jeff-seeman-adrian-hill-conduct-players",
-   "players": [
-    "Trey McBride",
-    "Eric Wilson"
-   ]
-  },
-  {
-   "headline": "Ravens unsure if Lamar Jackson (ankle) will play vs. Falcons",
-   "summary": "The Ravens are uncertain whether quarterback Lamar Jackson will play Sunday night against the Falcons.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111347/ravens-unsure-lamar-jackson-ankle-play-vs-falcons",
-   "players": [
-    "Lamar Jackson",
-    "Tyler Huntley"
-   ]
-  },
-  {
-   "headline": "Sources: 49ers Pro Bowl FB Juszczyk (knee) expected out 2-3 weeks",
-   "summary": "49ers Pro Bowl fullback Kyle Juszczyk suffered a knee sprain and bone bruise and is expected to be sidelined for two to three weeks, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50111202/sources-49ers-pro-bowl-fb-juszczyk-knee-expected-2-3-weeks",
-   "players": [
-    "Kyle Juszczyk",
-    "Marques Sigle",
-    "Upton Stout"
-   ]
-  },
-  {
-   "headline": "Broncos get good news on Pat Surtain II's ankle, sources say",
-   "summary": "Broncos star cornerback Pat Surtain II avoided a worst-case scenario on his ankle injury, sources told NFL Network's Ian Rapoport.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50110871/broncos-get-good-news-pat-surtain-ii-ankle-sources-say",
-   "players": [
-    "Pat Surtain II",
-    "Pat Bryant"
-   ]
-  },
-  {
-   "headline": "Head coach Kyle Shanahan makes franchise history",
-   "summary": "The 49ers' win against the Broncos marks Kyle Shanahan's 167th franchise win, surpassing Bill Walsh for the all-time franchise record.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50110820/head-coach-kyle-shanahan-makes-franchise-history",
-   "players": []
-  },
-  {
-   "headline": "Breaking down the Broncos' offensive struggles",
-   "summary": "Jeffrey Legwold details Head Coach Sean Payton's thoughts on the Broncos' loss against the 49ers.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50110790/breaking-broncos-offensive-struggles",
-   "players": []
-  },
-  {
-   "headline": "Adam Schefter's players to watch at the trade deadline",
-   "summary": "Adam Schefter's players to watch at the trade deadline ",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50110782/adam-schefter-players-watch-trade-deadline",
-   "players": [
-    "Khalil Mack",
-    "Marvin Harrison Jr",
-    "Tyreek Hill",
-    "Jerry Jeudy",
-    "Tony Pollard"
-   ]
-  },
-  {
-   "headline": "Packers LB Edgerrin Cooper has season-ending torn Achilles",
-   "summary": "Packers linebacker Edgerrin Cooper suffered a season-ending Achilles tear during Sunday's 17-14 victory over the Buccaneers.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50110763/sources-packers-lb-edgerrin-cooper-torn-achilles",
-   "players": [
-    "Edgerrin Cooper"
-   ]
-  },
-  {
-   "headline": "Ben Johnson: Tyson Bagent will start at QB for Bears vs. Packers",
-   "summary": "Tyson Bagent will be the Bears' starting quarterback for Sunday's game at the Packers, coach Ben Johnson announced Monday.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50110486/ben-johnson-tyson-bagent-start-qb-bears-vs-packers",
-   "players": [
-    "Tyson Bagent"
-   ]
-  },
-  {
-   "headline": "Fantasy football 14-team Knockout league rankings: The 196 players to draft",
-   "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-   "players": []
-  },
-  {
-   "headline": "ManningCast 2026 schedule: How to watch MNF games and guests",
-   "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-   "players": []
-  },
-  {
-   "headline": "Is Omarion Hampton a good fantasy option in Week 5?",
-   "summary": "Is Omarion Hampton a good fantasy option in Week 5?",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50110007/is-omarion-hampton-good-fantasy-option-week-5",
-   "players": [
-    "Omarion Hampton"
-   ]
-  },
-  {
-   "headline": "'Unacceptable': Ravens steaming after most penalty yards in 6 years",
-   "summary": "The Ravens were flagged 13 times Sunday for 131 yards, which was their most in a game in six years.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/nfl/story/_/id/50109541/baltimore-ravens-steaming-most-penalty-yards-week-4",
-   "players": []
-  },
-  {
-   "headline": "Why Daniel Dopp sees Ollie Gordon II as a fantasy 'mirage'",
-   "summary": "Why Daniel Dopp sees Ollie Gordon II as a fantasy 'mirage'",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50109981/why-daniel-dopp-sees-ollie-gordon-ii-fantasy-mirage",
-   "players": [
-    "Ollie Gordon II"
-   ]
-  },
-  {
-   "headline": "Why Mike Clay warns against getting carried away by Kyle Monangai's big fantasy haul in Week 4",
-   "summary": "Why Mike Clay warns against getting carried away by Kyle Monangai's big fantasy haul in Week 4",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50109963/why-mike-clay-warns-getting-carried-away-kyle-monangai-big-fantasy-haul-week-4",
-   "players": [
-    "Kyle Monangai"
-   ]
-  },
-  {
-   "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
-   "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-   "players": [
-    "Josh Allen",
-    "Brock Purdy",
-    "Trevor Lawrence",
-    "Patrick Mahomes",
-    "Lamar Jackson",
-    "Kenneth Walker III",
-    "Jahmyr Gibbs",
-    "Jaxon Smith-Njigba"
-   ]
-  },
-  {
-   "headline": "Stephen A.: Nobody is beating the Chiefs if they sign Tyreek Hill",
-   "summary": "Stephen A.: Nobody is beating the Chiefs if they sign Tyreek Hill ",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50109897/beating-chiefs-sign-tyreek-hill",
-   "players": [
-    "Tyreek Hill",
-    "Patrick Mahomes"
-   ]
-  },
-  {
-   "headline": "Why Field Yates likes Drake Maye's fantasy prospects with more relaxed schedule",
-   "summary": "Why Field Yates likes Drake Maye's fantasy prospects with more relaxed schedule",
-   "published": "2026-10-05",
-   "url": "https://www.espn.com/video/clip/_/id/50109814/why-field-yates-likes-drake-maye-fantasy-prospects-more-relaxed-schedule",
-   "players": [
-    "Drake Maye"
-   ]
   }
  ]
 }
