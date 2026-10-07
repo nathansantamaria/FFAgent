@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T09:31:28+00:00",
+ "fetched_at": "2026-10-07T17:40:31+00:00",
  "league_id": "1400160155982639104",
  "week": 5,
  "standings": [
@@ -79,15 +79,15 @@
  "my_roster": [
   "Brandon Aubrey",
   "Jayden Daniels",
+  "Keon Coleman",
+  "Kirk Cousins",
   "Pat Bryant",
   "Harold Fannin",
   "Jacory Croskey-Merritt",
   "Jadarian Price",
   "Jonah Coleman",
   "Tyreek Hill",
-  "Joe Mixon",
   "Tony Pollard",
-  "Jauan Jennings",
   "Jaylen Waddle",
   "George Pickens",
   "Chris Olave",
@@ -96,13 +96,13 @@
   "Jacksonville Jaguars"
  ],
  "my_starters": [
-  "Bryce Young",
+  "Kirk Cousins",
   "Jacory Croskey-Merritt",
   "Tony Pollard",
   "Jaxon Smith-Njigba",
-  "George Pickens",
-  "Harold Fannin",
   "Chris Olave",
+  "Harold Fannin",
+  "George Pickens",
   "Jaylen Waddle",
   "Brandon Aubrey",
   "Jacksonville Jaguars"
@@ -111,15 +111,15 @@
   "Artificial Domination": [
    "Brandon Aubrey",
    "Jayden Daniels",
+   "Keon Coleman",
+   "Kirk Cousins",
    "Pat Bryant",
    "Harold Fannin",
    "Jacory Croskey-Merritt",
    "Jadarian Price",
    "Jonah Coleman",
    "Tyreek Hill",
-   "Joe Mixon",
    "Tony Pollard",
-   "Jauan Jennings",
    "Jaylen Waddle",
    "George Pickens",
    "Chris Olave",
@@ -165,6 +165,7 @@
   "JMann60": [
    "Rashee Rice",
    "Michael Wilson",
+   "Will Shipley",
    "Quinshon Judkins",
    "Denzel Boston",
    "Kalif Raymond",
@@ -172,14 +173,13 @@
    "Sam Darnold",
    "A.J. Brown",
    "David Montgomery",
-   "Evan McPherson",
+   "Matt Gay",
    "Drake London",
    "Trey McBride",
    "James Cook",
    "Alec Pierce",
    "Zay Flowers",
-   "Houston Texans",
-   "Pittsburgh Steelers"
+   "Houston Texans"
   ],
   "jaybeezy2ezy": [
    "Brock Bowers",
