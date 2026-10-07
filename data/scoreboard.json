@@ -1,149 +1,140 @@
 {
- "fetched_at": "2026-10-06T17:02:45+00:00",
- "week": 4,
+ "fetched_at": "2026-10-07T09:31:28+00:00",
+ "week": 5,
  "games": [
   {
-   "name": "PIT @ CLE",
-   "status": "Final",
-   "date": "2026-10-02",
+   "name": "TB @ DAL",
+   "status": "Scheduled",
+   "date": "2026-10-09",
    "score": {
-    "CLE": "27",
-    "PIT": "24"
+    "DAL": "0",
+    "TB": "0"
    }
   },
   {
-   "name": "IND VS WSH",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "PHI VS JAX",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "WSH": "13",
-    "IND": "30"
+    "JAX": "0",
+    "PHI": "0"
    }
   },
   {
-   "name": "NE @ BUF",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "CHI @ GB",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "BUF": "26",
-    "NE": "29"
+    "GB": "0",
+    "CHI": "0"
    }
   },
   {
-   "name": "NYJ @ CHI",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "HOU @ TEN",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "CHI": "23",
-    "NYJ": "12"
+    "TEN": "0",
+    "HOU": "0"
    }
   },
   {
-   "name": "JAX @ CIN",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "CIN @ MIA",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "CIN": "17",
-    "JAX": "22"
+    "MIA": "0",
+    "CIN": "0"
    }
   },
   {
-   "name": "ARI @ NYG",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "LV @ NE",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "NYG": "36",
-    "ARI": "24"
+    "NE": "0",
+    "LV": "0"
    }
   },
   {
-   "name": "LAR @ PHI",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "MIN @ NO",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "PHI": "20",
-    "LAR": "24"
+    "NO": "0",
+    "MIN": "0"
    }
   },
   {
-   "name": "GB @ TB",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "CLE @ NYJ",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "TB": "14",
-    "GB": "17"
+    "NYJ": "0",
+    "CLE": "0"
    }
   },
   {
-   "name": "TEN @ BAL",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "IND @ PIT",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "BAL": "24",
-    "TEN": "18"
+    "PIT": "0",
+    "IND": "0"
    }
   },
   {
-   "name": "DAL @ HOU",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "NYG @ WSH",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "HOU": "30",
-    "DAL": "34"
+    "WSH": "0",
+    "NYG": "0"
    }
   },
   {
-   "name": "MIA @ MIN",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "DEN @ LAC",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "MIN": "15",
-    "MIA": "10"
+    "LAC": "0",
+    "DEN": "0"
    }
   },
   {
-   "name": "KC @ LV",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "DET @ ARI",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "LV": "27",
-    "KC": "30"
+    "ARI": "0",
+    "DET": "0"
    }
   },
   {
-   "name": "DEN @ SF",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "SF @ SEA",
+   "status": "Scheduled",
+   "date": "2026-10-11",
    "score": {
-    "SF": "24",
-    "DEN": "14"
+    "SEA": "0",
+    "SF": "0"
    }
   },
   {
-   "name": "LAC @ SEA",
-   "status": "Final",
-   "date": "2026-10-04",
+   "name": "BAL @ ATL",
+   "status": "Scheduled",
+   "date": "2026-10-12",
    "score": {
-    "SEA": "30",
-    "LAC": "23"
+    "ATL": "0",
+    "BAL": "0"
    }
   },
   {
-   "name": "DET @ CAR",
-   "status": "Final",
-   "date": "2026-10-05",
+   "name": "BUF @ LAR",
+   "status": "Scheduled",
+   "date": "2026-10-13",
    "score": {
-    "CAR": "32",
-    "DET": "26"
-   }
-  },
-  {
-   "name": "ATL @ NO",
-   "status": "Final",
-   "date": "2026-10-06",
-   "score": {
-    "NO": "24",
-    "ATL": "45"
+    "LAR": "0",
+    "BUF": "0"
    }
   }
  ]

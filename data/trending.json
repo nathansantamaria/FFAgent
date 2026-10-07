@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-06T17:02:45+00:00",
+ "fetched_at": "2026-10-07T09:31:28+00:00",
  "adds": [
   {
    "name": "Keon Coleman",
-   "count": 2325960
+   "count": 4038102
   },
   {
    "name": "Dohnte Meyers",
-   "count": 1572129
+   "count": 3158226
   },
   {
    "name": "Emanuel Wilson",
-   "count": 1010637
-  },
-  {
-   "name": "Roman Wilson",
-   "count": 797508
+   "count": 1659861
   },
   {
    "name": "Will Shipley",
-   "count": 597016
+   "count": 1416898
   },
   {
-   "name": "Tyreek Hill",
-   "count": 548776
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 492848
+   "name": "Roman Wilson",
+   "count": 1342827
   },
   {
    "name": "Jacksonville Jaguars",
-   "count": 446214
-  },
-  {
-   "name": "Brian Robinson",
-   "count": 423942
+   "count": 1095996
   },
   {
    "name": "Keaton Mitchell",
-   "count": 394938
+   "count": 835263
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 748416
   },
   {
    "name": "Romeo Doubs",
-   "count": 345648
+   "count": 698840
   },
   {
-   "name": "Joe Mixon",
-   "count": 339083
+   "name": "Brian Robinson",
+   "count": 618120
   },
   {
    "name": "Michael Mayer",
-   "count": 308358
+   "count": 558360
   },
   {
    "name": "Tyler Higbee",
-   "count": 228573
+   "count": 543519
   },
   {
    "name": "Mike Gesicki",
-   "count": 212604
+   "count": 469008
   },
   {
-   "name": "Matt Gay",
-   "count": 173475
-  },
-  {
-   "name": "Tyler Allgeier",
-   "count": 168555
+   "name": "Tyreek Hill",
+   "count": 453504
   },
   {
    "name": "Darius Cooper",
-   "count": 162260
+   "count": 392084
   },
   {
-   "name": "C.J. Stroud",
-   "count": 154595
+   "name": "Tyler Allgeier",
+   "count": 390035
   },
   {
-   "name": "Ollie Gordon",
-   "count": 154532
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 147490
+   "name": "Matt Gay",
+   "count": 303440
   },
   {
    "name": "Aaron Rodgers",
-   "count": 137996
+   "count": 299932
   },
   {
-   "name": "Houston Texans",
-   "count": 122580
+   "name": "Cleveland Browns",
+   "count": 264992
   },
   {
-   "name": "Deshaun Watson",
-   "count": 122544
+   "name": "Ollie Gordon",
+   "count": 263053
   },
   {
    "name": "Malik Washington",
-   "count": 108608
+   "count": 256160
+  },
+  {
+   "name": "KC Concepcion",
+   "count": 242244
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 240579
+  },
+  {
+   "name": "Houston Texans",
+   "count": 227535
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 212058
   }
  ]
 }

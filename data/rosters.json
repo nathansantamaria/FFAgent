@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06T17:02:45+00:00",
+ "fetched_at": "2026-10-07T09:31:28+00:00",
  "league_id": "1400160155982639104",
  "week": 5,
  "standings": [
@@ -18,63 +18,63 @@
    "waiver_position": 2
   },
   {
-   "team": "BmoreKidd",
-   "wins": 1,
-   "losses": 3,
-   "pf": 495.58,
-   "waiver_position": 3
-  },
-  {
    "team": "JMann60",
    "wins": 2,
    "losses": 2,
    "pf": 524.08,
-   "waiver_position": 4
+   "waiver_position": 3
   },
   {
    "team": "Artificial Domination",
    "wins": 2,
    "losses": 2,
    "pf": 561.96,
-   "waiver_position": 5
+   "waiver_position": 4
   },
   {
    "team": "I cook brown rice",
    "wins": 2,
    "losses": 2,
    "pf": 563.62,
-   "waiver_position": 6
+   "waiver_position": 5
   },
   {
    "team": "BitcoinBucs",
    "wins": 2,
    "losses": 2,
    "pf": 576.88,
-   "waiver_position": 7
+   "waiver_position": 6
   },
   {
    "team": "zay4209",
    "wins": 2,
    "losses": 2,
    "pf": 630.66,
-   "waiver_position": 8
+   "waiver_position": 7
   },
   {
    "team": "Scorpiondemon90",
    "wins": 3,
    "losses": 1,
    "pf": 513.34,
-   "waiver_position": 9
+   "waiver_position": 8
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 4,
    "losses": 0,
    "pf": 647.94,
+   "waiver_position": 9
+  },
+  {
+   "team": "BmoreKidd",
+   "wins": 1,
+   "losses": 3,
+   "pf": 495.58,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 5,
+ "my_waiver_position": 4,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -253,8 +253,8 @@
    "Drake Maye",
    "Braelon Allen",
    "Blake Corum",
+   "Carnell Tate",
    "Jason Myers",
-   "Matthew Stafford",
    "Saquon Barkley",
    "DJ Moore",
    "CeeDee Lamb",
