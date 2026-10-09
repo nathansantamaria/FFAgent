@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-08T17:43:51+00:00",
+ "fetched_at": "2026-10-09T17:20:12+00:00",
  "week": 5,
  "games": [
   {
    "name": "TB @ DAL",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-09",
    "score": {
-    "DAL": "0",
-    "TB": "0"
+    "DAL": "16",
+    "TB": "24"
    }
   },
   {

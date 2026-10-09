@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T17:43:51+00:00",
+ "fetched_at": "2026-10-09T17:20:12+00:00",
  "league_id": "1400160155982639104",
  "week": 5,
  "standings": [
@@ -32,31 +32,31 @@
    "waiver_position": 4
   },
   {
-   "team": "I cook brown rice",
-   "wins": 2,
-   "losses": 2,
-   "pf": 563.62,
-   "waiver_position": 5
-  },
-  {
    "team": "BitcoinBucs",
    "wins": 2,
    "losses": 2,
    "pf": 576.88,
-   "waiver_position": 6
+   "waiver_position": 5
   },
   {
    "team": "zay4209",
    "wins": 2,
    "losses": 2,
    "pf": 630.66,
-   "waiver_position": 7
+   "waiver_position": 6
   },
   {
    "team": "Scorpiondemon90",
    "wins": 3,
    "losses": 1,
    "pf": 513.34,
+   "waiver_position": 7
+  },
+  {
+   "team": "BmoreKidd",
+   "wins": 1,
+   "losses": 3,
+   "pf": 495.58,
    "waiver_position": 8
   },
   {
@@ -67,10 +67,10 @@
    "waiver_position": 9
   },
   {
-   "team": "BmoreKidd",
-   "wins": 1,
-   "losses": 3,
-   "pf": 495.58,
+   "team": "I cook brown rice",
+   "wins": 2,
+   "losses": 2,
+   "pf": 563.62,
    "waiver_position": 10
   }
  ],
@@ -132,7 +132,6 @@
    "Caleb Williams",
    "Malik Washington",
    "Jalen Coker",
-   "Cam Little",
    "Ollie Gordon",
    "Tyler Shough",
    "Deebo Samuel",
@@ -141,6 +140,7 @@
    "Travis Etienne",
    "Amon-Ra St. Brown",
    "Nico Collins",
+   "Evan McPherson",
    "Tucker Kraft",
    "Bijan Robinson",
    "Los Angeles Rams"
@@ -166,18 +166,18 @@
    "Rashee Rice",
    "Michael Wilson",
    "Will Shipley",
+   "Devaughn Vele",
    "Quinshon Judkins",
    "Denzel Boston",
-   "Kalif Raymond",
+   "Jacoby Brissett",
    "Patrick Mahomes",
-   "Sam Darnold",
    "A.J. Brown",
    "David Montgomery",
    "Matt Gay",
    "Drake London",
    "Trey McBride",
    "James Cook",
-   "Alec Pierce",
+   "Zach Charbonnet",
    "Zay Flowers",
    "Houston Texans"
   ],
@@ -187,8 +187,8 @@
    "Emeka Egbuka",
    "Tetairoa McMillan",
    "Stefon Diggs",
+   "Matthew Stafford",
    "Joe Burrow",
-   "J.K. Dobbins",
    "Chuba Hubbard",
    "Rhamondre Stevenson",
    "Wan'Dale Robinson",
