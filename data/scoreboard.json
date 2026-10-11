@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-10-10T16:06:30+00:00",
+ "fetched_at": "2026-10-11T16:33:41+00:00",
  "week": 5,
  "games": [
   {
-   "name": "TB @ DAL",
-   "status": "Final",
-   "date": "2026-10-09",
-   "score": {
-    "DAL": "16",
-    "TB": "24"
-   }
-  },
-  {
    "name": "PHI VS JAX",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "JAX": "0",
-    "PHI": "0"
+    "JAX": "10",
+    "PHI": "14"
    }
   },
   {
@@ -126,6 +117,15 @@
    "score": {
     "ATL": "0",
     "BAL": "0"
+   }
+  },
+  {
+   "name": "TB @ DAL",
+   "status": "Final",
+   "date": "2026-10-09",
+   "score": {
+    "DAL": "16",
+    "TB": "24"
    }
   },
   {
