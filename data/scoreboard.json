@@ -1,10 +1,46 @@
 {
- "fetched_at": "2026-10-11T19:57:38+00:00",
+ "fetched_at": "2026-10-11T23:19:28+00:00",
  "week": 5,
  "games": [
   {
-   "name": "CHI @ GB",
+   "name": "DEN @ LAC",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "LAC": "17",
+    "DEN": "23"
+   }
+  },
+  {
+   "name": "DET @ ARI",
    "status": "In Progress",
+   "date": "2026-10-11",
+   "score": {
+    "ARI": "14",
+    "DET": "45"
+   }
+  },
+  {
+   "name": "SF @ SEA",
+   "status": "In Progress",
+   "date": "2026-10-11",
+   "score": {
+    "SEA": "26",
+    "SF": "29"
+   }
+  },
+  {
+   "name": "PHI VS JAX",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "JAX": "19",
+    "PHI": "17"
+   }
+  },
+  {
+   "name": "CHI @ GB",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
     "GB": "31",
@@ -22,16 +58,16 @@
   },
   {
    "name": "CIN @ MIA",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
-    "MIA": "18",
-    "CIN": "28"
+    "MIA": "24",
+    "CIN": "31"
    }
   },
   {
    "name": "LV @ NE",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
     "NE": "45",
@@ -49,7 +85,7 @@
   },
   {
    "name": "CLE @ NYJ",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
     "NYJ": "17",
@@ -58,7 +94,7 @@
   },
   {
    "name": "IND @ PIT",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
     "PIT": "34",
@@ -67,47 +103,11 @@
   },
   {
    "name": "NYG @ WSH",
-   "status": "In Progress",
-   "date": "2026-10-11",
-   "score": {
-    "WSH": "27",
-    "NYG": "20"
-   }
-  },
-  {
-   "name": "PHI VS JAX",
    "status": "Final",
    "date": "2026-10-11",
    "score": {
-    "JAX": "19",
-    "PHI": "17"
-   }
-  },
-  {
-   "name": "DEN @ LAC",
-   "status": "Scheduled",
-   "date": "2026-10-11",
-   "score": {
-    "LAC": "0",
-    "DEN": "0"
-   }
-  },
-  {
-   "name": "DET @ ARI",
-   "status": "Scheduled",
-   "date": "2026-10-11",
-   "score": {
-    "ARI": "0",
-    "DET": "0"
-   }
-  },
-  {
-   "name": "SF @ SEA",
-   "status": "Scheduled",
-   "date": "2026-10-11",
-   "score": {
-    "SEA": "0",
-    "SF": "0"
+    "WSH": "27",
+    "NYG": "27"
    }
   },
   {
