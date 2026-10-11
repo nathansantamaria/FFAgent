@@ -1,86 +1,86 @@
 {
- "fetched_at": "2026-10-11T16:33:41+00:00",
+ "fetched_at": "2026-10-11T19:57:38+00:00",
  "week": 5,
  "games": [
   {
-   "name": "PHI VS JAX",
+   "name": "CHI @ GB",
    "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "JAX": "10",
-    "PHI": "14"
-   }
-  },
-  {
-   "name": "CHI @ GB",
-   "status": "Scheduled",
-   "date": "2026-10-11",
-   "score": {
-    "GB": "0",
-    "CHI": "0"
+    "GB": "31",
+    "CHI": "7"
    }
   },
   {
    "name": "HOU @ TEN",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
-    "TEN": "0",
-    "HOU": "0"
+    "TEN": "3",
+    "HOU": "26"
    }
   },
   {
    "name": "CIN @ MIA",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "MIA": "0",
-    "CIN": "0"
+    "MIA": "18",
+    "CIN": "28"
    }
   },
   {
    "name": "LV @ NE",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "NE": "0",
-    "LV": "0"
+    "NE": "45",
+    "LV": "17"
    }
   },
   {
    "name": "MIN @ NO",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-11",
    "score": {
-    "NO": "0",
-    "MIN": "0"
+    "NO": "13",
+    "MIN": "23"
    }
   },
   {
    "name": "CLE @ NYJ",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "NYJ": "0",
-    "CLE": "0"
+    "NYJ": "17",
+    "CLE": "12"
    }
   },
   {
    "name": "IND @ PIT",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "PIT": "0",
-    "IND": "0"
+    "PIT": "34",
+    "IND": "22"
    }
   },
   {
    "name": "NYG @ WSH",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-11",
    "score": {
-    "WSH": "0",
-    "NYG": "0"
+    "WSH": "27",
+    "NYG": "20"
+   }
+  },
+  {
+   "name": "PHI VS JAX",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "JAX": "19",
+    "PHI": "17"
    }
   },
   {
