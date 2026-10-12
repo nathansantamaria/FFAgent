@@ -1,32 +1,23 @@
 {
- "fetched_at": "2026-10-11T23:19:28+00:00",
+ "fetched_at": "2026-10-12T20:07:04+00:00",
  "week": 5,
  "games": [
   {
-   "name": "DEN @ LAC",
+   "name": "BUF @ LAR",
+   "status": "Scheduled",
+   "date": "2026-10-13",
+   "score": {
+    "LAR": "0",
+    "BUF": "0"
+   }
+  },
+  {
+   "name": "TB @ DAL",
    "status": "Final",
-   "date": "2026-10-11",
+   "date": "2026-10-09",
    "score": {
-    "LAC": "17",
-    "DEN": "23"
-   }
-  },
-  {
-   "name": "DET @ ARI",
-   "status": "In Progress",
-   "date": "2026-10-11",
-   "score": {
-    "ARI": "14",
-    "DET": "45"
-   }
-  },
-  {
-   "name": "SF @ SEA",
-   "status": "In Progress",
-   "date": "2026-10-11",
-   "score": {
-    "SEA": "26",
-    "SF": "29"
+    "DAL": "16",
+    "TB": "24"
    }
   },
   {
@@ -111,30 +102,39 @@
    }
   },
   {
+   "name": "DEN @ LAC",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "LAC": "17",
+    "DEN": "23"
+   }
+  },
+  {
+   "name": "DET @ ARI",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "ARI": "21",
+    "DET": "45"
+   }
+  },
+  {
+   "name": "SF @ SEA",
+   "status": "Final",
+   "date": "2026-10-11",
+   "score": {
+    "SEA": "29",
+    "SF": "32"
+   }
+  },
+  {
    "name": "BAL @ ATL",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-12",
    "score": {
-    "ATL": "0",
-    "BAL": "0"
-   }
-  },
-  {
-   "name": "TB @ DAL",
-   "status": "Final",
-   "date": "2026-10-09",
-   "score": {
-    "DAL": "16",
-    "TB": "24"
-   }
-  },
-  {
-   "name": "BUF @ LAR",
-   "status": "Scheduled",
-   "date": "2026-10-13",
-   "score": {
-    "LAR": "0",
-    "BUF": "0"
+    "ATL": "23",
+    "BAL": "30"
    }
   }
  ]
