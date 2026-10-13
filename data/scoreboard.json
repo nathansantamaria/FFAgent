@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-12T20:07:04+00:00",
+ "fetched_at": "2026-10-13T03:20:03+00:00",
  "week": 5,
  "games": [
   {
    "name": "BUF @ LAR",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-13",
    "score": {
-    "LAR": "0",
-    "BUF": "0"
+    "LAR": "27",
+    "BUF": "34"
    }
   },
   {

@@ -1,6 +1,88 @@
 {
- "fetched_at": "2026-10-12T20:07:04+00:00",
+ "fetched_at": "2026-10-13T03:20:03+00:00",
  "articles": [
+  {
+   "headline": "Peyton Manning draws up Brenda Song\u2019s play for the Rams",
+   "summary": "Peyton Manning draws up Brenda Song\u2019s play for the Rams",
+   "published": "2026-10-13",
+   "url": "https://www.espn.com/video/clip/_/id/50170610/peyton-manning-draws-brenda-songs-play-rams",
+   "players": []
+  },
+  {
+   "headline": "ManningCast 2026 schedule: How to watch MNF games and guests",
+   "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
+   "published": "2026-10-13",
+   "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
+   "players": []
+  },
+  {
+   "headline": "Jim Harbaugh says he, Chargers ownership 'in this fight together' amid 0-5 start",
+   "summary": "With the Chargers off to an 0-5 start for the first time since 2003, coach Jim Harbaugh said Monday that he and the team's ownership group are \"shoulder to shoulder where we're in this fight together.\"",
+   "published": "2026-10-13",
+   "url": "https://www.espn.com/nfl/story/_/id/50170100/amid-0-5-start-jim-harbaugh-chargers-ownership-fight-together",
+   "players": []
+  },
+  {
+   "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
+   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+   "published": "2026-10-13",
+   "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
+   "players": []
+  },
+  {
+   "headline": "LaFleur: 1-4 Cardinals not planning to change playcallers",
+   "summary": "Mike LaFleur says he does not plan on making changes to Arizona's coaching duties after a 1-4 start.",
+   "published": "2026-10-13",
+   "url": "https://www.espn.com/nfl/story/_/id/50169700/lafleur-cardinals-not-planning-change-playcallers",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football Week 5 inactives: Moore ruled out for Monday Night Football",
+   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active",
+   "players": []
+  },
+  {
+   "headline": "Commanders' Quinn says 'no one is pleased' after botched play fuels fan angst",
+   "summary": "Commanders coach Dann Quinn explained the breakdown that caused a botched final play in Sunday's overtime tie, saying it's ultimately his responsibility.",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50168989/quinn-commanders-botched-final-play-starts-me",
+   "players": [
+    "Jayden Daniels"
+   ]
+  },
+  {
+   "headline": "Dolphins' Jeff Hafley says he's not mulling QB change entering bye",
+   "summary": "Dolphins coach Jeff Hafley is not considering a quarterback change heading into their Week 6 bye, but he did say the passing offense must improve.",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50168959/dolphins-hafley-says-not-mulling-qb-change-entering-bye",
+   "players": [
+    "Malik Willis",
+    "Kyle McCord"
+   ]
+  },
+  {
+   "headline": "Get ready for exciting London, MNF games in Week 6",
+   "summary": "Get ready for exciting London, MNF games in Week 6",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/video/clip/_/id/50168927/get-ready-exciting-london-mnf-games-week-6",
+   "players": []
+  },
+  {
+   "headline": "Cowboys bring in Mike Pettine to assist first-year DC Christian Parker",
+   "summary": "The struggling Dallas Cowboys are bringing in longtime NFL coach Mike Pettine as a senior defensive assistant to work with first-year DC Christian Parker.",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50168837/cowboys-bring-mike-pettine-assist-first-year-dc-christian-parker",
+   "players": []
+  },
+  {
+   "headline": "Bears' Johnson undecided on QB vs. Falcons if Williams can't go",
+   "summary": "Bears coach Ben Johnson was noncommittal Monday on which quarterback will start against the Falcons.",
+   "published": "2026-10-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50168772/bears-johnson-undecided-qb-vs-falcons-williams-go",
+   "players": []
+  },
   {
    "headline": "Shanahan says 49ers WR Deebo Samuel to miss time with hamstring injury",
    "summary": "49ers WR Deebo Samuel is expected to miss \"at least a couple of weeks\" with the hamstring injury he suffered Sunday in Seattle, coach Kyle Shanahan said Monday.",
@@ -34,8 +116,8 @@
    ]
   },
   {
-   "headline": "Sources: Packers not anticipating Micah Parsons' return for game vs. Cowboys",
-   "summary": "The Packers are not anticipating that star pass rusher Micah Parsons will return to practice this week as Green Bay prepares for Sunday night's game against the Dallas Cowboys, sources told ESPN's Adam Schefter.",
+   "headline": "Packers' Micah Parsons won't play against Cowboys but return 'getting closer'",
+   "summary": "Not only will Micah Parsons not make his season debut this week vs. his old team, but the Packers edge rusher still isn't ready to practice.",
    "published": "2026-10-12",
    "url": "https://www.espn.com/nfl/story/_/id/50167779/source-packers-not-anticipating-parsons-return-snf",
    "players": [
@@ -45,7 +127,7 @@
   {
    "headline": "49ers' Dre Greenlaw suspended one game for head-butting helmetless Seahawks LB",
    "summary": "49ers linebacker Dre Greenlaw has been suspended for one game without pay for unsportsmanlike conduct during Sunday's game against the Seahawks.",
-   "published": "2026-10-12",
+   "published": "2026-10-13",
    "url": "https://www.espn.com/nfl/story/_/id/50167745/49ers-greenlaw-suspended-head-butting-helmetless-jones",
    "players": [
     "Dre Greenlaw",
@@ -276,103 +358,6 @@
    "published": "2026-10-12",
    "url": "https://www.espn.com/video/clip/_/id/50165731/everyone-deserves-blame-commanders-clock-management-fiasco",
    "players": []
-  },
-  {
-   "headline": "Are the 49ers the best team in the NFL?",
-   "summary": "Are the 49ers the best team in the NFL?",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/video/clip/_/id/50165651/are-49ers-best-team-nfl",
-   "players": []
-  },
-  {
-   "headline": "Making sense of the Giants-Commanders tie, the Texans' Marvin Harrison Jr. trade",
-   "summary": "What were the Commanders doing in the final minute of OT? Why did the 1-4 Texans make an aggressive trade for Marvin Harrison Jr.? Let's try to find the logic.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50158326/week-5-commanders-tie-texans-marvin-harrison-jr-trade",
-   "players": [
-    "Jayden Daniels",
-    "Marvin Harrison Jr"
-   ]
-  },
-  {
-   "headline": "Source: Steelers' Roman Wilson expected to miss multiple weeks",
-   "summary": "Roman Wilson will miss multiple weeks because of a finger injury, a source told ESPN, joining the growing list of injured Steelers receivers.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50165164/source-steelers-roman-wilson-expected-miss-multiple-weeks",
-   "players": [
-    "Roman Wilson"
-   ]
-  },
-  {
-   "headline": "How NFL pros such as Matthew Stafford gain perspective from coaching their kids",
-   "summary": "ESPN spoke to 16 NFL players about what it's like to coach their children and what it means to spend that time with them.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50118480/nfl-players-coaching-kids-matthew-stafford-bud-dupree",
-   "players": [
-    "Matthew Stafford",
-    "Bud Dupree",
-    "Greg Olsen"
-   ]
-  },
-  {
-   "headline": "Steelers' Warren having strong run while Dowdle is out",
-   "summary": "Warren had an impressive Week 5 performance against the Colts, marking his third consecutive week of at least 125 all-purpose yards.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50161191/pittsburgh-steelers-jaylen-warren-strong-run-rico-dowdle-out",
-   "players": [
-    "Jaylen Warren"
-   ]
-  },
-  {
-   "headline": "Disastrous NFC East Week 5 keeps Cowboys' hopes alive",
-   "summary": "Somehow no NFC East team got a win, which helps take the edge off Dallas' rough start to the season.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50160750/dallas-cowboys-dak-prescott-nfc-east",
-   "players": [
-    "Dak Prescott"
-   ]
-  },
-  {
-   "headline": "How Drake Maye has rebounded from bad start despite mounting Patriots injuries",
-   "summary": "Has Maye found his confidence ... and his deep ball? A dominant Week 5 win over the Raiders suggests he turned things around, even as New England struggles to stay healthy.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50163881/new-england-patriots-drake-maye-injuries-week-5",
-   "players": [
-    "Drake Maye"
-   ]
-  },
-  {
-   "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-   "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-   "players": []
-  },
-  {
-   "headline": "How Bills QB Josh Allen has become a star on and off the field",
-   "summary": "The Buffalo QB is racking up the endorsements and leaning on his Hollywood wife for advice.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements",
-   "players": [
-    "Josh Allen"
-   ]
-  },
-  {
-   "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-   "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-   "players": []
-  },
-  {
-   "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
-   "summary": "With Lamar Jackson still out, Tyler Huntley backed up the Ravens' faith in him by leading them to a 30-23 overtime win against the Falcons, during which Huntley was 11-for-11 passing for 80 yards on the final two drives.",
-   "published": "2026-10-12",
-   "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
-   "players": [
-    "Tyler Huntley",
-    "Lamar Jackson"
-   ]
   }
  ]
 }

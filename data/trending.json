@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-12T20:07:04+00:00",
+ "fetched_at": "2026-10-13T03:20:03+00:00",
  "adds": [
   {
    "name": "MarShawn Lloyd",
-   "count": 345420
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 302365
-  },
-  {
-   "name": "Brenton Strange",
-   "count": 214119
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 174798
+   "count": 398151
   },
   {
    "name": "Dameon Pierce",
-   "count": 165480
+   "count": 315048
+  },
+  {
+   "name": "Darius Cooper",
+   "count": 294602
+  },
+  {
+   "name": "Brenton Strange",
+   "count": 249660
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 208773
   },
   {
    "name": "New England Patriots",
-   "count": 141008
+   "count": 150962
   },
   {
    "name": "Kimani Vidal",
-   "count": 117660
-  },
-  {
-   "name": "Jayden Daniels",
-   "count": 95464
+   "count": 139555
   },
   {
    "name": "Keon Coleman",
-   "count": 77481
+   "count": 123615
   },
   {
-   "name": "Kendrick Bourne",
-   "count": 77049
-  },
-  {
-   "name": "San Francisco 49ers",
-   "count": 65763
-  },
-  {
-   "name": "Aaron Rodgers",
-   "count": 61332
-  },
-  {
-   "name": "Marvin Harrison",
-   "count": 59996
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 55827
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 55783
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 52108
-  },
-  {
-   "name": "Efton Chism",
-   "count": 51944
+   "name": "Konata Mumpfield",
+   "count": 86481
   },
   {
    "name": "Khalil Shakir",
-   "count": 47961
+   "count": 85896
   },
   {
-   "name": "Indianapolis Colts",
-   "count": 44700
+   "name": "Kendrick Bourne",
+   "count": 78924
   },
   {
-   "name": "Nick Folk",
-   "count": 42834
+   "name": "San Francisco 49ers",
+   "count": 78870
   },
   {
-   "name": "Malik Washington",
-   "count": 41784
-  },
-  {
-   "name": "Roschon Johnson",
-   "count": 41592
-  },
-  {
-   "name": "Kyle Pitts",
-   "count": 39984
+   "name": "Samaje Perine",
+   "count": 62644
   },
   {
    "name": "Tyler Loop",
-   "count": 37230
+   "count": 62052
   },
   {
-   "name": "Brian Robinson",
-   "count": 33726
+   "name": "Jayden Daniels",
+   "count": 61088
+  },
+  {
+   "name": "Aaron Rodgers",
+   "count": 52192
+  },
+  {
+   "name": "Efton Chism",
+   "count": 51400
+  },
+  {
+   "name": "Indianapolis Colts",
+   "count": 48189
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 46599
+  },
+  {
+   "name": "Blake Corum",
+   "count": 45424
+  },
+  {
+   "name": "Jacory Croskey-Merritt",
+   "count": 45387
+  },
+  {
+   "name": "Raheim Sanders",
+   "count": 42008
+  },
+  {
+   "name": "Ty Johnson",
+   "count": 40740
+  },
+  {
+   "name": "Malik Washington",
+   "count": 38696
+  },
+  {
+   "name": "Nick Folk",
+   "count": 38460
   }
  ]
 }
