@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-10-13T03:20:03+00:00",
+ "fetched_at": "2026-10-13T17:56:35+00:00",
  "week": 5,
  "games": [
-  {
-   "name": "BUF @ LAR",
-   "status": "In Progress",
-   "date": "2026-10-13",
-   "score": {
-    "LAR": "27",
-    "BUF": "34"
-   }
-  },
   {
    "name": "TB @ DAL",
    "status": "Final",
@@ -135,6 +126,15 @@
    "score": {
     "ATL": "23",
     "BAL": "30"
+   }
+  },
+  {
+   "name": "BUF @ LAR",
+   "status": "Final",
+   "date": "2026-10-13",
+   "score": {
+    "LAR": "34",
+    "BUF": "37"
    }
   }
  ]

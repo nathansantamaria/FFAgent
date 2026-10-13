@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-13T03:20:03+00:00",
+ "fetched_at": "2026-10-13T17:56:35+00:00",
  "adds": [
   {
-   "name": "MarShawn Lloyd",
-   "count": 398151
-  },
-  {
    "name": "Dameon Pierce",
-   "count": 315048
+   "count": 1573952
   },
   {
-   "name": "Darius Cooper",
-   "count": 294602
+   "name": "MarShawn Lloyd",
+   "count": 1295775
   },
   {
    "name": "Brenton Strange",
-   "count": 249660
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 208773
+   "count": 750033
   },
   {
    "name": "New England Patriots",
-   "count": 150962
+   "count": 683543
   },
   {
-   "name": "Kimani Vidal",
-   "count": 139555
+   "name": "Darius Cooper",
+   "count": 576205
   },
   {
-   "name": "Keon Coleman",
-   "count": 123615
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 86481
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 85896
-  },
-  {
-   "name": "Kendrick Bourne",
-   "count": 78924
-  },
-  {
-   "name": "San Francisco 49ers",
-   "count": 78870
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 62644
+   "name": "Tyler Higbee",
+   "count": 390762
   },
   {
    "name": "Tyler Loop",
-   "count": 62052
+   "count": 364470
   },
   {
-   "name": "Jayden Daniels",
-   "count": 61088
-  },
-  {
-   "name": "Aaron Rodgers",
-   "count": 52192
-  },
-  {
-   "name": "Efton Chism",
-   "count": 51400
+   "name": "Kimani Vidal",
+   "count": 350055
   },
   {
    "name": "Indianapolis Colts",
-   "count": 48189
+   "count": 283092
   },
   {
-   "name": "C.J. Stroud",
-   "count": 46599
+   "name": "San Francisco 49ers",
+   "count": 280446
   },
   {
-   "name": "Blake Corum",
-   "count": 45424
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 45387
-  },
-  {
-   "name": "Raheim Sanders",
-   "count": 42008
-  },
-  {
-   "name": "Ty Johnson",
-   "count": 40740
-  },
-  {
-   "name": "Malik Washington",
-   "count": 38696
+   "name": "Kendrick Bourne",
+   "count": 227874
   },
   {
    "name": "Nick Folk",
-   "count": 38460
+   "count": 217650
+  },
+  {
+   "name": "Efton Chism",
+   "count": 203312
+  },
+  {
+   "name": "Aaron Rodgers",
+   "count": 180592
+  },
+  {
+   "name": "Germie Bernard",
+   "count": 180260
+  },
+  {
+   "name": "Woody Marks",
+   "count": 141210
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 138645
+  },
+  {
+   "name": "Kendre Miller",
+   "count": 136860
+  },
+  {
+   "name": "Matt Gay",
+   "count": 133510
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 130256
+  },
+  {
+   "name": "Keon Coleman",
+   "count": 123363
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 119079
+  },
+  {
+   "name": "Trey Smack",
+   "count": 115912
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 113904
+  },
+  {
+   "name": "Blake Corum",
+   "count": 113656
   }
  ]
 }
