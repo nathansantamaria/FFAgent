@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-14T08:11:00+00:00",
+ "fetched_at": "2026-10-14T15:42:35+00:00",
  "adds": [
   {
    "name": "Dameon Pierce",
-   "count": 3028296
+   "count": 2787888
   },
   {
    "name": "MarShawn Lloyd",
-   "count": 1953477
+   "count": 1620054
   },
   {
    "name": "Brenton Strange",
-   "count": 1196163
+   "count": 1114866
   },
   {
    "name": "New England Patriots",
-   "count": 1172535
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 787003
-  },
-  {
-   "name": "Kimani Vidal",
-   "count": 700775
-  },
-  {
-   "name": "Tyler Loop",
-   "count": 591966
+   "count": 1102955
   },
   {
    "name": "Jaleel McLaughlin",
-   "count": 562340
+   "count": 774225
+  },
+  {
+   "name": "Darius Cooper",
+   "count": 749889
+  },
+  {
+   "name": "Kimani Vidal",
+   "count": 712520
+  },
+  {
+   "name": "Tyler Loop",
+   "count": 621036
   },
   {
    "name": "Indianapolis Colts",
-   "count": 521370
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 438417
-  },
-  {
-   "name": "Kendrick Bourne",
-   "count": 430911
-  },
-  {
-   "name": "Germie Bernard",
-   "count": 417149
-  },
-  {
-   "name": "San Francisco 49ers",
-   "count": 402942
-  },
-  {
-   "name": "Efton Chism",
-   "count": 399872
+   "count": 614220
   },
   {
    "name": "Nick Folk",
-   "count": 383598
+   "count": 506304
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 440406
+  },
+  {
+   "name": "Kendrick Bourne",
+   "count": 416391
+  },
+  {
+   "name": "San Francisco 49ers",
+   "count": 410919
+  },
+  {
+   "name": "Efton Chism",
+   "count": 395852
   },
   {
    "name": "Corey Kiner",
-   "count": 314556
+   "count": 376020
   },
   {
-   "name": "Kendre Miller",
-   "count": 302430
-  },
-  {
-   "name": "Xavier Worthy",
-   "count": 275472
+   "name": "Germie Bernard",
+   "count": 372817
   },
   {
    "name": "Kirk Cousins",
-   "count": 272728
+   "count": 348648
   },
   {
-   "name": "Aaron Rodgers",
-   "count": 262192
+   "name": "Kendre Miller",
+   "count": 309526
   },
   {
    "name": "Matt Gay",
-   "count": 244880
+   "count": 304000
   },
   {
-   "name": "Ryan Flournoy",
-   "count": 230088
-  },
-  {
-   "name": "Woody Marks",
-   "count": 217159
-  },
-  {
-   "name": "Brandin Cooks",
-   "count": 216528
+   "name": "Xavier Worthy",
+   "count": 288513
   },
   {
    "name": "Trey Smack",
-   "count": 215024
+   "count": 270824
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 262112
+  },
+  {
+   "name": "Aaron Rodgers",
+   "count": 254396
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 252560
+  },
+  {
+   "name": "Brandin Cooks",
+   "count": 246812
   }
  ]
 }
