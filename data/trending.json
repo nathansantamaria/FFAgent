@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-15T15:29:58+00:00",
+ "fetched_at": "2026-10-16T15:13:20+00:00",
  "adds": [
   {
+   "name": "Tanner McKee",
+   "count": 1287448
+  },
+  {
    "name": "Dameon Pierce",
-   "count": 627944
-  },
-  {
-   "name": "Nick Folk",
-   "count": 416136
-  },
-  {
-   "name": "Jaleel McLaughlin",
-   "count": 334615
-  },
-  {
-   "name": "Brenton Strange",
-   "count": 307755
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 299628
-  },
-  {
-   "name": "MarShawn Lloyd",
-   "count": 281151
-  },
-  {
-   "name": "Indianapolis Colts",
-   "count": 260505
-  },
-  {
-   "name": "New England Patriots",
-   "count": 255927
-  },
-  {
-   "name": "Tyler Loop",
-   "count": 234996
+   "count": 536840
   },
   {
    "name": "Kirk Cousins",
-   "count": 231880
+   "count": 415152
   },
   {
-   "name": "Kimani Vidal",
-   "count": 225735
+   "name": "Nick Folk",
+   "count": 400662
   },
   {
-   "name": "Tyler Higbee",
-   "count": 202482
-  },
-  {
-   "name": "Trey Smack",
-   "count": 177016
-  },
-  {
-   "name": "Matt Gay",
-   "count": 167670
-  },
-  {
-   "name": "San Francisco 49ers",
-   "count": 150354
-  },
-  {
-   "name": "Xavier Worthy",
-   "count": 146565
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 145065
-  },
-  {
-   "name": "Corey Kiner",
-   "count": 135294
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 126224
-  },
-  {
-   "name": "Kendrick Bourne",
-   "count": 125385
-  },
-  {
-   "name": "Kendre Miller",
-   "count": 115130
+   "name": "Darius Cooper",
+   "count": 342083
   },
   {
    "name": "Aaron Rodgers",
-   "count": 114916
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 112194
-  },
-  {
-   "name": "Blake Grupe",
-   "count": 108378
+   "count": 220856
   },
   {
    "name": "C.J. Stroud",
-   "count": 103187
+   "count": 197064
+  },
+  {
+   "name": "Brenton Strange",
+   "count": 195426
+  },
+  {
+   "name": "Jaleel McLaughlin",
+   "count": 191945
+  },
+  {
+   "name": "Indianapolis Colts",
+   "count": 188379
+  },
+  {
+   "name": "Trey Smack",
+   "count": 176104
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 174258
+  },
+  {
+   "name": "Kimani Vidal",
+   "count": 148350
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 147220
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 145980
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 140664
+  },
+  {
+   "name": "MarShawn Lloyd",
+   "count": 138996
+  },
+  {
+   "name": "Matt Gay",
+   "count": 131725
+  },
+  {
+   "name": "Tre Tucker",
+   "count": 121332
+  },
+  {
+   "name": "New England Patriots",
+   "count": 119245
+  },
+  {
+   "name": "Blake Grupe",
+   "count": 111924
+  },
+  {
+   "name": "Tyler Loop",
+   "count": 103956
+  },
+  {
+   "name": "Brandin Cooks",
+   "count": 102680
+  },
+  {
+   "name": "Tyler Shough",
+   "count": 101504
+  },
+  {
+   "name": "Michael Penix",
+   "count": 101391
   }
  ]
 }
