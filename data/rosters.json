@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T15:13:20+00:00",
+ "fetched_at": "2026-10-17T14:04:00+00:00",
  "league_id": "1400160155982639104",
  "week": 6,
  "standings": [
@@ -18,63 +18,63 @@
    "waiver_position": 2
   },
   {
-   "team": "I cook brown rice",
-   "wins": 2,
-   "losses": 3,
-   "pf": 665.66,
-   "waiver_position": 3
-  },
-  {
    "team": "Artificial Domination",
    "wins": 2,
    "losses": 3,
    "pf": 667.68,
-   "waiver_position": 4
+   "waiver_position": 3
   },
   {
    "team": "Scorpiondemon90",
    "wins": 3,
    "losses": 2,
    "pf": 646.74,
-   "waiver_position": 5
+   "waiver_position": 4
   },
   {
    "team": "JMann60",
    "wins": 3,
    "losses": 2,
    "pf": 678.04,
-   "waiver_position": 6
+   "waiver_position": 5
   },
   {
    "team": "BitcoinBucs",
    "wins": 3,
    "losses": 2,
    "pf": 734.34,
-   "waiver_position": 7
+   "waiver_position": 6
   },
   {
    "team": "zay4209",
    "wins": 3,
    "losses": 2,
    "pf": 772.76,
-   "waiver_position": 8
+   "waiver_position": 7
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 5,
    "losses": 0,
    "pf": 830.24,
-   "waiver_position": 9
+   "waiver_position": 8
   },
   {
    "team": "BmoreKidd",
    "wins": 1,
    "losses": 4,
    "pf": 671.44,
+   "waiver_position": 9
+  },
+  {
+   "team": "I cook brown rice",
+   "wins": 2,
+   "losses": 3,
+   "pf": 665.66,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 4,
+ "my_waiver_position": 3,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -132,15 +132,15 @@
    "Caleb Williams",
    "Malik Washington",
    "Jalen Coker",
-   "Ollie Gordon",
-   "Tyler Shough",
    "Tyler Loop",
+   "Denzel Boston",
    "Deebo Samuel",
    "D'Andre Swift",
    "Juwan Johnson",
    "Travis Etienne",
    "Amon-Ra St. Brown",
    "Nico Collins",
+   "Bryce Young",
    "Tucker Kraft",
    "Bijan Robinson",
    "Los Angeles Rams"
@@ -149,17 +149,17 @@
    "Marvin Harrison",
    "Spencer Shrader",
    "Kyle Monangai",
+   "Germie Bernard",
    "Jeremiyah Love",
+   "Mike Washington",
    "Travis Kelce",
    "Mike Evans",
    "Derrick Henry",
-   "Alvin Kamara",
    "Lamar Jackson",
    "DK Metcalf",
-   "Josh Jacobs",
    "Jalen Hurts",
    "Ja'Marr Chase",
-   "Rachaad White",
+   "C.J. Stroud",
    "Seattle Seahawks"
   ],
   "JMann60": [
@@ -167,8 +167,8 @@
    "Michael Wilson",
    "Cam Little",
    "Devaughn Vele",
+   "Ollie Gordon",
    "Quinshon Judkins",
-   "Denzel Boston",
    "Patrick Mahomes",
    "A.J. Brown",
    "David Montgomery",
@@ -276,13 +276,13 @@
    "Christian McCaffrey",
    "Chris Godwin",
    "George Kittle",
+   "Eddy Pineiro",
    "Terry McLaurin",
    "DeVonta Smith",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",
    "Jordan Mason",
-   "Dontayvion Wicks",
    "Baltimore Ravens"
   ]
  }
