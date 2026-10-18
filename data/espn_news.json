@@ -1,24 +1,92 @@
 {
- "fetched_at": "2026-10-18T14:19:39+00:00",
+ "fetched_at": "2026-10-18T18:29:25+00:00",
  "articles": [
   {
+   "headline": "Why fantasy managers may want to consider C.J. Stroud in Week 7",
+   "summary": "Why fantasy managers may want to consider C.J. Stroud in Week 7",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/video/clip/_/id/50211725/why-fantasy-managers-want-consider-cj-stroud-week-7",
+   "players": [
+    "CJ Stroud"
+   ]
+  },
+  {
    "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Here's a look at the best plays from Sunday in Week 6's action.",
+   "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
    "published": "2026-10-18",
    "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
    "players": []
   },
   {
-   "headline": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
-   "summary": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+   "headline": "Fairbairn's last-second 49-yard FG gives Texans 34-31 win over Jaguars at Wembley Stadium",
+   "summary": "\u2014 Ka\u2019imi Fairbairn kicked a 49-yard field goal as time expired, C.J. Stroud threw three touchdown passes and the Houston Texans beat the Jacksonville Jaguars 34-31 on the slick grass of Wembley Stadium on Sunday.",
    "published": "2026-10-18",
-   "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+   "url": "http://www.espn.com/nfl/recap?gameId=401872996",
+   "players": []
+  },
+  {
+   "headline": "Cowboys-Packers rivalry rewind: Micah Parsons' return, Dez Bryant's catch, Ice Bowl",
+   "summary": "Their \"Sunday Night Football\" matchup could add another memorable chapter to Packers-Cowboys lore.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/46382966/packers-cowboys-rivalry-micah-parsons-dez-bryant-ice-bowl",
    "players": [
-    "Tyler Shough"
+    "Jordan Love",
+    "Micah Parsons",
+    "Dez Bryant",
+    "Dak Prescott"
    ]
   },
   {
-   "headline": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+   "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+   "players": []
+  },
+  {
+   "headline": "Houston Texans vs. Jacksonville Jaguars: Game Highlights",
+   "summary": "Houston Texans vs. Jacksonville Jaguars: Game Highlights",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/video/clip/_/id/50211234/game-highlights",
+   "players": [
+    "Ka'imi Fairbairn",
+    "CJ Stroud",
+    "Trevor Lawrence",
+    "Cam Little"
+   ]
+  },
+  {
+   "headline": "NFL: Steelers-Saints in Paris still on despite civil unrest, protests in France",
+   "summary": "The Week 7 game between the New Orleans Saints and Pittsburgh Steelers on Oct. 25 in Paris is still scheduled as planned despite civil unrest and protests in France, the NFL said.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest",
+   "players": []
+  },
+  {
+   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+   "summary": "Is Trinidad Chambliss playing well enough to overcome his size? Which Tennessee defender is emerging among the DT group? Here's draft spin off CFB Week 7.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+   "players": []
+  },
+  {
+   "headline": "CB Alontae Taylor inactive against Colts as Titans seek first victory",
+   "summary": "Titans cornerback Alontae Taylor is inactive for Sunday's game against the Colts. A team source told ESPN that it was a coach's decision and not injury-related.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50210891/titans-cornerback-taylor-inactive-colts",
+   "players": [
+    "Alontae Taylor"
+   ]
+  },
+  {
+   "headline": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
+   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football Week 6 inactives: Jeremiyah Love out, DJ Moore questionable",
    "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
    "published": "2026-10-18",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
@@ -57,6 +125,33 @@
     "Caleb Williams",
     "Zay Flowers",
     "Michael Penix Jr"
+   ]
+  },
+  {
+   "headline": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London",
+   "summary": "The Texans lost starting safety Reed Blankenship to a concussion in the second quarter of Sunday's game against the Jaguars in London.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50210735/texans-safety-reed-blankenship-suffers-concussion-london",
+   "players": [
+    "Reed Blankenship"
+   ]
+  },
+  {
+   "headline": "'Sunny Strong': How one young Ravens fan with cancer inspires the team",
+   "summary": "During pregame warm-ups, the Ravens wear a hand-crafted hoodie, designed by pediatric cancer patients. As Kimberley tells us, Baltimore's number one receiver, Zay Flowers, has made a connection with his number one fan",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/video/clip/_/id/50209509/how-one-young-ravens-fan-cancer-inspires-team",
+   "players": [
+    "Zay Flowers"
+   ]
+  },
+  {
+   "headline": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+   "summary": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+   "players": [
+    "Tyler Shough"
    ]
   },
   {
@@ -169,15 +264,15 @@
   },
   {
    "headline": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87",
-   "summary": "John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
+   "summary": "John Beake, who was instrumental in the trade for John Elway and helped guide the Broncos to back-to-back Super Bowl titles in the late 1990s, has died. He was 87.",
    "published": "2026-10-18",
    "url": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
    "players": []
   },
   {
-   "headline": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
+   "headline": "49ers rule out Bosa, still hopeful for Evans; Juszczyk will play",
    "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
-   "published": "2026-10-17",
+   "published": "2026-10-18",
    "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
    "players": [
     "Nick Bosa",
@@ -186,9 +281,9 @@
    ]
   },
   {
-   "headline": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
-   "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
-   "published": "2026-10-17",
+   "headline": "Bears start QB Caleb Williams in Week 6 against Falcons",
+   "summary": "The Bears will start Caleb Williams on Sunday against the Falcons after the star quarterback missed the past three games due to a torn hamstring.",
+   "published": "2026-10-18",
    "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
    "players": [
     "Caleb Williams"
@@ -275,95 +370,6 @@
    "players": [
     "Jalen Hurts"
    ]
-  },
-  {
-   "headline": "NFL Week 6 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "summary": "First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50189544/week-6-predictions-upsets-fantasy-sleepers-stats-2026",
-   "players": []
-  },
-  {
-   "headline": "Ravens believe Browns' Todd Monken wants 'to kick our tail'",
-   "summary": "When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50190463/baltimore-ravens-browns-todd-monken-rematch-week-6",
-   "players": []
-  },
-  {
-   "headline": "Rams can't seem to fix their special teams",
-   "summary": "Special teams have played a significant role in five of the Rams' nine losses since the start of last season, including the playoffs.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50190584/los-angeles-rams-special-teams-no-fix-week-6",
-   "players": []
-  },
-  {
-   "headline": "Why is Chargers RB Omarion Hampton's snap count decreasing?",
-   "summary": "Coach Jim Harbaugh and OC Mike McDaniel on why RB Omarion Hampton is being used differently.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50192344/los-angeles-chargers-running-back-omarion-hampton-snaps",
-   "players": [
-    "Omarion Hampton",
-    "Kimani Vidal",
-    "Keaton Mitchell"
-   ]
-  },
-  {
-   "headline": "Five takeaways from five weeks of the Raiders' season",
-   "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
-   "players": [
-    "Kwity Paye",
-    "Ashton Jeanty",
-    "Hezekiah Masses"
-   ]
-  },
-  {
-   "headline": "Where is the Tennessee Titans' pass rush?",
-   "summary": "The Titans invested more in the defensive front than any other area when Robert Saleh took over. So far, there hasn't been a significant ROI.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50189538/where-tennessee-titans-pass-rush-week-6",
-   "players": [
-    "Jeffery Simmons"
-   ]
-  },
-  {
-   "headline": "What Cowboys-Packers' Micah Parsons trade means a year later",
-   "summary": "We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50195809/cowboys-packers-micah-parsons-trade-winner",
-   "players": [
-    "Micah Parsons"
-   ]
-  },
-  {
-   "headline": "Commanders vs. 49ers: Where to watch 'Monday Night Football'",
-   "summary": "Here's what to know about the Week 6 matchup.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50189765/commanders-vs-49ers-watch-monday-night-football-week-6",
-   "players": []
-  },
-  {
-   "headline": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
-   "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
-   "players": []
-  },
-  {
-   "headline": "Decked-out, diehard Jaguars fans swarm London for pub takeover",
-   "summary": "Jaguars fans roll deep in the United Kingdom, and the fandom showed up big at London's briefly renamed ''Tealwood'' pub Thursday night.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50196768/jaguars-fans-london-pub-takeover",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football 12-team Knockout league rankings: The 168 players to draft",
-   "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-   "players": []
   }
  ]
 }

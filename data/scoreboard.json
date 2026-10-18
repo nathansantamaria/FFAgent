@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-10-18T14:19:39+00:00",
+ "fetched_at": "2026-10-18T18:29:25+00:00",
  "week": 6,
  "games": [
   {
-   "name": "HOU VS JAX",
+   "name": "CHI @ ATL",
    "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "JAX": "0",
-    "HOU": "7"
-   }
-  },
-  {
-   "name": "CHI @ ATL",
-   "status": "Scheduled",
-   "date": "2026-10-18",
-   "score": {
-    "ATL": "0",
-    "CHI": "0"
+    "ATL": "7",
+    "CHI": "21"
    }
   },
   {
    "name": "BAL @ CLE",
-   "status": "Scheduled",
+   "status": "Halftime",
    "date": "2026-10-18",
    "score": {
     "CLE": "0",
-    "BAL": "0"
+    "BAL": "10"
    }
   },
   {
    "name": "TEN @ IND",
-   "status": "Scheduled",
+   "status": "Halftime",
    "date": "2026-10-18",
    "score": {
-    "IND": "0",
+    "IND": "13",
     "TEN": "0"
    }
   },
   {
    "name": "NYJ @ NE",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "NE": "0",
-    "NYJ": "0"
+    "NE": "17",
+    "NYJ": "3"
    }
   },
   {
    "name": "NO @ NYG",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "NYG": "0",
-    "NO": "0"
+    "NYG": "10",
+    "NO": "10"
    }
   },
   {
    "name": "CAR @ PHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "PHI": "0",
-    "CAR": "0"
+    "PHI": "7",
+    "CAR": "10"
    }
   },
   {
    "name": "PIT @ TB",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "TB": "0",
+    "TB": "13",
     "PIT": "0"
+   }
+  },
+  {
+   "name": "HOU VS JAX",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "JAX": "31",
+    "HOU": "34"
    }
   },
   {
