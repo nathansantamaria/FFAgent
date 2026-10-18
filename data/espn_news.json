@@ -1,9 +1,252 @@
 {
- "fetched_at": "2026-10-17T14:04:00+00:00",
+ "fetched_at": "2026-10-18T14:19:39+00:00",
  "articles": [
   {
-   "headline": "Source: Patriots likely to activate WR A.J. Brown for Sunday's game vs. Jets",
-   "summary": "Patriots wide receiver A.J. Brown is likely to be activated after missing the past four games with a right high ankle sprain, a source told NFL Network's Ian Rapoport.",
+   "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+   "summary": "Here's a look at the best plays from Sunday in Week 6's action.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+   "players": []
+  },
+  {
+   "headline": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+   "summary": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+   "players": [
+    "Tyler Shough"
+   ]
+  },
+  {
+   "headline": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+   "players": [
+    "Deebo Samuel Sr",
+    "Roman Wilson",
+    "Will Shipley",
+    "Jalen Hurts",
+    "TreVeyon Henderson",
+    "Rashee Rice",
+    "Kyle Monangai",
+    "David Montgomery",
+    "Lamar Jackson",
+    "Jeremiyah Love",
+    "Mike Evans",
+    "Stefon Diggs",
+    "Terry McLaurin",
+    "Jacory Croskey-Merritt",
+    "Quentin Johnston",
+    "Ladd McConkey",
+    "DJ Moore",
+    "Tyjae Spears",
+    "Rico Dowdle",
+    "DK Metcalf",
+    "Dontayvion Wicks",
+    "DeVonta Smith",
+    "Kenyon Sadiq",
+    "Omar Cooper Jr",
+    "Chris Olave",
+    "Alvin Kamara",
+    "AJ Brown",
+    "Denzel Boston",
+    "Tyler Warren",
+    "KC Concepcion",
+    "Quinshon Judkins",
+    "Caleb Williams",
+    "Zay Flowers",
+    "Michael Penix Jr"
+   ]
+  },
+  {
+   "headline": "Fantasy football flex and superflex rankings for Week 6",
+   "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings Week 6: PPR and superflex",
+   "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: Wide receiver",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: Running back",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: Tight end",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: Quarterback",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: D/ST",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: Kicker",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 6: IDP",
+   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+   "players": []
+  },
+  {
+   "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+   "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+   "players": []
+  },
+  {
+   "headline": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
+   "summary": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
+   "players": []
+  },
+  {
+   "headline": "Jets great Mark Gastineau wants rookie David Bailey to celebrate after sacks",
+   "summary": "Gastineau's sack dances led to the NFL penalizing excessive celebrations for over 30 years.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50197835/jets-david-bailey-sacks-mark-gastineau",
+   "players": [
+    "David Bailey"
+   ]
+  },
+  {
+   "headline": "Ranking the top 10 rookie performances in Super Bowl history",
+   "summary": "Which rookies made a name from themselves in the Super Bowl over the years? We listed 10 standout performances, plus honorable mentions.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50197687/top-10-super-bowl-rookie-performances-history",
+   "players": [
+    "Xavier Worthy",
+    "Antoine Winfield Jr"
+   ]
+  },
+  {
+   "headline": "Patriots' 2026 rookies: Who has made an impact through five weeks?",
+   "summary": "With two rookies assuming starting roles, let's take a look at how this year's draft class has panned out.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50198740/new-england-patriots-notebook-rookies-jets-lomu-jacas",
+   "players": [
+    "Drake Maye",
+    "Milton Williams",
+    "Gabe Jacas",
+    "Caleb Lomu"
+   ]
+  },
+  {
+   "headline": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87",
+   "summary": "John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
+   "published": "2026-10-18",
+   "url": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
+   "players": []
+  },
+  {
+   "headline": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
+   "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
+   "players": [
+    "Nick Bosa",
+    "Kyle Juszczyk",
+    "Mike Evans"
+   ]
+  },
+  {
+   "headline": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
+   "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
+   "players": [
+    "Caleb Williams"
+   ]
+  },
+  {
+   "headline": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
+   "summary": "The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
+   "players": [
+    "Jalen Hurts"
+   ]
+  },
+  {
+   "headline": "Steelers place Wilson on IR with finger injury",
+   "summary": "The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
+   "players": [
+    "Roman Wilson",
+    "Michael Pittman"
+   ]
+  },
+  {
+   "headline": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
+   "summary": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
+   "players": [
+    "Taylor Moton",
+    "Tershawn Wharton",
+    "Trevor Etienne"
+   ]
+  },
+  {
+   "headline": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
+   "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
+   "players": [
+    "Kyler Gordon",
+    "Dayo Odeyingbo",
+    "Trevon Diggs"
+   ]
+  },
+  {
+   "headline": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury",
+   "summary": "Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
+   "published": "2026-10-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50202044/commanders-rb-croskey-merritt-vs-49ers-groin-injury",
+   "players": [
+    "Jacory Croskey-Merritt"
+   ]
+  },
+  {
+   "headline": "Patriots activate WR A.J. Brown for Sunday's game vs. Jets",
+   "summary": "Patriots wide receiver A.J. Brown was activated from injured reserve Saturday after missing the past four games with a right high ankle sprain, the team announced.",
    "published": "2026-10-17",
    "url": "https://www.espn.com/nfl/story/_/id/50200910/source-patriots-likely-activate-aj-brown-jets-game",
    "players": [
@@ -12,8 +255,8 @@
   },
   {
    "headline": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
-   "summary": "Jaguars team president Mark Lamping said the team is unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue.",
-   "published": "2026-10-17",
+   "summary": "The Jaguars are unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue, team president Mark Lamping said.",
+   "published": "2026-10-18",
    "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
    "players": []
   },
@@ -104,71 +347,8 @@
   {
    "headline": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
    "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
-   "published": "2026-10-16",
+   "published": "2026-10-17",
    "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: Kicker",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: Tight end",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: D/ST",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: IDP",
-   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: Wide receiver",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: Quarterback",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 6: Running back",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football flex and superflex rankings for Week 6",
-   "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings Week 6: PPR and superflex",
-   "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
    "players": []
   },
   {
@@ -184,153 +364,6 @@
    "published": "2026-10-16",
    "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
    "players": []
-  },
-  {
-   "headline": "Eagles' Saquon Barkley ruled out; DeVonta Smith likely to return",
-   "summary": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50198056/eagles-saquon-barkley-ruled-devonta-smith-return",
-   "players": [
-    "Saquon Barkley",
-    "DeVonta Smith",
-    "Dameon Pierce",
-    "Will Shipley"
-   ]
-  },
-  {
-   "headline": "Broncos' Jonathon Cooper off commissioner exempt list, could return Week 7",
-   "summary": "Broncos linebacker Jonathon Cooper was removed from the commissioner exempt list Friday, meaning he's available to play in Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50198029/broncos-jonathon-cooper-removed-nfl-commissioner-exempt-list",
-   "players": [
-    "Jonathon Cooper"
-   ]
-  },
-  {
-   "headline": "Packers' Josh Jacobs eligible to return next week amid investigation",
-   "summary": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
-   "published": "2026-10-17",
-   "url": "https://www.espn.com/nfl/story/_/id/50197784/packers-josh-jacobs-eligible-return-next-week-amid-probe",
-   "players": [
-    "Josh Jacobs"
-   ]
-  },
-  {
-   "headline": "Bears' Caleb Williams questionable after 3 days of practice",
-   "summary": "The quarterback said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197730/bears-caleb-williams-questionable-falcons",
-   "players": [
-    "Caleb Williams"
-   ]
-  },
-  {
-   "headline": "Cardinals 'do what's right,' rule RB Jeremiyah Love (ankle) out vs. Rams",
-   "summary": "The Cardinals say they're doing \"what's right\" for RB Jeremiyah Love by ruling the prized rookie out for Sunday's game against the Rams due to his injured left ankle.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197712/cardinals-rb-jeremiyah-love-ankle-sunday-vs-rams",
-   "players": [
-    "Jeremiyah Love"
-   ]
-  },
-  {
-   "headline": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
-   "summary": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197708/sirianni-teammates-share-concern-jalen-hurts-diagnosis",
-   "players": [
-    "Jalen Hurts"
-   ]
-  },
-  {
-   "headline": "Seahawks sticking with Sam Darnold as starter despite INTs",
-   "summary": "Seahawks coach Mike Macdonald is standing behind Sam Darnold as the team's starting quarterback despite his seven interceptions over the past four games.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197704/seahawks-sticking-sam-darnold-starter-ints",
-   "players": [
-    "Sam Darnold"
-   ]
-  },
-  {
-   "headline": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
-   "summary": "Kansas City's top receiver Rashee Rice will miss Sunday's game against the Chargers with a right hamstring injury.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury",
-   "players": [
-    "Rashee Rice",
-    "Josh Simmons"
-   ]
-  },
-  {
-   "headline": "Pettine ready to lend support, experience to Cowboys' defense",
-   "summary": "Mike Pettine was traveling through Italy, celebrating his 60th birthday when he got a call from Cowboys defensive coordinator Christian Parker a few weeks ago seeing if he would take a role on the staff.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197559/pettine-ready-lend-support-experience-cowboys-defense",
-   "players": []
-  },
-  {
-   "headline": "Falcons' Michael Penix Jr. (ribs) cleared to play vs. Bears",
-   "summary": "Falcons quarterback Michael Penix Jr., who left last week's game with injured ribs, has been fully cleared to play against the Bears on Sunday.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197497/falcons-michael-penix-jr-ribs-cleared-play-vs-bears",
-   "players": [
-    "Michael Penix Jr"
-   ]
-  },
-  {
-   "headline": "Ravens rule out QB Lamar Jackson; Tyler Huntley to start vs. Browns",
-   "summary": "The Ravens have ruled quarterback Lamar Jackson out for a second straight week, elevating Tyler Huntley to the starting role for Sunday's game in Cleveland.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197342/ravens-rule-qb-jackson-huntley-start-browns",
-   "players": [
-    "Lamar Jackson",
-    "Tyler Huntley"
-   ]
-  },
-  {
-   "headline": "Kyle Hamilton: Everybody has the utmost confidence in Tyler Huntley",
-   "summary": "Kyle Hamilton: Everybody has the utmost confidence in Tyler Huntley",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/video/clip/_/id/50197297/everybody-utmost-confidence-tyler-huntley",
-   "players": [
-    "Kyle Hamilton",
-    "Tyler Huntley"
-   ]
-  },
-  {
-   "headline": "Browns WR KC Concepcion clears concussion protocol, will play vs. Ravens",
-   "summary": "Browns rookie wide receiver KC Concepcion has cleared the concussion protocol and will play against the Ravens.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50197266/browns-wr-concepcion-clears-protocol-play-vs-ravens",
-   "players": [
-    "KC Concepcion"
-   ]
-  },
-  {
-   "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
-   "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals",
-   "players": []
-  },
-  {
-   "headline": "Daniel Dopp's Week 6 DraftKings tournament lineup",
-   "summary": "Daniel Dopp's Week 6 DraftKings tournament lineup",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/video/clip/_/id/50196974/daniel-dopp-week-6-draftkings-tournament-lineup",
-   "players": []
-  },
-  {
-   "headline": "Jets rookie WR Omar Cooper Jr. to return vs. Patriots; RB Hall, WR Mitchell out",
-   "summary": "Jets rookie wide receiver Omar Cooper Jr. (ankle) will play against the Patriots, but running back Breece Hall and wideout Adonai Mitchell have been ruled out for Sunday's game.",
-   "published": "2026-10-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50196775/jets-rookie-wr-cooper-play-vs-patriots-hall-mitchell-out",
-   "players": [
-    "Breece Hall",
-    "Adonai Mitchell",
-    "Omar Cooper Jr",
-    "Kenyon Sadiq"
-   ]
   }
  ]
 }

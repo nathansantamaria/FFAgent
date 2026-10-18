@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-10-17T14:04:00+00:00",
+ "fetched_at": "2026-10-18T14:19:39+00:00",
  "week": 6,
  "games": [
   {
-   "name": "SEA @ DEN",
-   "status": "Final",
-   "date": "2026-10-16",
-   "score": {
-    "DEN": "17",
-    "SEA": "14"
-   }
-  },
-  {
    "name": "HOU VS JAX",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-18",
    "score": {
     "JAX": "0",
-    "HOU": "0"
+    "HOU": "7"
    }
   },
   {
@@ -117,6 +108,15 @@
    "score": {
     "GB": "0",
     "DAL": "0"
+   }
+  },
+  {
+   "name": "SEA @ DEN",
+   "status": "Final",
+   "date": "2026-10-16",
+   "score": {
+    "DEN": "17",
+    "SEA": "14"
    }
   },
   {
