@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-18T18:29:25+00:00",
+ "fetched_at": "2026-10-18T22:05:47+00:00",
  "adds": [
   {
    "name": "Tyler Higbee",
-   "count": 1075122
+   "count": 1047411
   },
   {
    "name": "Dameon Pierce",
-   "count": 502152
+   "count": 415872
   },
   {
    "name": "Najee Harris",
-   "count": 389915
+   "count": 402955
   },
   {
    "name": "Jaleel McLaughlin",
-   "count": 382780
+   "count": 376830
   },
   {
    "name": "Roschon Johnson",
-   "count": 375560
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 290392
+   "count": 327136
   },
   {
    "name": "Tyler Allgeier",
-   "count": 289405
+   "count": 254350
   },
   {
    "name": "Rachaad White",
-   "count": 266190
+   "count": 239787
   },
   {
    "name": "Darren Waller",
-   "count": 229491
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 183896
+   "count": 218763
   },
   {
    "name": "Xavier Worthy",
-   "count": 166338
+   "count": 204534
   },
   {
-   "name": "Cyrus Allen",
-   "count": 144846
-  },
-  {
-   "name": "Nick Folk",
-   "count": 137568
-  },
-  {
-   "name": "Keenan Allen",
-   "count": 127524
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 126205
-  },
-  {
-   "name": "Kimani Vidal",
-   "count": 125270
-  },
-  {
-   "name": "Austin Ekeler",
-   "count": 116812
-  },
-  {
-   "name": "Darnell Washington",
-   "count": 114290
-  },
-  {
-   "name": "Brandin Cooks",
-   "count": 111324
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 105882
-  },
-  {
-   "name": "Aaron Rodgers",
-   "count": 98996
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 87888
-  },
-  {
-   "name": "Blake Grupe",
-   "count": 87516
+   "name": "Tanner McKee",
+   "count": 203272
   },
   {
    "name": "Keon Coleman",
-   "count": 83520
+   "count": 177048
   },
   {
-   "name": "Jacob Cowing",
-   "count": 76980
+   "name": "Khalil Shakir",
+   "count": 166743
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 165288
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 157936
+  },
+  {
+   "name": "Cyrus Allen",
+   "count": 157122
+  },
+  {
+   "name": "Brandin Cooks",
+   "count": 140996
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 134595
+  },
+  {
+   "name": "Kimani Vidal",
+   "count": 126890
+  },
+  {
+   "name": "Austin Ekeler",
+   "count": 122724
+  },
+  {
+   "name": "Nick Folk",
+   "count": 120930
+  },
+  {
+   "name": "Omar Cooper",
+   "count": 118472
+  },
+  {
+   "name": "Keenan Allen",
+   "count": 118200
+  },
+  {
+   "name": "Darnell Washington",
+   "count": 111265
+  },
+  {
+   "name": "Tre Tucker",
+   "count": 107556
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 103544
   }
  ]
 }

@@ -1,68 +1,32 @@
 {
- "fetched_at": "2026-10-18T18:29:25+00:00",
+ "fetched_at": "2026-10-18T22:05:47+00:00",
  "week": 6,
  "games": [
   {
-   "name": "CHI @ ATL",
+   "name": "ARI @ LAR",
    "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "ATL": "7",
-    "CHI": "21"
+    "LAR": "9",
+    "ARI": "12"
    }
   },
   {
-   "name": "BAL @ CLE",
-   "status": "Halftime",
-   "date": "2026-10-18",
-   "score": {
-    "CLE": "0",
-    "BAL": "10"
-   }
-  },
-  {
-   "name": "TEN @ IND",
-   "status": "Halftime",
-   "date": "2026-10-18",
-   "score": {
-    "IND": "13",
-    "TEN": "0"
-   }
-  },
-  {
-   "name": "NYJ @ NE",
+   "name": "LAC @ KC",
    "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "NE": "17",
-    "NYJ": "3"
+    "KC": "19",
+    "LAC": "3"
    }
   },
   {
-   "name": "NO @ NYG",
+   "name": "BUF @ LV",
    "status": "In Progress",
    "date": "2026-10-18",
    "score": {
-    "NYG": "10",
-    "NO": "10"
-   }
-  },
-  {
-   "name": "CAR @ PHI",
-   "status": "In Progress",
-   "date": "2026-10-18",
-   "score": {
-    "PHI": "7",
-    "CAR": "10"
-   }
-  },
-  {
-   "name": "PIT @ TB",
-   "status": "In Progress",
-   "date": "2026-10-18",
-   "score": {
-    "TB": "13",
-    "PIT": "0"
+    "LV": "13",
+    "BUF": "13"
    }
   },
   {
@@ -75,30 +39,66 @@
    }
   },
   {
-   "name": "ARI @ LAR",
-   "status": "Scheduled",
+   "name": "CHI @ ATL",
+   "status": "Final",
    "date": "2026-10-18",
    "score": {
-    "LAR": "0",
-    "ARI": "0"
+    "ATL": "23",
+    "CHI": "31"
    }
   },
   {
-   "name": "LAC @ KC",
-   "status": "Scheduled",
+   "name": "BAL @ CLE",
+   "status": "Final",
    "date": "2026-10-18",
    "score": {
-    "KC": "0",
-    "LAC": "0"
+    "CLE": "13",
+    "BAL": "10"
    }
   },
   {
-   "name": "BUF @ LV",
-   "status": "Scheduled",
+   "name": "TEN @ IND",
+   "status": "Final",
    "date": "2026-10-18",
    "score": {
-    "LV": "0",
-    "BUF": "0"
+    "IND": "20",
+    "TEN": "26"
+   }
+  },
+  {
+   "name": "NYJ @ NE",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "NE": "26",
+    "NYJ": "19"
+   }
+  },
+  {
+   "name": "NO @ NYG",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "NYG": "27",
+    "NO": "34"
+   }
+  },
+  {
+   "name": "CAR @ PHI",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "PHI": "14",
+    "CAR": "25"
+   }
+  },
+  {
+   "name": "PIT @ TB",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "TB": "19",
+    "PIT": "26"
    }
   },
   {
