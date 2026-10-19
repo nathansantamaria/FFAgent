@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-18T22:05:47+00:00",
+ "fetched_at": "2026-10-19T17:20:11+00:00",
  "adds": [
   {
+   "name": "Omar Cooper",
+   "count": 505176
+  },
+  {
    "name": "Tyler Higbee",
-   "count": 1047411
-  },
-  {
-   "name": "Dameon Pierce",
-   "count": 415872
-  },
-  {
-   "name": "Najee Harris",
-   "count": 402955
-  },
-  {
-   "name": "Jaleel McLaughlin",
-   "count": 376830
-  },
-  {
-   "name": "Roschon Johnson",
-   "count": 327136
-  },
-  {
-   "name": "Tyler Allgeier",
-   "count": 254350
-  },
-  {
-   "name": "Rachaad White",
-   "count": 239787
-  },
-  {
-   "name": "Darren Waller",
-   "count": 218763
-  },
-  {
-   "name": "Xavier Worthy",
-   "count": 204534
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 203272
+   "count": 235035
   },
   {
    "name": "Keon Coleman",
-   "count": 177048
+   "count": 205830
   },
   {
-   "name": "Khalil Shakir",
-   "count": 166743
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 165288
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 157936
-  },
-  {
-   "name": "Cyrus Allen",
-   "count": 157122
-  },
-  {
-   "name": "Brandin Cooks",
-   "count": 140996
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 134595
-  },
-  {
-   "name": "Kimani Vidal",
-   "count": 126890
-  },
-  {
-   "name": "Austin Ekeler",
-   "count": 122724
-  },
-  {
-   "name": "Nick Folk",
-   "count": 120930
-  },
-  {
-   "name": "Omar Cooper",
-   "count": 118472
-  },
-  {
-   "name": "Keenan Allen",
-   "count": 118200
-  },
-  {
-   "name": "Darnell Washington",
-   "count": 111265
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 107556
+   "name": "Kyle Pitts",
+   "count": 177975
   },
   {
    "name": "C.J. Stroud",
-   "count": 103544
+   "count": 172382
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 165352
+  },
+  {
+   "name": "Cleveland Browns",
+   "count": 162925
+  },
+  {
+   "name": "Tre Tucker",
+   "count": 149916
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 145269
+  },
+  {
+   "name": "Jaleel McLaughlin",
+   "count": 138455
+  },
+  {
+   "name": "Michael Mayer",
+   "count": 126990
+  },
+  {
+   "name": "Roschon Johnson",
+   "count": 122264
+  },
+  {
+   "name": "Najee Harris",
+   "count": 113495
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 112941
+  },
+  {
+   "name": "Brandin Cooks",
+   "count": 112292
+  },
+  {
+   "name": "J.J. McCarthy",
+   "count": 89502
+  },
+  {
+   "name": "Travis Hunter",
+   "count": 81804
+  },
+  {
+   "name": "Dameon Pierce",
+   "count": 79592
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 74992
+  },
+  {
+   "name": "Austin Ekeler",
+   "count": 74692
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 70810
+  },
+  {
+   "name": "Tanner McKee",
+   "count": 66720
+  },
+  {
+   "name": "Rachaad White",
+   "count": 66552
+  },
+  {
+   "name": "Blake Corum",
+   "count": 63744
+  },
+  {
+   "name": "Tyrone Tracy",
+   "count": 62466
   }
  ]
 }

@@ -1,32 +1,23 @@
 {
- "fetched_at": "2026-10-18T22:05:47+00:00",
+ "fetched_at": "2026-10-19T17:20:11+00:00",
  "week": 6,
  "games": [
   {
-   "name": "ARI @ LAR",
-   "status": "In Progress",
-   "date": "2026-10-18",
+   "name": "WSH @ SF",
+   "status": "Scheduled",
+   "date": "2026-10-20",
    "score": {
-    "LAR": "9",
-    "ARI": "12"
+    "SF": "0",
+    "WSH": "0"
    }
   },
   {
-   "name": "LAC @ KC",
-   "status": "In Progress",
-   "date": "2026-10-18",
+   "name": "SEA @ DEN",
+   "status": "Final",
+   "date": "2026-10-16",
    "score": {
-    "KC": "19",
-    "LAC": "3"
-   }
-  },
-  {
-   "name": "BUF @ LV",
-   "status": "In Progress",
-   "date": "2026-10-18",
-   "score": {
-    "LV": "13",
-    "BUF": "13"
+    "DEN": "17",
+    "SEA": "14"
    }
   },
   {
@@ -102,30 +93,39 @@
    }
   },
   {
+   "name": "ARI @ LAR",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "LAR": "16",
+    "ARI": "18"
+   }
+  },
+  {
+   "name": "LAC @ KC",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "KC": "22",
+    "LAC": "6"
+   }
+  },
+  {
+   "name": "BUF @ LV",
+   "status": "Final",
+   "date": "2026-10-18",
+   "score": {
+    "LV": "30",
+    "BUF": "33"
+   }
+  },
+  {
    "name": "DAL @ GB",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-19",
    "score": {
-    "GB": "0",
-    "DAL": "0"
-   }
-  },
-  {
-   "name": "SEA @ DEN",
-   "status": "Final",
-   "date": "2026-10-16",
-   "score": {
-    "DEN": "17",
-    "SEA": "14"
-   }
-  },
-  {
-   "name": "WSH @ SF",
-   "status": "Scheduled",
-   "date": "2026-10-20",
-   "score": {
-    "SF": "0",
-    "WSH": "0"
+    "GB": "23",
+    "DAL": "13"
    }
   }
  ]
