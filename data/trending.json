@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-20T01:32:02+00:00",
+ "fetched_at": "2026-10-20T15:33:27+00:00",
  "adds": [
   {
    "name": "Omar Cooper",
-   "count": 921360
+   "count": 2588336
   },
   {
    "name": "Cleveland Browns",
-   "count": 251356
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 216083
-  },
-  {
-   "name": "Tank Dell",
-   "count": 195496
-  },
-  {
-   "name": "Kyle Pitts",
-   "count": 180747
-  },
-  {
-   "name": "Michael Mayer",
-   "count": 151875
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 139698
-  },
-  {
-   "name": "Roschon Johnson",
-   "count": 127728
+   "count": 1001910
   },
   {
    "name": "Konata Mumpfield",
-   "count": 127386
+   "count": 631287
   },
   {
-   "name": "Keon Coleman",
-   "count": 123885
+   "name": "Tank Dell",
+   "count": 493656
   },
   {
-   "name": "Austin Ekeler",
-   "count": 95380
-  },
-  {
-   "name": "J.J. McCarthy",
-   "count": 90279
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 79136
-  },
-  {
-   "name": "Jaleel McLaughlin",
-   "count": 73230
-  },
-  {
-   "name": "Pierre Strong",
-   "count": 71982
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 71680
-  },
-  {
-   "name": "Travis Hunter",
-   "count": 65106
+   "name": "C.J. Stroud",
+   "count": 471835
   },
   {
    "name": "Kyler Murray",
-   "count": 64912
+   "count": 465984
   },
   {
-   "name": "Kirk Cousins",
-   "count": 63720
+   "name": "Michael Mayer",
+   "count": 395838
   },
   {
-   "name": "Tyrone Tracy",
-   "count": 60146
+   "name": "Tre Tucker",
+   "count": 298236
   },
   {
-   "name": "Brandin Cooks",
-   "count": 56940
+   "name": "Roschon Johnson",
+   "count": 295888
+  },
+  {
+   "name": "Kyle Pitts",
+   "count": 284228
   },
   {
    "name": "Chase McLaughlin",
-   "count": 55896
-  },
-  {
-   "name": "Blake Corum",
-   "count": 54432
-  },
-  {
-   "name": "Tyler Shough",
-   "count": 51984
+   "count": 274224
   },
   {
    "name": "Terrance Ferguson",
-   "count": 51448
+   "count": 269840
+  },
+  {
+   "name": "Minnesota Vikings",
+   "count": 248630
+  },
+  {
+   "name": "Jake Bates",
+   "count": 215872
+  },
+  {
+   "name": "Tyrone Tracy",
+   "count": 214270
+  },
+  {
+   "name": "Will Reichard",
+   "count": 194853
+  },
+  {
+   "name": "New York Jets",
+   "count": 193442
+  },
+  {
+   "name": "Keon Coleman",
+   "count": 154422
+  },
+  {
+   "name": "Tanner McKee",
+   "count": 154040
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 152216
+  },
+  {
+   "name": "Treylon Burks",
+   "count": 135975
+  },
+  {
+   "name": "J.J. McCarthy",
+   "count": 135390
+  },
+  {
+   "name": "Pierre Strong",
+   "count": 122868
+  },
+  {
+   "name": "Blake Corum",
+   "count": 108376
+  },
+  {
+   "name": "Houston Texans",
+   "count": 102515
   }
  ]
 }

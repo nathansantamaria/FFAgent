@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-10-20T01:32:02+00:00",
+ "fetched_at": "2026-10-20T15:33:27+00:00",
  "week": 6,
  "games": [
-  {
-   "name": "WSH @ SF",
-   "status": "In Progress",
-   "date": "2026-10-20",
-   "score": {
-    "SF": "13",
-    "WSH": "3"
-   }
-  },
   {
    "name": "SEA @ DEN",
    "status": "Final",
@@ -126,6 +117,15 @@
    "score": {
     "GB": "23",
     "DAL": "13"
+   }
+  },
+  {
+   "name": "WSH @ SF",
+   "status": "Final",
+   "date": "2026-10-20",
+   "score": {
+    "SF": "23",
+    "WSH": "17"
    }
   }
  ]
