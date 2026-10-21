@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T15:33:27+00:00",
+ "fetched_at": "2026-10-21T08:06:28+00:00",
  "league_id": "1400160155982639104",
  "week": 7,
  "standings": [
@@ -25,52 +25,52 @@
    "waiver_position": 3
   },
   {
-   "team": "BmoreKidd",
-   "wins": 2,
-   "losses": 4,
-   "pf": 819.94,
-   "waiver_position": 4
-  },
-  {
    "team": "Run@TellThat",
    "wins": 3,
    "losses": 3,
    "pf": 704.54,
-   "waiver_position": 5
+   "waiver_position": 4
   },
   {
    "team": "Scorpiondemon90",
    "wins": 3,
    "losses": 3,
    "pf": 767.82,
-   "waiver_position": 6
-  },
-  {
-   "team": "JMann60",
-   "wins": 3,
-   "losses": 3,
-   "pf": 805.62,
-   "waiver_position": 7
+   "waiver_position": 5
   },
   {
    "team": "zay4209",
    "wins": 3,
    "losses": 3,
    "pf": 874.56,
-   "waiver_position": 8
-  },
-  {
-   "team": "BitcoinBucs",
-   "wins": 4,
-   "losses": 2,
-   "pf": 909.2,
-   "waiver_position": 9
+   "waiver_position": 6
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 6,
    "losses": 0,
    "pf": 959.52,
+   "waiver_position": 7
+  },
+  {
+   "team": "BmoreKidd",
+   "wins": 2,
+   "losses": 4,
+   "pf": 819.94,
+   "waiver_position": 8
+  },
+  {
+   "team": "JMann60",
+   "wins": 3,
+   "losses": 3,
+   "pf": 805.62,
+   "waiver_position": 9
+  },
+  {
+   "team": "BitcoinBucs",
+   "wins": 4,
+   "losses": 2,
+   "pf": 909.2,
    "waiver_position": 10
   }
  ],
@@ -166,9 +166,9 @@
    "Rashee Rice",
    "Michael Wilson",
    "Cam Little",
-   "Devaughn Vele",
    "Ollie Gordon",
    "Quinshon Judkins",
+   "Jordyn Tyson",
    "Patrick Mahomes",
    "A.J. Brown",
    "Drake London",
@@ -178,7 +178,7 @@
    "Zach Charbonnet",
    "Zay Flowers",
    "Houston Texans",
-   "Kansas City Chiefs"
+   "Minnesota Vikings"
   ],
   "jaybeezy2ezy": [
    "Brock Bowers",
@@ -251,8 +251,8 @@
   "BmoreKidd": [
    "Tre Tucker",
    "Drake Maye",
-   "Braelon Allen",
    "Woody Marks",
+   "Omar Cooper",
    "Carnell Tate",
    "Jason Myers",
    "Saquon Barkley",
@@ -271,18 +271,18 @@
    "Malik Nabers",
    "Will Reichard",
    "RJ Harvey",
-   "Omarion Hampton",
+   "Ja'Kobi Lane",
    "Christian McCaffrey",
    "Chris Godwin",
    "George Kittle",
-   "Eddy Pineiro",
-   "Terry McLaurin",
+   "Kyler Murray",
+   "J.K. Dobbins",
    "DeVonta Smith",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",
    "Jordan Mason",
-   "Baltimore Ravens"
+   "Kendre Miller"
   ]
  }
 }
