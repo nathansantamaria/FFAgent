@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T08:06:28+00:00",
+ "fetched_at": "2026-10-21T15:49:50+00:00",
  "league_id": "1400160155982639104",
  "week": 7,
  "standings": [
@@ -81,10 +81,8 @@
   "Jayden Daniels",
   "Keon Coleman",
   "Harold Fannin",
-  "Jacory Croskey-Merritt",
   "Jadarian Price",
   "Jonah Coleman",
-  "Tyreek Hill",
   "Josh Jacobs",
   "Tony Pollard",
   "Jaylen Waddle",
@@ -93,19 +91,21 @@
   "Chris Olave",
   "Brenton Strange",
   "Jaxon Smith-Njigba",
+  "Aaron Rodgers",
+  "Cleveland Browns",
   "Jacksonville Jaguars"
  ],
  "my_starters": [
-  "Jayden Daniels",
+  "Aaron Rodgers",
+  "Josh Jacobs",
   "Dameon Pierce",
-  "Tony Pollard",
   "Jaxon Smith-Njigba",
   "Chris Olave",
   "Harold Fannin",
   "George Pickens",
   "Jaylen Waddle",
   "Brandon Aubrey",
-  "Jacksonville Jaguars"
+  "Cleveland Browns"
  ],
  "teams": {
   "Artificial Domination": [
@@ -113,10 +113,8 @@
    "Jayden Daniels",
    "Keon Coleman",
    "Harold Fannin",
-   "Jacory Croskey-Merritt",
    "Jadarian Price",
    "Jonah Coleman",
-   "Tyreek Hill",
    "Josh Jacobs",
    "Tony Pollard",
    "Jaylen Waddle",
@@ -125,6 +123,8 @@
    "Chris Olave",
    "Brenton Strange",
    "Jaxon Smith-Njigba",
+   "Aaron Rodgers",
+   "Cleveland Browns",
    "Jacksonville Jaguars"
   ],
   "I cook brown rice": [
@@ -165,12 +165,13 @@
   "JMann60": [
    "Rashee Rice",
    "Michael Wilson",
-   "Cam Little",
    "Ollie Gordon",
    "Quinshon Judkins",
+   "Tyler Shough",
    "Jordyn Tyson",
    "Patrick Mahomes",
    "A.J. Brown",
+   "Matt Gay",
    "Drake London",
    "Trey McBride",
    "Rachaad White",
@@ -184,18 +185,18 @@
    "Brock Bowers",
    "Emeka Egbuka",
    "Tetairoa McMillan",
-   "Chris Boswell",
    "Stefon Diggs",
    "Matthew Stafford",
    "Joe Burrow",
    "Chuba Hubbard",
    "Rhamondre Stevenson",
+   "Evan McPherson",
    "Wan'Dale Robinson",
    "Tyler Allgeier",
    "Kenneth Walker",
    "Jahmyr Gibbs",
    "Parker Washington",
-   "Philadelphia Eagles"
+   "New York Jets"
   ],
   "BobbiWasabi": [
    "Bo Nix",

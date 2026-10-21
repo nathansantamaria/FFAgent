@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-21T08:06:28+00:00",
+ "fetched_at": "2026-10-21T15:49:50+00:00",
  "adds": [
   {
    "name": "Omar Cooper",
-   "count": 5199528
+   "count": 4315888
   },
   {
    "name": "Cleveland Browns",
-   "count": 1915648
+   "count": 1766198
   },
   {
    "name": "Konata Mumpfield",
-   "count": 1511136
+   "count": 1438524
   },
   {
    "name": "Kyler Murray",
-   "count": 962984
+   "count": 804160
   },
   {
    "name": "Michael Mayer",
-   "count": 746622
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 726271
+   "count": 764019
   },
   {
    "name": "Roschon Johnson",
-   "count": 657928
+   "count": 692344
   },
   {
-   "name": "Tyrone Tracy",
-   "count": 615048
-  },
-  {
-   "name": "Terrance Ferguson",
-   "count": 552824
+   "name": "C.J. Stroud",
+   "count": 649327
   },
   {
    "name": "Chase McLaughlin",
-   "count": 528744
+   "count": 619696
+  },
+  {
+   "name": "Tyrone Tracy",
+   "count": 578196
   },
   {
    "name": "Jake Bates",
-   "count": 504576
+   "count": 563864
   },
   {
    "name": "Treylon Burks",
-   "count": 500549
-  },
-  {
-   "name": "Minnesota Vikings",
-   "count": 482460
-  },
-  {
-   "name": "Tank Dell",
-   "count": 467432
+   "count": 561288
   },
   {
    "name": "New York Jets",
-   "count": 465006
+   "count": 499558
+  },
+  {
+   "name": "Terrance Ferguson",
+   "count": 485320
   },
   {
    "name": "Tre Tucker",
-   "count": 453462
+   "count": 440046
+  },
+  {
+   "name": "Minnesota Vikings",
+   "count": 391070
   },
   {
    "name": "Kyle Pitts",
-   "count": 399112
+   "count": 376005
   },
   {
-   "name": "Will Reichard",
-   "count": 385893
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 275504
+   "name": "Tank Dell",
+   "count": 373632
   },
   {
    "name": "Tyler Higbee",
-   "count": 257715
+   "count": 356661
+  },
+  {
+   "name": "Will Reichard",
+   "count": 337206
   },
   {
    "name": "Malik Washington",
-   "count": 254424
+   "count": 298800
+  },
+  {
+   "name": "Tanner McKee",
+   "count": 276240
+  },
+  {
+   "name": "Caleb Douglas",
+   "count": 274384
   },
   {
    "name": "Pierre Strong",
-   "count": 247518
-  },
-  {
-   "name": "Houston Texans",
-   "count": 214065
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 212944
+   "count": 254592
   },
   {
    "name": "Jordan Mason",
-   "count": 204195
+   "count": 248880
+  },
+  {
+   "name": "Bo Nix",
+   "count": 227538
   }
  ]
 }
