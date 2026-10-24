@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-23T15:38:39+00:00",
+ "fetched_at": "2026-10-24T14:15:29+00:00",
  "adds": [
   {
-   "name": "Roschon Johnson",
-   "count": 728912
-  },
-  {
    "name": "Konata Mumpfield",
-   "count": 716058
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 360064
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 356391
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 260505
+   "count": 405873
   },
   {
    "name": "Seth McGowan",
-   "count": 258960
+   "count": 321072
   },
   {
-   "name": "Jake Bates",
-   "count": 257200
+   "name": "Tyler Higbee",
+   "count": 301239
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "count": 205728
+  },
+  {
+   "name": "Emanuel Wilson",
+   "count": 193230
+  },
+  {
+   "name": "Ted Hurst III",
+   "count": 132960
   },
   {
    "name": "Michael Mayer",
-   "count": 248931
+   "count": 132264
   },
   {
    "name": "Zonovan Knight",
-   "count": 206546
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 184485
-  },
-  {
-   "name": "Brandon McManus",
-   "count": 170072
-  },
-  {
-   "name": "Kyler Murray",
-   "count": 159104
-  },
-  {
-   "name": "Tyler Allgeier",
-   "count": 150900
-  },
-  {
-   "name": "Omar Cooper Jr.",
-   "count": 137272
-  },
-  {
-   "name": "Malik Washington",
-   "count": 127496
-  },
-  {
-   "name": "Treylon Burks",
-   "count": 126525
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 112608
-  },
-  {
-   "name": "Bo Nix",
-   "count": 108726
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 104040
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 97848
-  },
-  {
-   "name": "New York Jets",
-   "count": 94432
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 92760
+   "count": 101562
   },
   {
    "name": "Brandin Cooks",
-   "count": 90168
+   "count": 92820
   },
   {
-   "name": "Aaron Rodgers",
-   "count": 87080
+   "name": "Ryan Flournoy",
+   "count": 82440
   },
   {
-   "name": "Courtland Sutton",
-   "count": 82656
+   "name": "Malik Washington",
+   "count": 77472
+  },
+  {
+   "name": "Adonai Mitchell",
+   "count": 75104
+  },
+  {
+   "name": "Tyler Allgeier",
+   "count": 73165
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 68232
+  },
+  {
+   "name": "Caleb Douglas",
+   "count": 67928
+  },
+  {
+   "name": "Jordan Watkins",
+   "count": 65336
+  },
+  {
+   "name": "Colby Parkinson",
+   "count": 59490
+  },
+  {
+   "name": "Xavier Worthy",
+   "count": 58212
+  },
+  {
+   "name": "Cleveland Browns",
+   "count": 53410
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 51597
+  },
+  {
+   "name": "Kyle Pitts Sr.",
+   "count": 51065
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 50193
+  },
+  {
+   "name": "Kyler Murray",
+   "count": 48776
+  },
+  {
+   "name": "Keenan Allen",
+   "count": 48236
+  },
+  {
+   "name": "Jake Bates",
+   "count": 46720
   }
  ]
 }
