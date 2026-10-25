@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-10-25T14:50:10+00:00",
+ "fetched_at": "2026-10-25T18:45:35+00:00",
  "week": 7,
  "games": [
   {
-   "name": "PIT VS NO",
+   "name": "SF @ ATL",
    "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "NO": "10",
-    "PIT": "10"
-   }
-  },
-  {
-   "name": "SF @ ATL",
-   "status": "Scheduled",
-   "date": "2026-10-25",
-   "score": {
-    "ATL": "0",
-    "SF": "0"
+    "ATL": "19",
+    "SF": "14"
    }
   },
   {
    "name": "CLE @ TEN",
-   "status": "Scheduled",
+   "status": "Halftime",
    "date": "2026-10-25",
    "score": {
-    "TEN": "0",
-    "CLE": "0"
+    "TEN": "14",
+    "CLE": "17"
    }
   },
   {
    "name": "IND @ MIN",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "MIN": "0",
-    "IND": "0"
+    "MIN": "6",
+    "IND": "10"
    }
   },
   {
    "name": "MIA @ NYJ",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "NYJ": "0",
-    "MIA": "0"
+    "NYJ": "7",
+    "MIA": "21"
    }
   },
   {
    "name": "TB @ CAR",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "CAR": "0",
-    "TB": "0"
+    "CAR": "6",
+    "TB": "33"
    }
   },
   {
    "name": "CIN @ BAL",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "BAL": "0",
-    "CIN": "0"
+    "BAL": "13",
+    "CIN": "7"
    }
   },
   {
    "name": "NYG @ HOU",
-   "status": "Scheduled",
+   "status": "Halftime",
    "date": "2026-10-25",
    "score": {
-    "HOU": "0",
-    "NYG": "0"
+    "HOU": "14",
+    "NYG": "14"
+   }
+  },
+  {
+   "name": "PIT VS NO",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "NO": "10",
+    "PIT": "16"
    }
   },
   {

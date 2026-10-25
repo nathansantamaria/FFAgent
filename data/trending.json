@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-25T14:50:10+00:00",
+ "fetched_at": "2026-10-25T18:45:35+00:00",
  "adds": [
   {
-   "name": "Seth McGowan",
-   "count": 718272
+   "name": "Darius Cooper",
+   "count": 837312
   },
   {
-   "name": "Darius Cooper",
-   "count": 559685
+   "name": "Seth McGowan",
+   "count": 807200
   },
   {
    "name": "Konata Mumpfield",
-   "count": 290988
+   "count": 304677
   },
   {
    "name": "Tyler Higbee",
-   "count": 246195
+   "count": 295551
   },
   {
    "name": "Emanuel Wilson",
-   "count": 208953
-  },
-  {
-   "name": "Chris Godwin Jr.",
-   "count": 193854
+   "count": 246114
   },
   {
    "name": "Justice Hill",
-   "count": 163305
+   "count": 245898
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "count": 212994
   },
   {
    "name": "Kyler Murray",
-   "count": 139544
+   "count": 180296
+  },
+  {
+   "name": "Kaelon Black",
+   "count": 174762
   },
   {
    "name": "Makai Lemon",
-   "count": 120152
-  },
-  {
-   "name": "Ted Hurst III",
-   "count": 118194
+   "count": 160316
   },
   {
    "name": "Xavier Worthy",
-   "count": 99513
+   "count": 126081
+  },
+  {
+   "name": "Ted Hurst III",
+   "count": 125994
   },
   {
    "name": "Michael Mayer",
-   "count": 94500
+   "count": 125685
   },
   {
    "name": "Chase McLaughlin",
-   "count": 92120
+   "count": 123048
   },
   {
    "name": "Bo Nix",
-   "count": 87990
+   "count": 117162
   },
   {
    "name": "Zonovan Knight",
-   "count": 83152
+   "count": 114018
   },
   {
    "name": "Jake Bates",
-   "count": 76680
-  },
-  {
-   "name": "Brandin Cooks",
-   "count": 76440
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 75950
+   "count": 113008
   },
   {
    "name": "KC Concepcion Jr.",
-   "count": 73206
+   "count": 111960
   },
   {
-   "name": "Aaron Rodgers",
-   "count": 69720
+   "name": "Cleveland Browns",
+   "count": 94045
   },
   {
    "name": "Tyler Allgeier",
-   "count": 68995
+   "count": 93560
   },
   {
    "name": "Geno Smith",
-   "count": 68792
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 67438
+   "count": 88888
   },
   {
    "name": "Caleb Douglas",
-   "count": 65672
+   "count": 85552
   },
   {
    "name": "Malik Washington",
-   "count": 64864
+   "count": 82080
+  },
+  {
+   "name": "Dameon Pierce",
+   "count": 80616
+  },
+  {
+   "name": "Brandin Cooks",
+   "count": 80308
   }
  ]
 }

@@ -1,11 +1,74 @@
 {
- "fetched_at": "2026-10-25T14:50:10+00:00",
+ "fetched_at": "2026-10-25T18:45:35+00:00",
  "articles": [
   {
+   "headline": "Fantasy football Week 7 inactives: Puka Nacua uncertain, DeVonta Smith out",
+   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50229729/fantasy-football-injuries-nfl-week-7-inactive-active",
+   "players": []
+  },
+  {
    "headline": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
+   "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor and more.",
    "published": "2026-10-25",
    "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
+   "players": []
+  },
+  {
+   "headline": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight",
+   "summary": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight ",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/video/clip/_/id/50277973/full-game-highlight",
+   "players": [
+    "Payton Wilson",
+    "Tyler Shough",
+    "Aaron Rodgers",
+    "Chris Boswell"
+   ]
+  },
+  {
+   "headline": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+   "players": []
+  },
+  {
+   "headline": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes",
+   "summary": "Aaron Rodgers threw one touchdown pass to move alone to third all-time on the NFL's career list in Pittsburgh's 16-10 win over the Saints on Sunday in the NFL's first regular-season game in France.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game",
+   "players": [
+    "Aaron Rodgers"
+   ]
+  },
+  {
+   "headline": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut",
+   "summary": "\u2014 Pittsburgh Steelers quarterback Aaron Rodgers knew a protective slide was out of the question when he scrambled on a key fourth-quarter play in New Orleans territory Sunday.",
+   "published": "2026-10-25",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873011",
+   "players": []
+  },
+  {
+   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+   "summary": "What are the odds Trey'Dez Green -- who scored in his return -- ends up as TE1? What's a good comp for Dylan Stewart? Here's draft spin off CFB Week 8.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+   "players": []
+  },
+  {
+   "headline": "NFL depth charts for all 32 teams for 2026 season",
+   "summary": "Here are the latest NFL depth charts for all 32 teams.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+   "players": []
+  },
+  {
+   "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
+   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
    "players": []
   },
   {
@@ -90,13 +153,6 @@
    "players": []
   },
   {
-   "headline": "Fantasy football Week 7 inactives: Mayfield to play, Nacua uncertain, Jackson out",
-   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-   "published": "2026-10-25",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50229729/fantasy-football-injuries-nfl-week-7-inactive-active",
-   "players": []
-  },
-  {
    "headline": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says",
    "summary": "The Rams are optimistic that star wide receiver Puka Nacua will play Sunday against the Raiders, a source told ESPN.",
    "published": "2026-10-25",
@@ -128,7 +184,7 @@
   },
   {
    "headline": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans",
-   "summary": "Cam Skattebo is expected to return to his role as the Giants' lead running back Sunday against the Texans, sources told NFL Network.",
+   "summary": "Cam Skattebo is expected to return to his role as the Giants' lead running back against the Texans, sources told NFL Network.",
    "published": "2026-10-25",
    "url": "https://www.espn.com/nfl/story/_/id/50268018/sources-cam-skattebo-expected-giants-lead-rb",
    "players": [
@@ -172,6 +228,25 @@
    "players": [
     "Braelon Allen",
     "Derrick Henry"
+   ]
+  },
+  {
+   "headline": "How Bengals star QB Joe Burrow brings a chess mindset to football",
+   "summary": "How Bengals star QB Joe Burrow brings a chess mindset to football ",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/video/clip/_/id/50274377/how-bengals-star-qb-joe-burrow-brings-chess-mindset-football",
+   "players": [
+    "Joe Burrow"
+   ]
+  },
+  {
+   "headline": "Mahomes and Kelce the Chiefs dynamic duo",
+   "summary": "Mahomes and Kelce the Chiefs dynamic duo",
+   "published": "2026-10-25",
+   "url": "https://www.espn.com/video/clip/_/id/50274245/mahomes-kelce-chiefs-dynamic-duo",
+   "players": [
+    "Patrick Mahomes",
+    "Travis Kelce"
    ]
   },
   {
@@ -275,82 +350,6 @@
    "players": [
     "AJ Brown",
     "Drake Maye"
-   ]
-  },
-  {
-   "headline": "NFL House in Paris closes ahead of street protests in French capital",
-   "summary": "The NFL closed its \"NFL House\" in Paris as the city braced for street protests with a heavy police presence and storefronts boarded up.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
-   "players": []
-  },
-  {
-   "headline": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "summary": "Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026",
-   "players": []
-  },
-  {
-   "headline": "Will Niners have edge with ex-Falcons coach facing Penix?",
-   "summary": "With all of the familiarity between Morris and the Falcons, Sunday's game should come down to execution.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50253343/atlanta-falcons-san-francisco-49er-raheem-morris",
-   "players": [
-    "Michael Penix Jr",
-    "Bijan Robinson"
-   ]
-  },
-  {
-   "headline": "Fernando Mendoza is embracing being Raiders' latest Hispanic QB",
-   "summary": "The rookie's next chapter is inspired by the legacies of a Hispanic coach, QB and a Raiders' fan base embracing the culture.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50253768/raiders-qb-fernando-mendoza-hispanic-plunkett-flores",
-   "players": [
-    "Fernando Mendoza",
-    "Alberto Mendoza"
-   ]
-  },
-  {
-   "headline": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
-   "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
-   "published": "2026-10-23",
-   "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
-   "players": [
-    "Jalen Hurts",
-    "David Andrews"
-   ]
-  },
-  {
-   "headline": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
-   "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
-   "players": []
-  },
-  {
-   "headline": "Boye Mafe's proud of his culture",
-   "summary": "Ben Baby details how Boye Mafe honors his culture when he's on the field.",
-   "published": "2026-10-23",
-   "url": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture",
-   "players": [
-    "Boye Mafe"
-   ]
-  },
-  {
-   "headline": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
-   "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-   "published": "2026-10-24",
-   "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
-   "players": []
-  },
-  {
-   "headline": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
-   "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
-   "published": "2026-10-23",
-   "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
-   "players": [
-    "Zach Charbonnet"
    ]
   }
  ]
