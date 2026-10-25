@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T14:15:29+00:00",
+ "fetched_at": "2026-10-25T14:50:10+00:00",
  "league_id": "1400160155982639104",
  "week": 7,
  "standings": [
@@ -147,17 +147,17 @@
   ],
   "Scorpiondemon90": [
    "Marvin Harrison Jr.",
-   "Spencer Shrader",
    "Kyle Monangai",
    "Germie Bernard",
    "Jordyn Tyson",
-   "Dominic Zvada",
    "Travis Kelce",
    "Brandin Cooks",
    "Mike Evans",
    "Derrick Henry",
    "Lamar Jackson",
    "DK Metcalf",
+   "Justice Hill",
+   "Chase McLaughlin",
    "Ja'Marr Chase",
    "C.J. Stroud",
    "Minnesota Vikings",
@@ -252,6 +252,7 @@
    "Tre Tucker",
    "Drake Maye",
    "Woody Marks",
+   "Darius Cooper",
    "Omar Cooper Jr.",
    "Carnell Tate",
    "Jason Myers",
@@ -263,7 +264,6 @@
    "Kyren Williams",
    "Breece Hall",
    "Jaylen Warren",
-   "Josh Downs",
    "Pittsburgh Steelers"
   ],
   "BitcoinBucs": [
@@ -271,7 +271,6 @@
    "Malik Nabers",
    "Will Reichard",
    "RJ Harvey",
-   "Ja'Kobi Lane",
    "Christian McCaffrey",
    "Chris Godwin Jr.",
    "George Kittle",
@@ -282,7 +281,7 @@
    "Garrett Wilson",
    "Brock Purdy",
    "Jordan Mason",
-   "Kendre Miller"
+   "Kansas City Chiefs"
   ]
  }
 }

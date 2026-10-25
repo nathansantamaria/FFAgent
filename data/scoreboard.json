@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-10-24T14:15:29+00:00",
+ "fetched_at": "2026-10-25T14:50:10+00:00",
  "week": 7,
  "games": [
   {
-   "name": "NE @ CHI",
-   "status": "Final",
-   "date": "2026-10-23",
-   "score": {
-    "CHI": "30",
-    "NE": "24"
-   }
-  },
-  {
    "name": "PIT VS NO",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "NO": "0",
-    "PIT": "0"
+    "NO": "10",
+    "PIT": "10"
    }
   },
   {
@@ -117,6 +108,15 @@
    "score": {
     "SEA": "0",
     "KC": "0"
+   }
+  },
+  {
+   "name": "NE @ CHI",
+   "status": "Final",
+   "date": "2026-10-23",
+   "score": {
+    "CHI": "30",
+    "NE": "24"
    }
   },
   {
