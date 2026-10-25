@@ -1,68 +1,32 @@
 {
- "fetched_at": "2026-10-25T18:45:35+00:00",
+ "fetched_at": "2026-10-25T22:11:17+00:00",
  "week": 7,
  "games": [
   {
-   "name": "SF @ ATL",
+   "name": "DEN @ ARI",
    "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "ATL": "19",
-    "SF": "14"
+    "ARI": "6",
+    "DEN": "20"
    }
   },
   {
-   "name": "CLE @ TEN",
-   "status": "Halftime",
-   "date": "2026-10-25",
-   "score": {
-    "TEN": "14",
-    "CLE": "17"
-   }
-  },
-  {
-   "name": "IND @ MIN",
+   "name": "GB @ DET",
    "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "MIN": "6",
-    "IND": "10"
+    "DET": "10",
+    "GB": "14"
    }
   },
   {
-   "name": "MIA @ NYJ",
+   "name": "LAR @ LV",
    "status": "In Progress",
    "date": "2026-10-25",
    "score": {
-    "NYJ": "7",
-    "MIA": "21"
-   }
-  },
-  {
-   "name": "TB @ CAR",
-   "status": "In Progress",
-   "date": "2026-10-25",
-   "score": {
-    "CAR": "6",
-    "TB": "33"
-   }
-  },
-  {
-   "name": "CIN @ BAL",
-   "status": "In Progress",
-   "date": "2026-10-25",
-   "score": {
-    "BAL": "13",
-    "CIN": "7"
-   }
-  },
-  {
-   "name": "NYG @ HOU",
-   "status": "Halftime",
-   "date": "2026-10-25",
-   "score": {
-    "HOU": "14",
-    "NYG": "14"
+    "LV": "6",
+    "LAR": "28"
    }
   },
   {
@@ -75,30 +39,66 @@
    }
   },
   {
-   "name": "DEN @ ARI",
-   "status": "Scheduled",
+   "name": "SF @ ATL",
+   "status": "Final",
    "date": "2026-10-25",
    "score": {
-    "ARI": "0",
-    "DEN": "0"
+    "ATL": "29",
+    "SF": "20"
    }
   },
   {
-   "name": "GB @ DET",
-   "status": "Scheduled",
+   "name": "CLE @ TEN",
+   "status": "Final",
    "date": "2026-10-25",
    "score": {
-    "DET": "0",
-    "GB": "0"
+    "TEN": "24",
+    "CLE": "27"
    }
   },
   {
-   "name": "LAR @ LV",
-   "status": "Scheduled",
+   "name": "IND @ MIN",
+   "status": "Final",
    "date": "2026-10-25",
    "score": {
-    "LV": "0",
-    "LAR": "0"
+    "MIN": "16",
+    "IND": "10"
+   }
+  },
+  {
+   "name": "MIA @ NYJ",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "NYJ": "25",
+    "MIA": "28"
+   }
+  },
+  {
+   "name": "TB @ CAR",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "CAR": "13",
+    "TB": "43"
+   }
+  },
+  {
+   "name": "CIN @ BAL",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "BAL": "13",
+    "CIN": "35"
+   }
+  },
+  {
+   "name": "NYG @ HOU",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "HOU": "21",
+    "NYG": "27"
    }
   },
   {
