@@ -1,32 +1,23 @@
 {
- "fetched_at": "2026-10-25T22:11:17+00:00",
+ "fetched_at": "2026-10-26T17:07:47+00:00",
  "week": 7,
  "games": [
   {
-   "name": "DEN @ ARI",
-   "status": "In Progress",
-   "date": "2026-10-25",
+   "name": "DAL @ PHI",
+   "status": "Scheduled",
+   "date": "2026-10-27",
    "score": {
-    "ARI": "6",
-    "DEN": "20"
+    "PHI": "0",
+    "DAL": "0"
    }
   },
   {
-   "name": "GB @ DET",
-   "status": "In Progress",
-   "date": "2026-10-25",
+   "name": "NE @ CHI",
+   "status": "Final",
+   "date": "2026-10-23",
    "score": {
-    "DET": "10",
-    "GB": "14"
-   }
-  },
-  {
-   "name": "LAR @ LV",
-   "status": "In Progress",
-   "date": "2026-10-25",
-   "score": {
-    "LV": "6",
-    "LAR": "28"
+    "CHI": "30",
+    "NE": "24"
    }
   },
   {
@@ -102,30 +93,39 @@
    }
   },
   {
+   "name": "DEN @ ARI",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "ARI": "16",
+    "DEN": "30"
+   }
+  },
+  {
+   "name": "GB @ DET",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "DET": "20",
+    "GB": "17"
+   }
+  },
+  {
+   "name": "LAR @ LV",
+   "status": "Final",
+   "date": "2026-10-25",
+   "score": {
+    "LV": "21",
+    "LAR": "35"
+   }
+  },
+  {
    "name": "KC @ SEA",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-26",
    "score": {
-    "SEA": "0",
-    "KC": "0"
-   }
-  },
-  {
-   "name": "NE @ CHI",
-   "status": "Final",
-   "date": "2026-10-23",
-   "score": {
-    "CHI": "30",
-    "NE": "24"
-   }
-  },
-  {
-   "name": "DAL @ PHI",
-   "status": "Scheduled",
-   "date": "2026-10-27",
-   "score": {
-    "PHI": "0",
-    "DAL": "0"
+    "SEA": "20",
+    "KC": "3"
    }
   }
  ]
