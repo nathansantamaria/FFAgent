@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-10-27T01:47:51+00:00",
+ "fetched_at": "2026-10-27T16:12:41+00:00",
  "league_id": "1400160155982639104",
- "week": 7,
+ "week": 8,
  "standings": [
   {
-   "team": "Artificial Domination",
+   "team": "I cook brown rice",
    "wins": 2,
-   "losses": 4,
-   "pf": 774.58,
+   "losses": 5,
+   "pf": 864.28,
    "waiver_position": 1
   },
   {
    "team": "Run@TellThat",
    "wins": 3,
-   "losses": 3,
-   "pf": 704.54,
+   "losses": 4,
+   "pf": 834.9,
    "waiver_position": 2
   },
   {
    "team": "Scorpiondemon90",
    "wins": 3,
-   "losses": 3,
-   "pf": 767.82,
+   "losses": 4,
+   "pf": 849.88,
    "waiver_position": 3
   },
   {
-   "team": "zay4209",
+   "team": "BobbiWasabi",
    "wins": 3,
-   "losses": 3,
-   "pf": 874.56,
+   "losses": 4,
+   "pf": 878.82,
    "waiver_position": 4
   },
   {
-   "team": "jaybeezy2ezy",
-   "wins": 6,
-   "losses": 0,
-   "pf": 959.52,
+   "team": "Artificial Domination",
+   "wins": 3,
+   "losses": 4,
+   "pf": 920.06,
    "waiver_position": 5
   },
   {
    "team": "BmoreKidd",
-   "wins": 2,
+   "wins": 3,
    "losses": 4,
-   "pf": 819.94,
+   "pf": 971.88,
    "waiver_position": 6
   },
   {
-   "team": "JMann60",
+   "team": "zay4209",
    "wins": 3,
-   "losses": 3,
-   "pf": 805.62,
+   "losses": 4,
+   "pf": 983.96,
    "waiver_position": 7
+  },
+  {
+   "team": "JMann60",
+   "wins": 4,
+   "losses": 3,
+   "pf": 957.12,
+   "waiver_position": 8
   },
   {
    "team": "BitcoinBucs",
    "wins": 4,
-   "losses": 2,
-   "pf": 909.2,
-   "waiver_position": 8
-  },
-  {
-   "team": "BobbiWasabi",
-   "wins": 2,
-   "losses": 4,
-   "pf": 759.04,
+   "losses": 3,
+   "pf": 1015.92,
    "waiver_position": 9
   },
   {
-   "team": "I cook brown rice",
-   "wins": 2,
-   "losses": 4,
-   "pf": 762.46,
+   "team": "jaybeezy2ezy",
+   "wins": 7,
+   "losses": 0,
+   "pf": 1079.9,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 1,
+ "my_waiver_position": 5,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
