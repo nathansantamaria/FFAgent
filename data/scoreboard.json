@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-26T17:07:47+00:00",
+ "fetched_at": "2026-10-27T01:47:51+00:00",
  "week": 7,
  "games": [
   {
    "name": "DAL @ PHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-10-27",
    "score": {
-    "PHI": "0",
-    "DAL": "0"
+    "PHI": "14",
+    "DAL": "17"
    }
   },
   {

@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-26T17:07:47+00:00",
+ "fetched_at": "2026-10-27T01:47:51+00:00",
  "adds": [
   {
-   "name": "Darius Cooper",
-   "count": 420490
-  },
-  {
    "name": "Caleb Douglas",
-   "count": 312816
-  },
-  {
-   "name": "Kaelon Black",
-   "count": 272209
+   "count": 360632
   },
   {
    "name": "KC Concepcion Jr.",
-   "count": 234504
+   "count": 194913
   },
   {
    "name": "Seth McGowan",
-   "count": 210544
+   "count": 155904
+  },
+  {
+   "name": "Darius Cooper",
+   "count": 142709
   },
   {
    "name": "Omar Cooper Jr.",
-   "count": 144536
+   "count": 104816
   },
   {
-   "name": "Emanuel Wilson",
-   "count": 99261
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 94944
-  },
-  {
-   "name": "Makai Lemon",
-   "count": 76488
+   "name": "Kaelon Black",
+   "count": 103901
   },
   {
    "name": "New England Patriots",
-   "count": 74221
+   "count": 87290
   },
   {
-   "name": "Dameon Pierce",
-   "count": 68216
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 67584
-  },
-  {
-   "name": "Jake Bates",
-   "count": 62192
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 61656
-  },
-  {
-   "name": "Tank Dell",
-   "count": 58256
-  },
-  {
-   "name": "Blake Corum",
-   "count": 56168
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 55701
-  },
-  {
-   "name": "Kyle Pitts Sr.",
-   "count": 55300
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 54504
-  },
-  {
-   "name": "Xavier Worthy",
-   "count": 52452
-  },
-  {
-   "name": "Tanner McKee",
-   "count": 51944
+   "name": "Tre Tucker",
+   "count": 83898
   },
   {
    "name": "Jacksonville Jaguars",
-   "count": 50982
+   "count": 66912
   },
   {
-   "name": "Konata Mumpfield",
-   "count": 50094
+   "name": "Emanuel Wilson",
+   "count": 64791
   },
   {
-   "name": "Michael Mayer",
-   "count": 46863
+   "name": "Chase McLaughlin",
+   "count": 51408
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 51110
   },
   {
    "name": "Devin Singletary",
-   "count": 45225
+   "count": 50697
+  },
+  {
+   "name": "Blake Corum",
+   "count": 46088
+  },
+  {
+   "name": "Hunter Henry",
+   "count": 44469
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 43248
+  },
+  {
+   "name": "Dameon Pierce",
+   "count": 42624
+  },
+  {
+   "name": "Kyle Pitts Sr.",
+   "count": 42035
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 41688
+  },
+  {
+   "name": "Jonah Coleman",
+   "count": 41262
+  },
+  {
+   "name": "Brenton Strange",
+   "count": 35919
+  },
+  {
+   "name": "Makai Lemon",
+   "count": 34956
+  },
+  {
+   "name": "Mason Taylor",
+   "count": 30755
+  },
+  {
+   "name": "Rico Dowdle",
+   "count": 28505
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 28455
   }
  ]
 }
