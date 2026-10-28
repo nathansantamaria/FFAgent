@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T16:12:41+00:00",
+ "fetched_at": "2026-10-28T09:07:35+00:00",
  "league_id": "1400160155982639104",
  "week": 8,
  "standings": [
@@ -11,52 +11,52 @@
    "waiver_position": 1
   },
   {
-   "team": "Run@TellThat",
-   "wins": 3,
-   "losses": 4,
-   "pf": 834.9,
-   "waiver_position": 2
-  },
-  {
    "team": "Scorpiondemon90",
    "wins": 3,
    "losses": 4,
    "pf": 849.88,
-   "waiver_position": 3
+   "waiver_position": 2
   },
   {
    "team": "BobbiWasabi",
    "wins": 3,
    "losses": 4,
-   "pf": 878.82,
-   "waiver_position": 4
+   "pf": 878.72,
+   "waiver_position": 3
   },
   {
    "team": "Artificial Domination",
    "wins": 3,
    "losses": 4,
    "pf": 920.06,
-   "waiver_position": 5
+   "waiver_position": 4
   },
   {
    "team": "BmoreKidd",
    "wins": 3,
    "losses": 4,
    "pf": 971.88,
-   "waiver_position": 6
+   "waiver_position": 5
   },
   {
    "team": "zay4209",
    "wins": 3,
    "losses": 4,
    "pf": 983.96,
-   "waiver_position": 7
+   "waiver_position": 6
   },
   {
    "team": "JMann60",
    "wins": 4,
    "losses": 3,
    "pf": 957.12,
+   "waiver_position": 7
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 3,
+   "losses": 4,
+   "pf": 834.9,
    "waiver_position": 8
   },
   {
@@ -74,7 +74,7 @@
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 5,
+ "my_waiver_position": 4,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -181,6 +181,7 @@
    "Houston Texans"
   ],
   "jaybeezy2ezy": [
+   "Blake Corum",
    "Brock Bowers",
    "Emeka Egbuka",
    "Tetairoa McMillan",
@@ -191,11 +192,10 @@
    "Rhamondre Stevenson",
    "Evan McPherson",
    "Wan'Dale Robinson",
-   "Tyler Allgeier",
    "Kenneth Walker III",
    "Jahmyr Gibbs",
    "Parker Washington",
-   "New York Jets"
+   "Washington Commanders"
   ],
   "BobbiWasabi": [
    "Bo Nix",
@@ -246,7 +246,7 @@
    "Chase Brown",
    "Puka Nacua",
    "Jordan Addison",
-   "San Francisco 49ers"
+   "Cincinnati Bengals"
   ],
   "BmoreKidd": [
    "Tre Tucker",
@@ -275,12 +275,12 @@
    "Chris Godwin Jr.",
    "George Kittle",
    "Kyler Murray",
-   "J.K. Dobbins",
    "DeVonta Smith",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",
    "Jordan Mason",
+   "Brenton Strange",
    "Kansas City Chiefs"
   ]
  }
