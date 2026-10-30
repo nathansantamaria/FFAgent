@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-29T17:18:45+00:00",
+ "fetched_at": "2026-10-30T16:56:24+00:00",
  "week": 8,
  "games": [
   {
    "name": "CAR @ GB",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-10-30",
    "score": {
-    "GB": "0",
-    "CAR": "0"
+    "GB": "27",
+    "CAR": "19"
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T17:18:45+00:00",
+ "fetched_at": "2026-10-30T16:56:24+00:00",
  "league_id": "1400160155982639104",
  "week": 8,
  "standings": [
@@ -53,24 +53,24 @@
    "waiver_position": 7
   },
   {
-   "team": "Run@TellThat",
-   "wins": 3,
-   "losses": 4,
-   "pf": 835.9,
-   "waiver_position": 8
-  },
-  {
    "team": "BitcoinBucs",
    "wins": 4,
    "losses": 3,
    "pf": 1015.92,
-   "waiver_position": 9
+   "waiver_position": 8
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 7,
    "losses": 0,
    "pf": 1079.9,
+   "waiver_position": 9
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 3,
+   "losses": 4,
+   "pf": 835.9,
    "waiver_position": 10
   }
  ],
@@ -146,6 +146,7 @@
   "Scorpiondemon90": [
    "Joe Milton",
    "Marvin Harrison Jr.",
+   "Jaydon Blue",
    "Kyle Monangai",
    "Germie Bernard",
    "Jordyn Tyson",
@@ -155,7 +156,6 @@
    "Derrick Henry",
    "Lamar Jackson",
    "DK Metcalf",
-   "Justice Hill",
    "Chase McLaughlin",
    "Ja'Marr Chase",
    "Minnesota Vikings",
@@ -167,7 +167,7 @@
    "Ollie Gordon II",
    "Quinshon Judkins",
    "Jeremiyah Love",
-   "Patrick Mahomes",
+   "Jacoby Brissett",
    "A.J. Brown",
    "Matt Gay",
    "Drake London",
@@ -240,6 +240,7 @@
    "Rico Dowdle",
    "Romeo Doubs",
    "Khalil Shakir",
+   "Rachaad White",
    "Jameson Williams",
    "Chase Brown",
    "Puka Nacua",
@@ -268,12 +269,12 @@
    "Rome Odunze",
    "Malik Nabers",
    "Will Reichard",
-   "RJ Harvey",
    "Christian McCaffrey",
    "Chris Godwin Jr.",
    "George Kittle",
    "Kyler Murray",
    "DeVonta Smith",
+   "Zonovan Knight",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",

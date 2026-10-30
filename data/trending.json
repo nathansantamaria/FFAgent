@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-29T17:18:45+00:00",
+ "fetched_at": "2026-10-30T16:56:24+00:00",
  "adds": [
   {
-   "name": "Elijah Mitchell",
-   "count": 826812
+   "name": "Washington Commanders",
+   "count": 500381
   },
   {
-   "name": "Washington Commanders",
-   "count": 585823
+   "name": "Elijah Mitchell",
+   "count": 491427
   },
   {
    "name": "Jaydon Blue",
-   "count": 391824
+   "count": 359072
   },
   {
    "name": "Devin Singletary",
-   "count": 351333
-  },
-  {
-   "name": "Jacksonville Jaguars",
-   "count": 316896
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 280688
+   "count": 235449
   },
   {
    "name": "Tampa Bay Buccaneers",
-   "count": 231145
+   "count": 203485
   },
   {
    "name": "Ryan Flournoy",
-   "count": 214640
-  },
-  {
-   "name": "Seth McGowan",
-   "count": 207560
+   "count": 188144
   },
   {
    "name": "Brenton Strange",
-   "count": 191016
+   "count": 168363
   },
   {
-   "name": "New England Patriots",
-   "count": 176561
+   "name": "Jacksonville Jaguars",
+   "count": 159954
   },
   {
    "name": "Chase McLaughlin",
-   "count": 163224
+   "count": 151792
   },
   {
    "name": "Tyler Bass",
-   "count": 147330
-  },
-  {
-   "name": "KC Concepcion Jr.",
-   "count": 145953
-  },
-  {
-   "name": "Savion Williams",
-   "count": 136654
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 107792
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 104760
-  },
-  {
-   "name": "Las Vegas Raiders",
-   "count": 104196
-  },
-  {
-   "name": "Tre Tucker",
-   "count": 97692
+   "count": 142585
   },
   {
    "name": "Mason Taylor",
-   "count": 91845
+   "count": 139695
   },
   {
-   "name": "Keon Coleman",
-   "count": 85014
+   "name": "Caleb Douglas",
+   "count": 131144
   },
   {
-   "name": "Emanuel Wilson",
-   "count": 84105
+   "name": "New England Patriots",
+   "count": 120288
+  },
+  {
+   "name": "Las Vegas Raiders",
+   "count": 104298
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 101584
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 96183
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 83178
+  },
+  {
+   "name": "Kyler Murray",
+   "count": 78480
   },
   {
    "name": "Detroit Lions",
-   "count": 79308
+   "count": 76185
   },
   {
-   "name": "Makai Lemon",
-   "count": 72880
+   "name": "Keon Coleman",
+   "count": 71478
   },
   {
-   "name": "Treylon Burks",
-   "count": 69930
+   "name": "Jake Bates",
+   "count": 69528
+  },
+  {
+   "name": "Seth McGowan",
+   "count": 69336
+  },
+  {
+   "name": "Tre Tucker",
+   "count": 68562
+  },
+  {
+   "name": "Savion Williams",
+   "count": 67753
+  },
+  {
+   "name": "Geno Smith",
+   "count": 61368
   }
  ]
 }
