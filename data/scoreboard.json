@@ -1,55 +1,82 @@
 {
- "fetched_at": "2026-11-01T20:17:52+00:00",
+ "fetched_at": "2026-11-01T23:15:10+00:00",
  "week": 8,
  "games": [
   {
-   "name": "BAL @ BUF",
+   "name": "LAC @ LAR",
    "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "BUF": "16",
+    "LAR": "24",
+    "LAC": "9"
+   }
+  },
+  {
+   "name": "KC @ DEN",
+   "status": "In Progress",
+   "date": "2026-11-01",
+   "score": {
+    "DEN": "13",
+    "KC": "17"
+   }
+  },
+  {
+   "name": "NE @ MIA",
+   "status": "In Progress",
+   "date": "2026-11-01",
+   "score": {
+    "MIA": "13",
+    "NE": "3"
+   }
+  },
+  {
+   "name": "BAL @ BUF",
+   "status": "Final",
+   "date": "2026-11-01",
+   "score": {
+    "BUF": "36",
     "BAL": "10"
    }
   },
   {
    "name": "TEN @ CIN",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
-    "CIN": "21",
-    "TEN": "21"
+    "CIN": "43",
+    "TEN": "36"
    }
   },
   {
    "name": "ARI @ DAL",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
-    "DAL": "17",
-    "ARI": "10"
+    "DAL": "30",
+    "ARI": "33"
    }
   },
   {
    "name": "MIN @ DET",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
-    "DET": "12",
-    "MIN": "7"
+    "DET": "19",
+    "MIN": "15"
    }
   },
   {
    "name": "LV @ NYJ",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
-    "NYJ": "30",
-    "LV": "28"
+    "NYJ": "33",
+    "LV": "38"
    }
   },
   {
    "name": "CLE @ PIT",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
     "PIT": "27",
@@ -58,7 +85,7 @@
   },
   {
    "name": "ATL @ TB",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
     "TB": "16",
@@ -67,38 +94,11 @@
   },
   {
    "name": "IND @ JAX",
-   "status": "In Progress",
+   "status": "Final",
    "date": "2026-11-01",
    "score": {
-    "JAX": "35",
+    "JAX": "42",
     "IND": "7"
-   }
-  },
-  {
-   "name": "LAC @ LAR",
-   "status": "Scheduled",
-   "date": "2026-11-01",
-   "score": {
-    "LAR": "0",
-    "LAC": "0"
-   }
-  },
-  {
-   "name": "KC @ DEN",
-   "status": "Scheduled",
-   "date": "2026-11-01",
-   "score": {
-    "DEN": "0",
-    "KC": "0"
-   }
-  },
-  {
-   "name": "NE @ MIA",
-   "status": "Scheduled",
-   "date": "2026-11-01",
-   "score": {
-    "MIA": "0",
-    "NE": "0"
    }
   },
   {
