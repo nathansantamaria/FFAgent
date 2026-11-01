@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-11-01T16:59:57+00:00",
+ "fetched_at": "2026-11-01T20:17:52+00:00",
  "week": 8,
  "games": [
   {
    "name": "BAL @ BUF",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "BUF": "0",
-    "BAL": "0"
+    "BUF": "16",
+    "BAL": "10"
    }
   },
   {
    "name": "TEN @ CIN",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "CIN": "0",
-    "TEN": "0"
+    "CIN": "21",
+    "TEN": "21"
    }
   },
   {
    "name": "ARI @ DAL",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "DAL": "0",
-    "ARI": "0"
+    "DAL": "17",
+    "ARI": "10"
    }
   },
   {
    "name": "MIN @ DET",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "DET": "0",
-    "MIN": "0"
+    "DET": "12",
+    "MIN": "7"
    }
   },
   {
    "name": "LV @ NYJ",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "NYJ": "0",
-    "LV": "0"
+    "NYJ": "30",
+    "LV": "28"
    }
   },
   {
    "name": "CLE @ PIT",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "PIT": "0",
-    "CLE": "0"
+    "PIT": "27",
+    "CLE": "6"
    }
   },
   {
    "name": "ATL @ TB",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "TB": "0",
+    "TB": "16",
     "ATL": "0"
    }
   },
   {
    "name": "IND @ JAX",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-01",
    "score": {
-    "JAX": "0",
-    "IND": "0"
+    "JAX": "35",
+    "IND": "7"
    }
   },
   {

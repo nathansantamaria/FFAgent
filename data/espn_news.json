@@ -1,18 +1,75 @@
 {
- "fetched_at": "2026-11-01T16:59:57+00:00",
+ "fetched_at": "2026-11-01T20:17:52+00:00",
  "articles": [
   {
-   "headline": "Fantasy football Week 8 inactives: Chase, Barkley to play; Hall, Egbuka out",
+   "headline": "Week 8 NFL highlights: Best plays, moments, touchdowns, more",
+   "summary": "Check here for Sunday's top moments and TDs as Josh Allen, Dak Prescott and Jonathan Taylor take the field.",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
+   "players": []
+  },
+  {
+   "headline": "Michael Florio: Lamar Jackson fantasy managers need to have a backup plan",
+   "summary": "Michael Florio: Lamar Jackson fantasy managers need to have a backup plan",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/video/clip/_/id/50350119/lamar-jackson-fantasy-managers-need-backup-plan",
+   "players": [
+    "Lamar Jackson"
+   ]
+  },
+  {
+   "headline": "Fantasy football Week 8 inactives: McConkey active, Barkley expected to play",
    "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
    "published": "2026-11-01",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50289130/fantasy-football-injuries-nfl-week-8-inactive-active",
    "players": []
   },
   {
-   "headline": "Week 8 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Check here for Sunday's top moments and TDs as Josh Allen, Lamar Jackson and Jonathan Taylor take the field.",
+   "headline": "Source: Jauan Jennings wanted to stay with Vikings amid 49ers trade talks",
+   "summary": "Jauan Jennings expressed his desire to stay in Minnesota after the 49ers tried to reacquire the wide receiver in trade talks with the Vikings.",
    "published": "2026-11-01",
-   "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
+   "url": "https://www.espn.com/nfl/story/_/id/50350048/source-jennings-wanted-stay-vikings-amid-49ers-talks",
+   "players": [
+    "Jauan Jennings"
+   ]
+  },
+  {
+   "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+   "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+   "players": []
+  },
+  {
+   "headline": "Ravens' Lamar Jackson out for game with thumb injury suffered on 1st play",
+   "summary": "Ravens quarterback Lamar Jackson has been ruled out for the rest of Sunday's game against the Bills with a right thumb injury.",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/nfl/story/_/id/50349558/ravens-lamar-jackson-rest-game-thumb-injury",
+   "players": [
+    "Lamar Jackson"
+   ]
+  },
+  {
+   "headline": "Rex Ryan: Ashton Jeanty about the worst RB draft pick in the last 20 years",
+   "summary": "Rex Ryan: Ashton Jeanty about the worst RB draft pick in the last 20 years",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/video/clip/_/id/50349515/ashton-jeanty-worst-rb-draft-pick-last-20-years",
+   "players": [
+    "Ashton Jeanty"
+   ]
+  },
+  {
+   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+   "summary": "Will receivers Charlie Becker and Nick Marsh both go early? What makes Chris Cole stand out among the linebackers? Here's draft spin off CFB Week 9.",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+   "players": []
+  },
+  {
+   "headline": "NFL Week 8's best arrivals, led by Vikings' Kyler Murray",
+   "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
    "players": []
   },
   {
@@ -86,6 +143,20 @@
    "players": [
     "Ray Lewis"
    ]
+  },
+  {
+   "headline": "Mike McCarthy's journey home to Pittsburgh",
+   "summary": "Mike McCarthy's journey home to Pittsburgh",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/video/clip/_/id/50347638/mike-mccarthy-journey-home-pittsburgh",
+   "players": []
+  },
+  {
+   "headline": "Fan therapy: A Bills fan should never leave early",
+   "summary": "Fan therapy: A Bills fan should never leave early ",
+   "published": "2026-11-01",
+   "url": "https://www.espn.com/video/clip/_/id/50347611/bills-fan-never-leave-early",
+   "players": []
   },
   {
    "headline": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade",
@@ -281,89 +352,6 @@
    "url": "https://www.espn.com/nfl/story/_/id/50336399/source-commanders-dt-payne-suffered-season-ending-foot-injury",
    "players": [
     "Daron Payne"
-   ]
-  },
-  {
-   "headline": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-   "summary": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
-   "players": [
-    "Jonathan Taylor"
-   ]
-  },
-  {
-   "headline": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
-   "summary": "In a midseason poll of 25 NFL scouts, Oklahoma State's Drew Mestemaker was the overwhelming choice to be the first quarterback selected in the 2027 NFL draft.",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/college-football/story/_/id/50335830/nfl-scouts-favor-drew-mestemaker-first-qb-taken-draft",
-   "players": [
-    "Drew Mestemaker",
-    "Arch Manning",
-    "LaNorris Sellers",
-    "Sam Leavitt",
-    "Darian Mensah",
-    "CJ Carr",
-    "Dante Moore"
-   ]
-  },
-  {
-   "headline": "Sources: Packers, Micah Parsons target return for Thanksgiving Eve game vs. Rams",
-   "summary": "The Packers and Micah Parsons are targeting the Thanksgiving Eve game against the Rams for his return to the field, sources told NFL Network.",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50335391/sources-packers-micah-parsons-eye-thanksgiving-eve-return",
-   "players": [
-    "Micah Parsons"
-   ]
-  },
-  {
-   "headline": "Appellate court revives 'Sunday Ticket' antitrust verdict against NFL",
-   "summary": "A verdict in a class action lawsuit filed by \"Sunday Ticket\" subscribers claiming the NFL broke antitrust laws has been revived by a federal appeals court, more than two years after a $4.7 billion ruling against the league was reversed.",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50335296/appeals-court-revives-sunday-ticket-verdict-nfl",
-   "players": []
-  },
-  {
-   "headline": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says",
-   "summary": "The Jets are not expected to trade Garrett Wilson, sources told ESPN, despite increased speculation about the star wide receiver's future.",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
-   "players": [
-    "Garrett Wilson"
-   ]
-  },
-  {
-   "headline": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
-   "summary": "The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
-   "published": "2026-11-01",
-   "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
-   "players": [
-    "Jonathan Taylor"
-   ]
-  },
-  {
-   "headline": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "summary": "Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.\ufeff",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
-   "players": []
-  },
-  {
-   "headline": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever",
-   "summary": "Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50329579/2026-minnesota-vikings-worst-undefeated-team-ever",
-   "players": []
-  },
-  {
-   "headline": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
-   "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
-   "published": "2026-10-31",
-   "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow",
-   "players": [
-    "Tee Higgins",
-    "Ja'Marr Chase",
-    "Joe Burrow"
    ]
   }
  ]
