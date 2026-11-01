@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-10-31T15:57:05+00:00",
+ "fetched_at": "2026-11-01T16:59:57+00:00",
  "adds": [
   {
-   "name": "Elijah Mitchell",
-   "count": 164187
-  },
-  {
    "name": "Devin Singletary",
-   "count": 142506
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 131680
-  },
-  {
-   "name": "Makai Lemon",
-   "count": 118324
+   "count": 355563
   },
   {
    "name": "Seth McGowan",
-   "count": 115624
-  },
-  {
-   "name": "Washington Commanders",
-   "count": 102298
-  },
-  {
-   "name": "Elic Ayomanor",
-   "count": 94644
-  },
-  {
-   "name": "Chris Godwin Jr.",
-   "count": 91980
+   "count": 334520
   },
   {
    "name": "Samaje Perine",
-   "count": 89316
+   "count": 279880
   },
   {
-   "name": "Jaydon Blue",
-   "count": 88768
+   "name": "Ryan Flournoy",
+   "count": 216464
   },
   {
-   "name": "Mason Taylor",
-   "count": 72715
+   "name": "Washington Commanders",
+   "count": 174153
+  },
+  {
+   "name": "Corey Kiner",
+   "count": 160284
+  },
+  {
+   "name": "Makai Lemon",
+   "count": 153376
+  },
+  {
+   "name": "Elijah Mitchell",
+   "count": 132561
+  },
+  {
+   "name": "Elic Ayomanor",
+   "count": 128112
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "count": 113682
   },
   {
    "name": "Tampa Bay Buccaneers",
-   "count": 64740
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 55544
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 53578
-  },
-  {
-   "name": "KC Concepcion Jr.",
-   "count": 52155
-  },
-  {
-   "name": "Keon Coleman",
-   "count": 51273
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 50283
-  },
-  {
-   "name": "Brenton Strange",
-   "count": 48357
-  },
-  {
-   "name": "Jadarian Price",
-   "count": 45945
+   "count": 110935
   },
   {
    "name": "Chris Rodriguez Jr.",
-   "count": 42120
+   "count": 94239
+  },
+  {
+   "name": "Jadarian Price",
+   "count": 86697
+  },
+  {
+   "name": "Keon Coleman",
+   "count": 83736
+  },
+  {
+   "name": "Mason Taylor",
+   "count": 83305
   },
   {
    "name": "Kimani Vidal",
-   "count": 35180
-  },
-  {
-   "name": "Jacksonville Jaguars",
-   "count": 34560
+   "count": 81035
   },
   {
    "name": "Jordan Addison",
-   "count": 34290
+   "count": 76977
   },
   {
-   "name": "Chase McLaughlin",
-   "count": 33336
+   "name": "Darius Cooper",
+   "count": 74081
+  },
+  {
+   "name": "Kyle Williams",
+   "count": 72210
   },
   {
    "name": "Tyler Bass",
-   "count": 31475
+   "count": 69500
+  },
+  {
+   "name": "Detroit Lions",
+   "count": 68913
+  },
+  {
+   "name": "Jacksonville Jaguars",
+   "count": 58758
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 58203
+  },
+  {
+   "name": "Hunter Henry",
+   "count": 56634
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 51741
   }
  ]
 }

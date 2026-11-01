@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-10-31T15:57:05+00:00",
+ "fetched_at": "2026-11-01T16:59:57+00:00",
  "week": 8,
  "games": [
-  {
-   "name": "CAR @ GB",
-   "status": "Final",
-   "date": "2026-10-30",
-   "score": {
-    "GB": "27",
-    "CAR": "19"
-   }
-  },
   {
    "name": "BAL @ BUF",
    "status": "Scheduled",
@@ -117,6 +108,15 @@
    "score": {
     "WSH": "0",
     "PHI": "0"
+   }
+  },
+  {
+   "name": "CAR @ GB",
+   "status": "Final",
+   "date": "2026-10-30",
+   "score": {
+    "GB": "27",
+    "CAR": "19"
    }
   },
   {
