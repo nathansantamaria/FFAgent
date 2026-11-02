@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-01T23:15:10+00:00",
+ "fetched_at": "2026-11-02T20:37:50+00:00",
  "adds": [
   {
-   "name": "Devin Singletary",
-   "count": 528318
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 266356
-  },
-  {
-   "name": "Seth McGowan",
-   "count": 255624
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 255104
-  },
-  {
-   "name": "Washington Commanders",
-   "count": 242298
-  },
-  {
-   "name": "Corey Kiner",
-   "count": 213792
-  },
-  {
    "name": "Adonai Mitchell",
-   "count": 187192
-  },
-  {
-   "name": "Makai Lemon",
-   "count": 159124
-  },
-  {
-   "name": "Tampa Bay Buccaneers",
-   "count": 136905
+   "count": 560024
   },
   {
    "name": "Tyler Allgeier",
-   "count": 133675
+   "count": 324160
   },
   {
-   "name": "Kimani Vidal",
-   "count": 113050
+   "name": "Emmett Johnson",
+   "count": 267021
   },
   {
-   "name": "Elic Ayomanor",
-   "count": 108592
+   "name": "Devin Singletary",
+   "count": 241839
   },
   {
-   "name": "Kyle Williams",
-   "count": 106105
+   "name": "Gardner Minshew II",
+   "count": 211376
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 92464
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 76984
   },
   {
    "name": "Tyler Bass",
-   "count": 102890
-  },
-  {
-   "name": "Chris Godwin Jr.",
-   "count": 101412
-  },
-  {
-   "name": "Chris Rodriguez Jr.",
-   "count": 96660
+   "count": 66590
   },
   {
    "name": "Detroit Lions",
-   "count": 91350
+   "count": 61209
   },
   {
-   "name": "Elijah Mitchell",
-   "count": 88101
+   "name": "Kenny Gainwell",
+   "count": 55936
   },
   {
-   "name": "Tyler Higbee",
-   "count": 87030
-  },
-  {
-   "name": "Mason Taylor",
-   "count": 82195
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 78652
+   "name": "Mike Gesicki",
+   "count": 51272
   },
   {
    "name": "Cooper Kupp",
-   "count": 78018
+   "count": 48780
   },
   {
-   "name": "Jordan Addison",
-   "count": 77571
+   "name": "Tampa Bay Buccaneers",
+   "count": 47300
   },
   {
-   "name": "Jadarian Price",
-   "count": 76437
+   "name": "Treylon Burks",
+   "count": 42301
   },
   {
-   "name": "Keon Coleman",
-   "count": 70974
+   "name": "Malik Washington",
+   "count": 39536
+  },
+  {
+   "name": "Washington Commanders",
+   "count": 37996
+  },
+  {
+   "name": "Houston Texans",
+   "count": 32305
+  },
+  {
+   "name": "Seth McGowan",
+   "count": 32040
+  },
+  {
+   "name": "Elijah Mitchell",
+   "count": 30771
+  },
+  {
+   "name": "Jonah Coleman",
+   "count": 30436
+  },
+  {
+   "name": "Corey Kiner",
+   "count": 30408
+  },
+  {
+   "name": "Makai Lemon",
+   "count": 30192
+  },
+  {
+   "name": "Malik Willis",
+   "count": 29344
+  },
+  {
+   "name": "Sione Vaki",
+   "count": 28455
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 28290
   }
  ]
 }

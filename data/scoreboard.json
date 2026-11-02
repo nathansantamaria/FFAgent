@@ -1,32 +1,23 @@
 {
- "fetched_at": "2026-11-01T23:15:10+00:00",
+ "fetched_at": "2026-11-02T20:37:50+00:00",
  "week": 8,
  "games": [
   {
-   "name": "LAC @ LAR",
-   "status": "In Progress",
-   "date": "2026-11-01",
+   "name": "CHI @ SEA",
+   "status": "Scheduled",
+   "date": "2026-11-03",
    "score": {
-    "LAR": "24",
-    "LAC": "9"
+    "SEA": "0",
+    "CHI": "0"
    }
   },
   {
-   "name": "KC @ DEN",
-   "status": "In Progress",
-   "date": "2026-11-01",
+   "name": "CAR @ GB",
+   "status": "Final",
+   "date": "2026-10-30",
    "score": {
-    "DEN": "13",
-    "KC": "17"
-   }
-  },
-  {
-   "name": "NE @ MIA",
-   "status": "In Progress",
-   "date": "2026-11-01",
-   "score": {
-    "MIA": "13",
-    "NE": "3"
+    "GB": "27",
+    "CAR": "19"
    }
   },
   {
@@ -102,30 +93,39 @@
    }
   },
   {
+   "name": "LAC @ LAR",
+   "status": "Final",
+   "date": "2026-11-01",
+   "score": {
+    "LAR": "24",
+    "LAC": "9"
+   }
+  },
+  {
+   "name": "KC @ DEN",
+   "status": "Final",
+   "date": "2026-11-01",
+   "score": {
+    "DEN": "28",
+    "KC": "24"
+   }
+  },
+  {
+   "name": "NE @ MIA",
+   "status": "Final",
+   "date": "2026-11-01",
+   "score": {
+    "MIA": "19",
+    "NE": "24"
+   }
+  },
+  {
    "name": "PHI @ WSH",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-02",
    "score": {
-    "WSH": "0",
-    "PHI": "0"
-   }
-  },
-  {
-   "name": "CAR @ GB",
-   "status": "Final",
-   "date": "2026-10-30",
-   "score": {
-    "GB": "27",
-    "CAR": "19"
-   }
-  },
-  {
-   "name": "CHI @ SEA",
-   "status": "Scheduled",
-   "date": "2026-11-03",
-   "score": {
-    "SEA": "0",
-    "CHI": "0"
+    "WSH": "27",
+    "PHI": "10"
    }
   }
  ]
