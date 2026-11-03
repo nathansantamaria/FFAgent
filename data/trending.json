@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-03T03:49:36+00:00",
+ "fetched_at": "2026-11-03T18:14:20+00:00",
  "adds": [
   {
    "name": "Adonai Mitchell",
-   "count": 506424
-  },
-  {
-   "name": "Gardner Minshew II",
-   "count": 387616
+   "count": 1190184
   },
   {
    "name": "Tyler Allgeier",
-   "count": 288160
+   "count": 787590
+  },
+  {
+   "name": "Gardner Minshew II",
+   "count": 766564
   },
   {
    "name": "Emmett Johnson",
-   "count": 215811
+   "count": 518382
   },
   {
    "name": "Devin Singletary",
-   "count": 138177
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 75696
-  },
-  {
-   "name": "Detroit Lions",
-   "count": 71595
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 66295
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 61416
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 57044
-  },
-  {
-   "name": "Treylon Burks",
-   "count": 55839
-  },
-  {
-   "name": "Kenny Gainwell",
-   "count": 50912
-  },
-  {
-   "name": "Jadarian Price",
-   "count": 45711
+   "count": 474336
   },
   {
    "name": "Houston Texans",
-   "count": 42715
+   "count": 377085
   },
   {
-   "name": "Tampa Bay Buccaneers",
-   "count": 39860
+   "name": "Detroit Lions",
+   "count": 328509
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 248395
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 206588
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 198984
   },
   {
    "name": "Malik Washington",
-   "count": 36896
+   "count": 192216
   },
   {
    "name": "Malik Willis",
-   "count": 33754
+   "count": 189322
   },
   {
-   "name": "Dylan Sampson",
-   "count": 31830
+   "name": "Treylon Burks",
+   "count": 156352
   },
   {
-   "name": "Chimere Dike",
-   "count": 29439
+   "name": "San Francisco 49ers",
+   "count": 144834
   },
   {
-   "name": "Seth McGowan",
-   "count": 27928
+   "name": "Cairo Santos",
+   "count": 140497
   },
   {
-   "name": "Chris Rodriguez Jr.",
-   "count": 27081
+   "name": "New Orleans Saints",
+   "count": 140045
+  },
+  {
+   "name": "Kenny Gainwell",
+   "count": 133504
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 119592
+  },
+  {
+   "name": "New York Giants",
+   "count": 109508
   },
   {
    "name": "Sione Vaki",
-   "count": 27041
+   "count": 108066
   },
   {
-   "name": "Bo Nix",
-   "count": 26850
+   "name": "Jadarian Price",
+   "count": 102906
   },
   {
-   "name": "Tyson Bagent",
-   "count": 26520
+   "name": "Dylan Sampson",
+   "count": 99965
   },
   {
-   "name": "Chase McLaughlin",
-   "count": 26264
+   "name": "Tyler Shough",
+   "count": 91800
+  },
+  {
+   "name": "Chris Rodriguez Jr.",
+   "count": 90405
+  },
+  {
+   "name": "Jake Bates",
+   "count": 88712
   }
  ]
 }

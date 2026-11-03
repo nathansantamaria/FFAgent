@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-03T03:49:36+00:00",
+ "fetched_at": "2026-11-03T18:14:20+00:00",
  "week": 8,
  "games": [
-  {
-   "name": "CHI @ SEA",
-   "status": "In Progress",
-   "date": "2026-11-03",
-   "score": {
-    "SEA": "17",
-    "CHI": "20"
-   }
-  },
   {
    "name": "CAR @ GB",
    "status": "Final",
@@ -126,6 +117,15 @@
    "score": {
     "WSH": "27",
     "PHI": "10"
+   }
+  },
+  {
+   "name": "CHI @ SEA",
+   "status": "Final",
+   "date": "2026-11-03",
+   "score": {
+    "SEA": "17",
+    "CHI": "34"
    }
   }
  ]

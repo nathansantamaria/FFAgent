@@ -1,85 +1,84 @@
 {
- "fetched_at": "2026-11-03T03:49:36+00:00",
+ "fetched_at": "2026-11-03T18:14:20+00:00",
  "league_id": "1400160155982639104",
- "week": 8,
+ "week": 9,
  "standings": [
   {
    "team": "I cook brown rice",
    "wins": 2,
-   "losses": 5,
-   "pf": 864.28,
+   "losses": 6,
+   "pf": 979.04,
    "waiver_position": 1
-  },
-  {
-   "team": "Scorpiondemon90",
-   "wins": 3,
-   "losses": 4,
-   "pf": 849.88,
-   "waiver_position": 2
-  },
-  {
-   "team": "BobbiWasabi",
-   "wins": 3,
-   "losses": 4,
-   "pf": 878.72,
-   "waiver_position": 3
-  },
-  {
-   "team": "Artificial Domination",
-   "wins": 3,
-   "losses": 4,
-   "pf": 920.06,
-   "waiver_position": 4
   },
   {
    "team": "BmoreKidd",
    "wins": 3,
-   "losses": 4,
-   "pf": 971.88,
-   "waiver_position": 5
+   "losses": 5,
+   "pf": 1094.94,
+   "waiver_position": 2
   },
   {
-   "team": "zay4209",
-   "wins": 3,
+   "team": "Scorpiondemon90",
+   "wins": 4,
    "losses": 4,
-   "pf": 983.96,
-   "waiver_position": 6
+   "pf": 948.68,
+   "waiver_position": 3
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 4,
+   "losses": 4,
+   "pf": 994.5,
+   "waiver_position": 4
+  },
+  {
+   "team": "BobbiWasabi",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1002.82,
+   "waiver_position": 5
   },
   {
    "team": "JMann60",
    "wins": 4,
-   "losses": 3,
-   "pf": 957.12,
-   "waiver_position": 7
+   "losses": 4,
+   "pf": 1065.68,
+   "waiver_position": 6
   },
   {
    "team": "BitcoinBucs",
    "wins": 4,
-   "losses": 3,
-   "pf": 1015.92,
+   "losses": 4,
+   "pf": 1075.62,
+   "waiver_position": 7
+  },
+  {
+   "team": "zay4209",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1103.52,
    "waiver_position": 8
+  },
+  {
+   "team": "Artificial Domination",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1108.24,
+   "waiver_position": 9
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 7,
-   "losses": 0,
-   "pf": 1079.9,
-   "waiver_position": 9
-  },
-  {
-   "team": "Run@TellThat",
-   "wins": 3,
-   "losses": 4,
-   "pf": 835.9,
+   "losses": 1,
+   "pf": 1255.08,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 4,
+ "my_waiver_position": 9,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
   "Jayden Daniels",
-  "Keon Coleman",
   "Harold Fannin Jr.",
   "Jadarian Price",
   "Caleb Douglas",
@@ -97,11 +96,11 @@
  "my_starters": [
   "Jayden Daniels",
   "Josh Jacobs",
-  "Tony Pollard",
-  "Jaxon Smith-Njigba",
-  "George Pickens",
-  "Harold Fannin Jr.",
   "Jonah Coleman",
+  "Jaxon Smith-Njigba",
+  "Chris Olave",
+  "Harold Fannin Jr.",
+  "George Pickens",
   "Jaylen Waddle",
   "Brandon Aubrey",
   "Jacksonville Jaguars"
@@ -110,7 +109,6 @@
   "Artificial Domination": [
    "Brandon Aubrey",
    "Jayden Daniels",
-   "Keon Coleman",
    "Harold Fannin Jr.",
    "Jadarian Price",
    "Caleb Douglas",
