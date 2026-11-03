@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-02T20:37:50+00:00",
+ "fetched_at": "2026-11-03T03:49:36+00:00",
  "week": 8,
  "games": [
   {
    "name": "CHI @ SEA",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-03",
    "score": {
-    "SEA": "0",
-    "CHI": "0"
+    "SEA": "17",
+    "CHI": "20"
    }
   },
   {
