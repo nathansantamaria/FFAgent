@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-11-03T18:14:20+00:00",
+ "fetched_at": "2026-11-04T10:09:31+00:00",
  "league_id": "1400160155982639104",
  "week": 9,
  "standings": [
-  {
-   "team": "I cook brown rice",
-   "wins": 2,
-   "losses": 6,
-   "pf": 979.04,
-   "waiver_position": 1
-  },
   {
    "team": "BmoreKidd",
    "wins": 3,
    "losses": 5,
    "pf": 1094.94,
-   "waiver_position": 2
+   "waiver_position": 1
   },
   {
    "team": "Scorpiondemon90",
    "wins": 4,
    "losses": 4,
    "pf": 948.68,
-   "waiver_position": 3
-  },
-  {
-   "team": "Run@TellThat",
-   "wins": 4,
-   "losses": 4,
-   "pf": 994.5,
-   "waiver_position": 4
+   "waiver_position": 2
   },
   {
    "team": "BobbiWasabi",
    "wins": 4,
    "losses": 4,
    "pf": 1002.82,
-   "waiver_position": 5
-  },
-  {
-   "team": "JMann60",
-   "wins": 4,
-   "losses": 4,
-   "pf": 1065.68,
-   "waiver_position": 6
-  },
-  {
-   "team": "BitcoinBucs",
-   "wins": 4,
-   "losses": 4,
-   "pf": 1075.62,
-   "waiver_position": 7
+   "waiver_position": 3
   },
   {
    "team": "zay4209",
    "wins": 4,
    "losses": 4,
    "pf": 1103.52,
-   "waiver_position": 8
-  },
-  {
-   "team": "Artificial Domination",
-   "wins": 4,
-   "losses": 4,
-   "pf": 1108.24,
-   "waiver_position": 9
+   "waiver_position": 4
   },
   {
    "team": "jaybeezy2ezy",
    "wins": 7,
    "losses": 1,
    "pf": 1255.08,
+   "waiver_position": 5
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 4,
+   "losses": 4,
+   "pf": 994.5,
+   "waiver_position": 6
+  },
+  {
+   "team": "Artificial Domination",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1108.24,
+   "waiver_position": 7
+  },
+  {
+   "team": "I cook brown rice",
+   "wins": 2,
+   "losses": 6,
+   "pf": 979.04,
+   "waiver_position": 8
+  },
+  {
+   "team": "JMann60",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1065.68,
+   "waiver_position": 9
+  },
+  {
+   "team": "BitcoinBucs",
+   "wins": 4,
+   "losses": 4,
+   "pf": 1075.62,
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 9,
+ "my_waiver_position": 7,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -83,6 +83,7 @@
   "Jadarian Price",
   "Caleb Douglas",
   "Jonah Coleman",
+  "Seth McGowan",
   "Josh Jacobs",
   "Tony Pollard",
   "Jaylen Waddle",
@@ -90,8 +91,7 @@
   "Chris Olave",
   "Jaxon Smith-Njigba",
   "Aaron Rodgers",
-  "Cleveland Browns",
-  "Jacksonville Jaguars"
+  "Houston Texans"
  ],
  "my_starters": [
   "Jayden Daniels",
@@ -103,7 +103,7 @@
   "George Pickens",
   "Jaylen Waddle",
   "Brandon Aubrey",
-  "Jacksonville Jaguars"
+  "0"
  ],
  "teams": {
   "Artificial Domination": [
@@ -113,6 +113,7 @@
    "Jadarian Price",
    "Caleb Douglas",
    "Jonah Coleman",
+   "Seth McGowan",
    "Josh Jacobs",
    "Tony Pollard",
    "Jaylen Waddle",
@@ -120,22 +121,21 @@
    "Chris Olave",
    "Jaxon Smith-Njigba",
    "Aaron Rodgers",
-   "Cleveland Browns",
-   "Jacksonville Jaguars"
+   "Houston Texans"
   ],
   "I cook brown rice": [
-   "Emanuel Wilson",
    "Caleb Williams",
    "Braelon Allen",
    "Brian Thomas Jr.",
    "Jalen Coker",
    "Omarion Hampton",
-   "Tyler Loop",
    "Denzel Boston",
    "D'Andre Swift",
+   "Tyler Bass",
    "Travis Etienne Jr.",
    "Amon-Ra St. Brown",
    "Nico Collins",
+   "Tyler Allgeier",
    "Bryce Young",
    "Tucker Kraft",
    "Bijan Robinson",
@@ -162,10 +162,12 @@
   "JMann60": [
    "Rashee Rice",
    "Michael Wilson",
+   "Kirk Cousins",
    "Ollie Gordon II",
    "Quinshon Judkins",
+   "Tyler Shough",
    "Jeremiyah Love",
-   "Jacoby Brissett",
+   "Patrick Mahomes",
    "A.J. Brown",
    "Matt Gay",
    "Drake London",
@@ -173,8 +175,7 @@
    "James Cook III",
    "Zach Charbonnet",
    "Zay Flowers",
-   "Houston Texans",
-   "Tampa Bay Buccaneers"
+   "Jacksonville Jaguars"
   ],
   "jaybeezy2ezy": [
    "Blake Corum",
@@ -243,7 +244,7 @@
    "Chase Brown",
    "Puka Nacua",
    "Jordan Addison",
-   "Cincinnati Bengals"
+   "Green Bay Packers"
   ],
   "BmoreKidd": [
    "Tre Tucker",
@@ -267,17 +268,17 @@
    "Rome Odunze",
    "Malik Nabers",
    "Will Reichard",
+   "Mike Washington Jr.",
+   "Kaelon Black",
    "Christian McCaffrey",
    "Chris Godwin Jr.",
    "George Kittle",
-   "Kyler Murray",
-   "J.K. Dobbins",
+   "Devin Singletary",
    "DeVonta Smith",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",
    "Jordan Mason",
-   "Brenton Strange",
    "Kansas City Chiefs"
   ]
  }
