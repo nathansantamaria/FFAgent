@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-04T10:09:31+00:00",
+ "fetched_at": "2026-11-04T18:28:26+00:00",
  "adds": [
   {
    "name": "Adonai Mitchell",
-   "count": 2089536
+   "count": 1869144
   },
   {
    "name": "Tyler Allgeier",
-   "count": 1627750
+   "count": 1289725
   },
   {
    "name": "Devin Singletary",
-   "count": 1124802
-  },
-  {
-   "name": "Gardner Minshew II",
-   "count": 944928
+   "count": 1140831
   },
   {
    "name": "Emmett Johnson",
-   "count": 916641
+   "count": 846828
+  },
+  {
+   "name": "Gardner Minshew II",
+   "count": 725024
   },
   {
    "name": "Houston Texans",
-   "count": 753875
+   "count": 666365
   },
   {
    "name": "Detroit Lions",
-   "count": 573012
+   "count": 648756
   },
   {
    "name": "Chris Rodriguez Jr.",
-   "count": 476892
+   "count": 633303
   },
   {
    "name": "Tyler Bass",
-   "count": 443075
-  },
-  {
-   "name": "Malik Willis",
-   "count": 414260
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 411656
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 356400
-  },
-  {
-   "name": "Malik Washington",
-   "count": 339256
-  },
-  {
-   "name": "Cairo Santos",
-   "count": 328615
+   "count": 463715
   },
   {
    "name": "New Orleans Saints",
-   "count": 327290
+   "count": 433360
   },
   {
-   "name": "Treylon Burks",
-   "count": 293608
+   "name": "Malik Willis",
+   "count": 432572
+  },
+  {
+   "name": "Cairo Santos",
+   "count": 414659
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 408356
   },
   {
    "name": "Jadarian Price",
-   "count": 288270
+   "count": 349155
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 342344
+  },
+  {
+   "name": "Malik Washington",
+   "count": 301632
   },
   {
    "name": "Dylan Sampson",
-   "count": 270645
-  },
-  {
-   "name": "Sione Vaki",
-   "count": 246036
+   "count": 301365
   },
   {
    "name": "New York Giants",
-   "count": 245224
+   "count": 284060
   },
   {
-   "name": "Kenny Gainwell",
-   "count": 196528
+   "name": "Treylon Burks",
+   "count": 274155
   },
   {
    "name": "Elijah Mitchell",
-   "count": 189027
+   "count": 256770
   },
   {
-   "name": "San Francisco 49ers",
-   "count": 185676
+   "name": "Sione Vaki",
+   "count": 238581
   },
   {
-   "name": "Kirk Cousins",
-   "count": 161928
+   "name": "Alvin Kamara",
+   "count": 199984
   },
   {
-   "name": "Mike Washington Jr.",
-   "count": 157875
+   "name": "Kenny Gainwell",
+   "count": 169896
+  },
+  {
+   "name": "Chicago Bears",
+   "count": 162451
+  },
+  {
+   "name": "Keenan Allen",
+   "count": 160552
   }
  ]
 }
