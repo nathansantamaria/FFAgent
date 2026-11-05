@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T18:28:26+00:00",
+ "fetched_at": "2026-11-05T18:32:15+00:00",
  "league_id": "1400160155982639104",
  "week": 9,
  "standings": [
@@ -53,7 +53,7 @@
    "waiver_position": 7
   },
   {
-   "team": "I cook brown rice",
+   "team": "The Come Back",
    "wins": 2,
    "losses": 6,
    "pf": 979.04,
@@ -123,7 +123,7 @@
    "Aaron Rodgers",
    "Houston Texans"
   ],
-  "I cook brown rice": [
+  "The Come Back": [
    "Caleb Williams",
    "Braelon Allen",
    "Brian Thomas Jr.",
@@ -144,17 +144,17 @@
   "Scorpiondemon90": [
    "Joe Milton",
    "Marvin Harrison Jr.",
-   "Jaydon Blue",
    "Kyle Monangai",
    "Germie Bernard",
    "Jordyn Tyson",
    "Makai Lemon",
+   "Emmett Johnson",
    "Travis Kelce",
+   "Cairo Santos",
    "Mike Evans",
    "Derrick Henry",
    "Lamar Jackson",
    "DK Metcalf",
-   "Chase McLaughlin",
    "Ja'Marr Chase",
    "Minnesota Vikings",
    "Seattle Seahawks"
