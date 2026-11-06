@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-05T18:32:15+00:00",
+ "fetched_at": "2026-11-06T17:48:18+00:00",
  "week": 9,
  "games": [
   {
    "name": "JAX @ BAL",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-06",
    "score": {
-    "BAL": "0",
-    "JAX": "0"
+    "BAL": "10",
+    "JAX": "33"
    }
   },
   {

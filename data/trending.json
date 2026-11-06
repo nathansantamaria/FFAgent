@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-05T18:32:15+00:00",
+ "fetched_at": "2026-11-06T17:48:18+00:00",
  "adds": [
   {
-   "name": "Chris Rodriguez Jr.",
-   "count": 569466
+   "name": "Carson Wentz",
+   "count": 481806
   },
   {
-   "name": "Joe Milton",
-   "count": 509500
+   "name": "Chris Rodriguez Jr.",
+   "count": 362628
   },
   {
    "name": "Devin Singletary",
-   "count": 495720
-  },
-  {
-   "name": "Adonai Mitchell",
-   "count": 477048
+   "count": 338328
   },
   {
    "name": "Detroit Lions",
-   "count": 395181
+   "count": 319401
   },
   {
-   "name": "Malik Willis",
-   "count": 312816
+   "name": "Demarcus Robinson",
+   "count": 308772
   },
   {
-   "name": "New Orleans Saints",
-   "count": 270930
+   "name": "Adonai Mitchell",
+   "count": 267608
   },
   {
    "name": "Cairo Santos",
-   "count": 241143
+   "count": 259966
+  },
+  {
+   "name": "Malik Willis",
+   "count": 231098
+  },
+  {
+   "name": "New Orleans Saints",
+   "count": 211815
   },
   {
    "name": "Emmett Johnson",
-   "count": 209493
-  },
-  {
-   "name": "Shedeur Sanders",
-   "count": 180504
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 170880
-  },
-  {
-   "name": "Elijah Mitchell",
-   "count": 166680
+   "count": 130122
   },
   {
    "name": "Mike Gesicki",
-   "count": 152780
-  },
-  {
-   "name": "Jadarian Price",
-   "count": 134361
-  },
-  {
-   "name": "Drew Lock",
-   "count": 130910
-  },
-  {
-   "name": "Houston Texans",
-   "count": 129360
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 128232
-  },
-  {
-   "name": "Gardner Minshew II",
-   "count": 118836
+   "count": 119308
   },
   {
    "name": "Malik Washington",
-   "count": 118712
+   "count": 114424
+  },
+  {
+   "name": "Elijah Mitchell",
+   "count": 106920
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 105384
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 98830
+  },
+  {
+   "name": "Jadarian Price",
+   "count": 94608
+  },
+  {
+   "name": "Joe Milton",
+   "count": 87568
   },
   {
    "name": "New York Giants",
-   "count": 109884
+   "count": 87476
   },
   {
-   "name": "Carson Wentz",
-   "count": 105936
-  },
-  {
-   "name": "Dylan Sampson",
-   "count": 104225
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 88760
-  },
-  {
-   "name": "Kaelon Black",
-   "count": 85694
+   "name": "Omar Cooper Jr.",
+   "count": 84632
   },
   {
    "name": "Keenan Allen",
-   "count": 85016
+   "count": 80308
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 78210
+  },
+  {
+   "name": "Houston Texans",
+   "count": 74055
+  },
+  {
+   "name": "Kaelon Black",
+   "count": 67116
+  },
+  {
+   "name": "Darius Cooper",
+   "count": 64771
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 62360
   }
  ]
 }
