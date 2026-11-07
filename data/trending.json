@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-06T17:48:18+00:00",
+ "fetched_at": "2026-11-07T16:44:39+00:00",
  "adds": [
   {
-   "name": "Carson Wentz",
-   "count": 481806
-  },
-  {
-   "name": "Chris Rodriguez Jr.",
-   "count": 362628
-  },
-  {
    "name": "Devin Singletary",
-   "count": 338328
-  },
-  {
-   "name": "Detroit Lions",
-   "count": 319401
+   "count": 788202
   },
   {
    "name": "Demarcus Robinson",
-   "count": 308772
+   "count": 237036
   },
   {
    "name": "Adonai Mitchell",
-   "count": 267608
-  },
-  {
-   "name": "Cairo Santos",
-   "count": 259966
-  },
-  {
-   "name": "Malik Willis",
-   "count": 231098
-  },
-  {
-   "name": "New Orleans Saints",
-   "count": 211815
-  },
-  {
-   "name": "Emmett Johnson",
-   "count": 130122
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 119308
-  },
-  {
-   "name": "Malik Washington",
-   "count": 114424
-  },
-  {
-   "name": "Elijah Mitchell",
-   "count": 106920
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 105384
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 98830
-  },
-  {
-   "name": "Jadarian Price",
-   "count": 94608
-  },
-  {
-   "name": "Joe Milton",
-   "count": 87568
-  },
-  {
-   "name": "New York Giants",
-   "count": 87476
+   "count": 227648
   },
   {
    "name": "Omar Cooper Jr.",
-   "count": 84632
+   "count": 165832
   },
   {
-   "name": "Keenan Allen",
-   "count": 80308
+   "name": "Corey Kiner",
+   "count": 140172
   },
   {
-   "name": "Dylan Sampson",
-   "count": 78210
+   "name": "Carson Wentz",
+   "count": 96594
   },
   {
-   "name": "Houston Texans",
-   "count": 74055
-  },
-  {
-   "name": "Kaelon Black",
-   "count": 67116
+   "name": "Gregory Desrosiers",
+   "count": 90016
   },
   {
    "name": "Darius Cooper",
-   "count": 64771
+   "count": 88837
   },
   {
-   "name": "Kirk Cousins",
-   "count": 62360
+   "name": "Detroit Lions",
+   "count": 75996
+  },
+  {
+   "name": "New Orleans Saints",
+   "count": 73825
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 71613
+  },
+  {
+   "name": "Malik Willis",
+   "count": 62510
+  },
+  {
+   "name": "Elijah Mitchell",
+   "count": 57951
+  },
+  {
+   "name": "Malik Washington",
+   "count": 57024
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 51968
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 50920
+  },
+  {
+   "name": "Terrance Ferguson",
+   "count": 48776
+  },
+  {
+   "name": "Cairo Santos",
+   "count": 48132
+  },
+  {
+   "name": "Jordan Watkins",
+   "count": 47436
+  },
+  {
+   "name": "Jahan Dotson",
+   "count": 46401
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 42410
+  },
+  {
+   "name": "Shedeur Sanders",
+   "count": 41176
+  },
+  {
+   "name": "New York Giants",
+   "count": 40804
+  },
+  {
+   "name": "Kaelon Black",
+   "count": 38927
+  },
+  {
+   "name": "Keenan Allen",
+   "count": 37292
   }
  ]
 }
