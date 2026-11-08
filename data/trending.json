@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-08T20:14:53+00:00",
+ "fetched_at": "2026-11-08T23:19:19+00:00",
  "adds": [
   {
    "name": "Devin Singletary",
-   "count": 667683
+   "count": 597438
   },
   {
    "name": "Demarcus Robinson",
-   "count": 583644
+   "count": 547962
   },
   {
    "name": "Audric Estime",
-   "count": 340716
+   "count": 348279
   },
   {
    "name": "Ryan Flournoy",
-   "count": 260200
+   "count": 264192
   },
   {
    "name": "Alvin Kamara",
-   "count": 210728
+   "count": 180872
   },
   {
    "name": "New Orleans Saints",
-   "count": 189285
+   "count": 178280
   },
   {
    "name": "Adonai Mitchell",
-   "count": 187456
-  },
-  {
-   "name": "Gregory Desrosiers",
-   "count": 131648
-  },
-  {
-   "name": "Darius Cooper",
-   "count": 127176
+   "count": 169368
   },
   {
    "name": "Carson Wentz",
-   "count": 115500
+   "count": 119076
   },
   {
-   "name": "New York Giants",
-   "count": 109220
+   "name": "Darius Cooper",
+   "count": 114205
   },
   {
-   "name": "Corey Kiner",
-   "count": 107640
-  },
-  {
-   "name": "Malik Willis",
-   "count": 104643
-  },
-  {
-   "name": "Omar Cooper Jr.",
-   "count": 102608
+   "name": "Gregory Desrosiers",
+   "count": 111744
   },
   {
    "name": "Cairo Santos",
-   "count": 101010
+   "count": 106876
+  },
+  {
+   "name": "New York Giants",
+   "count": 103324
+  },
+  {
+   "name": "Corey Kiner",
+   "count": 98064
+  },
+  {
+   "name": "Malik Willis",
+   "count": 96677
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "count": 96352
   },
   {
    "name": "Detroit Lions",
-   "count": 92151
+   "count": 85095
   },
   {
-   "name": "Khalil Herbert",
-   "count": 88875
+   "name": "Tank Dell",
+   "count": 83840
   },
   {
    "name": "Dylan Sampson",
-   "count": 84990
-  },
-  {
-   "name": "Malik Washington",
-   "count": 68616
-  },
-  {
-   "name": "Jordyn Tyson",
-   "count": 65096
-  },
-  {
-   "name": "Elijah Mitchell",
-   "count": 63549
-  },
-  {
-   "name": "Jadarian Price",
-   "count": 59040
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 56394
-  },
-  {
-   "name": "Emmett Johnson",
-   "count": 55836
+   "count": 76750
   },
   {
    "name": "Kenny Gainwell",
-   "count": 55432
+   "count": 67768
+  },
+  {
+   "name": "Khalil Herbert",
+   "count": 67302
+  },
+  {
+   "name": "Jadarian Price",
+   "count": 65727
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 64917
+  },
+  {
+   "name": "Malik Washington",
+   "count": 63944
+  },
+  {
+   "name": "Jordyn Tyson",
+   "count": 57824
+  },
+  {
+   "name": "Shedeur Sanders",
+   "count": 54600
   }
  ]
 }
