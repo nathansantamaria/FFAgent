@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-11-08T16:55:30+00:00",
+ "fetched_at": "2026-11-08T20:14:53+00:00",
  "week": 9,
  "games": [
   {
-   "name": "CIN VS ATL",
+   "name": "DAL @ IND",
    "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "ATL": "17",
-    "CIN": "31"
-   }
-  },
-  {
-   "name": "DAL @ IND",
-   "status": "Scheduled",
-   "date": "2026-11-08",
-   "score": {
-    "IND": "0",
-    "DAL": "0"
+    "IND": "10",
+    "DAL": "17"
    }
   },
   {
    "name": "NYJ @ KC",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "KC": "0",
-    "NYJ": "0"
+    "KC": "21",
+    "NYJ": "12"
    }
   },
   {
    "name": "DET @ MIA",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "MIA": "0",
-    "DET": "0"
+    "MIA": "6",
+    "DET": "16"
    }
   },
   {
    "name": "CLE @ NO",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "NO": "0",
-    "CLE": "0"
+    "NO": "6",
+    "CLE": "6"
    }
   },
   {
    "name": "NYG @ PHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "PHI": "0",
-    "NYG": "0"
+    "PHI": "8",
+    "NYG": "6"
    }
   },
   {
    "name": "LAR @ WSH",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "WSH": "0",
-    "LAR": "0"
+    "WSH": "13",
+    "LAR": "13"
    }
   },
   {
    "name": "DEN @ CAR",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-08",
    "score": {
-    "CAR": "0",
-    "DEN": "0"
+    "CAR": "14",
+    "DEN": "13"
+   }
+  },
+  {
+   "name": "CIN VS ATL",
+   "status": "Final",
+   "date": "2026-11-08",
+   "score": {
+    "ATL": "17",
+    "CIN": "34"
    }
   },
   {
