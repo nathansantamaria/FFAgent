@@ -1,41 +1,23 @@
 {
- "fetched_at": "2026-11-08T23:19:19+00:00",
+ "fetched_at": "2026-11-09T21:17:45+00:00",
  "week": 9,
  "games": [
   {
-   "name": "HOU @ LAC",
-   "status": "In Progress",
-   "date": "2026-11-08",
+   "name": "BUF @ MIN",
+   "status": "Scheduled",
+   "date": "2026-11-10",
    "score": {
-    "LAC": "9",
-    "HOU": "31"
+    "MIN": "0",
+    "BUF": "0"
    }
   },
   {
-   "name": "GB @ NE",
-   "status": "Halftime",
-   "date": "2026-11-08",
+   "name": "JAX @ BAL",
+   "status": "Final",
+   "date": "2026-11-06",
    "score": {
-    "NE": "14",
-    "GB": "24"
-   }
-  },
-  {
-   "name": "LV @ SF",
-   "status": "In Progress",
-   "date": "2026-11-08",
-   "score": {
-    "SF": "28",
-    "LV": "17"
-   }
-  },
-  {
-   "name": "ARI @ SEA",
-   "status": "In Progress",
-   "date": "2026-11-08",
-   "score": {
-    "SEA": "14",
-    "ARI": "3"
+    "BAL": "10",
+    "JAX": "33"
    }
   },
   {
@@ -111,30 +93,48 @@
    }
   },
   {
+   "name": "HOU @ LAC",
+   "status": "Final",
+   "date": "2026-11-08",
+   "score": {
+    "LAC": "22",
+    "HOU": "44"
+   }
+  },
+  {
+   "name": "GB @ NE",
+   "status": "Final",
+   "date": "2026-11-08",
+   "score": {
+    "NE": "27",
+    "GB": "45"
+   }
+  },
+  {
+   "name": "LV @ SF",
+   "status": "Final",
+   "date": "2026-11-08",
+   "score": {
+    "SF": "38",
+    "LV": "17"
+   }
+  },
+  {
+   "name": "ARI @ SEA",
+   "status": "Final",
+   "date": "2026-11-08",
+   "score": {
+    "SEA": "17",
+    "ARI": "3"
+   }
+  },
+  {
    "name": "TB @ CHI",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-09",
    "score": {
-    "CHI": "0",
-    "TB": "0"
-   }
-  },
-  {
-   "name": "JAX @ BAL",
-   "status": "Final",
-   "date": "2026-11-06",
-   "score": {
-    "BAL": "10",
-    "JAX": "33"
-   }
-  },
-  {
-   "name": "BUF @ MIN",
-   "status": "Scheduled",
-   "date": "2026-11-10",
-   "score": {
-    "MIN": "0",
-    "BUF": "0"
+    "CHI": "27",
+    "TB": "24"
    }
   }
  ]
