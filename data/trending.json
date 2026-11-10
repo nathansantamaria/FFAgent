@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-09T21:17:45+00:00",
+ "fetched_at": "2026-11-10T04:28:28+00:00",
  "adds": [
   {
    "name": "Tank Dell",
-   "count": 683392
-  },
-  {
-   "name": "Audric Estime",
-   "count": 215454
+   "count": 976544
   },
   {
    "name": "Corey Kiner",
-   "count": 206118
+   "count": 477426
+  },
+  {
+   "name": "Konata Mumpfield",
+   "count": 432396
+  },
+  {
+   "name": "Audric Estime",
+   "count": 232512
   },
   {
    "name": "Darren Waller",
-   "count": 110448
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 96173
+   "count": 144351
   },
   {
    "name": "Jordan Watkins",
-   "count": 74480
+   "count": 113756
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 97923
   },
   {
    "name": "Pat Bryant",
-   "count": 65640
+   "count": 89048
+  },
+  {
+   "name": "Tutu Atwell",
+   "count": 81193
   },
   {
    "name": "Seth McGowan",
-   "count": 62104
-  },
-  {
-   "name": "Shedeur Sanders",
-   "count": 56856
-  },
-  {
-   "name": "Carson Wentz",
-   "count": 53316
-  },
-  {
-   "name": "Justice Hill",
-   "count": 52299
-  },
-  {
-   "name": "Kenny Gainwell",
-   "count": 51992
+   "count": 79536
   },
   {
    "name": "Caleb Douglas",
-   "count": 42712
+   "count": 71096
   },
   {
-   "name": "Jadarian Price",
-   "count": 42003
+   "name": "Justice Hill",
+   "count": 59706
   },
   {
-   "name": "Devin Singletary",
-   "count": 41139
+   "name": "Shedeur Sanders",
+   "count": 55344
   },
   {
    "name": "Ryan Flournoy",
-   "count": 39768
+   "count": 51592
   },
   {
-   "name": "Ty Johnson",
-   "count": 39666
-  },
-  {
-   "name": "Demarcus Robinson",
-   "count": 39096
+   "name": "Pierre Strong Jr.",
+   "count": 48204
   },
   {
    "name": "Tampa Bay Buccaneers",
-   "count": 38565
+   "count": 42265
   },
   {
-   "name": "Jordan Addison",
-   "count": 34587
-  },
-  {
-   "name": "KC Concepcion Jr.",
-   "count": 33399
-  },
-  {
-   "name": "Bryce Young",
-   "count": 30120
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 29214
+   "name": "Carson Wentz",
+   "count": 41286
   },
   {
    "name": "Omar Cooper Jr.",
-   "count": 27368
+   "count": 41080
   },
   {
-   "name": "Tyler Shough",
-   "count": 26696
+   "name": "Jacksonville Jaguars",
+   "count": 40356
+  },
+  {
+   "name": "Devin Singletary",
+   "count": 38844
+  },
+  {
+   "name": "Jadarian Price",
+   "count": 35793
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 33228
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 33093
+  },
+  {
+   "name": "DJ Uiagalelei",
+   "count": 32130
+  },
+  {
+   "name": "Bryce Young",
+   "count": 31532
   }
  ]
 }

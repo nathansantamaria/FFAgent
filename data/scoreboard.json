@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-09T21:17:45+00:00",
+ "fetched_at": "2026-11-10T04:28:28+00:00",
  "week": 9,
  "games": [
   {
    "name": "BUF @ MIN",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-10",
    "score": {
-    "MIN": "0",
-    "BUF": "0"
+    "MIN": "6",
+    "BUF": "23"
    }
   },
   {
