@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-10T04:28:28+00:00",
+ "fetched_at": "2026-11-10T18:28:29+00:00",
  "week": 9,
  "games": [
-  {
-   "name": "BUF @ MIN",
-   "status": "Final",
-   "date": "2026-11-10",
-   "score": {
-    "MIN": "6",
-    "BUF": "23"
-   }
-  },
   {
    "name": "JAX @ BAL",
    "status": "Final",
@@ -135,6 +126,15 @@
    "score": {
     "CHI": "27",
     "TB": "24"
+   }
+  },
+  {
+   "name": "BUF @ MIN",
+   "status": "Final",
+   "date": "2026-11-10",
+   "score": {
+    "MIN": "6",
+    "BUF": "23"
    }
   }
  ]

@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-10T04:28:28+00:00",
+ "fetched_at": "2026-11-10T18:28:29+00:00",
  "adds": [
   {
    "name": "Tank Dell",
-   "count": 976544
+   "count": 1807720
   },
   {
    "name": "Corey Kiner",
-   "count": 477426
+   "count": 1683756
   },
   {
    "name": "Konata Mumpfield",
-   "count": 432396
-  },
-  {
-   "name": "Audric Estime",
-   "count": 232512
+   "count": 1339731
   },
   {
    "name": "Darren Waller",
-   "count": 144351
+   "count": 463086
   },
   {
-   "name": "Jordan Watkins",
-   "count": 113756
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 97923
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 89048
+   "name": "Audric Estime",
+   "count": 427836
   },
   {
    "name": "Tutu Atwell",
-   "count": 81193
+   "count": 290941
   },
   {
-   "name": "Seth McGowan",
-   "count": 79536
+   "name": "Jordan Watkins",
+   "count": 254156
   },
   {
-   "name": "Caleb Douglas",
-   "count": 71096
+   "name": "Baltimore Ravens",
+   "count": 247311
   },
   {
    "name": "Justice Hill",
-   "count": 59706
-  },
-  {
-   "name": "Shedeur Sanders",
-   "count": 55344
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 51592
+   "count": 207459
   },
   {
    "name": "Pierre Strong Jr.",
-   "count": 48204
+   "count": 205533
   },
   {
-   "name": "Tampa Bay Buccaneers",
-   "count": 42265
+   "name": "C.J. Stroud",
+   "count": 177954
   },
   {
-   "name": "Carson Wentz",
-   "count": 41286
+   "name": "Pat Bryant",
+   "count": 168248
   },
   {
-   "name": "Omar Cooper Jr.",
-   "count": 41080
+   "name": "Caleb Douglas",
+   "count": 166920
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 153657
   },
   {
    "name": "Jacksonville Jaguars",
-   "count": 40356
+   "count": 150210
   },
   {
-   "name": "Devin Singletary",
-   "count": 38844
+   "name": "Seth McGowan",
+   "count": 142856
   },
   {
-   "name": "Jadarian Price",
-   "count": 35793
+   "name": "Green Bay Packers",
+   "count": 138254
   },
   {
-   "name": "Khalil Shakir",
-   "count": 33228
+   "name": "Jake Bates",
+   "count": 130264
   },
   {
-   "name": "KC Concepcion Jr.",
-   "count": 33093
+   "name": "Jordyn Tyson",
+   "count": 122752
   },
   {
-   "name": "DJ Uiagalelei",
-   "count": 32130
+   "name": "Demarcus Robinson",
+   "count": 120198
+  },
+  {
+   "name": "Tyler Shough",
+   "count": 119528
+  },
+  {
+   "name": "Aaron Rodgers",
+   "count": 112576
   },
   {
    "name": "Bryce Young",
-   "count": 31532
+   "count": 106564
+  },
+  {
+   "name": "DJ Uiagalelei",
+   "count": 97497
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 89631
   }
  ]
 }
