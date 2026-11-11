@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-10T18:28:29+00:00",
+ "fetched_at": "2026-11-11T10:00:03+00:00",
  "adds": [
   {
-   "name": "Tank Dell",
-   "count": 1807720
+   "name": "Corey Kiner",
+   "count": 3817224
   },
   {
-   "name": "Corey Kiner",
-   "count": 1683756
+   "name": "Tank Dell",
+   "count": 2485680
   },
   {
    "name": "Konata Mumpfield",
-   "count": 1339731
+   "count": 2407887
   },
   {
-   "name": "Darren Waller",
-   "count": 463086
+   "name": "Fernando Mendoza",
+   "count": 1080704
   },
   {
    "name": "Audric Estime",
-   "count": 427836
+   "count": 910107
+  },
+  {
+   "name": "Darren Waller",
+   "count": 885186
   },
   {
    "name": "Tutu Atwell",
-   "count": 290941
+   "count": 855106
   },
   {
-   "name": "Jordan Watkins",
-   "count": 254156
+   "name": "Kyle McCord",
+   "count": 679640
   },
   {
    "name": "Baltimore Ravens",
-   "count": 247311
-  },
-  {
-   "name": "Justice Hill",
-   "count": 207459
+   "count": 535800
   },
   {
    "name": "Pierre Strong Jr.",
-   "count": 205533
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 177954
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 168248
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 166920
+   "count": 469359
   },
   {
    "name": "Tyler Higbee",
-   "count": 153657
+   "count": 376884
   },
   {
-   "name": "Jacksonville Jaguars",
-   "count": 150210
+   "name": "Ashton Dulin",
+   "count": 350064
   },
   {
-   "name": "Seth McGowan",
-   "count": 142856
+   "name": "Justice Hill",
+   "count": 327897
   },
   {
-   "name": "Green Bay Packers",
-   "count": 138254
-  },
-  {
-   "name": "Jake Bates",
-   "count": 130264
-  },
-  {
-   "name": "Jordyn Tyson",
-   "count": 122752
-  },
-  {
-   "name": "Demarcus Robinson",
-   "count": 120198
-  },
-  {
-   "name": "Tyler Shough",
-   "count": 119528
+   "name": "Jordan Watkins",
+   "count": 312376
   },
   {
    "name": "Aaron Rodgers",
-   "count": 112576
+   "count": 272508
   },
   {
-   "name": "Bryce Young",
-   "count": 106564
+   "name": "Demarcus Robinson",
+   "count": 265200
   },
   {
-   "name": "DJ Uiagalelei",
-   "count": 97497
+   "name": "Pat Bryant",
+   "count": 264088
   },
   {
-   "name": "Khalil Shakir",
-   "count": 89631
+   "name": "Jake Bates",
+   "count": 258672
+  },
+  {
+   "name": "Josh Downs",
+   "count": 244595
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 242382
+  },
+  {
+   "name": "Jacksonville Jaguars",
+   "count": 225420
+  },
+  {
+   "name": "Caleb Douglas",
+   "count": 214160
+  },
+  {
+   "name": "Green Bay Packers",
+   "count": 209643
+  },
+  {
+   "name": "Tyler Shough",
+   "count": 204496
+  },
+  {
+   "name": "Tyler Bass",
+   "count": 198795
   }
  ]
 }
