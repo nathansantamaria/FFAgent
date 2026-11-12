@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-11T18:23:28+00:00",
+ "fetched_at": "2026-11-12T18:42:22+00:00",
  "adds": [
   {
    "name": "Corey Kiner",
-   "count": 3307002
+   "count": 522714
   },
   {
    "name": "Konata Mumpfield",
-   "count": 2247039
-  },
-  {
-   "name": "Tank Dell",
-   "count": 1950024
-  },
-  {
-   "name": "Fernando Mendoza",
-   "count": 1275752
+   "count": 469467
   },
   {
    "name": "Tutu Atwell",
-   "count": 1054326
-  },
-  {
-   "name": "Audric Estime",
-   "count": 910506
+   "count": 394716
   },
   {
    "name": "Darren Waller",
-   "count": 888507
-  },
-  {
-   "name": "Kyle McCord",
-   "count": 792672
-  },
-  {
-   "name": "Baltimore Ravens",
-   "count": 544377
+   "count": 341793
   },
   {
    "name": "Ashton Dulin",
-   "count": 525636
-  },
-  {
-   "name": "Pierre Strong Jr.",
-   "count": 485757
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 396432
-  },
-  {
-   "name": "Justice Hill",
-   "count": 331470
-  },
-  {
-   "name": "Jake Bates",
-   "count": 322216
+   "count": 221607
   },
   {
    "name": "Indianapolis Colts",
-   "count": 322149
+   "count": 205551
+  },
+  {
+   "name": "Fernando Mendoza",
+   "count": 202088
+  },
+  {
+   "name": "Justice Hill",
+   "count": 179721
+  },
+  {
+   "name": "Jake Bates",
+   "count": 170720
+  },
+  {
+   "name": "Audric Estime",
+   "count": 168933
+  },
+  {
+   "name": "Tank Dell",
+   "count": 168528
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 140859
+  },
+  {
+   "name": "Baltimore Ravens",
+   "count": 140013
   },
   {
    "name": "Demarcus Robinson",
-   "count": 289362
-  },
-  {
-   "name": "Aaron Rodgers",
-   "count": 288864
-  },
-  {
-   "name": "Josh Downs",
-   "count": 274505
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 267777
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 251704
-  },
-  {
-   "name": "Jordan Watkins",
-   "count": 246560
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 237140
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 218883
+   "count": 129264
   },
   {
    "name": "Khalil Shakir",
-   "count": 206829
+   "count": 125298
   },
   {
-   "name": "Jacksonville Jaguars",
-   "count": 194634
+   "name": "Tyler Bass",
+   "count": 123590
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 119574
+  },
+  {
+   "name": "Aaron Rodgers",
+   "count": 104868
+  },
+  {
+   "name": "Chris Rodriguez Jr.",
+   "count": 101025
+  },
+  {
+   "name": "Kyle McCord",
+   "count": 97576
+  },
+  {
+   "name": "New York Giants",
+   "count": 93272
+  },
+  {
+   "name": "Jason Sanders",
+   "count": 92595
+  },
+  {
+   "name": "Pierre Strong Jr.",
+   "count": 86553
+  },
+  {
+   "name": "CJ Daniels",
+   "count": 78240
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 77769
   }
  ]
 }

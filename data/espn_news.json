@@ -1,378 +1,450 @@
 {
- "fetched_at": "2026-11-11T18:23:28+00:00",
+ "fetched_at": "2026-11-12T18:42:22+00:00",
  "articles": [
   {
-   "headline": "Browns' Monken: Watson over Sanders QB decision based on 'full body of work'",
-   "summary": "Browns coach Todd Monken said Wednesday his intention all along was to stick with Deshaun Watson as QB1 based on his \"full body of work\" this season.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50453932/browns-todd-monken-explains-call-start-deshaun-watson",
-   "players": [
-    "Deshaun Watson",
-    "Shedeur Sanders"
-   ]
-  },
-  {
-   "headline": "Ex-NFL coach Rex Ryan facing charges after alleged hit-and-run",
-   "summary": "Former NFL head coach Rex Ryan is facing charges after allegedly striking two pedestrians with his pickup truck and leaving the scene in Nashville, Tennessee.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50453897/rex-ryan-facing-charges-alleged-hit-run",
+   "headline": "Fantasy football rankings for Week 10: Quarterback",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
    "players": []
   },
   {
-   "headline": "Sources: Giants called Falcons to ask about Bijan Robinson before trade deadline",
-   "summary": "The Giants made a call to the Falcons before the NFL trade deadline inquiring about star running back Bijan Robinson, multiple sources told ESPN.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50453373/sources-giants-eyed-bijan-robinson-trade-deadline",
+   "headline": "Fantasy football rankings for Week 10: Running back",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 10: Wide receiver",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 10: Tight end",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 10: Kicker",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+   "players": []
+  },
+  {
+   "headline": "Browns' Jared Verse says he met with team psychiatrist to try to snap sack slump",
+   "summary": "Browns defensive end Jared Verse said Thursday that he recently met with the team's psychiatrist to try to get past his slump of not registering sacks.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50463010/browns-jared-verse-met-psychiatrist-end-sack-slump",
    "players": [
-    "Bijan Robinson",
-    "Cam Skattebo"
+    "Jared Verse"
    ]
   },
   {
-   "headline": "Kincaid vs. Pitts: Dopp and Clay differ on their preferred Week 10 TE",
-   "summary": "Kincaid vs. Pitts: Dopp and Clay differ on their preferred Week 10 TE  ",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50453359/dopp-clay-differ-their-preferred-week-10-te",
+   "headline": "Fantasy football rankings for Week 10: IDP",
+   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 10: D/ST",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+   "players": []
+  },
+  {
+   "headline": "Three Jaguars trade deadline takeaways, from 'F them picks' to BTJ staying",
+   "summary": "The 6-2 Jaguars aggressively upgraded their defense at the deadline and kept the offense intact. Let's look at the aftermath of the three deals.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50456429/jaguars-trade-takeaways-james-gladstone-btj",
    "players": [
-    "Kyle Pitts Sr",
+    "Brian Thomas Jr",
+    "Jordan Davis",
+    "Jessie Bates III"
+   ]
+  },
+  {
+   "headline": "Cockcroft tabs Bills D/ST as one of top streaming options in Week 10",
+   "summary": "Cockcroft tabs Bills D/ST as one of top streaming options in Week 10",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462869/cockcroft-tabs-bills-d-st-one-top-streaming-options-week-10",
+   "players": []
+  },
+  {
+   "headline": "Cowboys host NFC-leading 49ers as they seek elusive winning streak under Schottenheimer",
+   "summary": "\u2014 Winning streaks have been elusive for the Dallas Cowboys in two seasons under coach Brian Schottenheimer, and the next attempt won't be easy.",
+   "published": "2026-11-12",
+   "url": "http://www.espn.com/nfl/preview?gameId=401873063",
+   "players": []
+  },
+  {
+   "headline": "Commanders-Giants odds, analysis, betting tips and recommended props",
+   "summary": "Odds, analysis and picks to help you bet Thursday's Washington Commanders-New York Giants game.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50434703/nfl-week-10-odds-commanders-giants-betting-preview",
+   "players": [
+    "JJ McCarthy",
+    "Malik Nabers",
+    "Jayden Daniels"
+   ]
+  },
+  {
+   "headline": "Fantasy buzz: 12 players to target for the homestretch of the season",
+   "summary": "The NFL trade deadline might be over, but fantasy managers should still consider trading for these players.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+   "players": [
+    "Kenneth Walker III",
+    "Puka Nacua",
+    "CeeDee Lamb",
+    "Ja'Marr Chase",
+    "Joe Burrow",
+    "Jordan Love",
+    "Christian Watson",
+    "Matthew Golden",
+    "Kayshon Boutte",
+    "CJ Stroud",
+    "Bucky Irving",
+    "Dohnte Meyers",
+    "Colbie Young",
+    "Chase Brown",
+    "Samaje Perine",
+    "Ryan Flournoy",
+    "Ashton Dulin",
+    "Josh Downs",
+    "Breece Hall",
+    "Braelon Allen",
+    "Garrett Wilson",
+    "Adonai Mitchell",
+    "Omar Cooper Jr",
+    "Jahmyr Gibbs",
+    "Dylan Sampson",
+    "Quinshon Judkins",
+    "KC Concepcion",
+    "Denzel Boston",
+    "Harold Fannin Jr",
+    "Audric Estime",
+    "Devin Singletary",
+    "Saquon Barkley",
+    "Blake Corum",
+    "Kyren Williams",
+    "Austin Ekeler",
+    "Rachaad White",
+    "Jonah Coleman",
+    "JK Dobbins",
+    "Darren Waller",
+    "Tommy Tremble",
+    "Jalen Coker",
+    "Tetairoa McMillan",
+    "Woody Marks",
+    "Xavier Hutchinson",
+    "Nico Collins",
+    "Rhamondre Stevenson",
+    "TreVeyon Henderson",
+    "Corey Kiner",
+    "Lan Larison",
+    "Josh Jacobs",
+    "Kaleb Johnson",
+    "Pierre Strong Jr",
+    "Ashton Jeanty",
+    "Mike Washington Jr",
+    "Tyler Allgeier",
+    "Jeremiyah Love",
+    "Zach Charbonnet",
+    "Jadarian Price",
+    "George Holani",
+    "Tez Johnson",
+    "Emeka Egbuka",
+    "Ted Hurst III",
+    "Chris Godwin Jr",
+    "Trey McBride",
+    "Michael Wilson",
+    "Gardner Minshew II",
+    "James Cook III",
+    "Parker Washington",
+    "Justin Jefferson",
+    "Jonathan Taylor",
+    "Travis Etienne Jr",
+    "Ollie Gordon II",
+    "Luther Burden III",
+    "Colston Loveland",
+    "Jordan Addison",
+    "Carnell Tate",
+    "Hunter Henry",
     "Dalton Kincaid"
    ]
   },
   {
-   "headline": "Should Justin Jefferson be ranked higher than Chris Olave in Week 10?",
-   "summary": "Should Justin Jefferson be ranked higher than Chris Olave in Week 10?",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50453345/should-justin-jefferson-ranked-higher-chris-olave-week-10",
+   "headline": "Why Jessie Bates III is a \u2018universal add\u2019 in IDP leagues",
+   "summary": "Why Jessie Bates III is a \u2018universal add\u2019 in IDP leagues",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462707/why-jessie-bates-iii-universal-add-idp-leagues",
    "players": [
-    "Justin Jefferson",
-    "Chris Olave"
+    "Jessie Bates III"
    ]
   },
   {
-   "headline": "Should managers start Geno Smith over Jordan Love? Dopp and Clay debate",
-   "summary": "Should managers start Geno Smith over Jordan Love? Dopp and Clay debate",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50453337/should-managers-start-geno-smith-jordan-love-dopp-clay-debate",
+   "headline": "Is Zay Flowers in position to bounce back in Week 10?",
+   "summary": "Is Zay Flowers in position to bounce back in Week 10?",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462705/is-zay-flowers-position-bounce-back-week-10",
    "players": [
-    "Geno Smith",
+    "Zay Flowers"
+   ]
+  },
+  {
+   "headline": "Why there's fantasy risk with Jordan Love vs. Vikings",
+   "summary": "Why there's fantasy risk with Jordan Love vs. Vikings",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462377/why-there-fantasy-risk-jordan-love-vs-vikings",
+   "players": [
     "Jordan Love"
    ]
   },
   {
-   "headline": "Mark Andrews' Week 10 fantasy outlook",
-   "summary": "Mark Andrews' Week 10 fantasy outlook",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50453200/mark-andrews-week-10-fantasy-outlook",
+   "headline": "What does Breece Hall's return mean for Jets' backfield in fantasy?",
+   "summary": "What does Breece Hall's return mean for Jets' backfield in fantasy?  ",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462365/what-does-breece-hall-return-mean-jets-backfield-fantasy",
    "players": [
-    "Mark Andrews"
+    "Breece Hall",
+    "Braelon Allen"
    ]
   },
   {
-   "headline": "Stephen A. has some words for Kevin O'Connell after Vikings trade for Kirk Cousins",
-   "summary": "Stephen A. has some words for Kevin O'Connell after Vikings trade for Kirk Cousins",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50453097/stephen-some-words-kevin-oconnell-vikings-trade-kirk-cousins",
+   "headline": "Why Daniel Dopp, Field Yates need to see more out of Jordyn Tyson in fantasy",
+   "summary": "Why Daniel Dopp, Field Yates need to see more out of Jordyn Tyson in fantasy   ",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462354/why-daniel-dopp-field-yates-need-see-more-jordyn-tyson-fantasy",
    "players": [
-    "Kirk Cousins"
-   ]
-  },
-  {
-   "headline": "Fantasy football: Prep for Week 11 'Bye-mageddon' by stashing these players now",
-   "summary": "Stash these players ahead of Week 11, when six NFL teams' worth of fantasy football stars will be on bye.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50445909/fantasy-football-bye-week-replacements-byemageddon",
-   "players": [
-    "Bryce Young",
-    "David Montgomery",
-    "Tank Dell",
-    "Cade Otton"
-   ]
-  },
-  {
-   "headline": "Why Jeff Saturday has 'no hope' for the Cowboys",
-   "summary": "Why Jeff Saturday has 'no hope' for the Cowboys",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452857/why-jeff-saturday-no-hope-cowboys",
-   "players": [
-    "Jeff Saturday"
-   ]
-  },
-  {
-   "headline": "Quinshon Judkins' Week 10 fantasy outlook",
-   "summary": "Quinshon Judkins' Week 10 fantasy outlook",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452849/quinshon-judkins-week-10-fantasy-outlook",
-   "players": [
-    "Quinshon Judkins"
-   ]
-  },
-  {
-   "headline": "Matthew Stafford's Week 10 fantasy outlook",
-   "summary": "Matthew Stafford's Week 10 fantasy outlook",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452748/matthew-stafford-week-10-fantasy-outlook",
-   "players": [
-    "Matthew Stafford"
-   ]
-  },
-  {
-   "headline": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
-   "summary": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452689/was-right-move-raiders-name-mendoza-qb1-cousins-trade",
-   "players": [
-    "Kirk Cousins",
-    "Fernando Mendoza"
-   ]
-  },
-  {
-   "headline": "Christian Watson's Week 10 fantasy outlook",
-   "summary": "Christian Watson's Week 10 fantasy outlook",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452660/christian-watson-week-10-fantasy-outlook",
-   "players": [
-    "Christian Watson"
-   ]
-  },
-  {
-   "headline": "Chuba Hubbard's Week 10 fantasy outlook",
-   "summary": "Chuba Hubbard's Week 10 fantasy outlook",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50452604/chuba-hubbard-week-10-fantasy-outlook",
-   "players": [
-    "Chuba Hubbard"
-   ]
-  },
-  {
-   "headline": "Facts vs. Feelings: Seven starts, streams and stashes for Week 10 and beyond",
-   "summary": "Whether you feel like streaming Aaron Rodgers or stashing Jordyn Tyson, Liz Loza has the facts to support the case.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50452443/facts-feelings-fantasy-advice-week-10",
-   "players": [
-    "Aaron Rodgers",
-    "Chuba Hubbard",
-    "Seth McGowan",
-    "Zay Flowers",
     "Jordyn Tyson",
-    "Travis Kelce"
+    "Devaughn Vele"
    ]
   },
   {
-   "headline": "Jacksonville Jaguars' Foyesade Oluokun leads the way again in Africa's Week 9 NFL exploits",
-   "summary": "Foyesade Oluokun - a seasoned linebacker of Nigerian heritage - had yet another superb week in Week 9, starring for the Jacksonville Jaguars as they beat the Baltimore Ravens to go 6-2 for the NFL season.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/espn/story/_/id/50452204/jacksonville-jaguars-foyesade-oluokun-leads-way-again-africa-week-9-nfl-exploits",
+   "headline": "How A.J. Brown's status affects DeMario Douglas' fantasy stock in Week 10",
+   "summary": "How A.J. Brown's status affects DeMario Douglas' fantasy stock in Week 10  ",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462343/how-aj-brown-status-affects-demario-douglas-fantasy-stock-week-10",
+   "players": [
+    "DeMario Douglas"
+   ]
+  },
+  {
+   "headline": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
+   "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
    "players": []
   },
   {
-   "headline": "Why protected picks aren't common in NFL trades",
-   "summary": "It's common for NBA teams to protect picks they trade, but things are different in the NFL. Here's why.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50434740/nfl-trades-protected-draft-picks",
+   "headline": "Was it a bigger mistake for the Giants or Cowboys being inactive at the deadline?",
+   "summary": "Was it a bigger mistake for the Giants or Cowboys being inactive at the deadline?",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462211/was-bigger-mistake-giants-cowboys-being-inactive-deadline",
    "players": []
   },
   {
-   "headline": "Questions on 2026 NFL trade deadline deals: Does Kirk Cousins lift the Vikings?",
-   "summary": "Let's make sense of Kirk Cousins to the Vikings, Josh Downs to the Chiefs, the Jaguars getting aggressive, a wild Bengals comp-pick mixup and four teams' deadline silence.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50442897/2026-trade-deadline-barnwell-questions-cousins-downs",
+   "headline": "Is C.J. Stroud a fantasy starter vs. the Browns in Week 10?",
+   "summary": "Is C.J. Stroud a fantasy starter vs. the Browns in Week 10?",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50462159/is-cj-stroud-fantasy-starter-vs-browns-week-10",
    "players": [
-    "Kirk Cousins"
+    "CJ Stroud"
    ]
   },
   {
-   "headline": "NFL Week 10 latest intel, buzz questions, fantasy tips, post-trade deadline news",
-   "summary": "No deals for Jonathan Taylor, Daniel Jones or Brian Thomas Jr.? Vikings seeking QB answers with their Kirk Cousins trade? Here's the latest intel.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50442934/week-10-buzz-fantasy-predictions-graziano-fowler-2026-trades",
+   "headline": "Longtime Steelers player, assistant coach Dick Hoak dies at 86",
+   "summary": "Dick Hoak, who spent more than 45 years with the Pittsburgh Steelers as a player and then an assistant coach, winning five Super Bowl rings along the way, has died at age 86.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50461920/long-steelers-player-assistant-coach-dick-hoak-dies-86",
    "players": []
   },
   {
-   "headline": "Cowboys rave about Quinnen Williams a year after trade deadline deal",
-   "summary": "Voted a captain by his teammates, Williams is making a difference in Dallas on and off the field.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50445806/cowboys-quinnen-williams-trade-deadline",
-   "players": [
-    "Quinnen Williams"
-   ]
-  },
-  {
-   "headline": "The Philadelphia Eagles' 2026 trade haul is likely to age well over time",
-   "summary": "Whether Philadelphia wants to go after its QB of the future or build up around Jalen Hurts, it has options.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50447827/philadelphia-eagles-trade-haul-2027-draft-picks",
-   "players": [
-    "Jalen Hurts"
-   ]
-  },
-  {
-   "headline": "Big plays by Broncos defense in late-game situations keying Denver's 7-2 start",
-   "summary": "The offense has gotten a lot of the credit for the Broncos' late-game heroics, but the defense's knack for big plays is just as important.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50443533/denver-broncos-defense-seals-wins-big-plays-2026-season",
-   "players": [
-    "Nik Bonitto",
-    "Devon Key"
-   ]
-  },
-  {
-   "headline": "Where does Cam Ward stand coming out of the bye?",
-   "summary": "Ward has nine games left to convince the Titans he should be their QB when they open the new stadium in 2027.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50442969/titans-cam-ward-bye",
-   "players": [
-    "Cam Ward"
-   ]
-  },
-  {
-   "headline": "Why Giants' trade attempts 'just didn't happen'",
-   "summary": "Jordan Raanan explains how steep asking prices for Jonathan Taylor and Bijan Robinson kept the Giants from making a move before the trade deadline.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50450311/why-giants-trade-attempts-just-happen",
+   "headline": "Who has the edge in Steelers-Bengals?",
+   "summary": "Who has the edge in Steelers-Bengals?",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50461832/who-edge-steelers-bengals",
    "players": []
   },
   {
-   "headline": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
-   "summary": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement",
-   "players": [
-    "Patrick Mahomes"
-   ]
-  },
-  {
-   "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
-   "summary": "No. 1 pick Fernando Mendoza was officially named the Raiders' starting quarterback Tuesday after the team traded Kirk Cousins to the Vikings.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
-   "players": [
-    "Fernando Mendoza",
-    "Kirk Cousins"
-   ]
-  },
-  {
-   "headline": "Get ready for Chargers vs. Ravens on Monday Night Football",
-   "summary": "Get ready for Chargers vs. Ravens on Monday Night Football",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/video/clip/_/id/50447694/get-ready-chargers-vs-ravens-monday-night-football",
+   "headline": "Fantasy playbook: Week 10 Shadow Reports, lineup locks and projected scores",
+   "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50433086/fantasy-playbook-projections-lineup-locks-week-10-shadow",
    "players": []
   },
   {
-   "headline": "What the Kirk Cousins trade means for the Vikings and the Raiders",
-   "summary": "We answered big questions surrounding the trade of quarterback Kirk Cousins from the Raiders to the Vikings.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50444528/kirk-cousins-trade-minnesota-vikings-las-vegas-raiders",
-   "players": [
-    "Fernando Mendoza",
-    "Kirk Cousins",
-    "Kyler Murray",
-    "Carson Wentz",
-    "Justin Jefferson",
-    "Brock Bowers"
-   ]
-  },
-  {
-   "headline": "From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF",
-   "summary": "A moment from Vince Carter's retirement ceremony helped Downs sum up his feelings about joining Kansas City.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif",
-   "players": [
-    "Josh Downs",
-    "Patrick Mahomes"
-   ]
-  },
-  {
-   "headline": "Fantasy football consistency ratings: 2024 to 2026",
-   "summary": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
+   "headline": "Andrew Hawkins: The Jaguars are the 'most complete team in the AFC'",
+   "summary": "Andrew Hawkins: The Jaguars are the 'most complete team in the AFC'",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50461653/jaguars-most-complete-team-afc",
    "players": []
   },
   {
-   "headline": "Fantasy football consistency ratings for 2026",
-   "summary": "The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50119375/2026-fantasy-football-rankings-start-sit",
+   "headline": "Ian Rapoport details Broncos' trade for Daiyan Henley falling through",
+   "summary": "Ian Rapoport details Broncos' trade for Daiyan Henley falling through",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/video/clip/_/id/50461369/ian-rapoport-details-broncos-trade-daiyan-henley-falling-through",
+   "players": [
+    "Daiyan Henley"
+   ]
+  },
+  {
+   "headline": "Fantasy football: Which players can you trust from these backfields-by-committee?",
+   "summary": "Matt Bowen looks at some of the toughest backfields to assess and offers his thoughts going forward.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50454993/fantasy-football-start-sit-running-backs-rest-season",
+   "players": [
+    "Alvin Kamara",
+    "Audric Estime",
+    "Aaron Jones Sr",
+    "Jordan Mason",
+    "Zach Charbonnet",
+    "Jadarian Price",
+    "Ashton Jeanty",
+    "Mike Washington Jr",
+    "Braelon Allen",
+    "Breece Hall",
+    "D'Andre Swift",
+    "Kyle Monangai",
+    "Blake Corum",
+    "Kyren Williams",
+    "Jonah Coleman",
+    "Bucky Irving",
+    "Kenny Gainwell"
+   ]
+  },
+  {
+   "headline": "2026 NFL midseason report: Questions, stats for all 32 teams entering second half",
+   "summary": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy",
    "players": []
   },
   {
-   "headline": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-   "summary": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
+   "headline": "2026 NFL midseason award rankings: MVP picks, top rookies, OPOY, DPOY, coaches",
+   "summary": "Joe Burrow for MVP? Arvell Reese as the DROY? Hardware for Jaxon Smith-Njigba and Will Anderson Jr.? We ranked the top contenders to win eight NFL awards through Week 9.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50452792/2026-midseason-awards-ranking-mvp-rookies-coaches-barnwell",
+   "players": []
+  },
+  {
+   "headline": "Why 2-7 Jets preferred to keep roster intact at trade deadline",
+   "summary": "A year after making two blockbuster trades, New York stayed quiet at the NFL trade deadline.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50454225/jets-2026-trade-deadline-garrett-wilson-geno-smith",
    "players": [
-    "Daniel Jones",
-    "Jonathan Taylor"
+    "Will McDonald IV",
+    "Breece Hall",
+    "Garrett Wilson"
+   ]
+  },
+  {
+   "headline": "Does Packers' Christian Watson + Matthew Golden = 3,000 yards?",
+   "summary": "Watson and Golden are on pace to join a rare club of WR pairs who combined for 3,000 yards.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50455566/packers-christian-watson-matthew-golden-3000-yards",
+   "players": [
+    "Christian Watson",
+    "Matthew Golden"
+   ]
+  },
+  {
+   "headline": "How Kobe, LeBron, Steph and Brady are helping Jayden Daniels chase greatness",
+   "summary": "The Commanders QB has tapped into some of sports' all-time greats like Brady and LeBron in search of an edge.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50453988/kobe-lebron-steph-brady-tips-commanders-jayden-daniels",
+   "players": [
+    "Jayden Daniels",
+    "Stephen Curry",
+    "LeBron James",
+    "Matthew Stafford",
+    "Draymond Green"
    ]
   },
   {
    "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
    "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-   "published": "2026-11-11",
+   "published": "2026-11-12",
    "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
    "players": []
   },
   {
-   "headline": "Fantasy football free agent pickups: Mendoza, Douglas, Estime among top options",
-   "summary": "Eric Karabell lists the top available players in most leagues, including the No. 1 pick in the draft.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50431710/fantasy-football-waivers-free-agent-pickups-nfl-week-10",
+   "headline": "Sources: Broncos-Chargers trade nixed due to concerns over Daiyan Henley's knee",
+   "summary": "The Broncos announced late Wednesday that their trade to acquire linebacker Daiyan Henley from the Chargers \"will not be finalized.\"",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50459330/broncos-say-trade-chargers-lb-henley-not-finalized",
    "players": [
+    "Daiyan Henley"
+   ]
+  },
+  {
+   "headline": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports",
+   "summary": "Jordan Reid updated his rankings for the 2027 NFL draft class with 50 players -- including eight quarterbacks and an elite wide receiver prospect.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
+   "players": []
+  },
+  {
+   "headline": "Veteran WR Keenan Allen feeling energized by trade to 49ers",
+   "summary": "Keenan Allen said while he didn't expect to get traded, landing with a contending team in the 49ers has him feeling energized.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50456881/veteran-wr-keenan-allen-feels-energized-trade-49ers",
+   "players": [
+    "Keenan Allen"
+   ]
+  },
+  {
+   "headline": "Fantasy football matchup ranks: Upgrade Ollie Gordon II, downgrade Jordan Love",
+   "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50446940/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+   "players": [
+    "Trevor Lawrence",
+    "Jordan Love",
     "Aaron Rodgers",
+    "Bryce Young",
+    "Ollie Gordon II",
+    "Bhayshul Tuten",
+    "Woody Marks",
     "Audric Estime",
-    "Caleb Douglas",
-    "Darren Waller",
-    "Jacoby Brissett",
-    "Drew Lock",
-    "Seth McGowan",
-    "Emmett Johnson",
-    "Kaleb Johnson",
-    "Kaelon Black",
-    "Devin Singletary",
-    "Ryan Flournoy",
-    "Tank Dell",
-    "Van Jefferson",
-    "Chig Okonkwo",
-    "Juwan Johnson",
-    "Fernando Mendoza"
+    "Alvin Kamara",
+    "Ashton Jeanty",
+    "Tetairoa McMillan",
+    "Parker Washington",
+    "Zay Flowers",
+    "DK Metcalf",
+    "Drake London",
+    "Hunter Henry",
+    "TJ Hockenson"
    ]
   },
   {
-   "headline": "2026 NFL trade deadline updates: Kirk Cousins, Josh Downs on the move",
-   "summary": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-   "players": []
-  },
-  {
-   "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-   "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-   "players": []
-  },
-  {
-   "headline": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'",
-   "summary": "Giants wide receiver Malik Nabers said Tuesday he posted on social media after the game because he thought the critique from Fox play-by-play announcer Joe Davis and analyst Greg Olsen about his body language and being a bad teammate was a \"lie.\"",
-   "published": "2026-11-11",
-   "url": "https://www.espn.com/nfl/story/_/id/50446573/giants-nabers-calls-fox-analyst-olsen-body-language-criticism-lie",
+   "headline": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday",
+   "summary": "Philip Rivers is set to return to NC State, this time as head football coach, once its trustees finalizes his contract after a meeting Friday, sources said.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
    "players": [
-    "Malik Nabers"
+    "Philip Rivers"
    ]
   },
   {
-   "headline": "Fantasy football 2026 defensive depth charts",
-   "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football 2026 offensive depth charts",
-   "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-   "published": "2026-11-10",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-   "players": []
+   "headline": "Dolphins hopeful QB Malik Willis will be back this season",
+   "summary": "Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.",
+   "published": "2026-11-12",
+   "url": "https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter",
+   "players": [
+    "Malik Willis",
+    "Kyle McCord"
+   ]
   }
  ]
 }
