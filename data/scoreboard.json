@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-12T18:42:22+00:00",
+ "fetched_at": "2026-11-13T18:23:21+00:00",
  "week": 10,
  "games": [
   {
    "name": "WSH @ NYG",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-13",
    "score": {
-    "NYG": "0",
-    "WSH": "0"
+    "NYG": "21",
+    "WSH": "24"
    }
   },
   {
