@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-13T18:23:21+00:00",
+ "fetched_at": "2026-11-14T16:51:13+00:00",
  "adds": [
   {
-   "name": "Darren Waller",
-   "count": 464526
+   "name": "Emmett Johnson",
+   "count": 1119375
   },
   {
-   "name": "Konata Mumpfield",
-   "count": 422811
+   "name": "Chimere Dike",
+   "count": 287973
+  },
+  {
+   "name": "Darren Waller",
+   "count": 286362
   },
   {
    "name": "Tutu Atwell",
-   "count": 338387
+   "count": 122948
   },
   {
-   "name": "Corey Kiner",
-   "count": 314880
+   "name": "Konata Mumpfield",
+   "count": 107055
   },
   {
    "name": "Justice Hill",
-   "count": 293301
-  },
-  {
-   "name": "Chris Rodriguez Jr.",
-   "count": 228159
-  },
-  {
-   "name": "Indianapolis Colts",
-   "count": 217866
-  },
-  {
-   "name": "Ashton Dulin",
-   "count": 180999
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 163872
-  },
-  {
-   "name": "Jake Bates",
-   "count": 158544
-  },
-  {
-   "name": "Fernando Mendoza",
-   "count": 152344
-  },
-  {
-   "name": "Jordan Addison",
-   "count": 148815
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 136535
-  },
-  {
-   "name": "Jason Sanders",
-   "count": 113280
-  },
-  {
-   "name": "Mack Hollins",
-   "count": 103494
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 101544
-  },
-  {
-   "name": "Audric Estime",
-   "count": 101052
+   "count": 100746
   },
   {
    "name": "Tyler Higbee",
-   "count": 100557
+   "count": 88308
   },
   {
-   "name": "Tank Dell",
-   "count": 100232
+   "name": "Chris Rodriguez Jr.",
+   "count": 84258
   },
   {
-   "name": "Aaron Rodgers",
-   "count": 91772
+   "name": "Corey Kiner",
+   "count": 70230
   },
   {
-   "name": "New York Giants",
-   "count": 91360
+   "name": "Ashton Dulin",
+   "count": 67788
   },
   {
-   "name": "Baltimore Ravens",
-   "count": 91206
-  },
-  {
-   "name": "KC Concepcion Jr.",
-   "count": 84681
-  },
-  {
-   "name": "Austin Ekeler",
-   "count": 76876
+   "name": "Khalil Shakir",
+   "count": 53370
   },
   {
    "name": "Brenton Strange",
-   "count": 76428
+   "count": 53253
+  },
+  {
+   "name": "Hunter Henry",
+   "count": 51099
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 50720
+  },
+  {
+   "name": "Jordan Addison",
+   "count": 50283
+  },
+  {
+   "name": "Caleb Douglas",
+   "count": 49584
+  },
+  {
+   "name": "Elic Ayomanor",
+   "count": 49216
+  },
+  {
+   "name": "Tank Dell",
+   "count": 48248
+  },
+  {
+   "name": "Indianapolis Colts",
+   "count": 45939
+  },
+  {
+   "name": "Fernando Mendoza",
+   "count": 42864
+  },
+  {
+   "name": "Jordyn Tyson",
+   "count": 35264
+  },
+  {
+   "name": "CJ Daniels",
+   "count": 34176
+  },
+  {
+   "name": "Gavin Bartholomew",
+   "count": 33840
+  },
+  {
+   "name": "Zonovan Knight",
+   "count": 33230
+  },
+  {
+   "name": "Mack Hollins",
+   "count": 31713
   }
  ]
 }
