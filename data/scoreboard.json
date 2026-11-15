@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-11-14T16:51:13+00:00",
+ "fetched_at": "2026-11-15T17:34:01+00:00",
  "week": 10,
  "games": [
   {
-   "name": "WSH @ NYG",
-   "status": "Final",
-   "date": "2026-11-13",
-   "score": {
-    "NYG": "21",
-    "WSH": "24"
-   }
-  },
-  {
    "name": "NE VS DET",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "DET": "0",
-    "NE": "0"
+    "DET": "35",
+    "NE": "10"
    }
   },
   {
@@ -117,6 +108,15 @@
    "score": {
     "CIN": "0",
     "PIT": "0"
+   }
+  },
+  {
+   "name": "WSH @ NYG",
+   "status": "Final",
+   "date": "2026-11-13",
+   "score": {
+    "NYG": "21",
+    "WSH": "24"
    }
   },
   {
