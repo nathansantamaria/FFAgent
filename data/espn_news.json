@@ -1,12 +1,306 @@
 {
- "fetched_at": "2026-11-15T20:51:21+00:00",
+ "fetched_at": "2026-11-15T23:39:39+00:00",
  "articles": [
   {
    "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
+   "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
    "published": "2026-11-15",
    "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
    "players": []
+  },
+  {
+   "headline": "Browns' Deshaun Watson relishes 'special' win vs. Texans after engineering rally",
+   "summary": "Deshaun Watson, who delivered his sixth game-winning drive of the season, called the 27-24 victory over the Texans, his former team, \"definitely special.\"",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50495783/browns-deshaun-watson-savors-special-win-vs-texans",
+   "players": [
+    "Deshaun Watson"
+   ]
+  },
+  {
+   "headline": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
+   "summary": "Jordan Love and the Packers expressed their frustration after a 30-10 loss to the Vikings.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
+   "players": [
+    "Jordan Love"
+   ]
+  },
+  {
+   "headline": "Bijan Robinson: Falcons deserved boos in loss to Chiefs",
+   "summary": "Fans at Mercedes-Benz Stadium booed the Falcons after another poor offensive showing Sunday.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50495406/bijan-robinson-says-falcons-deserved-boos-loss-chiefs",
+   "players": [
+    "Bijan Robinson"
+   ]
+  },
+  {
+   "headline": "Eric Moody: Parker Washington firmly on the WR1 radar in Week 11",
+   "summary": "Eric Moody: Parker Washington firmly on the WR1 radar in Week 11",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50495228/parker-washington-firmly-wr1-radar-week-11",
+   "players": [
+    "Parker Washington"
+   ]
+  },
+  {
+   "headline": "Raiders lose TE Brock Bowers to ankle injury vs. Seahawks",
+   "summary": "Brock Bowers was ruled out of Sunday's matchup against the Seahawks after suffering a right ankle injury in the opening quarter.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50495181/raiders-lose-te-brock-bowers-ankle-injury-vs-seahawks",
+   "players": [
+    "Brock Bowers"
+   ]
+  },
+  {
+   "headline": "Why Jordyn Tyson is firmly on the flex radar",
+   "summary": "Why Jordyn Tyson is firmly on the flex radar",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50495148/why-jordyn-tyson-firmly-flex-radar",
+   "players": [
+    "Jordyn Tyson"
+   ]
+  },
+  {
+   "headline": "Should Jared Goff be in fantasy lineups each and every week?",
+   "summary": "Should Jared Goff be in fantasy lineups each and every week?",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50495090/should-jared-goff-fantasy-lineups-every-week",
+   "players": [
+    "Jared Goff"
+   ]
+  },
+  {
+   "headline": "Who are the winningest NFL coaches of all time?",
+   "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+   "players": []
+  },
+  {
+   "headline": "Adam Rank: Trevor Lawrence needs to be a must-start fantasy QB every week",
+   "summary": "Adam Rank: Trevor Lawrence needs to be a must-start fantasy QB every week",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50494901/trevor-lawrence-needs-must-start-fantasy-qb-every-week",
+   "players": [
+    "Trevor Lawrence"
+   ]
+  },
+  {
+   "headline": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
+   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
+   "players": []
+  },
+  {
+   "headline": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?",
+   "summary": "Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
+   "players": [
+    "Chuba Hubbard"
+   ]
+  },
+  {
+   "headline": "Amon-Ra St. Brown talks lederhosen, Lions' 'Human Centipede' celebration",
+   "summary": "Inspired by his mother, St. Brown paired a memorable performance with a coordinated Bavarian look alongside his Lions teammates.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50493599/amon-ra-st-brown-german-roots-lederhosen-munich",
+   "players": [
+    "Amon-Ra St Brown"
+   ]
+  },
+  {
+   "headline": "Colts' struggling offense does just enough to beat Dolphins 24-22 and snap 5-game skid",
+   "summary": "\u2014 The Indianapolis Colts got the respite they needed.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873059",
+   "players": []
+  },
+  {
+   "headline": "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South",
+   "summary": "\u2014 Chuba Hubbard gained 172 yards from scrimmage and ran for two touchdowns, and Ryan Fitzgerald's 54-yard field goal as time expired lifted the Carolina Panthers to a 20-17 victory over the New Orleans Saints on Sunday with the NFC South Division lead...",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873055",
+   "players": []
+  },
+  {
+   "headline": "Why fantasy managers should keep riding the hot hand with Patrick Mahomes",
+   "summary": "Why fantasy managers should keep riding the hot hand with Patrick Mahomes",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50494330/why-fantasy-managers-keep-riding-hot-hand-patrick-mahomes",
+   "players": [
+    "Patrick Mahomes"
+   ]
+  },
+  {
+   "headline": "Miami Dolphins vs. Indianapolis Colts Game Highlights",
+   "summary": "Miami Dolphins vs. Indianapolis Colts Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50494327/miami-dolphins-vs-indianapolis-colts-game-highlights",
+   "players": [
+    "Malik Washington",
+    "Daniel Jones",
+    "Adetomiwa Adebawore",
+    "Kyle McCord",
+    "Chris Johnson",
+    "Seth McGowan"
+   ]
+  },
+  {
+   "headline": "Kirk Cousins emotional after victory in Vikings return",
+   "summary": "Kirk Cousins emotional after victory in Vikings return",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50494318/kirk-cousins-emotional-victory-vikings-return",
+   "players": [
+    "Kirk Cousins"
+   ]
+  },
+  {
+   "headline": "Untold stories of Detroit Lions WR Amon-Ra St. Brown's German upbringing",
+   "summary": "For Amon-Ra St. Brown, Sunday's NFL game in Munich marked the ultimate convergence of his dual heritage. Here are stories that shed more light.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+   "players": [
+    "Amon-Ra St Brown",
+    "Osiris St Brown",
+    "Equanimeous St Brown"
+   ]
+  },
+  {
+   "headline": "Deshaun Watson throws for 312 yards against his old team as the Browns rally past the Texans 27-24",
+   "summary": "\u2014 Deshaun Watson can talk all he wants about how playing the Houston Texans is just another game.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873056",
+   "players": []
+  },
+  {
+   "headline": "Josh Allen powers Bills past Jets 31-12 for best start in 35 years. New York loses Geno Smith twice",
+   "summary": "\u2014 Josh Allen and the Buffalo Bills are off to the franchise's best start in 35 years.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873054",
+   "players": []
+  },
+  {
+   "headline": "Jags come out on top in offensive shootout with Titans",
+   "summary": "Jags come out on top in offensive shootout with Titans",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50494007/jags-come-top-offensive-shootout-titans",
+   "players": [
+    "Daniel Bellinger",
+    "Trevor Lawrence",
+    "Tony Pollard",
+    "Parker Washington",
+    "Bhayshul Tuten"
+   ]
+  },
+  {
+   "headline": "Kansas City Chiefs vs. Atlanta Falcons: Game Highlights",
+   "summary": "Kansas City Chiefs vs. Atlanta Falcons: Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50493995/game-highlights",
+   "players": [
+    "Andrew Armstrong",
+    "Cyrus Allen",
+    "Bijan Robinson",
+    "Emmett Johnson",
+    "Josh Downs"
+   ]
+  },
+  {
+   "headline": "Fantasy buzz: Week 10's leading scorers through Sunday's early games",
+   "summary": "Kansas City rookie Emmett Johnson stepped in for Kenneth Walker III and was one of the top fantasy scorers of Week 10.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+   "players": []
+  },
+  {
+   "headline": "Houston Texans vs. Cleveland Browns: Game Highlights",
+   "summary": "Houston Texans vs. Cleveland Browns: Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50493959/game-highlights",
+   "players": [
+    "Xavier Hutchinson",
+    "CJ Stroud",
+    "Quinshon Judkins",
+    "KC Concepcion",
+    "Deshaun Watson"
+   ]
+  },
+  {
+   "headline": "Carolina Panthers vs. New Orleans Saints: Game Highlights",
+   "summary": "Carolina Panthers vs. New Orleans Saints: Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50493957/game-highlights",
+   "players": [
+    "Alvin Kamara",
+    "Chuba Hubbard",
+    "Tyler Shough",
+    "Ryan Fitzgerald"
+   ]
+  },
+  {
+   "headline": "Mahomes throws 5 TD passes and rookie Johnson runs for 101 yards as Chiefs overwhelm Falcons 35-13",
+   "summary": "\u2014 Some new names had the Kansas City Chiefs looking very young \u2014 and very strong.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873058",
+   "players": []
+  },
+  {
+   "headline": "Trevor Lawrence lights up the Titans as the Jaguars roll 40-23 for a sixth win in 7 games",
+   "summary": "\u2014 Trevor Lawrence has found a way to play even better, and he's elevating the Jacksonville offense right along with him.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873057",
+   "players": []
+  },
+  {
+   "headline": "Kirk Cousins has triumphant return as Vikings sack Jordan Love 8 times in 30-10 win over Packers",
+   "summary": "\u2014 Kirk Cousins began his second stint with Minnesota by showing just how much of a difference he can make for the Vikings' offense.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873060",
+   "players": []
+  },
+  {
+   "headline": "Bills make easy work of Jets",
+   "summary": "Bills make easy work of Jets",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50493724/bills-make-easy-work-jets",
+   "players": [
+    "Josh Allen",
+    "James Cook III",
+    "DJ Moore"
+   ]
+  },
+  {
+   "headline": "Minnesota Vikings vs. Green Bay Packers: Game Highlights",
+   "summary": "Minnesota Vikings vs. Green Bay Packers: Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50493633/game-highlights",
+   "players": [
+    "Aaron Jones Sr",
+    "Kirk Cousins",
+    "Jordan Love"
+   ]
+  },
+  {
+   "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+   "summary": "Jets quarterback Geno Smith suffered an ankle injury in the third quarter and was replaced by rookie Cade Klubnik on Sunday at MetLife Stadium.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+   "players": [
+    "Geno Smith"
+   ]
+  },
+  {
+   "headline": "Texans lose RB Woody Marks to concussion in loss to Browns",
+   "summary": "An already short-handed Texans running back room took another hit Sunday when Woody Marks was ruled out with a concussion sustained against the Browns.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50493317/texans-lose-rb-woody-marks-concussion-browns",
+   "players": [
+    "Woody Marks"
+   ]
   },
   {
    "headline": "Fernando Mendoza steps into starting role in style, leads NFL Week 10 arrivals",
@@ -66,280 +360,6 @@
    "url": "https://www.espn.com/nfl/story/_/id/50492174/never-forget-germany-trip",
    "players": [
     "Amon-Ra St Brown"
-   ]
-  },
-  {
-   "headline": "Sources: Lions DE Aidan Hutchinson feared to have suffered significant knee injury",
-   "summary": "Lions star Aidan Hutchinson is feared to have suffered a significant injury to his right knee while celebrating a sack, sources told NFL Network.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50491838/sources-lions-hutchinson-feared-significant-knee-injury",
-   "players": [
-    "Aidan Hutchinson"
-   ]
-  },
-  {
-   "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-   "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-   "players": []
-  },
-  {
-   "headline": "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout over Patriots after Maye injured in Munich",
-   "summary": "\u2014 Amon-Ra St. Brown wore lederhosen, carried a German flag onto the field, and then went out and scored two touchdowns.",
-   "published": "2026-11-15",
-   "url": "http://www.espn.com/nfl/recap?gameId=401873053",
-   "players": []
-  },
-  {
-   "headline": "New England Patriots vs. Detroit Lions: Game Highlights",
-   "summary": "New England Patriots vs. Detroit Lions: Game Highlights",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/video/clip/_/id/50491455/game-highlights",
-   "players": [
-    "Isaac TeSlaa",
-    "Jahmyr Gibbs",
-    "Amon-Ra St Brown",
-    "Aidan Hutchinson"
-   ]
-  },
-  {
-   "headline": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
-   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football flex and superflex rankings for Week 10",
-   "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings Week 10: PPR and superflex",
-   "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: Running back",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: Wide receiver",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: Tight end",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: Quarterback",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: Kicker",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: D/ST",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 10: IDP",
-   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-   "players": []
-  },
-  {
-   "headline": "2027 NFL draft questions, latest intel, risers, CFB standouts",
-   "summary": "Is Jackson Harris the WR3 in the class? And has Boubacar Traore emerged as the No. 3 edge rusher? Here's our weekly draft spin, including top standouts.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-   "players": []
-  },
-  {
-   "headline": "Sources: Baker Mayfield's status uncertain for Bucs' Week 11 game vs. Lions",
-   "summary": "Baker Mayfield's status against the Lions in Week 11 is in question because of an injury he suffered to his foot and ankle area, sources told NFL Network.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions",
-   "players": [
-    "Baker Mayfield"
-   ]
-  },
-  {
-   "headline": "How travel issues are impacting the officials in the NFL today",
-   "summary": "How travel issues are impacting the officials in the NFL today ",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/video/clip/_/id/50490616/how-travel-issues-impacting-officials-nfl-today",
-   "players": [
-    "Patrick Mahomes"
-   ]
-  },
-  {
-   "headline": "Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same play in Munich",
-   "summary": "Patriots QB Drake Maye and Lions DE Aidan Hutchinson were injured on the same play Sunday, taking star power out of the Munich game.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50490533/patriots-drake-maye-lions-aidan-hutchinson-injured",
-   "players": [
-    "Drake Maye",
-    "Aidan Hutchinson"
-   ]
-  },
-  {
-   "headline": "How one Phil Collins song changed the 'Air' in the NFL forever",
-   "summary": "Phil Collins iconic song \u201cIn the Air Tonight\u201d blasts through NFL stadiums and players\u2019 headphones on a weekly basis. As Collins is enshrined in the Hall of Fame, players around the league react to what that song means to them.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/video/clip/_/id/50490428/how-one-phil-collins-song-changed-air-nfl-forever",
-   "players": []
-  },
-  {
-   "headline": "Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop",
-   "summary": "Four NFL officials will pull a rare double shift Sunday, officiating two games as a result of travel issues created by Friday's FAA ground stop.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop",
-   "players": []
-  },
-  {
-   "headline": "Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow",
-   "summary": "The Chiefs sought medical opinions from two renowned baseball doctors last week on Patrick Mahomes' injured elbow, sources told ESPN.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow",
-   "players": [
-    "Patrick Mahomes"
-   ]
-  },
-  {
-   "headline": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade",
-   "summary": "The Raiders had a plan to start Fernando Mendoza in Week 12 against the Browns even if they had not traded Kirk Cousins, sources told NFL Network.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50485164/sources-raiders-had-fernando-mendoza-plan-even-no-cousins-trade",
-   "players": [
-    "Fernando Mendoza"
-   ]
-  },
-  {
-   "headline": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027",
-   "summary": "The Vikings are interested in keeping Kirk Cousins as their QB next season, sources told NFL Network.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50484865/sources-vikings-want-keep-kirk-cousins-2027-season",
-   "players": [
-    "Kirk Cousins"
-   ]
-  },
-  {
-   "headline": "Steelers-Bengals odds, analysis, betting tips and recommended props",
-   "summary": "Odds, analysis and picks to help you bet Sunday's Pittsburgh Steelers-Cincinnati Bengals game.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50446201/nfl-week-10-odds-betting-picks-steelers-bengals-preview",
-   "players": [
-    "Joe Burrow",
-    "Jaylen Warren"
-   ]
-  },
-  {
-   "headline": "Ranking the top 10 Super Bowl performances by a defender",
-   "summary": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances",
-   "players": [
-    "Von Miller",
-    "Aaron Donald"
-   ]
-  },
-  {
-   "headline": "Five questions for the Jets in the second half of the season",
-   "summary": "After falling to 2-7, New York has to manage its current situation and setting up the future.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50473944/jets-five-questions-halfway-aaron-glenn-geno-smith",
-   "players": [
-    "Geno Smith",
-    "Cade Klubnik",
-    "David Bailey",
-    "Breece Hall",
-    "Braelon Allen",
-    "Garrett Wilson"
-   ]
-  },
-  {
-   "headline": "Week 10 betting preview: Analysis, best bets, TD predictions for Sunday",
-   "summary": "Our experts dive into the odds and player props for Week 10 and offer their betting tips and favorite plays.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50463729/week-10-nfl-odds-touchdown-props-best-bets-sunday-games",
-   "players": [
-    "Tutu Atwell",
-    "Tre Tucker",
-    "Geno Smith",
-    "Daniel Jones",
-    "Rico Dowdle",
-    "Jameson Williams",
-    "Chase Brown",
-    "Malik Washington",
-    "Chase Young",
-    "Chop Robinson",
-    "Grover Stewart",
-    "Bryan Cook"
-   ]
-  },
-  {
-   "headline": "Fantasy playbook: Week 10 Shadow Reports, lineup locks and projected scores",
-   "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50433086/fantasy-playbook-projections-lineup-locks-week-10-shadow",
-   "players": []
-  },
-  {
-   "headline": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
-   "summary": "Build a winning DFS lineup with our DraftKings NFL Week 10 cheat sheet identifying the best stacks and values",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50472215/draftkings-nfl-dfs-values-week-10",
-   "players": []
-  },
-  {
-   "headline": "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
-   "summary": "The New Orleans Saints activated running back Travis Etienne Jr. off injured reserve prior to their game against the Carolina Panthers, the team announced Saturday.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50483551/saints-rb-travis-etienne-activated-ir-game-vs-panthers",
-   "players": []
-  },
-  {
-   "headline": "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
-   "summary": "The Patriots placed RB TreVeyon Henderson on injured reserve while he deals with an unexplained neurological issue.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50483113/patriots-place-rb-henderson-ir-unexplained-illness",
-   "players": [
-    "TreVeyon Henderson"
-   ]
-  },
-  {
-   "headline": "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash",
-   "summary": "The Steelers have activated defensive tackle Derrick Harmon from injured reserve after he missed the past four games with a foot injury.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50482239/steelers-activate-dt-derrick-harmon-injured-reserve",
-   "players": [
-    "Derrick Harmon"
    ]
   }
  ]

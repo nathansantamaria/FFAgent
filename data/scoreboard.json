@@ -1,68 +1,32 @@
 {
- "fetched_at": "2026-11-15T20:51:21+00:00",
+ "fetched_at": "2026-11-15T23:39:39+00:00",
  "week": 10,
  "games": [
   {
-   "name": "KC @ ATL",
+   "name": "SEA @ LV",
    "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "ATL": "13",
-    "KC": "35"
+    "LV": "10",
+    "SEA": "21"
    }
   },
   {
-   "name": "HOU @ CLE",
+   "name": "LAR @ ARI",
    "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "CLE": "20",
-    "HOU": "24"
+    "ARI": "6",
+    "LAR": "34"
    }
   },
   {
-   "name": "MIN @ GB",
+   "name": "SF @ DAL",
    "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "GB": "10",
-    "MIN": "30"
-   }
-  },
-  {
-   "name": "JAX @ TEN",
-   "status": "In Progress",
-   "date": "2026-11-15",
-   "score": {
-    "TEN": "23",
-    "JAX": "30"
-   }
-  },
-  {
-   "name": "MIA @ IND",
-   "status": "In Progress",
-   "date": "2026-11-15",
-   "score": {
-    "IND": "24",
-    "MIA": "22"
-   }
-  },
-  {
-   "name": "CAR @ NO",
-   "status": "In Progress",
-   "date": "2026-11-15",
-   "score": {
-    "NO": "14",
-    "CAR": "10"
-   }
-  },
-  {
-   "name": "BUF @ NYJ",
-   "status": "In Progress",
-   "date": "2026-11-15",
-   "score": {
-    "NYJ": "12",
-    "BUF": "24"
+    "DAL": "19",
+    "SF": "31"
    }
   },
   {
@@ -75,30 +39,66 @@
    }
   },
   {
-   "name": "SEA @ LV",
-   "status": "Scheduled",
+   "name": "KC @ ATL",
+   "status": "Final",
    "date": "2026-11-15",
    "score": {
-    "LV": "0",
-    "SEA": "0"
+    "ATL": "13",
+    "KC": "35"
    }
   },
   {
-   "name": "LAR @ ARI",
-   "status": "Scheduled",
+   "name": "HOU @ CLE",
+   "status": "Final",
    "date": "2026-11-15",
    "score": {
-    "ARI": "0",
-    "LAR": "0"
+    "CLE": "27",
+    "HOU": "24"
    }
   },
   {
-   "name": "SF @ DAL",
-   "status": "Scheduled",
+   "name": "MIN @ GB",
+   "status": "Final",
    "date": "2026-11-15",
    "score": {
-    "DAL": "0",
-    "SF": "0"
+    "GB": "10",
+    "MIN": "30"
+   }
+  },
+  {
+   "name": "JAX @ TEN",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "TEN": "23",
+    "JAX": "40"
+   }
+  },
+  {
+   "name": "MIA @ IND",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "IND": "24",
+    "MIA": "22"
+   }
+  },
+  {
+   "name": "CAR @ NO",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "NO": "17",
+    "CAR": "20"
+   }
+  },
+  {
+   "name": "BUF @ NYJ",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "NYJ": "12",
+    "BUF": "31"
    }
   },
   {
