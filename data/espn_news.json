@@ -1,11 +1,113 @@
 {
- "fetched_at": "2026-11-15T17:34:01+00:00",
+ "fetched_at": "2026-11-15T20:51:21+00:00",
  "articles": [
   {
-   "headline": "Panthers QB Bryce Young leads NFL Week 10 arrivals",
+   "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
+   "summary": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
+   "players": []
+  },
+  {
+   "headline": "Fernando Mendoza steps into starting role in style, leads NFL Week 10 arrivals",
    "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
    "published": "2026-11-15",
    "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
+   "players": []
+  },
+  {
+   "headline": "Who are some QBs that fantasy managers can turn to in place of Drake Maye?",
+   "summary": "Who are some QBs that fantasy managers can turn to in place of Drake Maye?",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50492443/who-some-qbs-fantasy-managers-turn-place-drake-maye",
+   "players": [
+    "Drake Maye"
+   ]
+  },
+  {
+   "headline": "Michael Florio: Jahmyr Gibbs the definition of a fantasy MVP",
+   "summary": "Michael Florio: Jahmyr Gibbs the definition of a fantasy MVP",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50492437/jahmyr-gibbs-definition-fantasy-mvp",
+   "players": [
+    "Jahmyr Gibbs"
+   ]
+  },
+  {
+   "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
+   "summary": "Patriots quarterback Drake Maye suffered an ankle injury in Sunday's loss to the Lions.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+   "players": [
+    "Drake Maye",
+    "AJ Brown"
+   ]
+  },
+  {
+   "headline": "Is Amon-Ra St. Brown's big Week 10 a sign of things to come?",
+   "summary": "Is Amon-Ra St. Brown's big Week 10 a sign of things to come?",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50492230/is-amon-ra-st-brown-big-week-10-sign-things-come",
+   "players": [
+    "Amon-Ra St Brown"
+   ]
+  },
+  {
+   "headline": "Lions' Amon-Ra St. Brown: Germany trip one he'll 'never forget'",
+   "summary": "Amon-Ra St. Brown, who spent childhood summers visiting Germany, said Sunday after the Lions' win in Munich that this is a trip he'll \"never forget.\"",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50492174/never-forget-germany-trip",
+   "players": [
+    "Amon-Ra St Brown"
+   ]
+  },
+  {
+   "headline": "Sources: Lions DE Aidan Hutchinson feared to have suffered significant knee injury",
+   "summary": "Lions star Aidan Hutchinson is feared to have suffered a significant injury to his right knee while celebrating a sack, sources told NFL Network.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50491838/sources-lions-hutchinson-feared-significant-knee-injury",
+   "players": [
+    "Aidan Hutchinson"
+   ]
+  },
+  {
+   "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+   "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+   "players": []
+  },
+  {
+   "headline": "St. Brown and Gibbs score 2 TDs each in Lions' 35-10 rout over Patriots after Maye injured in Munich",
+   "summary": "\u2014 Amon-Ra St. Brown wore lederhosen, carried a German flag onto the field, and then went out and scored two touchdowns.",
+   "published": "2026-11-15",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873053",
+   "players": []
+  },
+  {
+   "headline": "New England Patriots vs. Detroit Lions: Game Highlights",
+   "summary": "New England Patriots vs. Detroit Lions: Game Highlights",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50491455/game-highlights",
+   "players": [
+    "Isaac TeSlaa",
+    "Jahmyr Gibbs",
+    "Amon-Ra St Brown",
+    "Aidan Hutchinson"
+   ]
+  },
+  {
+   "headline": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
+   "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
    "players": []
   },
   {
@@ -79,36 +181,12 @@
    "players": []
   },
   {
-   "headline": "Fantasy football Week 10 inactives: Who's in and who's out?",
-   "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
-   "players": []
-  },
-  {
-   "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
-   "summary": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-   "players": []
-  },
-  {
    "headline": "Sources: Baker Mayfield's status uncertain for Bucs' Week 11 game vs. Lions",
    "summary": "Baker Mayfield's status against the Lions in Week 11 is in question because of an injury he suffered to his foot and ankle area, sources told NFL Network.",
    "published": "2026-11-15",
    "url": "https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions",
    "players": [
     "Baker Mayfield"
-   ]
-  },
-  {
-   "headline": "What Hutchinson, Maye injuries mean for Lions, Patriots",
-   "summary": "What Hutchinson, Maye injuries mean for Lions, Patriots",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/video/clip/_/id/50490679/what-hutchinson-maye-injuries-mean-lions-patriots",
-   "players": [
-    "Aidan Hutchinson",
-    "Drake Maye"
    ]
   },
   {
@@ -131,8 +209,15 @@
    ]
   },
   {
+   "headline": "How one Phil Collins song changed the 'Air' in the NFL forever",
+   "summary": "Phil Collins iconic song \u201cIn the Air Tonight\u201d blasts through NFL stadiums and players\u2019 headphones on a weekly basis. As Collins is enshrined in the Hall of Fame, players around the league react to what that song means to them.",
+   "published": "2026-11-15",
+   "url": "https://www.espn.com/video/clip/_/id/50490428/how-one-phil-collins-song-changed-air-nfl-forever",
+   "players": []
+  },
+  {
    "headline": "Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop",
-   "summary": "Four NFL officials will pull a rare double shift Sunday, officiating two different games as a result of travel issues created by Friday's FAA ground stop.",
+   "summary": "Four NFL officials will pull a rare double shift Sunday, officiating two games as a result of travel issues created by Friday's FAA ground stop.",
    "published": "2026-11-15",
    "url": "https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop",
    "players": []
@@ -255,98 +340,6 @@
    "url": "https://www.espn.com/nfl/story/_/id/50482239/steelers-activate-dt-derrick-harmon-injured-reserve",
    "players": [
     "Derrick Harmon"
-   ]
-  },
-  {
-   "headline": "DE Danielle Hunter, LB Azeez Al-Shaair among Texans ruled out vs. Browns",
-   "summary": "The Texans will be without a number of key starters -- including running back David Montgomery and All-Pro defensive end Danielle Hunter -- when they travel to face the Browns.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50481864/rb-montgomery-de-hunter-texans-ruled-vs-browns",
-   "players": [
-    "Azeez Al-Shaair",
-    "Danielle Hunter",
-    "David Montgomery",
-    "Keylan Rutledge",
-    "Marvin Harrison Jr"
-   ]
-  },
-  {
-   "headline": "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "summary": "Panthers wide receiver Xavier Legette, sidelined since injuring his knee in a Week 2 blowout win over the Falcons, has been activated from injured reserve.",
-   "published": "2026-11-15",
-   "url": "https://www.espn.com/nfl/story/_/id/50481450/panthers-xavier-legette-week-2-activated-ir",
-   "players": [
-    "Xavier Legette"
-   ]
-  },
-  {
-   "headline": "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "summary": "Kansas City rookie Emmett Johnson is expected to be thrust into a starting role for Week 10 with Kenneth Walker III ruled out.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-   "players": [
-    "Emmett Johnson",
-    "Kenneth Walker III",
-    "Corey Kiner",
-    "Kaelon Black"
-   ]
-  },
-  {
-   "headline": "NFL Week 10 betting odds: Lines and totals for every game",
-   "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-   "players": []
-  },
-  {
-   "headline": "Chiefs' Kenneth Walker III (groin) to sit out vs. Falcons",
-   "summary": "Chiefs running back Kenneth Walker III will miss Sunday's game due to a groin injury.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
-   "players": [
-    "Kenneth Walker III"
-   ]
-  },
-  {
-   "headline": "NFL reassigns backup refs to work games closer to home",
-   "summary": "The NFL, trying to avoid further travel issues from Friday's FAA ground stop, has reassigned officials to Week 10 games within driving distance of their homes.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50479995/nfl-reassigns-backup-refs-work-games-closer-home",
-   "players": []
-  },
-  {
-   "headline": "Sources: Vikings made initial Kirk Cousins trade call to Raiders before MNF",
-   "summary": "The Vikings initially reached out to the Raiders about a Kirk Cousins trade before their MNF game against the Bills, sources told ESPN and NFL Network.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50479874/sources-vikings-first-called-kirk-cousins-mnf",
-   "players": [
-    "Kirk Cousins"
-   ]
-  },
-  {
-   "headline": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "summary": "Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers? Trick play from the Raiders? Let's predict 15 things for Week 10.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026",
-   "players": []
-  },
-  {
-   "headline": "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "summary": "Atlanta wanted to ensure trading away Jessie Bates III didn't send the wrong message to the team.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50473666/atlanta-falcons-trade-deadline-jessie-bates-morale",
-   "players": [
-    "Michael Penix Jr",
-    "Jessie Bates III"
-   ]
-  },
-  {
-   "headline": "Why the Raiders named Fernando Mendoza as the starter",
-   "summary": "The Raiders named Fernando Mendoza as the starter shortly after trading Kirk Cousins to the Vikings.",
-   "published": "2026-11-14",
-   "url": "https://www.espn.com/nfl/story/_/id/50466331/las-vegas-raiders-why-fernando-mendoza-starting",
-   "players": [
-    "Fernando Mendoza"
    ]
   }
  ]

@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-11-15T17:34:01+00:00",
+ "fetched_at": "2026-11-15T20:51:21+00:00",
  "week": 10,
  "games": [
   {
-   "name": "NE VS DET",
+   "name": "KC @ ATL",
    "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "DET": "35",
-    "NE": "10"
-   }
-  },
-  {
-   "name": "KC @ ATL",
-   "status": "Scheduled",
-   "date": "2026-11-15",
-   "score": {
-    "ATL": "0",
-    "KC": "0"
+    "ATL": "13",
+    "KC": "35"
    }
   },
   {
    "name": "HOU @ CLE",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "CLE": "0",
-    "HOU": "0"
+    "CLE": "20",
+    "HOU": "24"
    }
   },
   {
    "name": "MIN @ GB",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "GB": "0",
-    "MIN": "0"
+    "GB": "10",
+    "MIN": "30"
    }
   },
   {
    "name": "JAX @ TEN",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "TEN": "0",
-    "JAX": "0"
+    "TEN": "23",
+    "JAX": "30"
    }
   },
   {
    "name": "MIA @ IND",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "IND": "0",
-    "MIA": "0"
+    "IND": "24",
+    "MIA": "22"
    }
   },
   {
    "name": "CAR @ NO",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "NO": "0",
-    "CAR": "0"
+    "NO": "14",
+    "CAR": "10"
    }
   },
   {
    "name": "BUF @ NYJ",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-15",
    "score": {
-    "NYJ": "0",
-    "BUF": "0"
+    "NYJ": "12",
+    "BUF": "24"
+   }
+  },
+  {
+   "name": "NE VS DET",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "DET": "35",
+    "NE": "10"
    }
   },
   {

@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-15T17:34:01+00:00",
+ "fetched_at": "2026-11-15T20:51:21+00:00",
  "adds": [
   {
    "name": "Emmett Johnson",
-   "count": 1477323
+   "count": 730134
   },
   {
    "name": "Chimere Dike",
-   "count": 782604
+   "count": 672930
   },
   {
    "name": "Justice Hill",
-   "count": 379764
+   "count": 381951
   },
   {
    "name": "Darren Waller",
-   "count": 324288
-  },
-  {
-   "name": "Chris Rodriguez Jr.",
-   "count": 246996
+   "count": 286263
   },
   {
    "name": "Tyler Higbee",
-   "count": 199044
+   "count": 211257
   },
   {
    "name": "Tutu Atwell",
-   "count": 151683
+   "count": 201873
+  },
+  {
+   "name": "Chris Rodriguez Jr.",
+   "count": 199827
   },
   {
    "name": "Tank Dell",
-   "count": 133752
+   "count": 129184
   },
   {
    "name": "Caleb Douglas",
-   "count": 124416
+   "count": 123224
   },
   {
    "name": "Indianapolis Colts",
-   "count": 112398
-  },
-  {
-   "name": "Brenton Strange",
-   "count": 98559
+   "count": 106380
   },
   {
    "name": "Elic Ayomanor",
-   "count": 96628
-  },
-  {
-   "name": "Corey Kiner",
-   "count": 95934
-  },
-  {
-   "name": "Gavin Bartholomew",
-   "count": 91377
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 87472
-  },
-  {
-   "name": "Zonovan Knight",
-   "count": 87436
-  },
-  {
-   "name": "Khalil Shakir",
-   "count": 83457
-  },
-  {
-   "name": "Ashton Dulin",
-   "count": 81873
-  },
-  {
-   "name": "Darnell Washington",
-   "count": 79120
+   "count": 94644
   },
   {
    "name": "Fernando Mendoza",
-   "count": 75096
+   "count": 92568
+  },
+  {
+   "name": "Brenton Strange",
+   "count": 91719
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 91716
+  },
+  {
+   "name": "Gavin Bartholomew",
+   "count": 89541
+  },
+  {
+   "name": "Darnell Washington",
+   "count": 82595
+  },
+  {
+   "name": "Seth McGowan",
+   "count": 80896
   },
   {
    "name": "Konata Mumpfield",
-   "count": 69165
+   "count": 77517
   },
   {
-   "name": "Jadarian Price",
-   "count": 68733
+   "name": "Khalil Shakir",
+   "count": 77202
+  },
+  {
+   "name": "Zonovan Knight",
+   "count": 76164
+  },
+  {
+   "name": "Quentin Johnston",
+   "count": 72464
+  },
+  {
+   "name": "Ryan Fitzgerald",
+   "count": 69825
+  },
+  {
+   "name": "Ashton Dulin",
+   "count": 69057
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 68072
   },
   {
    "name": "Colby Parkinson",
-   "count": 63408
-  },
-  {
-   "name": "Jakobi Meyers",
-   "count": 62724
-  },
-  {
-   "name": "Tyler Bass",
-   "count": 61905
+   "count": 67434
   }
  ]
 }
