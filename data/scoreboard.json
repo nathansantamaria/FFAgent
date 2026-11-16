@@ -1,32 +1,23 @@
 {
- "fetched_at": "2026-11-15T23:39:39+00:00",
+ "fetched_at": "2026-11-16T20:49:01+00:00",
  "week": 10,
  "games": [
   {
-   "name": "SEA @ LV",
-   "status": "In Progress",
-   "date": "2026-11-15",
+   "name": "LAC @ BAL",
+   "status": "Scheduled",
+   "date": "2026-11-17",
    "score": {
-    "LV": "10",
-    "SEA": "21"
+    "BAL": "0",
+    "LAC": "0"
    }
   },
   {
-   "name": "LAR @ ARI",
-   "status": "In Progress",
-   "date": "2026-11-15",
+   "name": "WSH @ NYG",
+   "status": "Final",
+   "date": "2026-11-13",
    "score": {
-    "ARI": "6",
-    "LAR": "34"
-   }
-  },
-  {
-   "name": "SF @ DAL",
-   "status": "In Progress",
-   "date": "2026-11-15",
-   "score": {
-    "DAL": "19",
-    "SF": "31"
+    "NYG": "21",
+    "WSH": "24"
    }
   },
   {
@@ -102,30 +93,39 @@
    }
   },
   {
+   "name": "SEA @ LV",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "LV": "13",
+    "SEA": "21"
+   }
+  },
+  {
+   "name": "LAR @ ARI",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "ARI": "6",
+    "LAR": "34"
+   }
+  },
+  {
+   "name": "SF @ DAL",
+   "status": "Final",
+   "date": "2026-11-15",
+   "score": {
+    "DAL": "40",
+    "SF": "46"
+   }
+  },
+  {
    "name": "PIT @ CIN",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-16",
    "score": {
-    "CIN": "0",
-    "PIT": "0"
-   }
-  },
-  {
-   "name": "WSH @ NYG",
-   "status": "Final",
-   "date": "2026-11-13",
-   "score": {
-    "NYG": "21",
-    "WSH": "24"
-   }
-  },
-  {
-   "name": "LAC @ BAL",
-   "status": "Scheduled",
-   "date": "2026-11-17",
-   "score": {
-    "BAL": "0",
-    "LAC": "0"
+    "CIN": "38",
+    "PIT": "18"
    }
   }
  ]
