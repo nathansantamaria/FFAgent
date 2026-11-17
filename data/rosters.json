@@ -1,76 +1,76 @@
 {
- "fetched_at": "2026-11-17T04:56:24+00:00",
+ "fetched_at": "2026-11-17T19:38:07+00:00",
  "league_id": "1400160155982639104",
- "week": 10,
+ "week": 11,
  "standings": [
+  {
+   "team": "The Come Back",
+   "wins": 3,
+   "losses": 7,
+   "pf": 1210.1,
+   "waiver_position": 1
+  },
   {
    "team": "BobbiWasabi",
    "wins": 4,
-   "losses": 5,
-   "pf": 1099.7,
-   "waiver_position": 1
+   "losses": 6,
+   "pf": 1251.28,
+   "waiver_position": 2
   },
   {
    "team": "zay4209",
    "wins": 4,
-   "losses": 5,
-   "pf": 1222.38,
-   "waiver_position": 2
+   "losses": 6,
+   "pf": 1293.42,
+   "waiver_position": 3
   },
   {
    "team": "BmoreKidd",
    "wins": 4,
-   "losses": 5,
-   "pf": 1237.2,
-   "waiver_position": 3
+   "losses": 6,
+   "pf": 1335.42,
+   "waiver_position": 4
   },
   {
    "team": "Scorpiondemon90",
    "wins": 5,
-   "losses": 4,
-   "pf": 1073.22,
-   "waiver_position": 4
+   "losses": 5,
+   "pf": 1229.2,
+   "waiver_position": 5
   },
   {
    "team": "Run@TellThat",
    "wins": 5,
-   "losses": 4,
-   "pf": 1186.38,
-   "waiver_position": 5
-  },
-  {
-   "team": "jaybeezy2ezy",
-   "wins": 8,
-   "losses": 1,
-   "pf": 1427.72,
+   "losses": 5,
+   "pf": 1276.98,
    "waiver_position": 6
   },
   {
-   "team": "The Come Back",
-   "wins": 2,
-   "losses": 7,
-   "pf": 1101.8,
+   "team": "BitcoinBucs",
+   "wins": 5,
+   "losses": 5,
+   "pf": 1382.86,
    "waiver_position": 7
   },
   {
    "team": "Artificial Domination",
-   "wins": 4,
+   "wins": 5,
    "losses": 5,
-   "pf": 1215.7,
+   "pf": 1392.56,
    "waiver_position": 8
   },
   {
-   "team": "BitcoinBucs",
-   "wins": 4,
-   "losses": 5,
-   "pf": 1209.9,
+   "team": "JMann60",
+   "wins": 6,
+   "losses": 4,
+   "pf": 1320.14,
    "waiver_position": 9
   },
   {
-   "team": "JMann60",
-   "wins": 5,
-   "losses": 4,
-   "pf": 1175.66,
+   "team": "jaybeezy2ezy",
+   "wins": 9,
+   "losses": 1,
+   "pf": 1608.68,
    "waiver_position": 10
   }
  ],
