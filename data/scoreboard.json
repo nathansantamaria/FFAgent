@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-16T20:49:01+00:00",
+ "fetched_at": "2026-11-17T04:56:24+00:00",
  "week": 10,
  "games": [
   {
    "name": "LAC @ BAL",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-17",
    "score": {
-    "BAL": "0",
-    "LAC": "0"
+    "BAL": "20",
+    "LAC": "23"
    }
   },
   {

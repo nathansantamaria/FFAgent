@@ -1,9 +1,138 @@
 {
- "fetched_at": "2026-11-16T20:49:01+00:00",
+ "fetched_at": "2026-11-17T04:56:24+00:00",
  "articles": [
   {
-   "headline": "Packers' Matt LaFleur still plans on Micah Parsons to return on Thanksgiving eve",
-   "summary": "The Packers still hope Micah Parsons will be ready to make his return for the Thanksgiving eve game at the Rams in Week 12.",
+   "headline": "Justin Herbert, defense helps lift Chargers past Ravens on MNF",
+   "summary": "The Chargers' defense stifles Baltimore's running backs, and Justin Herbert steps up in Los Angeles' first win.",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+   "players": [
+    "Justin Herbert",
+    "Zay Flowers"
+   ]
+  },
+  {
+   "headline": "Chargers bully the Ravens at the line of scrimmage and earn their first win of the season, 23-20",
+   "summary": "\u2014 Justin Herbert and Omarion Hampton ran for first-half touchdowns, and the Los Angeles Chargers earned their first win of the season, manhandling Baltimore at the line of scrimmage in a 23-20 victory over the Ravens on Monday night.",
+   "published": "2026-11-17",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873065",
+   "players": []
+  },
+  {
+   "headline": "Chargers stun Ravens, pick up first win on MNF",
+   "summary": "Chargers stun Ravens, pick up first win on MNF",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/video/clip/_/id/50507744/chargers-stun-ravens-pick-first-win-mnf",
+   "players": [
+    "Tarheeb Still",
+    "Justin Herbert",
+    "Derrick Henry",
+    "Omarion Hampton"
+   ]
+  },
+  {
+   "headline": "Bo Nix and Eli do some quality trolling of Peyton's rushing game",
+   "summary": "Bo Nix and Eli do some quality trolling of Peyton's rushing game",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/video/clip/_/id/50507501/bo-nix-eli-do-some-quality-trolling-peyton-rushing-game",
+   "players": [
+    "Bo Nix",
+    "Peyton Manning",
+    "Eli Manning"
+   ]
+  },
+  {
+   "headline": "Rams center Coleman Shelton out 4-6 weeks with hamstring injury",
+   "summary": "Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
+   "players": [
+    "Coleman Shelton"
+   ]
+  },
+  {
+   "headline": "Mike McCarthy on Steelers' blowout loss: 'Needs to stop there'",
+   "summary": "After a deflating loss at Cincinnati, Pittsburgh faces a Week 11 gut-check game at the Eagles on Sunday.",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50505946/mike-mccarthy-pittsburgh-steelers-week-10-blowout-loss",
+   "players": [
+    "Patrick Queen",
+    "Troy Fautanu"
+   ]
+  },
+  {
+   "headline": "Fan makes a fantastic catch to send himself to Super Bowl LXI",
+   "summary": "Fan makes a fantastic catch to send himself to Super Bowl LXI",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/video/clip/_/id/50506334/fan-makes-fantastic-catch-send-super-bowl-lxi",
+   "players": []
+  },
+  {
+   "headline": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+   "summary": "Imaging tests performed on Jets quarterback Geno Smith's injured left ankle did not reveal any major concerns, sources said Monday.",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+   "players": [
+    "Geno Smith",
+    "Cade Klubnik"
+   ]
+  },
+  {
+   "headline": "Kyle Hamilton rocks Christmas sweater ahead of 'MNF,' leads NFL Week 10 arrivals",
+   "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+   "published": "2026-11-16",
+   "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+   "players": []
+  },
+  {
+   "headline": "Behind Raiders fans' tribute to Fernando Mendoza's mother",
+   "summary": "Tom Joanides' social media campaign became a meaningful tribute when Mendoza scored in his first NFL start.",
+   "published": "2026-11-16",
+   "url": "https://www.espn.com/nfl/story/_/id/50504017/raiders-fans-seated-fernando-mendoza-touchdown-tribute",
+   "players": [
+    "Fernando Mendoza"
+   ]
+  },
+  {
+   "headline": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
+   "summary": "Bears running back Kyle Monangai said Monday that he's \"on track\" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe.",
+   "published": "2026-11-16",
+   "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
+   "players": [
+    "Kyle Monangai"
+   ]
+  },
+  {
+   "headline": "49ers WR Mike Evans' Achilles tendinitis injury explained",
+   "summary": "ESPN spoke with a medical professional for a better understanding of Evans' diagnosis. When could he return? And will the injury completely resolve itself?",
+   "published": "2026-11-17",
+   "url": "https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery",
+   "players": [
+    "Mike Evans"
+   ]
+  },
+  {
+   "headline": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
+   "summary": "Seahawks coach Mike Macdonald is \"optimistic\" QB Sam Darnold will return to his starting role after the team's bye week.",
+   "published": "2026-11-16",
+   "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
+   "players": [
+    "Sam Darnold",
+    "Drew Lock"
+   ]
+  },
+  {
+   "headline": "Adam Schefter: Micah Parsons on track to return for Packers in Week 12",
+   "summary": "Adam Schefter: Micah Parsons on track to return for Packers in Week 12",
+   "published": "2026-11-16",
+   "url": "https://www.espn.com/video/clip/_/id/50504435/micah-parsons-track-return-packers-week-12",
+   "players": [
+    "Micah Parsons"
+   ]
+  },
+  {
+   "headline": "Packers' Matt LaFleur still plans on Micah Parsons to return on Thanksgiving Eve",
+   "summary": "The Packers still hope Micah Parsons will be ready to make his return for the Thanksgiving Eve game at the Rams in Week 12.",
    "published": "2026-11-16",
    "url": "https://www.espn.com/nfl/story/_/id/50504228/lafleur-plans-parsons-return-thanksgiving-eve",
    "players": [
@@ -103,10 +232,11 @@
   {
    "headline": "Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts",
    "summary": "The Dolphins waived kicker Zane Gonzalez on Monday, a day after he missed two field goals and an extra point in a 24-22 loss to the Colts.",
-   "published": "2026-11-16",
+   "published": "2026-11-17",
    "url": "https://www.espn.com/nfl/story/_/id/50502391/dolphins-cut-kicker-zane-gonzalez-day-costly-misses",
    "players": [
-    "Zane Gonzalez"
+    "Zane Gonzalez",
+    "Zeek Biggers"
    ]
   },
   {
@@ -281,122 +411,6 @@
    "players": [
     "Jacoby Brissett"
    ]
-  },
-  {
-   "headline": "Sources: Lions' Aidan Hutchinson out for season with knee injury",
-   "summary": "Lions star Aidan Hutchinson is out for the season with what initial tests showed to be a torn ACL in his right knee, sources told NFL Network.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50501291/sources-aidan-hutchinson-season-torn-acl",
-   "players": [
-    "Aidan Hutchinson"
-   ]
-  },
-  {
-   "headline": "Raiders TE Brock Bowers avoids major ankle injury, source says",
-   "summary": "Brock Bowers missed the entire second half of the Raiders' loss to the Seahawks with an ankle injury, but it is not believed to major in its severity, a source told NFL Network's Ian Rapoport.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50501232/raiders-te-brock-bowers-avoids-major-ankle-injury-source-says",
-   "players": [
-    "Brock Bowers"
-   ]
-  },
-  {
-   "headline": "Adam Schefter: Drake Maye's injury is likely season-ending",
-   "summary": "Adam Schefter: Drake Maye's injury is likely season-ending",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/video/clip/_/id/50501221/drake-maye-injury-likely-season-ending",
-   "players": [
-    "Drake Maye"
-   ]
-  },
-  {
-   "headline": "Orlovsky\u2019s problem with Hutchinson\u2019s injury from celebrating",
-   "summary": "Orlovsky\u2019s problem with Hutchinson\u2019s injury from celebrating",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/video/clip/_/id/50501190/orlovskys-problem-hutchinsons-injury-celebrating",
-   "players": [
-    "Aidan Hutchinson"
-   ]
-  },
-  {
-   "headline": "Concerns for four NFL teams on playoff bubble: Cowboys, Raiders, Texans, Patriots",
-   "summary": "The Cowboys' defense got lit up, the Patriots lost Drake Maye, the Raiders are adjusting to Fernando Mendoza, and the Texans can't find support for C.J. Stroud.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50491459/week-10-playoff-bubble-cowboys-raiders-texans-patriots",
-   "players": []
-  },
-  {
-   "headline": "Rex: Cowboys are the worst-coached defense I've ever seen",
-   "summary": "Rex: Cowboys are the worst-coached defense I've ever seen ",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/video/clip/_/id/50501155/cowboys-worst-coached-defense-ever-seen",
-   "players": []
-  },
-  {
-   "headline": "How an NFL referee crew worked two games in one day",
-   "summary": "An inside look at the 14-hour day of four referees who worked an afternoon game in Indianapolis and the Sunday night game in Cincinnati.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50497412/nfl-referee-ref-crew-two-games",
-   "players": []
-  },
-  {
-   "headline": "Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season",
-   "summary": "The Patriots are concerned that Drake Maye sustained a fractured ankle, sources told ESPN, an injury that could sideline the star QB for the rest of the season.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50500352/patriots-qb-drake-maye-leg-miss-extended-sources-say",
-   "players": [
-    "Drake Maye",
-    "Aidan Hutchinson",
-    "Tommy DeVito",
-    "AJ Brown"
-   ]
-  },
-  {
-   "headline": "Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more",
-   "summary": "Will Kirk Cousins be the difference in the NFC North? The Browns are going to the playoffs ... but not the Patriots? Patrick Mahomes for MVP and Kyle Shanahan for COY?",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50491464/week-10-overreactions-2026-graziano-cousins-mahomes",
-   "players": []
-  },
-  {
-   "headline": "How Chargers' Harbaugh, Ravens' Minter can revive seasons",
-   "summary": "Los Angeles stands at 0-8 on the season while Baltimore deals with its worst three-game stretch in team history.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50471544/chargers-jim-harbaugh-ravens-jesse-minter-week-10",
-   "players": []
-  },
-  {
-   "headline": "Patriots need to fix defensive effort -- especially if Drake Maye misses time",
-   "summary": "New England has given up 80 points over the past two games. The bye week will allow the team to reset.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50497417/patriots-defense-struggles-lions-drake-maye",
-   "players": [
-    "Drake Maye",
-    "Christian Gonzalez"
-   ]
-  },
-  {
-   "headline": "Giants QB J.J. McCarthy's growth is showing in the numbers",
-   "summary": "After only three starts and four games playing for New York, the quarterback's numbers are staggering.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/50491685/new-york-giants-qb-jj-mccarthy-growth-showing-week-10",
-   "players": [
-    "JJ McCarthy"
-   ]
-  },
-  {
-   "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-   "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-   "players": []
-  },
-  {
-   "headline": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-   "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-   "published": "2026-11-16",
-   "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-   "players": []
   }
  ]
 }

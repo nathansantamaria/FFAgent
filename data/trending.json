@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-16T20:49:01+00:00",
+ "fetched_at": "2026-11-17T04:56:24+00:00",
  "adds": [
   {
-   "name": "Quentin Johnston",
-   "count": 283010
-  },
-  {
-   "name": "Justice Hill",
-   "count": 222921
-  },
-  {
-   "name": "Jordyn Tyson",
-   "count": 213056
-  },
-  {
-   "name": "Seth McGowan",
-   "count": 203952
-  },
-  {
    "name": "Xavier Hutchinson",
-   "count": 190561
+   "count": 270396
   },
   {
    "name": "Michael Mayer",
-   "count": 174006
+   "count": 234585
+  },
+  {
+   "name": "Seth McGowan",
+   "count": 226480
+  },
+  {
+   "name": "Jordyn Tyson",
+   "count": 203368
+  },
+  {
+   "name": "Quentin Johnston",
+   "count": 161805
   },
   {
    "name": "Ryan Flournoy",
-   "count": 139928
+   "count": 142904
   },
   {
-   "name": "Emmett Johnson",
-   "count": 131562
+   "name": "Justice Hill",
+   "count": 140481
   },
   {
-   "name": "Fernando Mendoza",
-   "count": 114040
+   "name": "Mark Andrews",
+   "count": 109782
   },
   {
    "name": "Pat Bryant",
-   "count": 82624
+   "count": 102728
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 88605
   },
   {
    "name": "Kaelon Black",
-   "count": 80374
+   "count": 73367
   },
   {
    "name": "Deshaun Watson",
-   "count": 79328
-  },
-  {
-   "name": "Gavin Bartholomew",
-   "count": 71199
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 63392
-  },
-  {
-   "name": "Tampa Bay Buccaneers",
-   "count": 55985
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 55972
-  },
-  {
-   "name": "Alvin Kamara",
-   "count": 54160
-  },
-  {
-   "name": "Dohnte Meyers",
-   "count": 53163
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 48992
-  },
-  {
-   "name": "Elic Ayomanor",
-   "count": 48364
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 47552
-  },
-  {
-   "name": "Darren Waller",
-   "count": 47394
-  },
-  {
-   "name": "Tyler Higbee",
-   "count": 44505
+   "count": 72248
   },
   {
    "name": "Detroit Lions",
-   "count": 44397
+   "count": 70974
   },
   {
-   "name": "Darnell Washington",
-   "count": 43210
+   "name": "Gavin Bartholomew",
+   "count": 67176
+  },
+  {
+   "name": "Caleb Douglas",
+   "count": 62232
+  },
+  {
+   "name": "Elic Ayomanor",
+   "count": 57148
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 52885
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 51576
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 49320
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 42816
+  },
+  {
+   "name": "Brenton Strange",
+   "count": 41823
+  },
+  {
+   "name": "Alvin Kamara",
+   "count": 40904
+  },
+  {
+   "name": "Darren Waller",
+   "count": 40815
+  },
+  {
+   "name": "Jacory Croskey-Merritt",
+   "count": 39591
+  },
+  {
+   "name": "Bo Nix",
+   "count": 39558
   }
  ]
 }
