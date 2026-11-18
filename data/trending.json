@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-17T19:38:07+00:00",
+ "fetched_at": "2026-11-18T10:53:10+00:00",
  "adds": [
   {
    "name": "Michael Mayer",
-   "count": 1104363
+   "count": 1961991
   },
   {
    "name": "Xavier Hutchinson",
-   "count": 916363
-  },
-  {
-   "name": "Seth McGowan",
-   "count": 571104
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 568184
-  },
-  {
-   "name": "Mark Andrews",
-   "count": 529407
-  },
-  {
-   "name": "Jordyn Tyson",
-   "count": 514520
+   "count": 1746087
   },
   {
    "name": "Pat Bryant",
-   "count": 508592
+   "count": 1093848
+  },
+  {
+   "name": "Mark Andrews",
+   "count": 994770
+  },
+  {
+   "name": "Ryan Flournoy",
+   "count": 958896
+  },
+  {
+   "name": "Seth McGowan",
+   "count": 896760
   },
   {
    "name": "Detroit Lions",
-   "count": 461367
+   "count": 872568
   },
   {
-   "name": "Chase McLaughlin",
-   "count": 246928
-  },
-  {
-   "name": "Bo Nix",
-   "count": 246546
+   "name": "Jordyn Tyson",
+   "count": 728792
   },
   {
    "name": "Elic Ayomanor",
-   "count": 218356
-  },
-  {
-   "name": "Cairo Santos",
-   "count": 208866
+   "count": 711388
   },
   {
    "name": "Jacory Croskey-Merritt",
-   "count": 192285
+   "count": 526806
+  },
+  {
+   "name": "Bo Nix",
+   "count": 437334
+  },
+  {
+   "name": "Cairo Santos",
+   "count": 401562
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 345200
   },
   {
    "name": "Kaelon Black",
-   "count": 191191
-  },
-  {
-   "name": "Justice Hill",
-   "count": 178650
-  },
-  {
-   "name": "Caleb Douglas",
-   "count": 168088
+   "count": 320250
   },
   {
    "name": "David Montgomery",
-   "count": 151626
+   "count": 298380
   },
   {
-   "name": "Tampa Bay Buccaneers",
-   "count": 139930
+   "name": "Caleb Douglas",
+   "count": 288648
   },
   {
-   "name": "Emmett Johnson",
-   "count": 136863
-  },
-  {
-   "name": "Gavin Bartholomew",
-   "count": 132066
-  },
-  {
-   "name": "Kirk Cousins",
-   "count": 129040
-  },
-  {
-   "name": "C.J. Stroud",
-   "count": 127218
+   "name": "Justice Hill",
+   "count": 263385
   },
   {
    "name": "Adonai Mitchell",
-   "count": 123584
+   "count": 250328
   },
   {
-   "name": "Darren Waller",
-   "count": 112500
+   "name": "Courtland Sutton",
+   "count": 242676
   },
   {
-   "name": "Mike Gesicki",
-   "count": 110340
+   "name": "Gavin Bartholomew",
+   "count": 237132
+  },
+  {
+   "name": "Kyle Monangai",
+   "count": 205140
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 202355
+  },
+  {
+   "name": "Chimere Dike",
+   "count": 197730
+  },
+  {
+   "name": "Kenny Gainwell",
+   "count": 194944
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 190312
   }
  ]
 }

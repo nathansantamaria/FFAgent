@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T19:38:07+00:00",
+ "fetched_at": "2026-11-18T10:53:10+00:00",
  "league_id": "1400160155982639104",
  "week": 11,
  "standings": [
@@ -25,45 +25,45 @@
    "waiver_position": 3
   },
   {
-   "team": "BmoreKidd",
-   "wins": 4,
-   "losses": 6,
-   "pf": 1335.42,
-   "waiver_position": 4
-  },
-  {
    "team": "Scorpiondemon90",
    "wins": 5,
    "losses": 5,
    "pf": 1229.2,
-   "waiver_position": 5
-  },
-  {
-   "team": "Run@TellThat",
-   "wins": 5,
-   "losses": 5,
-   "pf": 1276.98,
-   "waiver_position": 6
-  },
-  {
-   "team": "BitcoinBucs",
-   "wins": 5,
-   "losses": 5,
-   "pf": 1382.86,
-   "waiver_position": 7
-  },
-  {
-   "team": "Artificial Domination",
-   "wins": 5,
-   "losses": 5,
-   "pf": 1392.56,
-   "waiver_position": 8
+   "waiver_position": 4
   },
   {
    "team": "JMann60",
    "wins": 6,
    "losses": 4,
    "pf": 1320.14,
+   "waiver_position": 5
+  },
+  {
+   "team": "BmoreKidd",
+   "wins": 4,
+   "losses": 6,
+   "pf": 1335.42,
+   "waiver_position": 6
+  },
+  {
+   "team": "Artificial Domination",
+   "wins": 5,
+   "losses": 5,
+   "pf": 1392.56,
+   "waiver_position": 7
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 5,
+   "losses": 5,
+   "pf": 1276.98,
+   "waiver_position": 8
+  },
+  {
+   "team": "BitcoinBucs",
+   "wins": 5,
+   "losses": 5,
+   "pf": 1382.86,
    "waiver_position": 9
   },
   {
@@ -74,7 +74,7 @@
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 8,
+ "my_waiver_position": 7,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -89,19 +89,19 @@
   "Tutu Atwell",
   "George Pickens",
   "Chris Olave",
+  "Michael Mayer",
   "Jaxon Smith-Njigba",
-  "Tank Dell",
   "Houston Texans"
  ],
  "my_starters": [
   "Jayden Daniels",
+  "Jonah Coleman",
   "Tony Pollard",
-  "Jadarian Price",
-  "Jaxon Smith-Njigba",
+  "Ryan Flournoy",
   "Chris Olave",
   "Harold Fannin Jr.",
   "George Pickens",
-  "Tutu Atwell",
+  "Jaylen Waddle",
   "Brandon Aubrey",
   "Houston Texans"
  ],
@@ -119,20 +119,19 @@
    "Tutu Atwell",
    "George Pickens",
    "Chris Olave",
+   "Michael Mayer",
    "Jaxon Smith-Njigba",
-   "Tank Dell",
    "Houston Texans"
   ],
   "The Come Back": [
    "Caleb Williams",
    "Braelon Allen",
    "Jalen Coker",
-   "Corey Kiner",
    "Omarion Hampton",
    "Denzel Boston",
+   "A.J. Brown",
    "D'Andre Swift",
    "Tyler Bass",
-   "Travis Etienne Jr.",
    "Amon-Ra St. Brown",
    "Nico Collins",
    "Tyler Allgeier",
@@ -168,8 +167,8 @@
    "Jeremiyah Love",
    "Emmett Johnson",
    "Patrick Mahomes",
-   "A.J. Brown",
    "Matt Gay",
+   "Travis Etienne Jr.",
    "Drake London",
    "Trey McBride",
    "James Cook III",
@@ -183,16 +182,16 @@
    "Emeka Egbuka",
    "Tetairoa McMillan",
    "Stefon Diggs",
-   "Jason Myers",
    "Matthew Stafford",
    "Joe Burrow",
    "Chuba Hubbard",
    "Rhamondre Stevenson",
+   "Evan McPherson",
    "Wan'Dale Robinson",
    "Kenneth Walker III",
    "Jahmyr Gibbs",
    "Parker Washington",
-   "Washington Commanders"
+   "Buffalo Bills"
   ],
   "BobbiWasabi": [
    "Bo Nix",
@@ -229,25 +228,25 @@
    "New England Patriots"
   ],
   "Run@TellThat": [
+   "Jake Bates",
    "Bucky Irving",
    "Matthew Golden",
    "Tyler Warren",
-   "Trey Smack",
+   "Caleb Douglas",
    "Dak Prescott",
    "T.J. Hockenson",
    "Jordan Love",
    "Rico Dowdle",
    "Romeo Doubs",
    "Khalil Shakir",
-   "Rachaad White",
    "Jameson Williams",
    "Chase Brown",
    "Puka Nacua",
    "Jordan Addison",
+   "Chicago Bears",
    "Green Bay Packers"
   ],
   "BmoreKidd": [
-   "Drake Maye",
    "Spencer Shrader",
    "Woody Marks",
    "Omar Cooper Jr.",
@@ -262,19 +261,20 @@
    "Breece Hall",
    "Jaylen Warren",
    "Josh Downs",
+   "C.J. Stroud",
    "Baltimore Ravens"
   ],
   "BitcoinBucs": [
    "Rome Odunze",
    "Malik Nabers",
    "Will Reichard",
+   "Kyle Monangai",
    "Germie Bernard",
+   "Antonio Williams",
    "Kaelon Black",
    "Christian McCaffrey",
-   "Chris Godwin Jr.",
    "George Kittle",
    "DeVonta Smith",
-   "Zonovan Knight",
    "Isaiah Likely",
    "Garrett Wilson",
    "Brock Purdy",
