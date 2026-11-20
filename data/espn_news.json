@@ -1,149 +1,275 @@
 {
- "fetched_at": "2026-11-19T19:21:30+00:00",
+ "fetched_at": "2026-11-20T18:57:56+00:00",
  "articles": [
   {
-   "headline": "Pass rush part of the focus for the Saints and Bears going into Sunday's game",
-   "summary": "\u2014 Carl Granderson and Chase Young form a potent 1-2 punch on defense for the New Orleans Saints. Jeffery Simmons is a force on the defensive line for the Chicago Bears.",
-   "published": "2026-11-19",
-   "url": "http://www.espn.com/nfl/preview?gameId=401873071",
+   "headline": "Fantasy playbook: Week 11 Shadow Reports, lineup locks and projected scores",
+   "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50510451/fantasy-playbook-projections-lineup-locks-week-11-shadow",
    "players": []
   },
   {
-   "headline": "Chiefs are flying high but can ill afford to overlook the lowly Cardinals when they meet Sunday",
-   "summary": "\u2014 If ever there was a time for an NFL team to overlook somebody, it just might be Sunday afternoon at Arrowhead Stadium, where the Kansas City Chiefs will continue their pursuit of another AFC West title against the injured, downtrodden Arizona...",
-   "published": "2026-11-19",
-   "url": "http://www.espn.com/nfl/preview?gameId=401873067",
-   "players": []
-  },
-  {
-   "headline": "Vikings-49ers matchup in Mexico features the best defense vs. the best offense",
-   "summary": "When Brock Purdy last walked off the field after playing Minnesota in 2024, he sought out Vikings defensive coordinator Brian Flores an complimented him on...",
-   "published": "2026-11-19",
-   "url": "http://www.espn.com/nfl/preview?gameId=401873077",
-   "players": []
-  },
-  {
-   "headline": "Vikings' Cousins channeling D'Antonio's 'slow down' maxim amid whirlwind month",
-   "summary": "As he manages the whirlwind of his professional and personal life this month, Vikings QB Kirk Cousins has relied on a maxim he often heard from his college coach Mark D'Antonio at Michigan State -- when things speed up, try to slow down.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50532748/vikings-cousins-channeling-dantonio-maxim-amid-whirlwind-month",
+   "headline": "Shane Steichen announces Daniel Jones' release from Colts",
+   "summary": "Shane Steichen announces Daniel Jones' release from Colts",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50542311/shane-steichen-announces-daniel-jones-release-colts",
    "players": [
-    "Kirk Cousins"
+    "Daniel Jones"
    ]
   },
   {
-   "headline": "Studies: Blood test has potential to detect CTE in the living",
-   "summary": "A new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent published studies.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50532686/studies-blood-test-potential-detect-cte-living",
+   "headline": "Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019",
+   "summary": "Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50542310/colts-couldve-shouldve-traded-him",
+   "players": [
+    "Daniel Jones",
+    "Pat McAfee"
+   ]
+  },
+  {
+   "headline": "Colts release QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+   "summary": "The Colts have released quarterback Daniel Jones and are turning to Anthony Richardson Sr. to start going forward, coach Shane Steichen announced.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+   "players": [
+    "Daniel Jones",
+    "Anthony Richardson Sr"
+   ]
+  },
+  {
+   "headline": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit",
+   "summary": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
    "players": []
+  },
+  {
+   "headline": "Rapoport: Rams expect Puka to be out for season after knee surgery",
+   "summary": "Rapoport: Rams expect Puka to be out for season after knee surgery",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50542115/rams-expect-puka-for-season-knee-surgery",
+   "players": [
+    "Puka Nacua",
+    "Pat McAfee"
+   ]
+  },
+  {
+   "headline": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday",
+   "summary": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
+   "players": [
+    "Josh Downs",
+    "Christian McCaffrey",
+    "Ashton Jeanty",
+    "Chimere Dike",
+    "Parker Washington",
+    "Jahmyr Gibbs",
+    "Jayden Daniels"
+   ]
+  },
+  {
+   "headline": "Pat McAfee sees no hope for Colts' future",
+   "summary": "Pat McAfee sees no hope for Colts' future",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50542049/pat-mcafee-sees-no-hope-colts-future",
+   "players": [
+    "Pat McAfee"
+   ]
+  },
+  {
+   "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+   "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+   "players": [
+    "Puka Nacua"
+   ]
+  },
+  {
+   "headline": "Need fantasy football trade deadline advice? Join our live Q&A, noon ET",
+   "summary": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50530738/fantasy-football-start-sit-lineup-advice-week-11",
+   "players": []
+  },
+  {
+   "headline": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
+   "summary": "Build a winning DFS lineup with our DraftKings NFL Week 11 cheat sheet identifying the best stacks and values",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50541944/draftkings-nfl-dfs-values-week-11",
+   "players": []
+  },
+  {
+   "headline": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
+   "summary": "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\"",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+   "players": [
+    "Marlon Humphrey"
+   ]
+  },
+  {
+   "headline": "Draft buzz: Interest in Oklahoma State's Drew Mestemaker could spur draft trade",
+   "summary": "If the Titans or Chargers wind up with the No. 1 selection and stick with their franchise quarterbacks, interest in Oklahoma State's Drew Mestemaker could lead to a team seeking to trade up for the top overall pick.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50541939/draft-buzz-mestemaker-spur-auction-no-1-pick",
+   "players": []
+  },
+  {
+   "headline": "Bayless: I'm closing my eyes and taking Arch Manning at No. 1 in NFL draft",
+   "summary": " Bayless: I'm closing my eyes and taking Arch Manning at No. 1 in NFL draft",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541756/closing-my-eyes-taking-arch-manning-no-1-nfl-draft",
+   "players": [
+    "Arch Manning"
+   ]
+  },
+  {
+   "headline": "Stephen A. can't hide his dismay over Skip's Cowboys optimism",
+   "summary": "Stephen A. can't hide his dismay over Skip's Cowboys optimism ",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541702/stephen-hide-dismay-skip-cowboys-optimism",
+   "players": []
+  },
+  {
+   "headline": "Mike Clay: Tyler Warren is not startable in fantasy",
+   "summary": "Mike Clay: Tyler Warren is not startable in fantasy",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541586/tyler-warren-not-startable-fantasy",
+   "players": [
+    "Tyler Warren"
+   ]
+  },
+  {
+   "headline": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
+   "summary": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541578/why-stephen-thinks-special-joe-burrow-mvp-front-runner",
+   "players": [
+    "Joe Burrow"
+   ]
+  },
+  {
+   "headline": "Yates, Clay disagree over Ollie Gordon II in Week 11",
+   "summary": "Yates, Clay disagree over Ollie Gordon II in Week 11",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541547/yates-clay-disagree-ollie-gordon-ii-week-11",
+   "players": [
+    "Ollie Gordon II"
+   ]
+  },
+  {
+   "headline": "Field Yates voices his concerns for Saquon Barkley in fantasy",
+   "summary": "Field Yates voices his concerns for Saquon Barkley in fantasy",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541498/field-yates-voices-concerns-saquon-barkley-fantasy",
+   "players": [
+    "Saquon Barkley"
+   ]
+  },
+  {
+   "headline": "Why Field Yates is elevating Omarion Hampton in Week 11",
+   "summary": "Why Field Yates is elevating Omarion Hampton in Week 11",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541489/why-field-yates-elevating-omarion-hampton-week-11",
+   "players": [
+    "Omarion Hampton"
+   ]
+  },
+  {
+   "headline": "Why Stephen A. is picking the Vikings to beat the 49ers on SNF",
+   "summary": "Why Stephen A. is picking the Vikings to beat the 49ers on SNF",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541437/why-stephen-picking-vikings-beat-49ers-snf",
+   "players": []
+  },
+  {
+   "headline": "Peyton Manning enshrined in ESPN Fantasy Football Hall of Fame",
+   "summary": "Peyton Manning, who retired as the top scorer of the ESPN fantasy football era, is the latest inductee in the ESPN Fantasy Football Hall of Fame.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50541172/fantasy-football-hall-fame-peyton-manning",
+   "players": []
+  },
+  {
+   "headline": "Dan Orlovsky: C.J. Stroud is a top-5 AFC QB",
+   "summary": "Dan Orlovsky: C.J. Stroud is a top-5 AFC QB",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50541129/cj-stroud-top-5-afc-qb",
+   "players": [
+    "CJ Stroud"
+   ]
+  },
+  {
+   "headline": "Can the Broncos continue winning run vs. the Raiders?",
+   "summary": "Can the Broncos continue winning run vs. the Raiders?",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/video/clip/_/id/50540924/can-broncos-continue-winning-run-vs-raiders",
+   "players": [
+    "Bo Nix"
+   ]
   },
   {
    "headline": "Fantasy football rankings Week 11: PPR and superflex",
    "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
    "players": []
   },
   {
    "headline": "Fantasy football rankings for Week 11: Running back",
    "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506844/nfl-fantasy-football-rankings-2026-rb-running-back",
    "players": []
   },
   {
    "headline": "Fantasy football rankings for Week 11: Wide receiver",
    "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506830/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-   "players": []
-  },
-  {
-   "headline": "Fantasy football rankings for Week 11: Quarterback",
-   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506858/nfl-fantasy-football-rankings-2026-qb-quarterback",
    "players": []
   },
   {
    "headline": "Fantasy football rankings for Week 11: Tight end",
    "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506810/nfl-fantasy-football-rankings-2026-te-tight-end",
    "players": []
   },
   {
-   "headline": "Fantasy football rankings for Week 11: IDP",
-   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50505155/nfl-fantasy-football-rankings-2026-idp",
+   "headline": "Fantasy football rankings for Week 11: D/ST",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506789/nfl-fantasy-football-rankings-2026-dst-defense",
+   "players": []
+  },
+  {
+   "headline": "Fantasy football rankings for Week 11: Quarterback",
+   "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506858/nfl-fantasy-football-rankings-2026-qb-quarterback",
    "players": []
   },
   {
    "headline": "Fantasy football rankings for Week 11: Kicker",
    "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506759/nfl-fantasy-football-rankings-2026-k-kicker",
    "players": []
   },
   {
-   "headline": "Christian Bale: You don't get many people like Al Davis",
-   "summary": "Christian Bale: You don't get many people like Al Davis",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50532442/get-many-people-al-davis",
+   "headline": "Fantasy football rankings for Week 11: IDP",
+   "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50505155/nfl-fantasy-football-rankings-2026-idp",
    "players": []
   },
   {
-   "headline": "Ravens' DC supports decision to set Marlon Humphrey as inactive vs. Panthers",
-   "summary": "Ravens' DC supports decision to set Marlon Humphrey as inactive vs. Panthers",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50532410/ravens-dc-supports-decision-set-marlon-humphrey-inactive-vs-panthers",
-   "players": [
-    "Marlon Humphrey"
-   ]
-  },
-  {
-   "headline": "Sources: Broncos sign CB Riley Moss to four-year extension",
-   "summary": "The Broncos locked up a key piece of their secondary by signing cornerback Riley Moss to a four-year extension, sources said.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50532392/sources-broncos-sign-cb-riley-moss-four-year-extension",
-   "players": [
-    "Riley Moss"
-   ]
-  },
-  {
-   "headline": "Whether it's against backup QBs or not, the Bills' defense is rolling",
-   "summary": "Buffalo will face another backup QB in Week 11 with Kyle McCord set to start in place of Malik Willis for the Dolphins.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50531689/bills-defense-backup-qbs-amani-hooker",
-   "players": [
-    "Josh Allen",
-    "Amani Hooker",
-    "Greg Rousseau",
-    "Ed Oliver"
-   ]
-  },
-  {
-   "headline": "Ravens send CB Humphrey home, say he'll be inactive after 'criminals' comment",
-   "summary": "The Ravens have sent cornerback Marlon Humphrey home from the facility, and he will be inactive for Sunday's game against the Panthers.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50532199/ravens-send-marlon-humphrey-home-say-inactive",
-   "players": [
-    "Marlon Humphrey"
-   ]
-  },
-  {
-   "headline": "Bill Belichick, Robert Kraft named Hall of Fame finalists for 2nd straight year",
-   "summary": "Bill Belichick and Robert Kraft have both advanced to the final round of voting for the Pro Football Hall of Fame for the second straight year.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50532254/belichick-kraft-finalists-again-pro-football-hall-fame",
-   "players": []
-  },
-  {
-   "headline": "Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11",
-   "summary": "Michael F. Florio offers his favorite fantasy stats so far this season ahead of Week 11.",
-   "published": "2026-11-19",
+   "headline": "Fantasy buzz: Stroud has Houston fans over the moon, Colts continue to crumble",
+   "summary": "Adam Rank waxes nostalgic about Houston football and the reinvigorated C.J. Stroud.",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
    "players": [
     "Rhamondre Stevenson",
@@ -190,204 +316,96 @@
    ]
   },
   {
-   "headline": "Colts-Texans odds, best bets: Is Houston laying too many points?",
-   "summary": "Odds, analysis and recommended plays to help you bet Thursday's Colts-Texans game.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50436635/nfl-week-11-odds-colts-texans-betting-preview-props",
-   "players": [
-    "Nico Collins",
-    "Seth McGowan"
-   ]
-  },
-  {
    "headline": "Fantasy football flex and superflex rankings for Week 11",
    "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
-   "published": "2026-11-19",
+   "published": "2026-11-20",
    "url": "https://www.espn.com/fantasy/football/story/_/id/50507366/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
    "players": []
   },
   {
-   "headline": "'A walking atrocity!' Stephen A. can't even laugh about Cowboys' defense",
-   "summary": "'A walking atrocity!' Stephen A. can't even laugh about Cowboys' defense",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531854/a-walking-atrocity-stephen-even-laugh-cowboys-defense",
-   "players": []
-  },
-  {
-   "headline": "'Protect yourself': Stephen A. implores Skattebo to end backflips",
-   "summary": "'Protect yourself': Stephen A. implores Skattebo to end backflips",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531780/stephen-implores-skattebo-end-backflips",
+   "headline": "Fantasy football: Don't be surprised if Likely is TE1, Gainwell finishes strong",
+   "summary": "Eric Karabell explains why the Giants' TE could top the position and the Bucs' No. 2 RB will finish strong.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50532737/fantasy-football-start-sit-sleepers-breakouts-week-10",
    "players": [
-    "Cam Skattebo"
+    "Isaiah Likely",
+    "Kenny Gainwell",
+    "Deshaun Watson"
    ]
   },
   {
-   "headline": "Why Field Yates recommends benching Emeka Egbuka in Week 11",
-   "summary": "Why Field Yates recommends benching Emeka Egbuka in Week 11",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531721/why-field-yates-recommends-benching-emeka-egbuka-week-11",
+   "headline": "Fantasy football last-minute pickups: Flournoy, Ayomanor among top candidates",
+   "summary": "There is no busier bye week than this one. Matt Bowen lists potential options if you need a fill-in.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50532835/fantasy-football-streamers-last-minute-pickups-week-11",
    "players": [
-    "Emeka Egbuka"
-   ]
-  },
-  {
-   "headline": "Does Jordyn Tyson's emergence hurt Chris Olave's fantasy value?",
-   "summary": "Does Jordyn Tyson's emergence hurt Chris Olave's fantasy value?",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531709/does-jordyn-tyson-emergence-hurt-chris-olave-fantasy-value",
-   "players": [
-    "Chris Olave",
-    "Jordyn Tyson"
-   ]
-  },
-  {
-   "headline": "Can Tony Pollard keep up his hot fantasy play in Week 11?",
-   "summary": "Can Tony Pollard keep up his hot fantasy play in Week 11?",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531699/can-tony-pollard-keep-hot-fantasy-play-week-11",
-   "players": [
-    "Tony Pollard"
-   ]
-  },
-  {
-   "headline": "Why Mike Clay says Caleb Williams is not a lineup lock in Week 11",
-   "summary": "Why Mike Clay says Caleb Williams is not a lineup lock in Week 11",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531502/why-mike-clay-says-caleb-williams-not-lineup-lock-week-11",
-   "players": [
-    "Caleb Williams"
-   ]
-  },
-  {
-   "headline": "What Stephen A. is looking to see from Vikings in 'litmus test' vs. 49ers",
-   "summary": "What Stephen A. is looking to see from Vikings in 'litmus test' vs. 49ers",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531471/what-stephen-looking-see-vikings-litmus-test-vs-49ers",
-   "players": []
-  },
-  {
-   "headline": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
-   "summary": "Can the Bengals succeed in the postseason with a pass-heavy offense?",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/video/clip/_/id/50531470/can-bengals-succeed-postseason-pass-heavy-offense",
-   "players": [
-    "Taylor Lewan"
-   ]
-  },
-  {
-   "headline": "Revisiting sports and pop culture from GTA V's launch",
-   "summary": "\"Grand Theft Auto VI\" was released Thursday following a 13-year wait since GTA V.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nba/story/_/id/50526626/gta-sports-pop-culture-look-back",
-   "players": []
-  },
-  {
-   "headline": "Fantasy playbook: Week 11 Shadow Reports, lineup locks and projected scores",
-   "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50510451/fantasy-playbook-projections-lineup-locks-week-11-shadow",
-   "players": []
-  },
-  {
-   "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-   "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
-   "players": []
-  },
-  {
-   "headline": "Which of these 15 pass catchers should you trust going forward?",
-   "summary": "A look at wide receivers and tight ends who have become start-worthy, and others you should expect less from.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50520521/fantasy-football-trade-value-start-sit-wr-te",
-   "players": [
-    "Stefon Diggs",
-    "DJ Moore",
-    "Harold Fannin Jr",
-    "Parker Washington",
-    "Jordyn Tyson",
-    "Josh Downs",
-    "Jalen Coker",
-    "Tyler Warren",
-    "DK Metcalf",
-    "Emeka Egbuka",
-    "AJ Brown",
-    "Trey McBride",
-    "Deebo Samuel Sr",
+    "Ryan Flournoy",
+    "Adonai Mitchell",
+    "Elic Ayomanor",
+    "Caleb Douglas",
+    "Antonio Williams",
     "Malachi Fields",
-    "Antonio Williams"
+    "Cam Ward",
+    "Aaron Rodgers",
+    "Kaelon Black",
+    "Justice Hill",
+    "Chig Okonkwo",
+    "Michael Mayer"
    ]
   },
   {
-   "headline": "Are there actually 32 true starting quarterbacks in the NFL at any given time?",
-   "summary": "Finding legit quarterbacks can be tough, and many people think there aren't even enough true QB1s to fill the league's 32 QB1 spots. Is there any validity to that?",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50521968/how-many-starting-quarterbacks-32-teams-talent-barnwell",
+   "headline": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye",
+   "summary": "Adam Rank catches you up on the vital information and insights before you make your toughest lineup decisions.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know",
+   "players": [
+    "Gunnar Helm",
+    "Mike Gesicki",
+    "Dalton Kincaid",
+    "Caleb Douglas",
+    "Garrett Wilson",
+    "Pat Bryant",
+    "George Pickens",
+    "Kyle Monangai",
+    "Emmett Johnson",
+    "Tony Pollard",
+    "Jonah Coleman",
+    "Bo Nix",
+    "Patrick Mahomes",
+    "Cam Ward"
+   ]
+  },
+  {
+   "headline": "NFL offseason free agent and trade acquisitions that have and have not worked",
+   "summary": "Kenneth Walker III and Devin Lloyd look great with their new teams in 2026. But Jaylen Waddle and Alontae Taylor haven't quite found their groove.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams",
+   "players": [
+    "Kirk Cousins",
+    "Kenneth Walker III",
+    "Mike Evans",
+    "Quincy Williams",
+    "Devin Lloyd",
+    "Jaylen Waddle",
+    "Cole Strange",
+    "Chig Okonkwo",
+    "L'Jarius Sneed",
+    "Alontae Taylor"
+   ]
+  },
+  {
+   "headline": "NFL field director Nick Pappas tested by 9 international games",
+   "summary": "Nick Pappas is the man charged with making sure international venues are up to standard to host NFL games.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games",
    "players": []
   },
   {
-   "headline": "Midseason reports on every NFL team's offensive coordinator, playcaller",
-   "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report",
+   "headline": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+   "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
+   "published": "2026-11-20",
+   "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
    "players": []
-  },
-  {
-   "headline": "Falcons seek change, but keep ending up in the same spot",
-   "summary": "Mediocre record, questions at quarterback, rinse, repeat. Maybe next year the Falcons can start making progress.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50524413/falcons-matt-ryan-michael-penix-kevin-stefanski",
-   "players": [
-    "Bijan Robinson",
-    "Michael Penix Jr"
-   ]
-  },
-  {
-   "headline": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-   "summary": "Daniel Jones has some of the worst numbers in the NFL, yet Anthony Richardson can't get on the field for the woeful Colts.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-   "players": [
-    "Anthony Richardson Sr",
-    "Daniel Jones"
-   ]
-  },
-  {
-   "headline": "Monroe Freeling, Lee Hunter top Panthers' rookie report at Week 11",
-   "summary": "Will this year's draft class have a major impact on Carolina's second half of the season and potential postseason?",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50517510/freeling-hunter-top-panthers-rookie-report-week-11",
-   "players": [
-    "Monroe Freeling",
-    "Lee Hunter",
-    "Will Lee III",
-    "Chris Brazzell II",
-    "Sam Hecht",
-    "Zakee Wheatley",
-    "Jackson Kuwatch",
-    "Aaron Hall"
-   ]
-  },
-  {
-   "headline": "How Houston has banded together through backbreaking losses and adversity",
-   "summary": "Houston enters \"Thursday Night Football\" against the Indianapolis Colts with a 32.4% chance of making the playoffs.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50502967/texans-playoff-hopes-kamari-lassiter-cj-stroud",
-   "players": [
-    "Kamari Lassiter",
-    "CJ Stroud",
-    "Will Anderson Jr"
-   ]
-  },
-  {
-   "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
-   "summary": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
-   "published": "2026-11-19",
-   "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought",
-   "players": [
-    "Nick Bosa"
-   ]
   }
  ]
 }
