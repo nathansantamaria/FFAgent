@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-20T18:57:56+00:00",
+ "fetched_at": "2026-11-21T17:52:45+00:00",
  "adds": [
   {
-   "name": "Detroit Lions",
-   "count": 521667
-  },
-  {
    "name": "Chimere Dike",
-   "count": 441036
-  },
-  {
-   "name": "Cairo Santos",
-   "count": 363279
-  },
-  {
-   "name": "Xavier Hutchinson",
-   "count": 268485
-  },
-  {
-   "name": "Michael Mayer",
-   "count": 238662
-  },
-  {
-   "name": "Chris Rodriguez Jr.",
-   "count": 210186
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 196344
-  },
-  {
-   "name": "Justice Hill",
-   "count": 195219
-  },
-  {
-   "name": "Mark Andrews",
-   "count": 184293
-  },
-  {
-   "name": "Elic Ayomanor",
-   "count": 178888
-  },
-  {
-   "name": "Ryan Flournoy",
-   "count": 147512
-  },
-  {
-   "name": "Seth McGowan",
-   "count": 144536
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 140448
-  },
-  {
-   "name": "Bo Nix",
-   "count": 121098
+   "count": 224739
   },
   {
    "name": "Adonai Mitchell",
-   "count": 112024
+   "count": 166464
   },
   {
-   "name": "Tampa Bay Buccaneers",
-   "count": 107835
+   "name": "Justice Hill",
+   "count": 135720
+  },
+  {
+   "name": "Michael Mayer",
+   "count": 117135
+  },
+  {
+   "name": "Pat Bryant",
+   "count": 105704
+  },
+  {
+   "name": "Mark Andrews",
+   "count": 103113
+  },
+  {
+   "name": "Detroit Lions",
+   "count": 94815
+  },
+  {
+   "name": "Chris Rodriguez Jr.",
+   "count": 80649
+  },
+  {
+   "name": "Cairo Santos",
+   "count": 75236
+  },
+  {
+   "name": "Konata Mumpfield",
+   "count": 67239
+  },
+  {
+   "name": "Dawson Knox",
+   "count": 67014
+  },
+  {
+   "name": "Elic Ayomanor",
+   "count": 65956
   },
   {
    "name": "Jacory Croskey-Merritt",
-   "count": 103167
-  },
-  {
-   "name": "Gavin Bartholomew",
-   "count": 101088
-  },
-  {
-   "name": "Jake Bates",
-   "count": 96232
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 95496
-  },
-  {
-   "name": "Courtland Sutton",
-   "count": 93636
+   "count": 57519
   },
   {
    "name": "Brenton Strange",
-   "count": 91962
+   "count": 53901
   },
   {
-   "name": "Fernando Mendoza",
-   "count": 86216
+   "name": "Ryan Flournoy",
+   "count": 51760
   },
   {
-   "name": "Jason Sanders",
-   "count": 85375
+   "name": "Samaje Perine",
+   "count": 51256
   },
   {
-   "name": "Joey Slye",
-   "count": 82260
+   "name": "Darren Waller",
+   "count": 50841
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 50728
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 49176
+  },
+  {
+   "name": "Kenny Gainwell",
+   "count": 48448
+  },
+  {
+   "name": "Terrance Ferguson",
+   "count": 47448
+  },
+  {
+   "name": "Courtland Sutton",
+   "count": 42255
+  },
+  {
+   "name": "Mason Taylor",
+   "count": 37485
+  },
+  {
+   "name": "Kyle Monangai",
+   "count": 36000
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 35840
   }
  ]
 }
