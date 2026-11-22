@@ -1,37 +1,28 @@
 {
- "fetched_at": "2026-11-21T17:52:45+00:00",
+ "fetched_at": "2026-11-22T18:14:41+00:00",
  "week": 11,
  "games": [
   {
-   "name": "IND @ HOU",
-   "status": "Final",
-   "date": "2026-11-20",
-   "score": {
-    "HOU": "26",
-    "IND": "3"
-   }
-  },
-  {
    "name": "MIA @ BUF",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
-    "BUF": "0",
+    "BUF": "3",
     "MIA": "0"
    }
   },
   {
    "name": "NO @ CHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
-    "CHI": "0",
+    "CHI": "3",
     "NO": "0"
    }
   },
   {
    "name": "TEN @ DAL",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
     "DAL": "0",
@@ -40,7 +31,7 @@
   },
   {
    "name": "TB @ DET",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
     "DET": "0",
@@ -49,29 +40,29 @@
   },
   {
    "name": "ARI @ KC",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
-    "KC": "0",
+    "KC": "7",
     "ARI": "0"
    }
   },
   {
    "name": "PIT @ PHI",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
-    "PHI": "0",
+    "PHI": "3",
     "PIT": "0"
    }
   },
   {
    "name": "BAL @ CAR",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
     "CAR": "0",
-    "BAL": "0"
+    "BAL": "2"
    }
   },
   {
@@ -108,6 +99,15 @@
    "score": {
     "SF": "0",
     "MIN": "0"
+   }
+  },
+  {
+   "name": "IND @ HOU",
+   "status": "Final",
+   "date": "2026-11-20",
+   "score": {
+    "HOU": "26",
+    "IND": "3"
    }
   },
   {
