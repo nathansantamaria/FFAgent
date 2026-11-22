@@ -1,82 +1,19 @@
 {
- "fetched_at": "2026-11-22T18:14:41+00:00",
+ "fetched_at": "2026-11-22T21:35:16+00:00",
  "week": 11,
  "games": [
   {
-   "name": "MIA @ BUF",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "BUF": "3",
-    "MIA": "0"
-   }
-  },
-  {
-   "name": "NO @ CHI",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "CHI": "3",
-    "NO": "0"
-   }
-  },
-  {
-   "name": "TEN @ DAL",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "DAL": "0",
-    "TEN": "0"
-   }
-  },
-  {
-   "name": "TB @ DET",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "DET": "0",
-    "TB": "0"
-   }
-  },
-  {
-   "name": "ARI @ KC",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "KC": "7",
-    "ARI": "0"
-   }
-  },
-  {
-   "name": "PIT @ PHI",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "PHI": "3",
-    "PIT": "0"
-   }
-  },
-  {
-   "name": "BAL @ CAR",
-   "status": "In Progress",
-   "date": "2026-11-22",
-   "score": {
-    "CAR": "0",
-    "BAL": "2"
-   }
-  },
-  {
    "name": "NYJ @ LAC",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
-    "LAC": "0",
-    "NYJ": "0"
+    "LAC": "3",
+    "NYJ": "3"
    }
   },
   {
    "name": "LV @ DEN",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
     "DEN": "0",
@@ -85,11 +22,74 @@
   },
   {
    "name": "JAX @ NYG",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-22",
    "score": {
     "NYG": "0",
-    "JAX": "0"
+    "JAX": "3"
+   }
+  },
+  {
+   "name": "MIA @ BUF",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "BUF": "26",
+    "MIA": "9"
+   }
+  },
+  {
+   "name": "NO @ CHI",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "CHI": "21",
+    "NO": "13"
+   }
+  },
+  {
+   "name": "TEN @ DAL",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "DAL": "51",
+    "TEN": "30"
+   }
+  },
+  {
+   "name": "TB @ DET",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "DET": "31",
+    "TB": "21"
+   }
+  },
+  {
+   "name": "ARI @ KC",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "KC": "34",
+    "ARI": "7"
+   }
+  },
+  {
+   "name": "PIT @ PHI",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "PHI": "19",
+    "PIT": "16"
+   }
+  },
+  {
+   "name": "BAL @ CAR",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "CAR": "35",
+    "BAL": "33"
    }
   },
   {
