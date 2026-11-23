@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-22T21:35:16+00:00",
+ "fetched_at": "2026-11-23T00:32:32+00:00",
  "adds": [
   {
    "name": "Michael Mayer",
-   "count": 801324
+   "count": 790254
   },
   {
    "name": "Dawson Knox",
-   "count": 422046
+   "count": 411660
   },
   {
    "name": "Chimere Dike",
-   "count": 387153
+   "count": 372609
   },
   {
    "name": "Justice Hill",
-   "count": 302211
+   "count": 322272
   },
   {
    "name": "Adonai Mitchell",
-   "count": 290456
+   "count": 273328
   },
   {
    "name": "Mason Taylor",
-   "count": 203060
+   "count": 199500
   },
   {
    "name": "Roman Wilson",
-   "count": 199809
+   "count": 188838
   },
   {
    "name": "Kenny Gainwell",
-   "count": 194128
+   "count": 185536
   },
   {
    "name": "Cairo Santos",
-   "count": 166551
+   "count": 156555
   },
   {
    "name": "Darren Waller",
-   "count": 145323
-  },
-  {
-   "name": "Pat Bryant",
-   "count": 142872
-  },
-  {
-   "name": "Mark Andrews",
-   "count": 137205
-  },
-  {
-   "name": "Chase McLaughlin",
-   "count": 134416
-  },
-  {
-   "name": "Mike Gesicki",
-   "count": 130872
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 129501
+   "count": 142911
   },
   {
    "name": "Samaje Perine",
-   "count": 129408
+   "count": 135308
+  },
+  {
+   "name": "Pat Bryant",
+   "count": 133760
+  },
+  {
+   "name": "Mike Gesicki",
+   "count": 132520
+  },
+  {
+   "name": "Konata Mumpfield",
+   "count": 132120
+  },
+  {
+   "name": "Chase McLaughlin",
+   "count": 127600
+  },
+  {
+   "name": "Mark Andrews",
+   "count": 126162
   },
   {
    "name": "Detroit Lions",
-   "count": 127215
+   "count": 119637
   },
   {
    "name": "Brenton Strange",
-   "count": 120276
-  },
-  {
-   "name": "Gunnar Helm",
-   "count": 99092
+   "count": 116478
   },
   {
    "name": "Evan Engram",
-   "count": 93720
+   "count": 99016
   },
   {
    "name": "Fernando Mendoza",
-   "count": 86016
+   "count": 96888
+  },
+  {
+   "name": "Gunnar Helm",
+   "count": 93653
+  },
+  {
+   "name": "Treylon Burks",
+   "count": 93611
   },
   {
    "name": "Courtland Sutton",
-   "count": 84897
+   "count": 81279
+  },
+  {
+   "name": "San Francisco 49ers",
+   "count": 80784
   },
   {
    "name": "Joey Slye",
-   "count": 82161
-  },
-  {
-   "name": "Jason Sanders",
-   "count": 81515
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 79632
+   "count": 80199
   }
  ]
 }
