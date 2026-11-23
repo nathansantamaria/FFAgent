@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-23T00:32:32+00:00",
+ "fetched_at": "2026-11-23T22:27:10+00:00",
  "week": 11,
  "games": [
   {
-   "name": "LV @ DEN",
-   "status": "In Progress",
-   "date": "2026-11-22",
+   "name": "CIN @ WSH",
+   "status": "Scheduled",
+   "date": "2026-11-24",
    "score": {
-    "DEN": "31",
-    "LV": "24"
+    "WSH": "0",
+    "CIN": "0"
    }
   },
   {
-   "name": "JAX @ NYG",
-   "status": "In Progress",
-   "date": "2026-11-22",
+   "name": "IND @ HOU",
+   "status": "Final",
+   "date": "2026-11-20",
    "score": {
-    "NYG": "23",
-    "JAX": "15"
+    "HOU": "26",
+    "IND": "3"
    }
   },
   {
@@ -93,30 +93,30 @@
    }
   },
   {
+   "name": "LV @ DEN",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "DEN": "38",
+    "LV": "24"
+   }
+  },
+  {
+   "name": "JAX @ NYG",
+   "status": "Final",
+   "date": "2026-11-22",
+   "score": {
+    "NYG": "23",
+    "JAX": "18"
+   }
+  },
+  {
    "name": "MIN VS SF",
-   "status": "Scheduled",
+   "status": "Final",
    "date": "2026-11-23",
    "score": {
-    "SF": "0",
-    "MIN": "0"
-   }
-  },
-  {
-   "name": "IND @ HOU",
-   "status": "Final",
-   "date": "2026-11-20",
-   "score": {
-    "HOU": "26",
-    "IND": "3"
-   }
-  },
-  {
-   "name": "CIN @ WSH",
-   "status": "Scheduled",
-   "date": "2026-11-24",
-   "score": {
-    "WSH": "0",
-    "CIN": "0"
+    "SF": "35",
+    "MIN": "10"
    }
   }
  ]
