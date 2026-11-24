@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-23T22:27:10+00:00",
+ "fetched_at": "2026-11-24T06:42:45+00:00",
  "adds": [
   {
-   "name": "Justice Hill",
-   "count": 201087
-  },
-  {
    "name": "Chris Rodriguez Jr.",
-   "count": 184167
+   "count": 319203
   },
   {
-   "name": "Fernando Mendoza",
-   "count": 102328
-  },
-  {
-   "name": "Chimere Dike",
-   "count": 89091
-  },
-  {
-   "name": "Jack Bech",
-   "count": 78004
-  },
-  {
-   "name": "Washington Commanders",
-   "count": 75782
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 52686
-  },
-  {
-   "name": "Treylon Burks",
-   "count": 50603
-  },
-  {
-   "name": "Ted Hurst III",
-   "count": 46398
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 45740
-  },
-  {
-   "name": "Evan Engram",
-   "count": 35904
-  },
-  {
-   "name": "Ladd McConkey",
-   "count": 35725
+   "name": "Justice Hill",
+   "count": 202167
   },
   {
    "name": "Jacory Croskey-Merritt",
-   "count": 33588
+   "count": 156834
   },
   {
-   "name": "San Francisco 49ers",
-   "count": 33390
+   "name": "Fernando Mendoza",
+   "count": 108120
   },
   {
-   "name": "Khalil Shakir",
-   "count": 32562
+   "name": "Washington Commanders",
+   "count": 104377
+  },
+  {
+   "name": "Jack Bech",
+   "count": 102050
+  },
+  {
+   "name": "Chimere Dike",
+   "count": 97137
+  },
+  {
+   "name": "Ted Hurst III",
+   "count": 74082
   },
   {
    "name": "New York Giants",
-   "count": 30460
+   "count": 69124
   },
   {
-   "name": "Roman Wilson",
-   "count": 30375
+   "name": "Konata Mumpfield",
+   "count": 62703
   },
   {
-   "name": "Tampa Bay Buccaneers",
-   "count": 27065
+   "name": "Samaje Perine",
+   "count": 59560
   },
   {
-   "name": "Kenny Gainwell",
-   "count": 25824
-  },
-  {
-   "name": "Devaughn Vele",
-   "count": 25235
-  },
-  {
-   "name": "Austin Ekeler",
-   "count": 20748
-  },
-  {
-   "name": "Tai Felton",
-   "count": 18678
+   "name": "Evan Engram",
+   "count": 47712
   },
   {
    "name": "Tyler Higbee",
-   "count": 18612
+   "count": 47259
   },
   {
-   "name": "Mike Gesicki",
-   "count": 17184
+   "name": "Tampa Bay Buccaneers",
+   "count": 40075
+  },
+  {
+   "name": "Cleveland Browns",
+   "count": 34797
+  },
+  {
+   "name": "Khalil Shakir",
+   "count": 32346
+  },
+  {
+   "name": "Tai Felton",
+   "count": 31470
+  },
+  {
+   "name": "Devaughn Vele",
+   "count": 31192
+  },
+  {
+   "name": "Antonio Williams",
+   "count": 29233
+  },
+  {
+   "name": "Deshaun Watson",
+   "count": 28600
+  },
+  {
+   "name": "Ladd McConkey",
+   "count": 28530
+  },
+  {
+   "name": "Roman Wilson",
+   "count": 26325
+  },
+  {
+   "name": "San Francisco 49ers",
+   "count": 25545
   },
   {
    "name": "Jason Sanders",
-   "count": 16930
+   "count": 25410
+  },
+  {
+   "name": "Kenny Gainwell",
+   "count": 25176
   }
  ]
 }

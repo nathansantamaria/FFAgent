@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-23T22:27:10+00:00",
+ "fetched_at": "2026-11-24T06:42:45+00:00",
  "week": 11,
  "games": [
-  {
-   "name": "CIN @ WSH",
-   "status": "Scheduled",
-   "date": "2026-11-24",
-   "score": {
-    "WSH": "0",
-    "CIN": "0"
-   }
-  },
   {
    "name": "IND @ HOU",
    "status": "Final",
@@ -117,6 +108,15 @@
    "score": {
     "SF": "35",
     "MIN": "10"
+   }
+  },
+  {
+   "name": "CIN @ WSH",
+   "status": "Final",
+   "date": "2026-11-24",
+   "score": {
+    "WSH": "22",
+    "CIN": "20"
    }
   }
  ]
