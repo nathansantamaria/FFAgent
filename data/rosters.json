@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T20:59:19+00:00",
+ "fetched_at": "2026-11-25T11:52:51+00:00",
  "league_id": "1400160155982639104",
  "week": 12,
  "standings": [
@@ -25,45 +25,45 @@
    "waiver_position": 3
   },
   {
-   "team": "Scorpiondemon90",
-   "wins": 5,
-   "losses": 6,
-   "pf": 1317.9,
-   "waiver_position": 4
-  },
-  {
    "team": "zay4209",
    "wins": 5,
    "losses": 6,
    "pf": 1402.88,
-   "waiver_position": 5
-  },
-  {
-   "team": "Run@TellThat",
-   "wins": 5,
-   "losses": 6,
-   "pf": 1415.68,
-   "waiver_position": 6
+   "waiver_position": 4
   },
   {
    "team": "BitcoinBucs",
    "wins": 5,
    "losses": 6,
    "pf": 1489.46,
-   "waiver_position": 7
+   "waiver_position": 5
   },
   {
    "team": "Artificial Domination",
    "wins": 6,
    "losses": 5,
    "pf": 1536.12,
-   "waiver_position": 8
+   "waiver_position": 6
   },
   {
    "team": "JMann60",
    "wins": 7,
    "losses": 4,
    "pf": 1462.4,
+   "waiver_position": 7
+  },
+  {
+   "team": "Scorpiondemon90",
+   "wins": 5,
+   "losses": 6,
+   "pf": 1317.9,
+   "waiver_position": 8
+  },
+  {
+   "team": "Run@TellThat",
+   "wins": 5,
+   "losses": 6,
+   "pf": 1415.68,
    "waiver_position": 9
   },
   {
@@ -74,7 +74,7 @@
    "waiver_position": 10
   }
  ],
- "my_waiver_position": 8,
+ "my_waiver_position": 6,
  "my_team": "Artificial Domination",
  "my_roster": [
   "Brandon Aubrey",
@@ -142,7 +142,6 @@
   ],
   "Scorpiondemon90": [
    "Tre Tucker",
-   "Xavier Hutchinson",
    "Kirk Cousins",
    "Jordyn Tyson",
    "Seth McGowan",
@@ -155,6 +154,7 @@
    "DK Metcalf",
    "Deebo Samuel Sr.",
    "Ja'Marr Chase",
+   "Anthony Richardson Sr.",
    "Minnesota Vikings",
    "Seattle Seahawks"
   ],
@@ -184,7 +184,6 @@
    "Tetairoa McMillan",
    "Stefon Diggs",
    "Matthew Stafford",
-   "Mike Gesicki",
    "Joe Burrow",
    "Chuba Hubbard",
    "Rhamondre Stevenson",
@@ -193,7 +192,8 @@
    "Kenneth Walker III",
    "Jahmyr Gibbs",
    "Parker Washington",
-   "Buffalo Bills"
+   "New York Giants",
+   "New York Jets"
   ],
   "BobbiWasabi": [
    "Bo Nix",
@@ -231,6 +231,7 @@
   ],
   "Run@TellThat": [
    "Jake Bates",
+   "Braelon Allen",
    "Bucky Irving",
    "Matthew Golden",
    "Tyler Warren",
@@ -245,7 +246,6 @@
    "Chase Brown",
    "Puka Nacua",
    "Jordan Addison",
-   "Chicago Bears",
    "Green Bay Packers"
   ],
   "BmoreKidd": [
