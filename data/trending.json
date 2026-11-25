@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-25T11:52:51+00:00",
+ "fetched_at": "2026-11-25T20:22:40+00:00",
  "adds": [
   {
    "name": "Chris Rodriguez Jr.",
-   "count": 1557684
+   "count": 1283634
   },
   {
    "name": "Washington Commanders",
-   "count": 1194060
+   "count": 1235150
   },
   {
    "name": "New York Giants",
-   "count": 592704
+   "count": 525608
   },
   {
    "name": "Justice Hill",
-   "count": 553212
-  },
-  {
-   "name": "Chimere Dike",
-   "count": 461538
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 404726
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 393327
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 384237
+   "count": 509733
   },
   {
    "name": "Deshaun Watson",
-   "count": 369776
+   "count": 472016
+  },
+  {
+   "name": "Cleveland Browns",
+   "count": 446985
+  },
+  {
+   "name": "Chimere Dike",
+   "count": 443700
+  },
+  {
+   "name": "Konata Mumpfield",
+   "count": 443250
   },
   {
    "name": "Tyler Higbee",
-   "count": 361629
+   "count": 331875
   },
   {
    "name": "Ted Hurst III",
-   "count": 325212
+   "count": 310890
   },
   {
-   "name": "Tai Felton",
-   "count": 306450
-  },
-  {
-   "name": "Fernando Mendoza",
-   "count": 272320
+   "name": "Jacory Croskey-Merritt",
+   "count": 310302
   },
   {
    "name": "Samaje Perine",
-   "count": 262536
+   "count": 309744
   },
   {
-   "name": "Jack Bech",
-   "count": 254530
+   "name": "Tai Felton",
+   "count": 286650
   },
   {
-   "name": "Dylan Sampson",
-   "count": 218585
-  },
-  {
-   "name": "Tampa Bay Buccaneers",
-   "count": 216365
+   "name": "Fernando Mendoza",
+   "count": 264480
   },
   {
    "name": "Mason Rudolph",
-   "count": 167302
+   "count": 253438
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 218500
+  },
+  {
+   "name": "Jack Bech",
+   "count": 215610
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 199225
   },
   {
    "name": "New England Patriots",
-   "count": 143339
-  },
-  {
-   "name": "Evan Engram",
-   "count": 133976
-  },
-  {
-   "name": "Antonio Williams",
-   "count": 122552
-  },
-  {
-   "name": "KC Concepcion Jr.",
-   "count": 120339
-  },
-  {
-   "name": "Jason Sanders",
-   "count": 119130
-  },
-  {
-   "name": "Omar Cooper Jr.",
-   "count": 117936
+   "count": 194866
   },
   {
    "name": "Geno Smith",
-   "count": 102024
+   "count": 146504
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "count": 133272
+  },
+  {
+   "name": "Jason Sanders",
+   "count": 131700
+  },
+  {
+   "name": "Evan Engram",
+   "count": 124264
+  },
+  {
+   "name": "KC Concepcion Jr.",
+   "count": 108612
+  },
+  {
+   "name": "Antonio Williams",
+   "count": 103996
   }
  ]
 }
