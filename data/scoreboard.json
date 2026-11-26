@@ -1,23 +1,14 @@
 {
- "fetched_at": "2026-11-25T20:22:40+00:00",
+ "fetched_at": "2026-11-26T19:59:12+00:00",
  "week": 12,
  "games": [
   {
-   "name": "GB @ LAR",
-   "status": "Scheduled",
-   "date": "2026-11-26",
-   "score": {
-    "LAR": "0",
-    "GB": "0"
-   }
-  },
-  {
    "name": "CHI @ DET",
-   "status": "Scheduled",
+   "status": "In Progress",
    "date": "2026-11-26",
    "score": {
-    "DET": "0",
-    "CHI": "0"
+    "DET": "19",
+    "CHI": "10"
    }
   },
   {
@@ -36,6 +27,15 @@
    "score": {
     "BUF": "0",
     "KC": "0"
+   }
+  },
+  {
+   "name": "GB @ LAR",
+   "status": "Final",
+   "date": "2026-11-26",
+   "score": {
+    "LAR": "26",
+    "GB": "13"
    }
   },
   {

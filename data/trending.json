@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-25T20:22:40+00:00",
+ "fetched_at": "2026-11-26T19:59:12+00:00",
  "adds": [
   {
-   "name": "Chris Rodriguez Jr.",
-   "count": 1283634
-  },
-  {
    "name": "Washington Commanders",
-   "count": 1235150
-  },
-  {
-   "name": "New York Giants",
-   "count": 525608
-  },
-  {
-   "name": "Justice Hill",
-   "count": 509733
+   "count": 528710
   },
   {
    "name": "Deshaun Watson",
-   "count": 472016
+   "count": 341496
   },
   {
    "name": "Cleveland Browns",
-   "count": 446985
+   "count": 275814
   },
   {
-   "name": "Chimere Dike",
-   "count": 443700
+   "name": "Chris Rodriguez Jr.",
+   "count": 275616
   },
   {
    "name": "Konata Mumpfield",
-   "count": 443250
+   "count": 232848
   },
   {
-   "name": "Tyler Higbee",
-   "count": 331875
-  },
-  {
-   "name": "Ted Hurst III",
-   "count": 310890
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 310302
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 309744
-  },
-  {
-   "name": "Tai Felton",
-   "count": 286650
-  },
-  {
-   "name": "Fernando Mendoza",
-   "count": 264480
-  },
-  {
-   "name": "Mason Rudolph",
-   "count": 253438
-  },
-  {
-   "name": "Tampa Bay Buccaneers",
-   "count": 218500
-  },
-  {
-   "name": "Jack Bech",
-   "count": 215610
-  },
-  {
-   "name": "Dylan Sampson",
-   "count": 199225
+   "name": "Justice Hill",
+   "count": 226710
   },
   {
    "name": "New England Patriots",
-   "count": 194866
+   "count": 172900
+  },
+  {
+   "name": "New York Giants",
+   "count": 160076
   },
   {
    "name": "Geno Smith",
-   "count": 146504
+   "count": 155256
   },
   {
-   "name": "Omar Cooper Jr.",
-   "count": 133272
+   "name": "Samaje Perine",
+   "count": 150348
   },
   {
-   "name": "Jason Sanders",
-   "count": 131700
+   "name": "Chimere Dike",
+   "count": 135360
+  },
+  {
+   "name": "Fernando Mendoza",
+   "count": 117176
+  },
+  {
+   "name": "Ted Hurst III",
+   "count": 94740
   },
   {
    "name": "Evan Engram",
-   "count": 124264
+   "count": 84440
   },
   {
-   "name": "KC Concepcion Jr.",
-   "count": 108612
+   "name": "Jacory Croskey-Merritt",
+   "count": 84150
   },
   {
-   "name": "Antonio Williams",
-   "count": 103996
+   "name": "Dylan Sampson",
+   "count": 78680
+  },
+  {
+   "name": "Mason Rudolph",
+   "count": 78002
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "count": 77400
+  },
+  {
+   "name": "J.J. McCarthy",
+   "count": 74307
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "count": 72528
+  },
+  {
+   "name": "Darren Waller",
+   "count": 71919
+  },
+  {
+   "name": "Jason Sanders",
+   "count": 71505
+  },
+  {
+   "name": "Tyler Higbee",
+   "count": 68625
+  },
+  {
+   "name": "Blake Corum",
+   "count": 68520
+  },
+  {
+   "name": "Emmett Johnson",
+   "count": 64188
   }
  ]
 }
