@@ -1,32 +1,14 @@
 {
- "fetched_at": "2026-11-26T19:59:12+00:00",
+ "fetched_at": "2026-11-27T19:48:14+00:00",
  "week": 12,
  "games": [
   {
-   "name": "CHI @ DET",
-   "status": "In Progress",
-   "date": "2026-11-26",
-   "score": {
-    "DET": "19",
-    "CHI": "10"
-   }
-  },
-  {
-   "name": "PHI @ DAL",
-   "status": "Scheduled",
-   "date": "2026-11-26",
-   "score": {
-    "DAL": "0",
-    "PHI": "0"
-   }
-  },
-  {
-   "name": "KC @ BUF",
+   "name": "DEN @ PIT",
    "status": "Scheduled",
    "date": "2026-11-27",
    "score": {
-    "BUF": "0",
-    "KC": "0"
+    "PIT": "0",
+    "DEN": "0"
    }
   },
   {
@@ -39,12 +21,30 @@
    }
   },
   {
-   "name": "DEN @ PIT",
-   "status": "Scheduled",
+   "name": "CHI @ DET",
+   "status": "Final",
+   "date": "2026-11-26",
+   "score": {
+    "DET": "35",
+    "CHI": "39"
+   }
+  },
+  {
+   "name": "PHI @ DAL",
+   "status": "Final",
+   "date": "2026-11-26",
+   "score": {
+    "DAL": "38",
+    "PHI": "39"
+   }
+  },
+  {
+   "name": "KC @ BUF",
+   "status": "Final",
    "date": "2026-11-27",
    "score": {
-    "PIT": "0",
-    "DEN": "0"
+    "BUF": "13",
+    "KC": "10"
    }
   },
   {
