@@ -1,105 +1,105 @@
 {
- "fetched_at": "2026-11-27T19:48:14+00:00",
+ "fetched_at": "2026-11-28T18:41:23+00:00",
  "adds": [
   {
-   "name": "Sam Roush",
-   "count": 197260
+   "name": "Chris Rodriguez Jr.",
+   "count": 455553
+  },
+  {
+   "name": "DJ Uiagalelei",
+   "count": 299439
   },
   {
    "name": "Brian Thomas Jr.",
-   "count": 187870
-  },
-  {
-   "name": "Josh Cameron",
-   "count": 162224
-  },
-  {
-   "name": "Joe Milton",
-   "count": 158868
+   "count": 281970
   },
   {
    "name": "Deshaun Watson",
-   "count": 139512
+   "count": 256672
   },
   {
-   "name": "Jakobi Meyers",
-   "count": 130092
+   "name": "Sam Roush",
+   "count": 200529
   },
   {
-   "name": "Chris Rodriguez Jr.",
-   "count": 100458
-  },
-  {
-   "name": "Washington Commanders",
-   "count": 93184
-  },
-  {
-   "name": "Chimere Dike",
-   "count": 82089
-  },
-  {
-   "name": "Evan Engram",
-   "count": 81624
-  },
-  {
-   "name": "Brenton Strange",
-   "count": 65583
-  },
-  {
-   "name": "New England Patriots",
-   "count": 62839
-  },
-  {
-   "name": "Cleveland Browns",
-   "count": 61180
+   "name": "Josh Cameron",
+   "count": 194890
   },
   {
    "name": "Geno Smith",
-   "count": 60532
+   "count": 160188
   },
   {
-   "name": "Justice Hill",
-   "count": 53775
-  },
-  {
-   "name": "Samaje Perine",
-   "count": 49492
-  },
-  {
-   "name": "Konata Mumpfield",
-   "count": 44541
-  },
-  {
-   "name": "Fernando Mendoza",
-   "count": 42496
-  },
-  {
-   "name": "Ted Hurst III",
-   "count": 37800
-  },
-  {
-   "name": "Tai Felton",
-   "count": 37740
-  },
-  {
-   "name": "Darren Waller",
-   "count": 34677
-  },
-  {
-   "name": "Jacory Croskey-Merritt",
-   "count": 32382
+   "name": "Jakobi Meyers",
+   "count": 143658
   },
   {
    "name": "J.J. McCarthy",
-   "count": 30681
+   "count": 80559
   },
   {
-   "name": "Jason Sanders",
-   "count": 28775
+   "name": "Joe Milton",
+   "count": 73904
   },
   {
-   "name": "Xavier Hutchinson",
-   "count": 28658
+   "name": "Brenton Strange",
+   "count": 69543
+  },
+  {
+   "name": "Fernando Mendoza",
+   "count": 60864
+  },
+  {
+   "name": "Tyler Shough",
+   "count": 57016
+  },
+  {
+   "name": "New England Patriots",
+   "count": 53585
+  },
+  {
+   "name": "Kirk Cousins",
+   "count": 50336
+  },
+  {
+   "name": "Mac Jones",
+   "count": 46990
+  },
+  {
+   "name": "Samaje Perine",
+   "count": 41204
+  },
+  {
+   "name": "Chimere Dike",
+   "count": 41175
+  },
+  {
+   "name": "Tai Felton",
+   "count": 40152
+  },
+  {
+   "name": "Jacory Croskey-Merritt",
+   "count": 33696
+  },
+  {
+   "name": "Sam Darnold",
+   "count": 32901
+  },
+  {
+   "name": "Darren Waller",
+   "count": 31941
+  },
+  {
+   "name": "Justice Hill",
+   "count": 30429
+  },
+  {
+   "name": "C.J. Stroud",
+   "count": 30219
+  },
+  {
+   "name": "Dylan Sampson",
+   "count": 27225
   }
  ]
 }

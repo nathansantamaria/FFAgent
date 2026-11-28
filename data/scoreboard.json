@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-27T19:48:14+00:00",
+ "fetched_at": "2026-11-28T18:41:23+00:00",
  "week": 12,
  "games": [
-  {
-   "name": "DEN @ PIT",
-   "status": "Scheduled",
-   "date": "2026-11-27",
-   "score": {
-    "PIT": "0",
-    "DEN": "0"
-   }
-  },
   {
    "name": "GB @ LAR",
    "status": "Final",
@@ -45,6 +36,15 @@
    "score": {
     "BUF": "13",
     "KC": "10"
+   }
+  },
+  {
+   "name": "DEN @ PIT",
+   "status": "Final",
+   "date": "2026-11-27",
+   "score": {
+    "PIT": "27",
+    "DEN": "5"
    }
   },
   {
